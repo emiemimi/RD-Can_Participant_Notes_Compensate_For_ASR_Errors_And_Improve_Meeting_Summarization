@@ -1,0 +1,176 @@
+\documentclass[11pt]{article}
+\usepackage[margin=25mm,a4paper]{geometry}
+\usepackage{times}
+\usepackage[round]{natbib}
+\setlength{\bibsep}{0.0pt}
+\usepackage{color}
+\usepackage{enumitem}
+\usepackage{hyperref}
+
+\usepackage{tabularx}
+\usepackage{array}
+
+\title{Project Proposal}
+\author{Émie Chaussex}
+\date{}
+
+\begin{document}
+
+\maketitle
+
+\section{Purpose and Aims}
+
+As it has become common in professional, academic and personal settings to record meetings, it seems it is now also common practice to use the recordings to generate a summary to be shared with colleagues that could not attend or students studying for an exam, for example.
+However, not all summaries are the same.
+Their quality can vary depending on the quality of the audio and its transcription.
+Sometimes, an automatic speech recognition (ASR) error can propagate downstream and create false claims and hallucinations in an abstractive summary.
+Meeting notes usually contain salient information which could be useful for summarization quality, in particular for ASR error-prone transcriptions.
+
+\textit{Can participant notes compensate for ASR errors and improve meeting summarization?}
+
+We expect a significant quality improvement on abstractive transcription-based meeting summarization when adding a participant's notes to the transcription input, especially in the case of a "noisy" ASR-error prone transcription.
+
+This project aims to simulate a real-life setting where both the audio recording quality and the computing resources are not excellent.
+The results should be reproducible to any individual who wishes to automate and facilitate their personal, professional or academic activities surrounding meetings.
+
+\section{Survey of the Field}
+
+Speech summarization is a large field at the intersection of several research areas.
+
+Although there have been many studies on the topic of meeting summarization in particular, none yet have looked into adding participants notes to the input for the summarizer, and multi-source speech summarization remains a research gap \citep{retkowski-etal-2025-survey}.
+
+Evaluating speech summarization starts with annotated datasets.
+There are several for meeting summarization specifically.
+For example, the ISCI corpus \citep{shriberg-etal-2004-icsi} groups 72 hours of speech from 75 naturally-occurring meetings,
+MeetingBank \citep{hu-etal-2023-meetingbank} contains over 3500 hours of public-sector meeting recordings,
+and the AMI corpus \citep{popescu-belis-estrella-2007-ami} includes audio signals, summaries, participant notes and more annotations for around 100 hours of meetings.
+The latter has been extensively used in various benchmarks and research.
+\citet{zhong-etal-2021-qmsum} introduces query-based multi-domain meeting summarization,
+whereas \citet{bothin-claugh-2014-participant-notes-qa} evaluated accuracy on a question and answering task using participants notes (handwritten and typed) versus short speech extracts or abstract summaries, showing that notes carry salient meeting information.
+
+Unfortunately, the summarization task in general itself can be done with several methods, and it is difficult to properly evaluate.
+\citet{retkowski-etal-2025-survey} have highlighted a lack of trustworthy evaluation practices and the emergence of LLM-as-a-Judge methods.
+\citet{penn-zhu-2008-critical} experimented with computing summaries in both audio and text format, using ASR transcription and prosodic feature extraction.
+They explain the importance of analyzing maximal marginal relevance (MMR), utterance length and named entities.
+\citet{sharma-etal-2024-speech} find that human-made transcript-based summaries can be more expansive than audio-based ones.
+Most of the recent research is done on transcript-based summarization, using LLMs with zero-shot prompts (\citet{laskar-etal-2023-building}) or neural models specifically trained of fine-tuned for summarization (\cite{lv-2021-vtssum}, \cite{matsuura-2024-sentencewise}, \cite{krishna-etal-2023-improving}).
+\citet{wang-etal-2020-qags} propose a new method as a metric: Question Answering and Generation for Summarization (QAGS).
+\citet{fabbri-etal-2021-summeval} evaluate more than 20 extractive and abstractive summarization models on more than 10 metrics such as BLEU, BLANC, ROUGE or BERT.
+\citet{liu-etal-2023-rose-acus} evaluate 12 systems on their newly-introduced Atomic Content Unit (ACU) score.
+\citet{kirstein-etal-2025-meeting} propose MESA, a multi-agent-based, self-training evaluation framework.
+
+However, there is a general agreement that summarization quality can greatly suffer from errors in the source input.
+\citet{zechner-waibel-2000-minimizing} had shown that while we can reduce word error rate (WER) in extractive summaries by favoring ASR passages with confidence, it also serves to improve the overall relevance of the summary.
+More recently, several studies have investigated ASR error propagation.
+\citet{tundik-et-al-2019-semantic-shift} investigated the semantic shift caused by both ASR and automatic punctuation error propagation.
+\citet{krishna-etal-2023-improving} record a loss of up to 12 ROUGE-1 points in performance from different types of noise (including random sentence injection).
+\citet{Koenecke_2024} test OpenAI's Whisper \citep{radford-2023-whisper} specifically and find that around 1\% of transcriptions contain an entire hallucinated phrase, and 38\% of those are classified into harmful categories.
+\citet{sharma-etal-2024-speech} show that the source modality influences the summary, and find a weak negative correlation between word error rate and Entity F1 score.
+
+Meetings in particular seem prone to ASR errors.
+With multiple speakers, long non-vocal periods, discourse markers and disfluent interruptions naturally occur.
+\citet{Koenecke_2024} show that hallucinations are more frequent in aphasia segments, and that longer non-vocal periods are associated with greater risk.
+\citet{goldwater-etal-2008-words} find that ASR errors are more likely for turn-initial words, discourse markers, or words before disfluent interruptions.
+
+\section{Project Description}
+
+\subsection{Data}
+
+We will be using data from the AMI Corpus\footnote{The corpus is under the license CC BY 4.0 and downloadable at https://groups.inf.ed.ac.uk/ami/download/}.
+In 2006 the European-funded AMI project proposed a multimodal corpus containing 100 hours of meeting recordings and their corresponding annotations.
+The meetings were recorded in English but most participants are non-native speakers, and they were recorded in different rooms with different acoustic properties, as well as with different microphones (ranging from close-talking to far-field).
+A third of the data captures completely normal uncontrolled conversations, and the rest of the meeting are scenario-based, where the participants play different roles.
+
+We choose this corpus because it contains both varied audio signals and extensive detailed annotations, and it has been used in previous studies before.
+This allows the project to focus on the research question without needing to spend a lot of time gathering and/or annotating data.
+It also allows for easy comparison, both in terms of methods and results.
+
+For this study, we will use signals that captured the voices of all participants at once.
+Room microphones tend to produce audio that is not of the best quality, and which contains a lot of background noise.
+This is the exact ideal setting for this project.
+
+The corpus includes many different types of annotations, but we will use transcriptions\footnote{
+    The transcriptions included in the corpus download are word-level, separated \textit{per speaker} and time-stamped. In order to save time on pre-processing, we actually use the transcriptions computed by Laboratory of Language Technology at Tallinn University of Technology and made available in the Hugging Face dataset at https://huggingface.co/datasets/TalTechNLP/AMIsum.
+}, abstractive summaries, which are reported to habe been manually produced TODO TODO TODO TODO TODO TODO and participant summaries.
+Both sets of summaries are structured in four sections: abstract, actions, decisions, problems.
+
+The participant summaries were written by each participant separately and based on simple short instructions.
+A brief manual inspection of the abstract section of a few files showed that they are generally short and "noisy".
+For example, some contain the instruction sentence that the participants were provided, and others include the participant's opinion on the meeting.
+That is why we consider the abstract section of the participant summaries as "meeting notes".
+
+\subsection{Theories and Method}
+
+We will use the \texttt{--tiny} model version of OpenAI's Whisper\footnote{https://github.com/openai/whisper} to generate transcriptions from the audio signals.\footnote{Whisper tiny was already very briefly ran on one audio file to verify that the transcriptions are indeed noisy.}
+We expect the transcriptions generated with Whisper to be significantly noisy, ie. the WER between the noisy and clean transcriptions to be considerably high.
+We denote the generated dataset "noisy", in comparison to the "clean" transcriptions from the corpus.
+The clean subset will be pre-processed (ie. removal of speaker tags in the form of \texttt{<XX>}) to match the format of the noisy subset.
+
+As a pre-analysis, we will compute the WER between the noisy subset and the clean subset.
+
+Both abstractive summaries and participant summaries will be parsed to keep only the text in the abstract sections.
+We do not remove any noise in the participant summaries, that is, we do not remove the instruction sentence where it was left, for example.
+The impact of the "quality" of the notes on summarization is not part of this project, as it would require linguistic analysis skills that the one-person team for this project lacks, though we acknowledge it would also be a very interesting approach.
+Furthermore, we consider such "organic" notes very representative of an average person's note-taking skills in real life.
+We respectively name the resulting subsets "gold" and "notes", though we note that the "gold" subset does not stand as a proper gold standard, since summarization evaluation can be subjective and depends on many criteria.
+
+We will look at the length of each meeting's clean transcription, as well as the maximum length of its corresponding notes.
+That statistic will influence the choice of model to use for generating summaries.
+Additionally, we will avoid any model proven to have been trained and/or fine-tuned on the AMI corpus.
+Another important criteria for choosing the summarization tool will be that it is available without charge.
+
+We will design a fixed short prompt that will clearly label what part of the input corresponds to the transcript or the notes.
+Depending on the parameters available for the chosen model, the prompt may also includes short instructions on the length of the output.
+
+We will conduct several experiments.
+Firstly, we will generate summaries on each meeting's clean transcription, and on each meeting's noisy transcription.
+This will allow us to quantify the impact of ASR errors on summarization.
+The performance of the summarizer on the clean subset will be a reference point to compare to in the next experiments.
+
+Secondly, we will use the notes subset as additional input for the summarizer, once again for both clean and noisy subsets.
+We will test the addition of only one participant's notes, so we will get several generated summaries for each meeting, in both subsets.
+
+Analysing the difference in performance between summaries generated on clean only and summaries generated on clean plus notes will show the impact of the addition of meeting notes on summarization.
+Finally, the difference between summaries generated on noisy only and summaries generated on noisy plus notes will show if the potential gain in performance in the previous experiment also applies to noisy transcriptions, and if meeting notes can compensate for the loss of performance caused by ASR errors.
+
+The analysis will be done by computing ROUGE, BERT and/or BART scores, as seen in the related literature.
+Further reading is required to select a couple specific ROUGE metrics that are relevant to this project.
+We do not include qualitative error analysis nor more complex evaluation methods in the scope of this project, as time will unfortunately not allow it.
+
+We expect a very high summarizing performance on the clean subset, and that potentially "low" ROUGE scores (compared to similar studies) would mostly be due to the choice of model, parameters and prompt
+We theorize that the addition of meeting notes on clean transcriptions will not be impactful, as clean-only generated summaries will already have caught all the salient information.
+In contrast, we expect poor performance on the noisy subset alone, and expect a significant high improvement when adding notes.
+
+\subsection{Time plan}
+
+Table \ref{timeplan-table} shows the expected time plan for this project.
+This will be adjusted as the project progresses.
+Though it is not specified, it is expected that we log the progress report each week to make writing the final report less complicated.
+Attesting from experience and awareness of skill, and taking into account the work needed for the other courses that this one-person team is registered in, we confirm \textit{at least} two whole weeks are needed to write the report.
+
+\begin{table}[htbp]
+\centering
+\begin{tabularx}{\textwidth}{@{}p{4.5cm}>{\raggedright\arraybackslash}X@{}}
+November 02 - 08          & Prepare the project presentation ; generate the noisy subset\\
+\hline
+November 09 - 15          & Pre-process the clean subset and the notes subset ; compute WER, and the maximum lengths for all experiments\\
+\hline
+November 16 - 22          & Narrow down on one model and test the implementation ; generate summaries for all experiments\\
+\hline
+November 23 - 29          & Narrow down the choice of evaluation metrics ; implement and test evaluation pipelines \\
+\hline
+November 30 - December 06 & Conduct evaluation and analysis of results \\
+\hline
+December 07 - 13          & Write report \\
+\hline
+December 14 - 20          & Write report
+\end{tabularx}
+\caption{Proposed project timeline}
+\label{timeplan-table}
+\end{table}
+
+\newpage
+\bibliographystyle{plainnat}
+\bibliography{project-proposal}
+
+\end{document}
