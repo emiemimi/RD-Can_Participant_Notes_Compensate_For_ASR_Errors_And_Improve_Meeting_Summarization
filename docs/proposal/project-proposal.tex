@@ -91,7 +91,7 @@ This is the exact ideal setting for this project.
 
 The corpus includes many different types of annotations, but we will use transcriptions\footnote{
     The transcriptions included in the corpus download are word-level, separated \textit{per speaker} and time-stamped. In order to save time on pre-processing, we actually use the transcriptions computed by Laboratory of Language Technology at Tallinn University of Technology and made available in the Hugging Face dataset at https://huggingface.co/datasets/TalTechNLP/AMIsum.
-}, abstractive summaries, which are reported to habe been manually produced TODO TODO TODO TODO TODO TODO and participant summaries.
+}, abstractive summaries, which are reported to have been manually produced \citep{retkowski-etal-2025-survey} and participant summaries.
 Both sets of summaries are structured in four sections: abstract, actions, decisions, problems.
 
 The participant summaries were written by each participant separately and based on simple short instructions.
@@ -143,27 +143,24 @@ In contrast, we expect poor performance on the noisy subset alone, and expect a 
 
 \subsection{Time plan}
 
-Table \ref{timeplan-table} shows the expected time plan for this project.
-This will be adjusted as the project progresses.
-Though it is not specified, it is expected that we log the progress report each week to make writing the final report less complicated.
-Attesting from experience and awareness of skill, and taking into account the work needed for the other courses that this one-person team is registered in, we confirm \textit{at least} two whole weeks are needed to write the report.
+Table \ref{timeplan-table} shows the time plan for this project.
 
 \begin{table}[htbp]
 \centering
-\begin{tabularx}{\textwidth}{@{}p{4.5cm}>{\raggedright\arraybackslash}X@{}}
-November 02 - 08          & Prepare the project presentation ; generate the noisy subset\\
+\begin{tabularx}{\textwidth}{@{}p{2.5cm}>{\raggedright\arraybackslash}X@{}}
+Nov 02 - 08          & Prepare the project presentation ; generate the noisy subset\\
 \hline
-November 09 - 15          & Pre-process the clean subset and the notes subset ; compute WER, and the maximum lengths for all experiments\\
+Nov 09 - 15          & Pre-process the clean subset and the notes subset ; compute WER and max lengths\\
 \hline
-November 16 - 22          & Narrow down on one model and test the implementation ; generate summaries for all experiments\\
+Nov 16 - 22          & Narrow down on one model and test the implementation ; generate summaries\\
 \hline
-November 23 - 29          & Narrow down the choice of evaluation metrics ; implement and test evaluation pipelines \\
+Nov 23 - 29          & Narrow down the choice of metrics ; implement and test evaluation pipelines \\
 \hline
-November 30 - December 06 & Conduct evaluation and analysis of results \\
+Nov 30 - Dec 06 & Conduct evaluation and analysis of results \\
 \hline
-December 07 - 13          & Write report \\
+Dec 07 - 13          & Write report \\
 \hline
-December 14 - 20          & Write report
+Dec 14 - 20          & Write report
 \end{tabularx}
 \caption{Proposed project timeline}
 \label{timeplan-table}
