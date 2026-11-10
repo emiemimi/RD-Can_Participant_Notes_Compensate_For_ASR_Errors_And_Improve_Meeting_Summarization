@@ -1,0 +1,821 @@
+Good morning, again.
+One question.
+Yeah.
+Choose a number?
+Send.
+Submit.
+Yep yep yep yep.
+All set?
+Mm.
+Mm-hmm.
+Yeah.
+Good.
+Okay.
+Let's see what we can find here.
+Okay.
+A very warm welcome again to everyone.
+Um here we are already at our uh functional design meeting.
+Um and this is what we are going to do.
+The opening, which we are doing now, um and the special note, I'm project manager but on the meetings I'm also the secretary, which means I will make uh minutes as I did of the previous meeting.
+And uh I also put these as fast as possible in the uh project folder, so you can see them and review what we have discussed.
+Um if I'm right, there are three presentations, I guess each one of you has prepared one?
+Yes.
+Good.
+And um we will also take a look at new project requirements, um if you haven't heard about them yet.
+And then of course we have to take a decision on the remote control functions and we have some more time, forty minutes.
+But I think we will need it.
+Um well I don't know who wants to go first with his presentation.
+I'll go first.
+Okay.
+Yeah.
+I'll go first yeah.
+Well.
+You can go first, okay.
+Well, shall I go first with the users?
+Well everybody already has his presentation, so you can adjust it.
+I think well okay no problem.
+Is there an order?
+I haven't And one question, uh your name Denni, is it with a IE EIE, okay.
+Ja precies, ja precies, ja precies EIE.
+So.
+Huh?
+Okay, um Okay, um I wanted to explain the working design of the remote control.
+Thank you.
+It's possibly very handy if you want to uh design one of those.
+Um well so it basically works uh as I uh uh r wrote down uh in this uh little uh summary.
+Uh when you press a button, uh that's when you do pr for example when you uh want to turn up the volume, um a little connection is made uh the the rubber uh button just presses on a on a little print plate uh which uh makes uh uh a connection that uh gives the chips, uh which is uh mounted beneath those uh that plastic of a rubber button.
+Sorry.
+Uh senses that a connection has been made, and know and knows what button you pressed, becau uh for example the the volume up or volume down button.
+Um uh the the chip uh makes a Morse code uh like uh signal which uh then is si uh signalled to uh several transistors which makes uh which sends the signal to a little let.
+You know what a let is?
+Yeah.
+Okay.
+And that makes uh the the infra-red lights signal which is sent to the television set.
+Uh which has a sensor in it to uh sense uh the signal of the infra-red.
+That's basically uh how it works.
+Um the findings uh uh that I found uh searching up some uh detailed information about the remote controls, are that uh they are very easy to produce, uh it is pis uh it's possible to uh make them in mass production because it is as eas it is as easy as uh printing a page, uh just uh fibreglass plate um is b uh is uh covered with uh some uh coatings and uh uh and chips.
+Uh and the technology's already available, we don't have to find out how remote controls uh have to work or uh how that how uh to make some chips that are possible to uh to to transmit those uh signals.
+Uh I made a little uh uh animation of about how a tran our uh remote controller works.
+Oh right.
+Animation.
+we tel There.
+There is something turning.
+Yeah, it's a little bug it's in the in the smart board.
+Okay.
+Uh well the sub-component, I suppose that you understand what a sub-component is, is f in this example it's the button.
+Uh when it is pressed down, um, the switch is ter is uh is switched on, so with uh the wire is sent to the to the chip in uh co-operation with the battery of course, because to make uh a a signal possible you have to have some sort of uh li uh a d ad uh electronic uh Yes, uh, okay.
+Infrared light.
+Um w after it's being composed by the chip uh the signal uh is transported uh to the infra-red bulb, and from there it signals a Morse code-like signal to the to the b to the bulb in uh in the television set.
+Okay.
+S Uh I wrote down some personal preferences about uh the remote control.
+Of course it is very handy if the remote control is hand held, so you don't have to uh uh wind it up or something, or just is it's it's very light to uh to make uh to use it.
+Uh I personally uh pref prefer that uh it would be p uh come available in the various colours, and uh easy to use buttons.
+But I suppose that the one of the other team members uh uh thought of that uh too.
+Yeah, I've got it there too.
+And it is possible for several designs and um easy to use b uh sorry, easy to use buttons.
+Perhaps soft touch, uh touch screen uh buttons because uh the rubber buttons are always uh uh they uh slightly uh they can be slightly damaged, uh so the numbers on the buttons are not possible uh to read anymore.
+And uh well as I said uh before th uh we can uh make several designs.
+Yeah.
+Okay, well, that's my contribution to this meeting, and uh two of these this meeting.
+To this meeting.
+Okay, thank you.
+Shall I go uh next?
+Yep.
+So.
+'Kay.
+Please.
+So.
+Smoking.
+Well uh, my name's, and I looked at uh technical functions design of the remote.
+Uh I did this by uh looking at examples of other remote controls, of how they uh they look, and information from the web that I found.
+Um well what I found was that uh th the actual use of the remote control is to send messages to television set, how you uh d what you described uh just early.
+And this can be all sorts of medsa messages, turn it on, turn it off, uh change the channel, adjust volume, that kind of thing.
+Uh play video, teletext, but also t uh play CD if you use it your CD player the remote control will that one.
+There are some uh examples of remote controls.
+You can see they are very different.
+The one has got all the functions that you could possibly need and an lot of uh buttons etcetera.
+And the other is uh more user friendly, little with big buttons.
+And uh not n all the the the the stuff you can do with it, but uh the the essential stuff is there.
+Um I guess you could better y you should look at a a user centred uh approach, because the customers have to use them and and if they don't think it's usable they won't uh buy it.
+A lot of buttons they may think from I don't need s as much as that.
+Uh, well perf personal preferences is is uh a simple remote, with uh the basic functions that you can need that you could use.
+But uh keep in mind the new functions of TV what we discussed earlier, split screen and uh is that a function that you should have?
+Because all the TVs will have them.
+Or because of only a few and isn't really necessary.
+And then uh make it I would make so that you can could uh use it on more than one appliance.
+If you have one that uh uh does with the vi the the video, it could also work with uh with the stereo, because play is play and stop stop and that sort of thing.
+The shu c you could reuse the buttons so that you don't have to have a lot of buttons for uh anything.
+And it should be a user friendly, clear buttons, and not too much.
+And that is my presentation.
+Okay, thank you.
+Okay.
+'Kay.
+Check.
+You must still have it open.
+Kijke 'Kay, so.
+We're going to j discuss the functional requirements of the remote, that m that means that functions user n want to have on the remote control, or just Yeah, and the users, actually.
+The methods I I prefer is we're going to look which section of the users we are going to focus a l on more.
+Are the younger people going to buy the remote control or the elderly people?
+And then tho that section we're going to focus and adjust the remote more to that section than the whole user section.
+Okay.
+Some data.
+Younger people, from sixteen to thir forty five um years are more interested in fj features like LCD screens, speech recognition e etcetera.
+And we possess about two third of the market from in that range of age.
+The elderly people, from forty five years to sixty five years are not that much interested in features, and we possess less than two third, that's two fifth, of the market share in that area.
+Goed so.
+Hmm.
+'Kay.
+Findings.
+Fifty percent of the users lose their remote often.
+So we don't have to make it very small, like uh like a mobile phone or something, but some somewhat bi bigger than small, so you don't lose it that much anymore.
+Yeah.
+Seventy five percent of the users also find it ugly, and fif seventy five of the users zap a lot, so the buttons sh should be that small, or shouldn't be that complex because we have to search for the buttons, which one are you going to use.
+Mm.
+Next.
+Important issues about the remote.
+I think it would be better with a personal reference, but okay.
+Remote control has to have to have a low power usage, because s w seventy five percent of the users only zap one time an hour, so the power usage is also one one time an hour, or so, with a high power usage we would use a lot of but batteries.
+The volume button and the channel buttons are the two most important buttons on the remote control, so those they those have to h be find very easily.
+And have to be somewhat like bigger etcetera.
+It has also be have to find easily when the label is gone.
+My colleague also announced it that labels should be scratched off or would be s uh senden okay.
+Mm.
+Hmm.
+So uh if that's k uh if that's the problem, you also have to find it easily on the remote.
+Buttons.
+Like what all colleagues said, have to have to be minimalized.
+or should be covered, or in LCD screen.
+LCD screen is easy because we have the LCD screen, we have the various options.
+Put one option and then you have the all the buttons of that options, so the other options would be gone.
+And you don't see the buttons.
+So LCD screens should be easy, but an LCD screen, the problem with the L sc LCD screen is that elderly people fr from forty five to for sixty five years don't use the LCD screen a lot.
+So we have to that keep that in mind that if you're going to implement LCD screen, you don't have to make it that hard to learn or to use.
+Uh LCD screen as in uh touch screen?
+Yeah, touch screen, yeah.
+Okay.
+The last but not least, younger people are more critical about the features.
+Because they use the remote control often more often, and are more technical than the ol older people.
+And the older people spend more money, and easily on a remote control.
+Mm.
+'Kay.
+So we have to keep in mind to to focus not a lot not that much on the younger pep younger people, but also somewhat on the elderly people.
+And on my personal preferences, I don't have any mo more time to come with that, but like I said, LCD screen is easily to use because you have you can implement a lot of buttons in one remote with not that much buttons.
+And it should be easy to use.
+Especially the volume buttons, the channel buttes buttons and the number buttons to zap through the channels.
+And that is it.
+Okay.
+Okay, thank you.
+Oh right.
+Um, well thank you all, huh.
+I dunno uh did everyone receive an email with uh the new project requirements?
+No.
+No?
+Well, then I think it's a good thing that I made a separate slide of them so you can all read them.
+Res I did not.
+No.
+Perhaps the rest?
+Ja, Be television.
+Oh, well not in this presentation.
+Hmm.
+Should be in there.
+Well, I can tell you them uh from my laptop.
+Um teletext does has become outdated since the popularity of the internet.
+Oh.
+So that's uh the first thing we I think we should pay less attention to uh teletext.
+Uh the remote control should only be used for the television, otherwise the project becomes more complex, which endangers the time to market, and of course would make it more costly, I think.
+Um our current customers are within the age group of forty plus, and new product should reach a new market with customers that are younger than forty, and you talked about that before.
+And uh a last point, but also very important, our corporate image should stay recognisable in our products, which means that our uh corporate colour and slogan must be implemented in the new design.
+So we have to keep that in mind.
+Um well uh according to our agenda it's then time to take a decision on the remote control functions.
+Mm.
+So, who has any idea about what should be on it, and what shouldn't?
+Well you said it should only uh work with one appliance?
+Or with one uh d che only the TV?
+Yeah.
+Yeah.
+Only be used for television.
+And the video also, or not uh?
+Only the television.
+Well it says only for television here, huh.
+Oh.
+Alright.
+Okay.
+Makes it a lot easier, huh?
+Yeah.
+Mm.
+So yeah, then you can yeah.
+Requirements, no?
+Functions.
+Mm-hmm.
+Then it should have uh on, off, and uh Yeah.
+Yeah for Standby options, yeah?
+Yeah, the basics then by a volume, channel, one till two zero numbers on it, oh teletext doesn't have to be?
+Uh yeah.
+And per perhaps uh No.
+Um other functions.
+Well uh uh yes yes s sh A button where you can uh change from one number to two numbers.
+Yeah I had Yeah, yeah.
+Two s two two digits, oh okay.
+Can you Don't know if that's got a name, but Yeah.
+Yeah I understand what you mean.
+I think it's I think it's easy to implement a button with a s s what which especially do that, because some TVs, if you press the t one and then the two, it be between five secs it make twelve, and that's that's not relaxed to user.
+Yeah.
+It makes it twelve, yeah.
+Indeed.
+S Yeah.
+Okay.
+Well, not really And and there are some models that don't uh accommodate that function.
+So d uh wh the Philip's television makes it possible in that indeed to uh press one and then two to make uh the uh tj to reach channel twelve.
+Yeah.
+So that it easy and fast.
+But uh all the television makes uh use of those button where you first press that button and then press two digits to uh to get Uh yeah, think so.
+Yeah.
+Yeah.
+Yeah, so you should have that one on.
+Our main targets' age are?
+were?
+Forty five plus, or?
+Mute misschien also.
+Mm.
+Uh well new product should reach a market with customers that are younger than forty, and now we have current customers uh of forty plus.
+Forties, okay because because younger people as Uh younger people have now, sixteen till to twenty five age, are f eighty one percent interested in LCD screen.
+From twenty six to thirty five have sixty six percent, and thirty six to forty five, fifty five percent, so I think to um Because on most recog remote controls um the print plate will be broken how much, two years.
+You have to press h very hard to go to the next channel.
+Mm-hmm.
+Mm-hmm.
+With the LCD screen it's easier because you only have to wipe the screen to uh for fingerprint, and then you can use it again.
+Yeah, we we could yeah.
+But I think that uh that collides with our mission to make it very cheap.
+Because LCD screens are very expensive.
+Yeah, okay.
+Yeah but a you don't know True.
+A touch screen uh probably uh even more.
+An But, do you But if you would do an LCD screen do we have don don't you have any buttons?
+So, true, true.
+But uh Well um is it possible to make an LCD screen uh, how was the information?
+Yeah, it only says that this perce percentage like LCD screen.
+Because, yeah and it says that younger age between sixteen and forty five highly interesting features more critical.
+So perhaps we should we should focus on that LCD screen.
+And if the only f Yeah, because our target is sixteen to forty five.
+Yeah but uh will we not uh exceed our uh our uh production uh Is it possible to find out, anyway?
+Yeah you don't know how much it costs.
+Yeah, you don't know how much it costs, the LCD screen.
+No, I don't have any costs here, I only have percentages.
+You know?
+Or because if it only directs at the TV, then you only have uh I don't know what you want to do with the LCD screen.
+Yeah.
+No, an LCD screen's just like uh like a drawn here.
+Um just uh displays several buttons, for example um if you wanted the minimal uh use b uh buttons, such as channel and volume, you just h uh displays four buttons on the screen and it's possible to p uh press them down, just like a touch screen.
+Yeah?
+Oh right, so you can Oh, yeah alright.
+So you can adjust which buttons you want on that s screen.
+Yeah, if you want to adjust, like for example, adjust the audio settings, you press audio on the touchscreen and you get the buttons for audio settings, so the other buttons are gone.
+Yeah, we can make it possible to do that, yeah.
+Yeah yeah.
+Yeah alright, oh right.
+Yeah.
+Yeah, yeah.
+So we're going for an LCD screen?
+Yeah.
+I think it's the most easier thing, yeah.
+Would be yeah.
+That's my uh Yeah.
+And hoping that when we produce a lot it won't be too expensive.
+No.
+Well we had twelve fifty, I guess, for uh production?
+Yeah.
+Twelve fifty.
+Yeah.
+I dunno how expensive an LCD screen is.
+Um.
+Any guesses?
+Well I suppose wi if the mar if our um if the i if the young people are interested in LCD screens, we should make 'em.
+Highly.
+Mm-hmm.
+And if that is our d uh market share to uh and our goal to uh deliver those uh remote controls Yeah.
+Yeah.
+But But he also said that we should not only focus on the younger people, but also on the older, and will they use it if it only has an LCD screen?
+Yeah, but Um, s forty six to forty five, thirty three percent, and sixty fifty six to sixty five twelve percent.
+But our our our what's it, project requirements are the new products should be reached for new markets, to customers that are younger than forty.
+Oh, so still a little bit people Yeah that's right.
+But you don't want to alienate the other uh But if they also buy it then it's alright.
+No, that not now, but, so Yeah, but market share fro for for forty years and younger is higher than that of sixty five and younger.
+I guess.
+Yeah.
+Yeah.
+Alright.
+Okay, so LCD it is?
+An Yes.
+Mm.
+Okay.
+It's treasure.
+And what else?
+I hope we uh h and let's hope to reach those uh those sales.
+Yeah, i i if it Yeah, if it costs gets too much, too expensive, then yeah, we should be sticking to rubber buttons.
+Yeah.
+Yeah, can you um uh s I think that that they will send you some information about uh the cost of LCD uh screens.
+N nothing, no costs at all.
+Yeah.
+Uh so if you uh Yeah, so if you uh you receive an email about that, uh can you post it in the or shouldn't we post that in uh our projects mail uh folder.
+But perhaps later, so uh Yeah.
+Yeah, in I think that should yeah I think we all get the costs of everything.
+I don't Well perhaps we should have a backup plan that we would use buttons if it's uh too expensive.
+Because you are the the Marketing uh Expert.
+Yeah, okay, I'll I'll post it.
+I uh Yeah sure, sure.
+Yeah.
+Yeah, okay.
+But for now it's LCD.
+Okay, LCD, yeah.
+Yeah.
+Okay.
+Then you have the seventy five percent of users find it r ugly.
+The LCD?
+Yeah, and eighty percent of the users would spend more money with a when a remote would look fancy.
+Oh that's a bit of a problem.
+Oh, that's a bit of a problem.
+Mm.
+Tha i l i it'll look fancy with LCD screen.
+It's looks fancy one yeah, of LCD screen.
+Yeah, but they don't they don't like it.
+Yeah.
+Yeah.
+They think it's ugly.
+When it has an LCD screen.
+Yeah, just a the plain remotes, not not specific LCD remotes.
+Oh, alright, I thought that you said that.
+So Mm-hmm.
+Yeah, and maybe you can make something fancy out of an LCD remote, because it's new, as far as I know.
+Yeah.
+Yeah, of course.
+Mm yeah.
+And then you have the other thing, that seventy five percent zap a lot, but that's not a f question with the LCD screen.
+And then not yeah.
+Um.
+Only thing you have to do is wipe the screen off once each time, to get all the fingerprints off it.
+Yeah.
+Yeah.
+Mm.
+Okay?
+Okay, what else does our remote need?
+Um Mm-hmm.
+A mute button.
+Mute button.
+I think.
+The most important things on a f on an on an uh remote control are channel selection, volume con selection, and power s power usage.
+And Yeah.
+Yeah.
+And a teletext, but that is not of the question.
+But But shouldn't you put a button of for teletext on the for the people who want to use it?
+Other things are Sorry?
+Yeah, it could be.
+Remembering we have got a big remote that you have to fill.
+Yeah.
+Mm-hmm.
+Yeah, and we could make an a a separate menu on the LCD uh screen for teletext.
+Yeah, teletext.
+Yeah.
+Yeah.
+And there's also a A sh but in a sub sub-menu or something like that.
+And other other less important things are screen settings, audio settings, and channel settings, but Less important.
+Yeah, they are less important, but I think they should be there, or not?
+Yeah, should be there, but not press Yeah, sub-menu, yeah.
+Uh I think it's also important to uh make it possible to um how do you call it in English, uh, to not use batteries, and use ac uh bat uh batteries to uh to be yeah yeah sure.
+Mm-hmm.
+Like with a with a mouse, you have not, yeah.
+Indeed.
+So uh you can mount uh the the the uh uh the remote control to um to refill the Yeah.
+Yeah, in a breath it's Charted.
+Mm-hmm.
+We should think of the twelve fifty we have but I don't know how much that's going to uh Yeah.
+Yeah, but we don't we don't have any costs now, so Yeah.
+Okay, because i uh when you get an LCD screen, you run it on batteries, the batteries will be uh empty very soon, very fast.
+Yeah e e power supply is one of the most important things.
+You should Perhaps you should be able to to switch the control off.
+Yeah.
+If you have an LCD screen that's burns all the time I dunno.
+Yeah, yeah.
+Yeah.
+You shouldn't on and off because that's ver extra, that you have t first you have to turn the remote on, and then you can uh I don't know.
+Mm-hmm.
+Uh And go to standby mode when you don't use it, so that Yeah, automatically.
+Yeah, I think it's it's not that easy because I don't think people will like it who who uh that you have to turn it on first and then use it, so I think it's better when th the TV shuts down, the remote shuts down.
+Nee that's that's uh yeah.
+But then you can't Yeah.
+Yeah.
+Yeah yeah au automac matically, that it yeah.
+Yeah.
+After two minutes or three minutes, something like that.
+After two minutes, yeah two three minutes, yeah.
+Yeah.
+Yeah.
+And maybe a low battery indicator?
+Yeah.
+On the screen.
+Sure.
+Yeah.
+And then b that uh before an hour when its get again gets empty.
+Yeah.
+Then you have plenty of time to recharge it, of put it in a recharger.
+Mm.
+Charger.
+So we are going for the for the recharger.
+Yeah.
+Yeah, if it's.
+Okay.
+Uh.
+If it's sensible.
+Yeah, because when you're watching TV, you're zapping and you have to put it in a recharger, and I don't think it Yeah, okay, but then we have to be sure that the the the the batteries go hours, six hours, five, six hours, then.
+Yeah.
+Yeah, b when the batteries are low But you'll also forget to put it in, because you throw it on the couch and you don't remember.
+No, when you when you're done with s uh w uh watching your television, you have to put it Yeah sure, of course.
+Yeah, then you have a problem.
+Yeah, but But you also forget to buy batteries, and then you can you can't use it, so I Yeah.
+Yeah.
+That's right.
+Yeah.
+Or we have to be sure that the batteries last couple of days when they're recharged.
+So.
+Well I think the batteries should should w should work a lot longer than a couple of days, or not?
+Yeah because you have b but you have LCD screen.
+'Cause Yeah, that's right, but Yeah.
+High power usage.
+High power user cell, i uh it should be uh a standard move to to put your remote control in the charger when you're done watching television, that's also a a a great advantage because you can't lose it anymore.
+Yes.
+Because you are obliged to uh put it in the charger and not to uh leave it in a couch uh between some cushions.
+True.
+Yeah.
+Yeah.
+True.
+Right.
+Yeah, you made a point there.
+Okay.
+But then you also have to s have somewhere where you can put a remo recharger near your couch because otherwise you have to walk a long way when you twoft want to turn on the TV.
+Yeah, also.
+Yeah, otherwise all your yeah.
+Just a small device.
+Yeah.
+Yeah it hasn't It doesn't have to be big.
+Plug it in, that's it.
+I think everything has it for and I guess.
+Yeah, like a like telephone charger or something.
+Yeah just just a cable, or a even a a a a a charger where you can mount it on.
+Yeah.
+Yeah.
+Something like that, just u Okay.
+Yeah.
+Alright.
+Okay, well I've Yeah, you have some more points.
+It has to be easy to use also, or things.
+Uh market share, speaker re speech recognition.
+I think.
+Functional designs uh for the elderly uh you could make it possible to enlarge the screen, so make it possible to not uh display uh a button at ten points uh, or Yeah but it is uh one of the functions you have to uh specify.
+Also.
+Well I think that this should be standard.
+Large button large buttons.
+Yeah?
+Okay.
+Because we can look at uh uh perhaps uh forty buttons at a screen, but the elderly only look at two buttons.
+Okay.
+And you said something about speech recognition?
+Yeah, it says also Yeah.
+Speech recognition?
+Hello.
+Twelve Euro twelve Euro fifty.
+Yeah, twelve fifty, twelve fifty.
+Twelve.
+That's an also ninety one percent sixteen to twenty five, twenty six to thirty five years, seventy six percent, and thirty six to forty five, thirty five percent.
+So it's pretty big.
+Well, spread it by a big market.
+But then I I I Yeah.
+Even bigger than for LCD.
+Yeah.
+W I know let's do a speech.
+Well let's leave out all the remote controls and just put a microphone on top of the television to Yeah Yeah.
+Yeah.
+Yeah.
+Yeah.
+Ninety.
+Twenty five.
+You can clap or something.
+channel.
+Turn volume up.
+Yeah.
+Hey, that that's an idea.
+Now you shouldn't say the wrong thing, I dunno.
+Yeah.
+Okay, well that should it has to be remote control, not Yeah.
+Yeah, twelve.
+But they want to talk into the remo remote control, or something, or?
+Yeah.
+Sure why not why not Yeah, mm.
+Is this only would you would you pay more for speech recognition in a remote control.
+It's the only thing it says.
+Oh, but do we want to implement that, or?
+I think an LCD screen should be suf sufficient.
+Yeah.
+But when you look at the percentages Speech recognition scores even higher, huh?
+Yeah, it says a lot, but No I think I think it's better to have L LCD screen, because in the area of tw thirty six to forty five, we have about thirty percent of the market share in in our hands, and fifty five of those people want LCD screen and thirty five want speech recognition.
+Perhaps the options should be uh Why not?
+Yeah, well, maybe because of the cost, but uh nobody knows uh how much uh it will cost uh.
+Why not?
+Yeah.
+Let's hope uh to have some uh d We should do it.
+I know Mm.
+So I think it's better to keep it with LCD screen.
+But would it be useful to imple implement both?
+Yeah, if the costs al allow it.
+On one remote?
+Well I don't know if that can be done with the cost of twelve fifty.
+Or Yeah, I dunno.
+Nee.
+With that uh Yeah, but how would you like to implement that, that you say volume up, and then it goes up, or?
+If it should be done, if it could be done, I won't matter.
+Yeah.
+Yeah.
+Sure.
+Yeah.
+Yeah.
+Uh.
+Certain systems already exist, I think.
+Mm-hmm.
+Then you also have to have different languages if we go international.
+Then uh it's y it's yours to do a French and Dutch and English and Yeah, that's right.
+True.
+True, yeah.
+Yeah.
+True.
+Yeah.
+But that should also be with f should be also with LCD screen.
+This should be uh accommodated with some software, uh, uh.
+Yeah.
+Because then I think in Chinese is different written, volume is different written than um Swahili or something.
+Yeah.
+Right.
+Swahili.
+Yeah you can use icons for the a speaker and uh But if that's better than language for the for the remote.
+Swahili.
+Yeah.
+Ja, well possible.
+Indeed.
+Yeah, yeah yeah yeah.
+Yeah.
+So we want to uh yeah it's international uh okay.
+Then it's Yeah.
+Okay.
+'Kay, what else?
+So, no speech recognition?
+Or Yeah, and then we have different languages.
+Well, if it could be done, we Yeah.
+Yeah, we have to keep Yeah.
+Y it should be done.
+If it could be done, should be done.
+Yeah, that should be uh anything matters.
+That's not so difficult at all, because I already use on several voice operated systems, and they are all possible to uh not all, but Yeah, sure, indeed.
+Okay, just make a separate remote for each uh Okay, so we only do this when we have enough money left.
+Well, you sh you should to adjust the thing.
+I think it's difficult.
+Every language of dialects I think it's very differen difficult.
+Yeah.
+And you have to speak the so that it can understand.
+Yeah.
+I think it can't be implemented, but maybe Yeah, 's an option, yes.
+You could use that n as an option, if you have money left, or something.
+Fifty Euro cents.
+Yeah.
+Let's do speech.
+Yeah.
+For speech recognition.
+Yeah.
+Okay.
+Well I've written down an an on or off button, volume selection, channel selection, uh the digits from one to zero, huh.
+Um or from zero to nine.
+Uh a digits button to switch uh between one and two digits, mute button, a separate menu for teletext, a battery indicator.
+Um we're going to use a docking station and uh probably LCD and if there's enough money, speech recognition.
+Mm.
+And uh the possibility to uh enlarge buttons or to have large buttons in general.
+Mm, yes.
+Yeah.
+I With uh teletext if it wasn't ver very important, it was but You also now have colours.
+No, but Curved?
+I don't know if we should implement that.
+Yeah, when you press the red button, you go to page one hundred two, and when you press the I don't know if we should implement that, because it says that teletext not really important, but yeah, the shortcut, and you can't go to sport.
+Uh yeah.
+Um.
+S Shortcuts.
+Uh.
+I think we should we could that we could also implement a audio settings, screen settings and channel settings, but as sub-menus.
+Yeah.
+Mm.
+D Mainly if you turn the uh remote control on, you have to u you have to see from one till zero, channel and volume.
+And if you want to use teletext screen or audio, then you can press it.
+Sh Yeah, just just sub-menu.
+It should be available but not not Yeah.
+Yeah.
+'Cause it should be there.
+Not directly uh available.
+Yeah.
+Okay.
+Okay, so not too much teletext support, but in a separate menu, and Okay, but no more buttons or functions, or?
+Yeah.
+Mm.
+So actually it is there but it's just not r ready there.
+Yeah, but s Yeah.
+Directly available.
+So does it confuse uh the user?
+You'll have to search for it.
+They'd have to be easy to use.
+Uh.
+I'll search um.
+If you want to use teletext, you can push the teletext button and then the options uh become available.
+Yeah.
+Yeah, that's a I guess not.
+The sign of it.
+Uh, no.
+No.
+What else can you do with a television?
+We've got anon Have got got two examples here, but I don't think there's anything we're missing.
+Aren't we forgetting something very important?
+Uh play, pause, doesn't n need to be there.
+Well, we don't have the video orders Yeah, you could look here all the the Uh th th th th I don't know, technical functions.
+Yes, so this is your presentation.
+We could check the other remote controls with technical functions.
+Which ones were yours?
+Techni Ja ja ja ja ja.
+They're a bit small, you can we should stretch them, because I guess we've got them all.
+Ping.
+Technical functions.
+Yeah okay.
+Uh I think I go to have volume, mute but I Yeah.
+Very slow.
+Yeah, the zoom buttons.
+And for a TV?
+Yeah, b wide screen, high screen, different things you have, yeah different uh Yeah.
+Can you zoom in a TV?
+Or that you can put 'em on uh on on wide and yeah.
+But that should also be a sub then, a sub uh menu thing.
+Menu.
+Yeah it should be available, but then in separate screen settings or something.
+Yeah, so we should also implement se screen settings.
+Mm.
+Yeah, screen settings, audio settings, teletext settings you have.
+Oh right.
+Yeah.
+Channel settings.
+Yeah, so you can program the Yeah, so the first you see the main, and the other ones you can uh go to uh Yeah.
+So those four, and of course the main.
+Yeah.
+Yeah.
+Like tap screens or something or, I dunno.
+I hope we can do this.
+Something Yeah, if uh No, you don't yu a no you then you don't no ni don't then you don't use it.
+There are a lot of options depending uh on what kind of television you got.
+'Cause if you don't got a wide screen television you don't need the uh the screen settings uh for uh Yeah and if the television does not support such uh operations Yeah.
+Mm-hmm.
+We don't have to use that top.
+Yeah.
+Yeah.
+So you leave it alone.
+Yeah.
+Yeah.
+Or it could be possible to have a a standard version of the remote, an expanded version.
+Yeah.
+And do we want them in different colours, or And and the buttons, should they have colours?
+Yeah.
+Colours.
+Yeah.
+Colours I think the main colour of the remote control is uh the colour of the LCD screen.
+Oh but we don't have any buttons.
+Yeah.
+I Because we don't want a lot a devi yeah a device self s g Okay, so use uh very uh lot of peo Adjust with phones, yes Okay.
+Yeah.
+Yeah, then defines itself.
+Because uh how many percent?
+Eighty percent?
+They think it's ugly, right?
+Would spend more money if it looks fancy.
+Perhaps you can uh make adjustable fronts, like with the telephones.
+You can uh But I don't think that uh Yeah.
+Twelve Euro fifty.
+Well, make it available in different colours, you mean?
+Sure.
+Yeah.
+Red, white, blue, black.
+Rasta colours.
+And a see-through uh Okay, well that's the signal for las final five minutes.
+Grey.
+Yeah sea view, yes, Simpson's versions and Leave.
+Yeah.
+Yeah, see through version.
+Yeah.
+If you press a button, it turns green.
+Yeah.
+A disco version.
+Five minutes?
+Um so I have uh the things I just read.
+Um then we have uh separate menus for teletext, screen settings, audio settings, and what else?
+Yeah.
+Channel settings?
+Oh yeah, right.
+Channel settings.
+So you can program the TV.
+Yeah.
+Okay.
+Mm.
+Perhaps you should you'd throw them on on in one pile.
+So, options, and then you sub them.
+Yeah.
+Otherwise you have all those teletext, perhaps teletext not, but Yeah, but I Yeah.
+Could be possible.
+Mm.
+Or like uh you have a menu button, you press Yeah, or otherwise you have a menu button, press menu then you have uh main uh menu search uh all the all the settings.
+No, we said teletext also a separate menu.
+Yeah.
+Okay, but we can work that out later, I guess.
+But I don't know.
+Yeah, no problem.
+So we're having a a general menu with the most used functions, uh teletext, screen settings, audio settings, channel settings, and maybe there are options for the remote itself?
+Yep.
+Like uh large icons or small icons and I don't know what else, but Yeah, but on the LCD, huh?
+Um, I think b because we don't have a lot of buttons on the one screen, I think the buttons Yeah, but but or like you have you only have channel button or volume button.
+No.
+Or do we have any buttons?
+On the remote.
+Which one?
+Those buttons you can you can Yeah.
+But that's also in the LCD, right?
+Right, yeah, okay.
+Yeah, th No, no normal buttons, yeah.
+So we don't have any normal buttons that uh No, alright.
+Maybe only the on and o on and off button.
+Yet on and off is p is perhaps you kno No, no.
+But we don't need a special we don't need a special options menu for the remote itself.
+Uh not button Yeah sure, of course you need uh a settings button, uh or a settings option for the remote control.
+But I don't think Mm, no.
+Okay.
+Oh well, you should be able to set which TV you have.
+If you have if you have uh Yeah.
+But isn't idea to use uh uh what you said, uh normal on and off button for the TV, that you don't have to use a Yeah but but not for the remote but for the TV, that you use But a not as normal button, in the LCD, yeah.
+No no no, because we we discussed that you could charge it, otherwise is it it jumps to stand-by mode automatically.
+Yeah, but a TV of course, th that's the I think that's a best thing is that to implement that one in the menu with the volume and channel.
+No.
+Well maybe there should be a separate button apart from the LCD, because you can't turn it on when the LCD is off.
+So how do you turn the thing on?
+There has to be a on button on the remote, huh?
+No you just tap I think.
+Yeah, you tap.
+Just tap it.
+Touch screen, yeah then it's turn turn off, turn on.
+Tap the thing.
+Okay.
+And then the television is on also, or just the remote?
+No, just the remote.
+A television don't have to be on, that one you can press on, yeah stand-by, then press on remote, press on and then TV should be available.
+Sure.
+But Yeah a yeah.
+Yeah, it should be in standby mode, but A A A normal button on the remote control, or norm?
+Or not.
+I don't know whether it's handy to have a n a normal on button, a r just uh rubber uh for for TV, so you can turn it on and then you can choose the channel.
+Separate.
+Otherwise you I don't know whether or not that's Yeah, yeah.
+To turn it on.
+Of or you should put it in the LCD screen.
+Yeah, because uh when you touch the LCD screen when it is in standby mode, it should pop on.
+Yeah, I have, yeah.
+Okay, well Yeah.
+Wh uh why would it be a a need to have a normal button?
+Well I I guess if you use the LCD screen, you first have to search where is the on button, then you uh you you then turn it, and then the TV goes on.
+But if you have a normal on button on the on the remote, then you do the on, and then you search the channel which you want.
+Yeah, but I think the re the remote control, if you press tap the screen, it always should jump to the screen which has the volume button, channel button, and of course of also the on and off button.
+Mm.
+Oh right.
+I think it looks a lot more fancy if you use uh if you don't have any buttons on the s on on remote control.
+Yeah, I think so too.
+Otherwise y wet e k Yeah.
+Yeah.
+So actually we're going to create a a button-less uh remote.
+Yeah.
+No buttons at all.
+Okay, well that's might be a unique selling point, huh for a remote.
+Mm-hmm.
+If we can afford it.
+Okay, well I guess we have to postpone further discussion to uh our next meeting, because we're running out of time.
+Yeah, if we can afford it.
+Yeah.
+Oh, okay Oh.
+Um for now, we're having a lunch break, and then there will be uh half an hour for the uh next share of individual work.
+I will uh write uh minutes, if I can create them out of this.
+And uh put them in the the project documents uh folder.
+Mm.
+And here are the individual actions for the for the other roles.
+And of course specific instructions will be sent to you again by your uh personal coach.
+Alright.
+Luckily as we are.
+Okay, well thank you very much, for now, and uh have a nice lunch, huh?
+Mm-hmm.
+Lunch.
+Okay.
+Food.
+Should we put this back in our rooms, or uh?
+Yeah, think so.
+Yeah.

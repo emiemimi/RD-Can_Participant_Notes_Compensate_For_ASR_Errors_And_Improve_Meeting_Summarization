@@ -1,7 +1,7 @@
 .idea
 .DS_Store
 
-docs/notes
+docs/notes/*
 !docs/notes/clean_notes.md
 docs/templates
 docs/proposal/proposal-outline.md
