@@ -1,0 +1,3526 @@
+Okay, so I'm going to put it in here and I'm like, oh yeah, so if I don't, it's a
+sportsy boss, baby boss, okay, so we're here to talk about the detail design in the
+product. Okay, yep, and here's the agenda for this meeting. I'm just going to open
+and see if you're born inwards to start with again and start taking minutes afterwards.
+You guys are going to give us a presentation over one of the products that I can see some
+demonstrations all over there, let's go and we're going to evaluate it. Then we're
+going to talk about finance and we've got a lovely Excel spreadsheet that
+knocked up from the last five minutes for this and look it up and we're going to evaluate
+the product and close. We've got 40 minutes to do this in which should be fine, let's try and keep
+this one unscheduled. All right, so you're in the third product, baby. Yeah, who
+owns it? Hey, look at it. Yeah, so what we ended up with. Production course is
+estimated by our manufacturing department and the research department, which is ours, is 15.8
+You did right in a production course. And we implemented the basic functions, which is just
+TV functions plus the locator, which was one of the marketing things. Gradle, scroll wheel for
+the channels. And we implemented the part of the way of putting the new and rough
+positionary zapping your favorite channels functionality in the scroll, zapping your favorite
+channel. Yeah, scrolling through your favorites list. Okay, okay, exactly. Yeah, that was the result.
+I like that the logo in there as well. It's very prominent. So this is the
+cradle unit. And this is the actual remote itself. So the scroll bar is or the scroll wheel is this
+this green little scrolling guy here. And then the volume controls are here and here. Okay, you've got
+the keypad, which is the numbers from 0 to 9 and then 10. This is the power button. We have our
+we have the enter button and was the other one here. This is the start to the program program.
+Yeah, the program. So this this button will be used both for the favorites and for programming
+your the the type of television you want to use. So the plastic is the white area of this of the
+model here. And the red area is like a rubber covering. So you can see that when it lays like this
+or like this. And the buttons are all going to be rubber. So it's pretty hard to actually damage it.
+Is that could that be easy to for this gold wheel to be rotated if that lands on it?
+Yeah, that might be a possible possible problem. Not helping.
+No, but I guess it depends on the stiffness a little over. Yeah, and it depends on if it's sliding.
+But I think it's pretty ergonomic. You can feel it.
+It was good. I'll take it with this. This is going to be slightly lighter in there.
+Yeah, of course. Well, this is clay.
+Yeah, the power button is a bit of a reach, but I think we might scale down the final model a bit.
+This makes sense. This is a bit larger than it would be, but
+still don't have no one.
+So what's the marketing perspective?
+Oh, I like it. I mean, you guys gave me more than I was asked. Of course, I'll have
+because we've got some really more beautiful features in this.
+Yeah, I think it's a good.
+Pedro can demonstrate the page in the building.
+You have like the base station with the little button for that. Where's my remote?
+Beep, beep, beep.
+All key to function.
+That's great.
+Beep, beep.
+So let me get it. A bad press this button.
+Beep, beep, beep.
+That's me.
+That's wicked.
+Shut up so you can take this home with you tonight and you can push that
+and you'll be across town.
+I find it.
+No, no, no, no, no, no, it's too blue to charge off of.
+Exactly. That's exactly what those are for.
+And there's one other feature that we were debating, but we decided to go against it,
+is you could beep, beep, beep.
+We were thinking that it might be interesting to have a trigger button here because you have this
+it kind of feels like there should be something there, but we couldn't figure out what
+button is important enough to put there. And we don't want to accidentally
+behave in the power button like that. Maybe if you had a trigger plus the scroll,
+then that would get past the problem of the landing and scroll, because then it would need to be
+hit and both sides. So maybe in the final design phase, we might tweak that a little bit.
+But yeah.
+There's definitely options for different types of models and things as well,
+so it's the final color scheme as well.
+Oh, no, this is just what we had to work with at the time.
+So we'll leave the color scheme up to the marketing people.
+Careful.
+Yeah, I mean, of course, it's tight, but it's the touch.
+My suggestion is we're going to go to the silvers and blacks, like most of the televisions,
+you know, some blend of silvers and blacks.
+Beep, beep, beep.
+Okay, enough of that.
+Okay, let's kill, guys.
+Okay, so have we done with the presentation?
+Yep, yep, yep.
+So you're not going to find my, my folder up there. I got to do mine up at the board.
+Maybe, okay.
+Yeah, so
+can I not get your get stuff from your shuffle, don't I?
+No, it's not in there because I had the computer problem and I, I couldn't, I couldn't create it.
+I couldn't create it in the PowerPoint.
+Okay, I think I've just really strange data.
+So what I had basically going for the PowerPoint format
+is that, yeah, yeah, I like this a lot.
+Is this one of the tests is to see how we can adapt to changing situations in the, in the meeting room?
+Yeah, so what we had is we had the method.
+That's not how you spell method, isn't it?
+You like, no way.
+And this doesn't, and when I speak with a method, I speak about the marketing and the product.
+And to me with this product, we got, we got basically three things to market.
+We've got the features.
+We have the characteristics.
+And we have, I don't know what we've called the other part, what we call, you know, the,
+the corporate, help me.
+The corporation stands behind the front, okay?
+So the features, I think we got to scroll, we've got the, the low fader,
+we've got the durability, we've got the dependability, we've got, you know,
+the features that make this a unique product.
+The characteristics I talk about, we have reliability, we have comfort, we have ergonomics,
+we have environment, we sensitive.
+And the corporation, we're talking about, we're, we're a new, we're a new company.
+We're wanting to make a name for ourselves, for wanting you to find our product.
+So we're going to give you a good product and a fair price.
+One thing I would want to, to see is, is, can we, can we get a lifetime guarantee on this product
+and normal use guarantee, which means that this product for the, for the life of the life use,
+if it should have a technical problem that we, we're placing at no cost,
+that was something I would be interested in.
+So, yeah, without going into great details, we have, we have a product, it has the features
+and the characteristics in the background, I believe to make it marketable.
+I believe that a cost of 30, 35 to 50 euros, we're going to be competitive,
+and we're going to, we're going to have a market niche.
+You, would you argue that we're better going for the higher cost than bringing it into 25
+as we probably could, but lowering the profit margins, that would be, that would be, I think,
+a decision best paid by corporate.
+I, for my evaluation, based on what our competition is, I think that we can go after this
+and, and go after more of the exclusivity sense than the mass market sense.
+But I'm sure, I'm sure open to market this in a matter of direction,
+but you guys, you know, for the great product, and at that cost, I think it,
+there's nobody else is putting this, this combination of, of the ingredients together.
+The only limitations I see to this is that we're focused on television only.
+That's the only, that's the only drawback I see this is, but with all of these other futures,
+I think people, one thing I'm, I'm hoping for is people are not going to even notice,
+there's going to be somebody going home and say, oh, this thing doesn't work for my DVD and like,
+but I like these other things and the people just aren't they?
+Then we're actually quite open to be able to expand the product for a later version
+of those features, pay some plan.
+There's no fundamentally different thing that I wanted to do.
+One of the thoughts that I had is can, can this unit be, be produced in a way that makes it
+upgradable? You know, like, like, a SIM card in a, you know, in a telephone, you know, is there a
+card and can we make a card? And so after we knew, we need some more buttons if it was to work on
+some other stuff. But, but you follow what I mean, yeah, we could get a better version of it
+the box of the works, because if we could make this unit upgradable, then we'd,
+and then we'd talk about changing the warranty concept and everything, but that's,
+that was just an idea I had to read a little bit.
+Yeah, the, the rest of making it unusable as well or making it less, because at the moment it's
+actually very straightforward to look at all the buttons, you know, what you do, it's very simple
+and it just walks and use the rest of that.
+Okay, so we can talk about finance now. So I have a little spreadsheet for us, where,
+I was wondering, when you talked about 15.8 euros, it was wondering how you came up with that figure?
+Oh, there was just our technical team ended up the production cost of the individual units.
+Okay, so I have got the spreadsheet here for this.
+Oh, very cool. I've made a few assumptions here in the, and assuming that our power adapter,
+we can make for a cost of four euros equivalent to sewer sales, which I think is probably
+fair considering that we have in-house manufacturing power that does already, and I'm assuming that
+the locator beacon, you know, the, yeah, it can be made for someone, it can be made for someone
+face to an LC display. Do you think that's fair coming from a manufacturing?
+Yeah, I do think we don't need the advanced chip and print, we only need the, the regular chip
+and print, so we're going to miss calculation. Okay, so we're going to say, we have a single
+curved, is that a single curved and a double curved? I think that we're not entirely sure
+of what same we've got. We've got a curve in a droop, I don't know whether that.
+It's single curved. Okay, yeah, I'm not convinced. We say of one euro that will, yeah,
+so we can bring it down to you. See, it's a little bit more than single curved, so yeah, it's 15.8,
+that's where we came up with it.
+Hang on, don't speak so. Same here, and that we have any, we have special form, don't we?
+Yeah, we do. So that's, yeah. What do you know? We haven't talked about any special,
+color though, I don't, if we're going crazy in silver or something. That's not very special,
+it's pretty. Okay, so we're basically, we have, is this intended to be a button as well,
+or just a scroll? There's a scroll, just a scroll, it's not one of the schools where, for example,
+if that's when you could push it, then to be a button. No, we just use it as a scroll. Okay,
+then we have 15.8 euros. It was a pretty accurate estimate. It was like, look at it. Awesome. Okay, so
+we're on these two, it's kind of frighteningly accurate. We're on to the part on the back part of the
+presentation, where we have a look at the criteria is the poll. The criteria in criteria at the
+poll is, as given us, and we can use that to tell, how's it going? And then we get any,
+what thoughts, how have we done today? I think we did pretty well. Yeah, I think we did pretty well,
+I think. It looks pretty spectacular. No, I think we came up with an attractive, marketable
+product in concert.
+Any other things, thoughts?
+Okay, so what about number for creativity?
+That was a funny, I think we had a couple of innovative ideas. We kind of broke,
+we kind of at least adjusted every criteria that gave us, because we still have the
+teletext capability in this thing, right? We raised the price of it. We've added to new technology
+to it. So, you know, this thing flies, then we've adjusted or broken every, every idea that gave us.
+It's a pretty idea, necessarily. It's still at a more control.
+No, yeah, but we did break with the specs a lot of it, I guess. But I like, I mean, well, I
+say we have, we had, I believe we have room creativity, because this is, we did it.
+Okay, we just said probably we would have brought back to the bosses.
+You know, there's a thing, there are, the reason was flexible with us over the whole
+changing the specs, then. There was more of a teamwork thing than well, the leadership
+for us, the core use of, yeah, synergy. Yes, synergistic things, a lot of synergy.
+The teamwork, yes. But we think of the meeting room, I guess, is important, thank you.
+These cables suck. Yeah, yeah. This falls off and, you know, the white board worked really well.
+I think we said very long shoots. That's way far down lapel, Mike.
+Lapel, lapel, lapel. All right. That's almost a crotch.
+That's, that's quite close. You know what they're going to have on the recording, and
+they're from that microphone is your lunch digesting. You know what I'm saying?
+Yeah. What do you get? What do you get? What do you get? What do you get from that?
+So yeah, the pen came in all right, and it's a little uncomfortable to lose, I guess.
+This is you're using it to upset them. That's our boss.
+I'm not the best of that. So I've been wondering whether that'll leave CDs,
+like that. That would be that way. That would be that way.
+It interests, right. But it feels more comfortable for you for what you're saying.
+Okay, so that did to make this something about what new ideas are we think?
+And new ideas for the product or for the, the, the, the environment or what else they're
+both then for the product? Well, we had the favorites list in the scroll bar. We have the cradle
+and the remote call feature. And we came up clever. And for the meeting, is there any more
+comfortable headsets? Well, clearly remote control microphones would be a nice solution to
+all these cables, but I'm sure that there's some justification for these things that I don't know
+that. And of course, I didn't have so much fun with my computer this afternoon. It's not been
+cooperating so well, but I don't think that's the, that's a way to put a bit worse.
+Okay, so the cost within the budget. Nope, nope. Oh, I am really, that's something that the cost
+was under 12, 50 years. Oh, kind of change. We're still under 20 years though. So we get
+cost within the budget. Not the original budget, but the on it is the project validates.
+Yeah, then salvation. Oh my! As it says, we provided out the cafeteria. I had, I had that
+level. Okay. Well, that one. So we need to close this meeting here for our goal. Congratulations. Good job,
+guys. I've got a lot of paperwork to catch up on. So let's close this on and come back.
+Yeah, a lot of people want to catch up on, sir.
+Yeah.
+Okay, so we're here to talk about the detail design in the product.
+Okay, yep.
+And here's the agenda for this meeting.
+I'm just going to open and see if your boarding works to start with again.
+And start taking minutes afterwards.
+You guys are going to give us a presentation over one of the product that I can see some demonstrations all over there.
+Let's go.
+And we're going to evaluate it.
+Then we're going to talk about finance.
+And we've got a lovely Excel spreadsheet that knocked up in the last five minutes for this.
+And we're going to evaluate the product and close the 40 minutes to do this.
+And we should be fine.
+Let's try and keep this one on schedule.
+All right.
+So you're in third, third, third, third.
+Yeah, in product, thank you.
+Yeah.
+You want to say?
+Hey, look at him.
+All right.
+That's all the time.
+Yeah.
+So what we ended up with.
+Production course, estimated by our manufacturing department and the research department, which is the last, is 15.8 euros.
+So I'm going to mute it.
+Right.
+Right.
+In it price.
+In it production cost.
+Thank you.
+And we implemented the basic functions, which is just TV functions plus the locator, which was one of the market.
+Things, gradle, scroll wheel for the channels.
+And we implemented the part of the way of putting the new and revolutionary zapping, your favorite channels functionality in the scroll.
+Exactly.
+Your favorite channels.
+Yeah.
+Scrolling through your favorites list.
+Oh, okay.
+It's zapping.
+You know.
+Yeah.
+Okay.
+Okay.
+And yeah, that was the result.
+Okay.
+I like that the logo on there as well.
+It's very prominent.
+Very prominent.
+So this is the.
+So here, give you this.
+This is the cradle unit.
+And this is the actual remote itself.
+So the scroll bar is, or the scroll wheel is this, this green little scrolling guy here.
+And then the volume controls are here here.
+Okay.
+You've got the keypad.
+This is the numbers from zero to nine.
+And then 10.
+This is the power button.
+We have our.
+We have the enter button and.
+What is the other button here?
+This is the start to the program program.
+Yeah.
+The program.
+So this, this button will be used both for the favorites and for programming.
+You're the.
+The type of television you would use.
+So the plastic is the white area of this.
+Of the model here.
+And the red area is like a rubber covering.
+So you can see that when it lays like this or like this.
+And the buttons are all going to be rubber.
+So it's pretty hard to actually damage it.
+Is that could that be easy to for the scroll wheel to be
+rotated if it lands on it?
+Yeah.
+That might be impossible.
+That might be possible problem.
+But not helping.
+Yeah.
+No.
+I guess it depends on the stiffness a little bit.
+Yeah.
+And it depends on if it's sliding.
+But I think it's pretty ergonomic.
+You can feel it.
+Yeah.
+It was good.
+I take it.
+This is going to be a little lighter.
+Yeah.
+Of course.
+Well, this is quick.
+Yeah.
+You have to reach.
+Yeah.
+The power button is a bit of a reach.
+But I think we might scale down the final model a bit.
+Ah, yeah.
+This would make sense.
+This is a bit larger than it would be.
+But it's cool.
+Mm-hmm.
+It's all about no one.
+Yeah.
+Mm-hmm.
+You know what I mean?
+So it's supposed to knock in perspective.
+Oh, I like it.
+I mean, you guys gave me more than I was asked
+before it started to happen.
+Because we've got some really marketable features in this.
+Yeah.
+I think it's good.
+It's good.
+It's good.
+And Pedro can demonstrate the page in the building.
+Yeah.
+You have like the base station with the little button for the,
+where's my remote?
+B-b-b-b.
+Oh, come on.
+Okay.
+The function.
+That's great.
+Very feature.
+B-b-b-b.
+So let me get it.
+So let me get it.
+If I press this button.
+B-b-b-b-b-b.
+That's me.
+That's wicked.
+That's wicked.
+That's wicked.
+That's wicked.
+Maybe.
+Shut up so you can take the help.
+Take this home with you tonight and you can push that.
+You'll be across town.
+B-b-b-b-b-b-b-b.
+That's not...
+No, no, no, no.
+It's a little blue.
+Uh, to charge off of.
+Exactly.
+That's exactly what those are for.
+And, um, there's one other feature that we were debating
+but we decided to go against it is, um, you could...
+B-b-b-b-b-b-b.
+We were thinking that it might be interesting to have a trigger
+button here because you have this finger.
+Yeah.
+It kind of feels like there should be something there,
+but we couldn't figure out what button is important enough to put there.
+And we don't want to accidentally be hitting the power button like that.
+Maybe if you had a trigger plus the scroll,
+then that would get past the problem of the landing score.
+Right.
+Because then it would need to be hit in both sides.
+So maybe in a final design phase we might tweak that a little bit.
+But, yeah.
+There's definitely options for, like, different types of models and things as well,
+based on that element.
+Yep.
+I like.
+Good job.
+So is that the, the Fangle Color scheme as well?
+Oh, no.
+This is just what we had to work with at the time.
+Okay.
+So we'll leave the color scheme up to the marketing people.
+It's a little bit.
+Careful.
+Yeah.
+Yeah.
+Yeah.
+That's the whole thing.
+That's the problem that they're looking at.
+Yeah.
+Well, I mean, of course,
+the face guy wants to touch it.
+My suggestion is we're going to go to the silvers in blacks,
+like most of the televisions.
+You know, some blend of silvers in blacks.
+Maybe.
+Okay.
+Okay.
+Enough of that.
+Wow.
+Let's kill, guys.
+Okay.
+So are we done with the dispensation?
+Yeah.
+Yeah.
+Yeah.
+Okay.
+Okay.
+And I know.
+And I know.
+So you're not going to find my, my folder up there.
+I'm going to do mine up at the board.
+Maybe.
+Okay.
+Yeah.
+So.
+Yeah.
+Can I not get your get stuff from your shofield,
+I know.
+No, it's not in there because I have a computer problem.
+And I, I couldn't create it.
+I couldn't create it in the PowerPoint.
+Okay.
+I think it's just really strange.
+Okay.
+So what I had basically going from the PowerPoint for that is that,
+yeah, yeah, I like this a lot.
+Is this one of the tests is to see how we can adapt to changing situations in the meeting room?
+So what we had is we had the method.
+That's not how you spell method isn't.
+And when I speak about method, I speak about the marketing and the product.
+And to me with this product, we've got basically three things to market.
+We've got the features.
+We have the characteristics.
+And we have, I don't know what we call the other part, what we call the corporate company.
+The corporations stand behind the front, okay?
+So the features I think we've got to scroll.
+We've got the locator.
+We've got the durability.
+We've got, you know, the features that make this a unique product.
+The characteristics I talk about, we have reliability.
+We have comfort.
+We have ergonomics.
+We have environments.
+We sensitive.
+And the corporation we're talking about, we're a new company.
+We're wanting to make a name for ourselves.
+We're wanting you to find our product.
+So we're going to give you a good product and a fair price.
+One thing I would want to see is, can we get a lifetime guarantee on this product and normal use guarantee?
+Which means that this product for the life use, it should have a technical problem that we can replace in a no cause.
+That was something I would be interested in.
+So yeah, without going into great details, we have a product.
+It has the features and characteristics in the background.
+I believe to make it marketable.
+I believe that a cost of 30, 35 to 50 euros, we're going to be competitive.
+And we're going to have a market niche.
+Would you argue that we're better going for the higher cost than in bringing it into 25 as we probably could.
+But we're in the profit margins.
+That would be, that would be, I think, a decision best made by corporate.
+And for my evaluation, based on what a competition is, I think that we can go after this and go after more of the exclusivity sense than the mass market sense.
+But I'm sure open to market this matter direction.
+But you guys came up with a great problem.
+And at that cost, I think that there's nobody else is putting this, this combination of ingredients together.
+The only limitations I see to this is that we're focused on television only.
+That's the only, that's the only drawback I see to this.
+But with all of these other features, I think people, one thing I'm hoping for is people are not going to be able to
+even notice.
+There's going to be somebody going home and say, oh, this thing doesn't work for my DVD.
+And like, but I like these other things and keep it.
+And we're actually quite open to able to expand the product for a later version of those features.
+Okay.
+Simplan.
+Does not fundamentally definitely know what to do.
+One of the thoughts that I had is can this unit be produced in a way to make it upgradable?
+You know, like a sim card in a telephone.
+Is there a card?
+Can we make a card?
+And so after we need, we need some more buttons to work on some other stuff.
+But you follow what I mean?
+Yeah, we could get a better version of it that actually works.
+But if we can make this unit upgradable, then we talk about changing the warranty concept and everything.
+That was just an idea ahead.
+The rest of making it unusable, as well, are making it less.
+Because at the moment, it's actually very straightforward to look at all the buttons.
+You know what you do.
+It's very simple.
+And it just works.
+Yep.
+And there's a rest of that.
+Okay.
+So we can talk about finance now.
+So I have a little spreadsheet for a spare.
+I was wondering, when you talked about 15.8 euros, is it running how you came up with that figure?
+Oh, there was just our technical team ended up the production cost of the individual units.
+Okay.
+So I have got the spreadsheet here for this.
+Oh, very cool.
+I've made a few assumptions here in the, and assuming that our power adapter, we can make for a cost of four euros equivalent to solar cells,
+which I think is probably fair considering that we have in-house manufacturing and power adapters already.
+Uh-huh.
+And I'm assuming that the locator beacon, you know, the, yeah.
+Yeah.
+It can be made for, it can be made for a similar phase two.
+And they'll see display.
+And do you think that's fair coming from a manufacturing?
+Yeah.
+Um, I do think we, that we, we don't need the advanced chip on print.
+We only need the, uh, the regular chip on print.
+Okay.
+And we're going to miss calculation.
+Okay.
+So within 16.
+And we, then we have a single curved.
+Is that a single curved on the double curved?
+We're not entirely sure what same we've got.
+We've got a curve in a droop.
+I don't know whether that.
+It's single curved.
+Okay.
+Yeah.
+I'm not convinced.
+But we see it one year or that.
+Yeah.
+So we can, when you're down to it.
+See, it's a little bit more than single curved.
+So yeah, it's 15.8.
+That's where we came up with it.
+Oh, man.
+I've got to speak.
+So I think here.
+And that we, do we have any, we have special form, don't we?
+Yeah.
+We do.
+So that's.
+Yeah.
+What do you know?
+We haven't talked about any special color though.
+I don't, if we're going to raise in somewhere.
+That's not very special.
+It's pretty.
+Okay.
+So.
+Put your back and scroll here.
+We're basically we have.
+Is this intended to be a button as well?
+Or just a scroll.
+It's a scroll.
+Just a scroll.
+It's not one of the scrolls.
+We're, for example, with this one.
+You can push it.
+Then play a button.
+Uh, no.
+We just use it as a scroll.
+Okay.
+Then we are 15.8 euros.
+It was a pretty accurate estimate.
+It was.
+Okay.
+Awesome.
+Okay.
+So.
+We're on these two kind of frighteningly accurate.
+We're on to the part on the back part of the presentation where we have a look.
+The criteria is that the poll.
+The criteria in criteria, the poll is as given as.
+And we can use that to tell.
+How's it going?
+How do we get any thoughts?
+How have we done today?
+I think we did pretty well.
+Yeah.
+I think we did pretty well.
+I think we did pretty well.
+I think we came up with a attractive, marketable product and concept.
+Any other change?
+Yeah, folks.
+Okay.
+So we've got about a number for creativity.
+That was.
+I think we was plenty of room.
+I don't know.
+I think we got a couple in the back of it.
+Yeah.
+A couple innovative ideas.
+We kind of broke.
+We kind of at least adjusted every criteria that gave us.
+Because we still have the teletext capability in this thing, right?
+We raised the price of it.
+We've added to new technology to it.
+So, you know, if this thing flies, then we would adjust it or broken every idea that gave us.
+It's a pretty idea.
+It's still at a more control.
+Yeah.
+Yeah.
+No, yeah.
+But we did break with the specs or I guess.
+But the.
+But I like.
+I mean, well, I see we have, we had, I believe we have room creativity because this is,
+we did it.
+Okay.
+We just should have put a little put back to the bosses.
+Yeah.
+There's another thing.
+There are reasonable fights.
+Well, if there's over the whole change in the specs thing.
+It was more of a teamwork thing than well.
+A little shit.
+Thank you.
+Just.
+It's cohesive.
+Yeah.
+Synergy.
+Yes.
+Synergy.
+It's the last.
+Synergy.
+Yeah.
+Yeah.
+Yeah.
+Yeah.
+But we think of the meeting room, I guess, is important.
+India.
+These cables suck.
+Yeah.
+This falls off.
+Yeah.
+The whiteboard worked really well.
+I think it must have very long shirts.
+That's way far down lapel.
+Like.
+Mm hmm.
+Lapel.
+Lapel.
+Lapel.
+All right.
+That's almost a crotch.
+Like.
+That's.
+That's quite close.
+You know what they're going to have on the recording and
+have from that microphone is your lunch digesting.
+You know.
+Yeah.
+Yeah.
+Yeah.
+Yeah.
+Yeah.
+Yeah.
+Yeah.
+Yeah.
+Yeah.
+So yeah.
+The pen came in all right.
+It's a little uncomfortable to lose that guess at once.
+This is you're using it to upset them.
+You know.
+Yeah.
+That's our boss.
+That's our boss.
+I'm not convinced of that.
+That's all.
+I've been what I've been wondering about that.
+Oh, they've seen it like that.
+That looks like that.
+That looks like it would be that way.
+Andrew's right.
+But it feels more comfortable.
+Yeah.
+It looks great.
+Yeah.
+Yeah.
+Okay.
+So that detonates out in the bar.
+What new ideas are we find?
+A new ideas for the product or for the environment or what is the
+both then for the product?
+Well, we had the favorites list in the scroll bar.
+We have the cradle and the remote call feature.
+Can I clear that?
+I'm chipping you right there.
+Then for the meeting, is there any more?
+It's comfortable headsets would be nice.
+Well, clearly remote control microphones would be a nice
+solution to all these cables.
+I'm sure that there's just some justification for these things
+that I don't know about.
+And of course, I didn't have so much fun with my computer this
+happened.
+It's not been cooperating so well.
+But I don't think that's the way to move.
+Could have been worse.
+Okay.
+So, is the cost within the budget?
+Nope.
+Nope.
+Oh, I am.
+Really.
+That's something they cost under 12, 50 years.
+Oh, kind of it's changed.
+We're still under 20 years though.
+So good.
+Cost within the budget?
+Not the original budget, but the honor.
+Is the project validated?
+I think so.
+Yeah.
+Then salvation.
+Please!
+As it says.
+We've got provided after cafeteria.
+All right.
+Okay.
+We wrote that one.
+So we need to close this meeting here for our goal.
+Congratulations.
+Good job, guys.
+I've got a lot of paperwork to catch up on.
+So let's close this line and come back.
+Yeah.
+A lot of paperwork to catch up on, sir.
+Oh.
+Whoops.
+Whoops.
+Whoops.
+Yeah.
+Okay, so I'm going to put it in here and like, oh my gosh, so we forgot about the sports
+of bars, deadly bars, okay, so we're here to talk about the detail design of the product
+Okay, yep, and here's the agenda for this meeting. I'm just going to open and see if you're
+voting once to start with again and start taking minutes afterwards. You guys are going to
+give us a presentation over one of the product that I can see some donations all over
+there, let's go and we're going to evaluate it. Then we're going to talk about finance
+and we've got a lovely Excel spreadsheet that I knocked up in the last five minutes
+for this, and we've got 40 minutes to do this and we should be fine, let's try and keep
+this one unscheduled. Alright, so you're in third, third, third, third. Yeah, the product
+production course, as you may know, by our manufacturing department and the research department,
+which is ours, is 15.8 euros from the unit price, unit production cost. We implemented the
+basic functions, which is just TV functions plus the locator, which was one of the marketing
+things. Gradle scroll wheel for the channels, and we implemented the way of putting the new
+and revolutionary zapping, your favorite channels functionality in this scroll, zapping if you
+can. That was the result. Now I like the little one there as well. This is the
+actual remote itself. The scroll wheel is this green little scrolling guy here, and then the volume
+controls are here and here. You've got the keypad, which is the numbers from 0 to 9 and then 10. This is the
+power button. We have the enter button and this is the start to the program. So this button will be
+used both for the favorites and for programming the type of television you want to use. So the plastic is the
+white area of the model here, and the red area is like a rubber covering. You can see that when it lays like
+this or like this, and the buttons are all going to be rubber, so it's pretty hard to actually damage it. Is that
+could that be easy for this scroll wheel to be rotated if it lands on it? Yeah, that might be a possible
+problem, but not a helping. No, it depends on the stiffness a little bit. Yeah, and it depends on the
+if it's sliding, but I think it's pretty ergonomic. You can feel it. Yeah, it was good. I take it that this is
+going to be a little later in there. Yeah, of course. Well, this is quick. Yeah, the power button is a bit of a
+reach, but I think we might scale down the final model a bit. This is a bit larger than it would be.
+But it's cool. I don't know. I mean, you guys gave me more than I was asked before. Because we've got some really
+more people features in this. Yeah, I think it's good. Pedro can demonstrate that. Yeah,
+Paging in a building. You have like the base station with the little button for the where's my remote
+beep beep beep beep beep beep beep beep beep beep beep beep beep beep beep beep. If I press this button
+beep beep beep beep beep stop. Thank you. So you can take this home with you tonight.
+You can push that you'll be across town.
+To charge off of the exact that's exactly this one other feature that we were debating. But we decided to go against it is you could
+We were thinking that it might be interesting to have a trigger button here, because you have this thing there.
+It kind of feels like there should be something there, but we couldn't figure out what button is important enough to put there.
+And we don't want to accidentally be hitting the power button like that.
+Maybe if you had a trigger plus the scroll, then that would get past the problem of aligning in the scroll, because then it would need to be hit in both sides.
+So maybe in the final design phase, we might tweak that a little bit.
+But it's definitely got options for different types of models and things as well, based on that element.
+Yep, I like.
+So is that the final color scheme as well?
+Oh no, this is just what we had to work with at the time.
+Okay, so we'll leave the color scheme up to the marketing people.
+Careful.
+Yeah, came off.
+There's four wheels in the film, I think.
+Well, I mean of course, the first guy who wants to touch it.
+My suggestion is we're going to go to the silvers in blacks, like most of the televisions.
+You know, some blend of silvers in blacks.
+Okay, enough of that.
+Wow, let's kill, guys.
+Okay, so we've done with the representation.
+Yep, y'all.
+Okay.
+So you're not going to find my folder up there, I'm going to do mine up at the board.
+That's it, okay.
+So, can I not get your stuff from your shuffle, don't I?
+No, it's not in there because I had the computer problem and I couldn't create it.
+I couldn't create it in the PowerPoint.
+Okay, I think it could just really strange data.
+So what I had basically going from the PowerPoint format is that, yeah, yeah, I like this a lot.
+Because this one of the tests is to see how we can adapt to changing situations in the meeting room.
+So, what we had is we had the method.
+That's not how you spell method, isn't it really?
+No, no, no.
+Well, this doesn't go so fast as well.
+And when I speak about method, I speak about the marketing and the product.
+And to me with this product, we've got basically three things to market.
+We've got the features.
+We have the characteristics.
+And we have, I don't know what we call the other part, what we call, you know, the corporate company.
+The corporations stand behind the paint.
+So, the features, I think we've got the scroll.
+We've got the locator.
+We've got the durability.
+We've got the dependability.
+We've got, you know, the features that make this a unique product.
+The characteristics I talked about, we have reliability.
+We have comfort.
+We have ergonomics.
+We have environments.
+We've sensitive.
+And the corporation we're talking about, we're a new company.
+We're wanting to make a name for ourselves.
+We're wanting you to find our product.
+So, we're going to give you a good product and a fair price.
+One thing I would want to see is, can we get a lifetime guarantee on this product, the normal use guarantee,
+which means that this product for the life of the life use,
+it should have a technical problem that we can replace it in no cost.
+That was something I would be interested in.
+So, yeah, without going into great details, we have a product.
+It has the features and the characteristics in the background.
+I believe to make it marketable.
+I believe at a cost of 30, 35 to 50 euros, we're going to be competitive.
+And we're going to have a market niche.
+Would you argue that we're better going for the higher cost than bringing it into 25,
+as we probably could, but we're in your profit margin?
+That would be, that would be, I think, a decision best made by corporate.
+For my evaluation, based on what a competition is,
+I think that we can go after this and go after more of the exclusivity sense than the mass market sense.
+But I'm sure open to market this matter direction.
+But you guys came up with a great product and at that cost,
+there's nobody else who's putting this combination of ingredients together.
+The only limitations I see to this is that we're focused on television only.
+That's the only, that's the only drawback I see to this.
+But with all of these other features, I think people, one thing I'm hoping for is people are not going to even notice.
+There's going to be somebody going home and say, oh, this thing doesn't work for my DVD and my,
+well, I like these other things and keep it.
+And we're actually quite open to be able to expand the product for a later version with those features.
+Okay.
+Simplan, there's no fundamentally different thing.
+One of the thoughts that I had is can this unit be produced in a way that makes it upgradable?
+You know, like, like a SIM card in a, you know, in a telephone.
+Is there a card and can we make a card?
+And so, we need, we need some more buttons if it goes to work on some other stuff.
+But you follow what it is.
+Yeah, we could get a better version of it that actually works.
+Because if we could make this unit upgradable, then we'd, then we'd talk about changing the warranty concept and everything.
+But that was just an idea I had to read.
+Yeah, the question is that the rest of making it unusable as well or making it less.
+Because at the moment it's actually very straightforward to look at all the buttons.
+You know what they do.
+It's very simple and it just works.
+Yep.
+And the rest of that.
+Okay.
+So we can talk about finance now.
+So I have a little spreadsheet for us here.
+I was wondering, when you talked about 15.8 euros, is this one and how you came up with that figure?
+Oh, there was just our technical team ended up the production costs through the individual units.
+Okay.
+So I have got the spreadsheet here for this.
+Oh, very cool.
+I've made a few assumptions here and assuming that our power adapter, we can make for a cost of 4 euros equivalent to sewer cells,
+which I think is probably fair considering that we have in-house manufacturing and power adapters already.
+And I'm assuming that the locator beacon, you know, can be made for a similar phase 2 and they'll see display.
+Do you think that's fair coming from a manufacturing?
+Yeah.
+I do think that we don't need the advanced chip-end print.
+We only need the regular chip-end print.
+Okay.
+And we're going to miss the calculation.
+Okay.
+So we're going to say 16.
+And we have a single curved.
+Is that a single curved on the double curved?
+I think that we're not in time to show what's saying.
+You've got a curve in a droop.
+I don't know whether that.
+It's single curved.
+Okay.
+I'm not going to miss.
+We say of one year or that over year.
+So we come and you're down to year.
+See, it's a little bit more than single curved.
+So yeah, it's 15.8.
+That's where we came up with it.
+Well, hang on.
+I don't speak so.
+I've been here in that.
+Do we have any, we have special form, don't we?
+Yeah, we do.
+So that's, yeah.
+We haven't talked about any special color though.
+If we're going for a reason somewhere.
+That's not very special.
+It's pretty.
+Okay.
+So.
+Pretty much in scope wheel.
+We're basically we have, is this intended to be a button as well?
+Or just a scroll.
+It's a scroll.
+Just a scroll.
+It's not one of the scrolls where, for example, with this one, you could push it then
+to the button.
+No, we just use it as a scroll.
+Okay.
+So then we have 15.8 euros.
+It was a pretty accurate estimate.
+It was back.
+Oh, look at it.
+Awesome.
+Okay.
+So we're on these two.
+It's frighteningly accurate.
+We're on to the part on the back part of the presentation.
+We'll have a look.
+The criteria is the poll.
+The criteria in criteria at the poll is given us.
+And we can use that to tell.
+How's it going?
+And do we get any thoughts?
+How have we done today?
+If we did pretty well.
+Yeah.
+I think we did pretty well too.
+Looks pretty spectacular.
+No, I think we come up with a attractive, marketable product in concert.
+Any other changes?
+Yeah, thoughts?
+Okay.
+So the part about number for criteria is everything.
+That was something.
+I don't think there was plenty of them.
+I think we got a couple in the right.
+Yeah.
+A couple of innovative ideas.
+We kind of broke.
+We kind of at least adjusted every criteria that gave us.
+Because we still have the teletext capability in this thing.
+Right?
+We raised the price of it.
+We've added new technology to it.
+So, you know, if this thing flies, then we've adjusted or broken every idea that gave us.
+It's a pretty idea in this salad.
+It's still at a more controlled.
+Yeah.
+Yeah.
+So we did break with the specs or whatever I guess.
+But the...
+What do I like?
+I mean, well, I see.
+I believe we have room creativity.
+Because this is...
+We did it.
+Okay.
+We just had plenty of a put back to the bosses.
+You know, there's other things.
+There were reasonable fights.
+Well, if there's over the whole change in the specs, then...
+Yeah, it was more of a teamwork thing than a relationship.
+I grew up with...
+Just cohesive.
+Yeah.
+It's energy.
+Yes.
+It's an adjusted thing.
+It's the last synergy.
+Yeah.
+Teamwork.
+Yeah, yeah.
+Yeah.
+Yeah.
+Yeah.
+But we think of the meeting room, I guess, is important.
+And yeah.
+If these cables suck.
+Yeah.
+Yeah.
+Yeah.
+Less falls off.
+Yeah.
+The whiteboard worked really well.
+You must have very long shirts.
+That's way far down Lapel.
+Mike.
+Lapel.
+Lapel.
+Lapel.
+All right.
+That's almost a crotch.
+That's quite cool.
+You know what they're going to have on a recording
+and now from that microphone is your lunch digesting.
+And you know...
+Yeah.
+Yeah.
+Yeah.
+What do you get?
+Yeah.
+What do you get?
+Yeah.
+Yeah.
+So yeah, the pen came in all right.
+And it's a little uncomfortable to use that guess at work.
+This is your using a top set up.
+Still.
+Yeah.
+That's our boss.
+That's our boss.
+I'm not convinced that that's all.
+I've been wondering whether that'll live CD's look like that looks there.
+That looks like it would be that way.
+Andrew's right.
+But it feels more comfortable.
+Yeah.
+It looks like it's right.
+Yeah.
+Yeah.
+Yeah.
+Okay.
+So that they connect the site in the right.
+That is what we find.
+No idea for the product or for the environment or...
+Well, what's the booth then for the product?
+Well, we had the favorites list in the scroll bar.
+We have the cradle and the remote call feature.
+And we came up quite a bit.
+I achieved it.
+Yeah.
+And then for the meeting, then I'm getting more comfortable headsets.
+That sets a big nice.
+Yeah.
+Well, that's very good.
+Clearly remote control microphones would be the nice solution to all these cables.
+I'm sure that there's some justification for these things that I don't know about.
+And of course, I didn't have so much fun with my computer this afternoon.
+It's not been cooperating so well.
+But I don't think that's the...
+That's a weird amount.
+Could have been worse.
+Okay.
+So the cost within the budget?
+Nope.
+Nope.
+Nope.
+Oh, I am.
+Really, that's something they cost in their 12, 50 years.
+Oh, kind of it's changed.
+We're still under 20 years though.
+So we get...
+Cost within the budget?
+Not the original budget, but the owner.
+Is the project violated?
+I think so.
+Yeah.
+Then salvation.
+Come on!
+As it says.
+We've provided out the cafeteria.
+Right.
+Okay.
+Hey.
+Who wrote that one?
+So we need to close this meeting here.
+Bravo.
+Congratulations.
+Good job, guys.
+So I've got a lot of paperwork to catch up on.
+So it's closed this line and come back.
+Yeah.
+A lot of paperwork to catch up on, sir.
+Oh.
+Okay.
+Okay, so we forgot our disposal box, Debbie boss, okay, so we're here to talk about
+the detailed design of the product, okay, yep, and here's the agenda for this meeting,
+I'm just going to open, see if he only wants to start off again, and start taking minutes
+afterwards. You guys are going to give us a presentation over one of the products that I can see
+some demonstrations all over there, looks cool, and we're going to evaluate it, then we're going
+to talk about finance and I've got a lovely Excel spreadsheet that knocked up in the last
+five minutes for this, and we'll update it up, yep, and we're going to evaluate the product
+and close, we've got 40 minutes to do this in, which should be fine, let's try and keep
+this one as a schedule. Alright, so you're in the end of the video, sorry, sorry, sorry,
+I'm doing the end product, thank you. Yeah, you want to say, Peter, can you hear me?
+I like it, that's all the time. Yeah, so what we ended up with. Production course
+is estimated by our manufacturing department and the research department, which is ours,
+is a 15.8 euros, a unit price, unit production cost, thank you. We implemented the
+basic functions, which is just TV functions plus the locator, which was one of the marketing
+things, cradle, scroll wheel for the channels, and we implemented the way of putting
+the new and revolutionary zapping, your favorite channels functionality in the scroll.
+Zapping, if you can only. Yeah, scroll it through your favourite list. Okay, okay, zapping,
+yeah, that was the result. Yeah, I like that, the logo on there as well, it's very prominent.
+So this is the, so this is the cradle unit, this is the actual remote itself. So the scroll
+bar is, or the scroll wheel is this, this green little scrolling guy here. And then the
+volume controls are here here. Okay, you've got the keypad, which is the numbers from 0 to 9 and
+then 10. This is the power button. We have our, we have the enter button and, what is the
+the other one here? This is the start to the program program. Yeah, the program can you see?
+So this, this button will be used both for the favourites and for programming your, the, the
+type of television you want to use. So the plastic is the white area of this, of the model
+here and the red area is like a rubber covering. So you can see that when it lays like this
+or like this, and the buttons are all going to be rubbered. So it's pretty hard to actually damage
+it. Is that, could that be easy to, for the scroll wheel to be rotated if it lands on it? Yeah, that
+might be possible, possible problem, but not helping. No, I guess it depends on the stiffness
+level. Yeah, and it depends on if it's sliding, but I think it's pretty ergonomic. You can feel it. Yeah, it's good. I take it
+this, this is going to be slightly lighter in there. Yeah, of course. Well, this is quick. Yeah,
+you have to reach. Yeah, the power button is a bit of a reach, but I think we might scale down the final
+model a bit. This is a bit larger than it would be, but it's cool.
+I don't have no on that. Yeah.
+You know, I suppose the mask in perspective. Oh, I like it. I mean, you guys gave me more than I was asked
+before it's hung up because we've got some really marketable features in this. Yeah.
+Okay, Pedro can demonstrate that page in a building. Yeah, you have like the base station with the little
+button for the, where's my remote? Oh, okay, the function.
+That's good.
+So let me get it. If I press this button, you can take this home with you tonight.
+You can push that. You'll be across town.
+PPP.
+I find that.
+No, no, no, no.
+I'm just about to, to charge off of exactly. That's exactly what those are for.
+And there's one other feature that we were debating, but we decided to go against it is you could PPP.
+We were thinking that it might be interesting to have a trigger button here because you have this.
+Yeah, it, it kind of feels like there should be something there, but we couldn't figure out what button is important enough to put there.
+And we, we don't want to accidentally be hitting the power button like that.
+Maybe if you had a trigger plus the scroll and that would get past the, the problem of it landing in school,
+because then it would need to be hit.
+So maybe in the final design phase, we might tweak that a little bit.
+But yeah.
+There's definitely options for like different types of models and things as well, based on that element.
+Yep.
+So is that the final color scheme as well?
+Oh, no, this is just what we had to work with at the time.
+Okay.
+So we'll leave the color scheme up to the marketing people.
+Yeah.
+Careful.
+Yeah.
+Yeah.
+Yeah.
+Yeah.
+Well, I mean, I think we're the first guy who wants to touch it.
+My, my suggestion is we're going to go, go to the silvers and blacks, like most of the televisions.
+You know, some blend of silvers and blacks.
+Okay.
+Enough of that.
+Let's kill, guys.
+Okay.
+So we've done the, the presentation.
+Yeah.
+Yeah.
+Okay.
+So you're not going to find my, my folder up there.
+I got to do mine up at the board.
+Are you okay?
+Yeah.
+So can I not get your get stuff from your shuffle, don't know?
+No, it's not in there because I had the computer problem.
+Oh, I see.
+I couldn't, I couldn't create it.
+I couldn't create it in the PowerPoint.
+And I think it could just really, really strange.
+Okay.
+So what I had basically going from the PowerPoint format is that, yeah.
+Yeah.
+I like this a lot.
+Is this one of the tasks is to see how we can adapt to changing situations in,
+in the meeting room?
+Yeah.
+So what we had is we had the method.
+That's not how you spell method, isn't it?
+Really?
+No.
+No.
+And this doesn't go so fast as well.
+And when I speak about method, I speak about the marketing and the product.
+And to me with this product, we got basically three things to market.
+We've got the features.
+We have the characteristics.
+And we have, I don't know what we call the other part, what we call, you know, the corporate company.
+The corporation stands behind God.
+Okay.
+So the features, I think we've got the scroll.
+We've got the locator.
+We've got the durability.
+We've got, you know, the features that make this a unique product.
+The characteristics I talk about, we have reliability.
+We have comfort.
+We have ergonomics.
+We have environments.
+We sensitive.
+And the corporation we're talking about, we're a new company.
+We're wanting to make a name for ourselves.
+We're wanting you to find our product.
+So we're going to give you a good product and a fair price.
+One thing I would want to see is, can we get a lifetime guarantee on this product?
+A normal use guarantee, which means that this product for the life of the life use,
+if it should have a technical problem that we can replace it at no cost.
+That was something that would be interested in.
+So, yeah, without going into great detail, we have a product.
+It has the features and characteristics in the background.
+I believe they make it marketable.
+I believe at a cost of 30, 35 to 50 euros, we're going to be competitive.
+And we're going to have a market niche.
+Would you, I would do that.
+We're better going for the higher cost than bringing it into 25 as we probably could,
+but we're in the profit margins.
+That would be, that would be, I think, a decision best paid by corporate.
+For my evaluation, based on what a competition is, I think that we can go after this
+and go after more of the exclusivity sense than the mass market sense.
+Right, I'm sure open to market this matter direction.
+But you guys came up with a great product.
+And at that cost, I think that there's nobody else is putting this combination of ingredients together.
+The only limitations I see to this is that we're focused on television only.
+That's the only, that's the only job that I see to this.
+But with all of these other features, I think people, one thing I'm hoping for is people are not going to even notice.
+There's going to be somebody going home and say, oh, this thing doesn't work for my DVD and my,
+but I like these other things and the key features.
+And we're actually quite open to be able to expand the product for a later version of those features.
+Okay, same plan.
+There's no fundamentally different thing.
+Oh, one of the thoughts that I had is can this unit be produced in a way that makes it upgradable?
+You know, like a SIM card, you know, in a telephone.
+Is there a card?
+Can we make a card?
+And so, we need some more buttons if it was to work on some other stuff.
+But you follow, we could get another version of it that actually works.
+But if we can make this unit upgradable, then we talk about changing the warranty concept and everything.
+That was just an idea I had to be able to push the rest of making it unusable as well or making it less.
+Because at the moment, it's actually very straightforward to look at all the buttons, you know what they do.
+It's very simple and it just works.
+Okay, so we can talk about finance now.
+So, I have a little spreadsheet for a spare.
+I was wondering, when you talked about 15.8 euros, is this one how you came up with that figure?
+Oh, there was just a technical team headed up the production cost of the individual units.
+Okay, so I have the spreadsheet here for this.
+Oh, very cool.
+I've made a few assumptions here and assuming that our power adapter, we can make for a cost of 4 euros equivalent to solar cells,
+which I think is probably fair considering that we have in-house manufacturing power adapters already.
+And I'm assuming that the locator beacon, you know, can be made for a similar price to an LC display.
+Do you think that's fair coming from a manufacturing?
+I do think that we don't need the advanced chip and print.
+We only need the regular chip and print.
+Okay.
+And we have a nice calculation.
+Okay.
+So, we have a single curved.
+Is that a single curved on the double curved?
+I don't think that we're not entirely sure what's saying.
+We've got a curve in a droop.
+I don't know whether that.
+It's single curved.
+Okay.
+I'm not being missed.
+We see it for one year or that year.
+So, we can, when you don't hear.
+See, it's a little bit more than single curved.
+So, yeah, it's 15.8.
+That's where we came up with it.
+Well, hang on, let's speak so.
+We have a special form, don't we?
+Yeah.
+We do.
+So, that's, yeah.
+Ah.
+But you know, we haven't talked about any special color though.
+If we're going for this reason, so we're, that's not very special.
+It's pretty.
+Okay.
+So, we can scroll here.
+We're basically, we have, is this intended to be a button as well?
+Or just a scroll.
+Just a scroll.
+It's not one of the scrolls where, for example, with this one, you can push it.
+You can push it down to your button.
+No, we just use it as a scroll.
+Okay.
+Then we have 15.8 euros.
+It was a pretty accurate estimate.
+It was back.
+We'll look at it.
+Awesome.
+Okay.
+So, we're on to, it's kind of frighteningly accurate.
+Yeah.
+We're on to the part on the back part of the presentation where we have a look.
+The criteria is that the poll, the criteria in criteria that poll has, has given us.
+And we can use that to tell, how's it going?
+And then we get any, what thoughts?
+How have we done today?
+I think we did pretty well.
+Yeah.
+I think we did pretty well too.
+Well, it looks pretty spectacular.
+Yeah, I think we come up with a, with a attractive marketable product and concept.
+Any other change?
+Yeah, thoughts?
+Okay.
+So, what about, um, room for creativity?
+That was, that was plenty of room.
+Yeah.
+Yeah.
+Yeah.
+Yeah.
+Yeah.
+Okay.
+So, what about, um, room for creativity?
+Yeah.
+Yeah.
+Yeah.
+Yeah.
+A little bit of ideas.
+We, we kind of broke.
+We kind of at least adjusted every, every criteria that gave us.
+Because we, we still have the, the teletext capability in this thing, right?
+Uh-huh.
+We raised the price of it.
+If attitude, new technology to it.
+So, you know, if this thing flies, then we, we were adjusted or broken every, every idea
+that gave us.
+Yeah.
+It's a big idea.
+Yeah.
+Yeah.
+That's a big idea.
+Yeah.
+Yeah.
+Yeah.
+No.
+Yeah.
+But we did, we did break with the specs or other I guess.
+But the, uh, what I like, I mean, well, I see, we have, we had, I believe we have room creativity
+because we, this is, we did it.
+Okay.
+We just stepped forward a bit of put back to the bosses.
+No, that, I think there were a reason where fights were worth is over the whole change in the
+specs, then.
+Yeah.
+Yeah.
+It was more of a teamwork thing than a little, a little ship.
+Thank you.
+But it's, it's cohesive.
+Yeah.
+Yeah.
+Yeah.
+Yeah.
+Yeah.
+Yeah.
+Yeah.
+Yeah.
+Yeah.
+Yeah.
+Yeah.
+Yeah.
+Yeah.
+Yeah.
+Yeah.
+Yeah.
+Yeah.
+Yeah.
+Yeah.
+Yeah.
+Yeah.
+Yeah.
+Yeah.
+Yeah.
+This is, it's a very long trip.
+That's way far down lapel, Mike.
+Hmm.
+Lapel, lapel, lapel.
+All right.
+Yeah.
+That's almost a crotch.
+That's, that's quite close.
+You know what to, you know, one in the corner, you know, from that microphone is your lunch
+digesting, you know?
+Yeah.
+Yeah.
+What do you, what do you, what do you do?
+Yeah.
+Yeah.
+Yeah.
+Yeah.
+So yeah, the pen came in all right.
+And it's a little uncomfortable to do this.
+But I guess it works.
+This is, you were using it to observe.
+Still.
+Yeah.
+That's our box.
+I'm not convinced of that at all.
+I've been, what, now I've been wondering about that.
+Oh, they've, see these look like that.
+That looks, yeah.
+Use the model.
+That looks like it would be that way.
+You know, it's right.
+But it feels more comfortable.
+Okay.
+It looks like it's great.
+Yeah.
+Yeah.
+Okay.
+So that data made the site that involved.
+Yeah.
+It is a refund.
+Oh, I do.
+For the product or for the, the, the, the environment or what?
+The list of both then, for the product.
+Well, we had the favorites list in the scroll bar.
+We have the cradle.
+And the remote call feature.
+Yeah.
+Can we come up together?
+I have to put your ideas.
+And for the meeting is going to get any more comfortable hats.
+that would be nice.
+Yeah.
+Well, I mean, you're clearly remote control microphones would be the nice solution to all these
+cables.
+But I'm sure that there's just some justification for these things that I don't know
+that.
+And of course, I didn't have so much fun with my computer this afternoon.
+It's not been, it's not been cooperating so well.
+Like, I don't think that's the, that's a way to put it in the worst.
+Okay.
+So the cost within the budget.
+Nope.
+Nope.
+Nope.
+Oh, hang on.
+Really, that's something that the cost in that 12, 50 years.
+No.
+Okay.
+It's changed.
+We're still under 20 years though.
+So we do.
+Cost within the budget.
+Not the original budget, but the honor.
+Is the project evaluated.
+I think so.
+Yeah.
+Then, salvation.
+Hello.
+As it says.
+We could provide that to cafeteria.
+All right.
+Okay.
+I have that.
+Anyway.
+We wrote that one.
+So we need to close it.
+Thank you guys for meeting me.
+Yeah, for our role.
+Congratulations.
+Good job, guys.
+I've got a lot of paperwork to catch up on.
+So let's close this line and come back.
+Yeah.
+A lot of paperwork to catch up on too.
+Oh.
+We're going to see a little bit more.
+Okay.
+Really good.
+Well, let's do one again.
+Okay.
+Okay.
+Okay.
+All right.
+That's good.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Thank you.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay, so we forgot about the sportsy box, Debbie boss, okay, so we're here to talk
+about the detailed design of the product. Okay, yep, and here's the agenda for this meeting.
+I'm just going to open and see if you're building words to start with again and start taking minutes afterwards.
+You guys are going to give us a presentation of our wonder product that I can see some demonstrations all over there.
+Looks cool. And then we're going to evaluate it.
+Then we're going to talk about finance and we've got a lovely Excel spreadsheet that knocked up in the last five minutes.
+And we've got 40 minutes to do this in, which should be fine. Let's try and keep this one on schedule.
+All right, so.
+Yeah, so what we ended up with.
+Production course estimated by our manufacturing department and the research department, which is ours, is a 15.8 euros,
+some of the units there in it price, unit production cost.
+We implemented the basic functions, which is just TV functions plus the locator, which was one of the marketing things.
+Gradle scroll wheel for the channels, and we implemented the part of the way of putting the new and revolutionary zapping your favorite channels functionality in the scroll.
+Scrolling through your favorites list.
+Okay, okay.
+Okay, okay.
+And yeah, that was the result.
+Okay, now I like that the little one there as well.
+It's very prominent.
+Very prominent. So this is the.
+So here, this is the cradle unit, and this is the actual remote itself.
+So the scroll bar is, or the scroll wheel is this, this green little scrolling guy here, and then the volume controls are here here.
+Okay, you've got the keypad, which is the numbers from zero to nine and then ten.
+So this is the power button, we have our, we have the enter button, and what is the other button here?
+This is the start to the program program.
+So this, this button will be used both for the favorites and for programming the type of television you want to use.
+The plastic is the white area of this, of the model here, and the red area is like a rubber covering.
+So you can see that when it lays like this, or like this, and the buttons are all going to be rubber.
+So it's pretty hard to actually damage it.
+Is that, could that be easy to, for the scroll wheel to be rotated if it lands on it?
+Yeah, that might be possible.
+Not helping.
+No, I guess it depends on the stiffness of all, but.
+Yeah, and it depends on if it's sliding, but I think it's pretty ergonomic.
+You can feel it.
+Yeah, it's good.
+I'll take it.
+This is going to be a little later on there.
+Yeah, of course.
+Well, this is quick.
+Yeah, because you have to reach them.
+Yeah, the power button is a bit of a reach, but I think we might scale down the final model a bit.
+Ah, yeah.
+This would make sense.
+This is a bit larger than it would be, but.
+That's cool.
+I don't know.
+I don't know.
+I don't know.
+Yeah.
+Hmm.
+So, if I just post the marketing perspective.
+Oh, I like it.
+I mean, you guys gave me more than I was asked before.
+It's kind of happened.
+Because we've got some really marketable features in this.
+Yeah.
+Okay.
+It's good.
+It's good.
+It's good.
+And Pedro can demonstrate that.
+Yeah.
+The page in the building.
+Yeah, you have like the base station with the little button for the, where's my remote?
+PPP.
+Oh, wow.
+Okay.
+The function.
+That's good.
+Um, future.
+PPP.
+So let me get a five press this button.
+PPP.
+That's me.
+That's what it is.
+Oh, again.
+Shut up.
+So you can take this home with you tonight.
+You can push that.
+You'll be across town.
+PPP.
+I find that.
+No, no, no.
+It's not the table.
+Uh, those for the, the, the, the, the, the, the, the, the, the.
+Exactly.
+Exactly.
+Exactly.
+That's exactly what I think.
+And, um, there's one other feature that we were debating, but we decided to go against it.
+Is, um, you could.
+PPP.
+We were thinking that it might be interesting to have a trigger button here because you have
+a trigger button.
+Yeah.
+It, it's, it kind of feels like there should be something there, but we couldn't figure
+out what button is important enough to put there.
+And we, we don't want to accidentally be hitting the power button like that.
+Maybe if you had a trigger plus the scroll and that would get past the, the problem of
+it landing in school.
+Right.
+Because then it would need to be hit.
+So maybe in the final design phase, we might tweak that a little bit.
+But yeah.
+But it's definitely got options for like different types of models and things as well.
+Based on that element.
+Yep.
+I like.
+Pretty good.
+So is that there?
+The final color scheme as well.
+Oh, no.
+This is just what we had to work with at the time.
+Okay.
+So we'll leave the color scheme up to the marketing people.
+Yeah.
+Careful.
+Yeah.
+Okay.
+Yeah.
+Okay.
+Yeah.
+Yeah.
+Yeah.
+Yeah.
+Yeah.
+It's cool.
+Yeah.
+Well, I don't think it's the first guy he wants to touch it.
+My, my suggestion is we're going to go, go to the silvers and blacks, like most of the
+televisions.
+Hmm.
+You know, some blend of silvers and blacks.
+Yeah.
+Okay.
+Enough of that.
+Okay.
+Okay.
+Enough of that.
+Okay.
+Let's kill, guys.
+Okay.
+So have you done the, the presentation?
+Yeah.
+Yeah.
+Okay.
+No.
+No.
+No.
+No.
+No.
+No.
+So you're not going to find my, uh, my folder up there.
+I got to do mine up at the board.
+Have you?
+Okay.
+Yeah.
+So.
+Uh, can I not get your get stuff from your shuffle, don't I?
+No.
+It's not in there because I have the computer problem.
+Oh, I see.
+I couldn't, I couldn't create it.
+I couldn't create it in a PowerPoint.
+Okay.
+I think it was just very strange.
+Okay.
+So what I had basically going from the PowerPoint format is that, uh, yeah.
+Yeah.
+I like this a lot.
+Is this one of the tests is to see how we can adapt to changing situations in the, in the
+meeting room?
+Yeah.
+So what we had is we had the method.
+That's not how you spell method isn't really knowing, uh,
+what this doesn't go so fast as well.
+And when I speak about method, I speak about the marketing of the prompt.
+And, uh, to me with this product, we got, uh, we got basically three things to market.
+We've got the features.
+We have the, uh, characteristics.
+And we have, uh, I don't know what we call the other part.
+Would be called, you know, the, the, the,
+the corporation.
+Help me.
+The, the corporation is stand behind.
+Okay.
+So the features, I think we got the scroll.
+We've got the, uh, the locator.
+We've got the durability.
+We've got the dependability.
+We've got, you know, the features that make this a unique product.
+Um, the characteristics I talked about.
+We have reliability.
+We have comfort.
+We have ergonomics.
+We have environments.
+We sensitive.
+Uh, and the corporation we're talking about.
+We're, we're, we're a new company.
+We're wanting to make a name for ourselves.
+For wanting you to, uh, find our product.
+So we're going to give you a good product and a fair price.
+One thing I would want to, to see is, um,
+is can we, can we get a lifetime, uh, guarantee on this product and normal use guarantee?
+Which means that this product for the, for the life of, um,
+the life use, if it should have a technical problem that we can replace it in no cost.
+That was something I would be interested in.
+Um, so, yeah, without, uh, going into great details,
+we have, we have a product.
+It has the features and the characteristics in the background.
+I believe to make it marketable.
+I believe that a cost of, of 30, 35 to 50 euros.
+We're going to be competitive.
+And we're going to, we're going to have a market niche.
+Um, do you, would you, I would do that.
+We're better going for the higher cost than bringing it into 25 as we probably could,
+be, but learning the profit margins?
+That, that would be, uh, that would be, I think a decision best paid by corporate.
+Um, I, from my evaluation, based on what our competition is,
+I think that, that we can go after this and, and go after more of the, uh,
+exclusivity sense than the mass market sense.
+Mm-hmm.
+But, uh, I'm sure, I'm sure opened it to market this matter direction.
+But you guys came up with a very product and at that cost,
+I think it, uh, there's nobody else is putting this,
+this combination of ingredients together.
+The only limitations I see to this is that we're focused on television only.
+Uh, that's the only, that's the only drawback I see to this.
+But with all of these other features, I think people,
+one thing that I'm hoping for is people are not going to even notice.
+There's going to be somebody going home and say,
+oh, this thing doesn't work for my DVD and like,
+but I like these other things and keep it.
+And we're actually quite open to be able to expand the product
+for a later version with those features.
+Okay, same plan.
+There's no fundamentally different thing.
+Oh, what is one of the thoughts that I have is can, can this unit be,
+be produced in a way to make it upgradable?
+You know, like, like a SIM card, you know, in a telephone.
+You know, is there a card and can we make a card?
+And so after we need, we need some more buttons if it were to work on some other stuff.
+But, but you follow, we could get another version of it that actually works.
+Because if you can make this unit upgradable,
+then we, then we talk about changing the warranty concept and everything.
+But that's, that was just an idea ahead.
+To me, yeah, the brush does the, the rest of making it unusable,
+as well, or making it less.
+Because at the moment, it's actually very straightforward.
+So look at all the buttons, you know what they do.
+It's very simple and it just works.
+Right.
+Use the rest of that.
+Okay, so we can talk about finance now.
+So I have a little spreadsheet for a spirit.
+I was wondering, when you talked about 15.8 euros,
+it was one of them how you came up with that figure.
+Oh, there was just a technical team ended up the production cost of the individual units.
+Okay.
+So I have a spreadsheet here for this.
+Oh, very corals.
+I've made a few assumptions here in the, and assuming that our power adapter,
+we can make for across the four euros equivalent to solar cells,
+which I think is probably fair considering that we have in-house manufacturing,
+the power adapter is already.
+Uh huh.
+And I'm assuming that the locator beacon, the, you know, the,
+Yeah.
+Maybe it can be made for some different idea.
+Uh, it can be made for a similar phrase to an LC display.
+Uh, and, uh, do you think that's fair coming from a, the manufacturing?
+Yeah.
+Um, I do think we, that we, we're, uh, don't need the advanced chip
+and print.
+We only need the, uh, the regular chip and print.
+Okay.
+And we have a miscalculation.
+Okay.
+So we're down to 16.
+And we have a single curved, uh, is that a single curved on the double curved?
+I think that we're not entirely sure what's saying.
+It's a curve in a droop.
+I don't know whether that.
+It's single curved.
+You think?
+Okay.
+I'm not convinced.
+We save one year or that way, yeah.
+So we come, when you're down to, yeah.
+So it's a little bit more than single curved.
+So yeah, it's 15.8.
+That's where we came up with it.
+Well, hang on.
+Now let's speak.
+So we've seen here in that we, do we have any, we have special forms, don't we?
+Yeah.
+Yeah.
+We do.
+We haven't talked about any special color though.
+I don't, if we're going for grays and cell works, then that's not very special.
+It's pretty.
+Okay.
+So.
+Be sure I can scroll here.
+We're basically we have, uh, is this intended to be a button as well, or just, uh,
+scroll?
+There's a scroll.
+Just a scroll.
+It's not one of the scrolls we're, for example, with this one, you could push it, then
+to be a button.
+Uh, no, we just use it as a scroll.
+Okay.
+Then we have 15.8 euros.
+It was a pretty accurate estimate.
+It was back.
+We'll look at it.
+Yeah.
+Awesome.
+Okay.
+So, we're going to be, it's frighteningly accurate.
+We're going to the part on the back part of the presentation, where we have a look.
+The criteria is the, the criteria in criteria that Paul has, as given us.
+And we can use that to tell, how's it going?
+And then we get any thoughts.
+How have we done today?
+I think we did pretty well.
+Yeah.
+I think we did pretty well too.
+Well, we'll express the title.
+Yeah.
+I think we come up with a, with a attractive market of more, um, product and concept.
+Any other change?
+Any other change?
+Yeah, thoughts.
+Okay.
+So, the part about, um, room for creativity.
+That was, I think it was plenty of room.
+Yeah.
+I think we got a couple in the right.
+Yeah.
+Yeah.
+A couple innovative ideas.
+We, we kind of broke.
+We kind of at least adjusted every, every criteria that gave us.
+Because we, we still have the, the teletext capability in this thing, right?
+Uh-huh.
+We raised the price of it.
+If attitude, new technology to it.
+So, you know, if this thing flies, then we, we were adjusted or broken every, every idea
+that gave us.
+That's a pretty idea.
+Yes, Sally.
+It's still in a more control.
+Yeah.
+Yeah.
+Yeah.
+No, yeah.
+But we did, we did break with the specs or, but I guess, but the, uh.
+What am I?
+I mean, where I say we have, we have, I believe we have room creativity.
+Cause this is, we did it.
+Okay.
+Leadership, what do we put back to the bosses?
+Yeah.
+I think there were, the reason with flexible withers over the whole changing the specs thing.
+Yeah.
+It was more of a teamwork thing than real.
+Leadership.
+Thank you.
+Yeah.
+It's cohesive.
+Yeah.
+Yeah.
+Synergy.
+Yes.
+Synergy.
+It's a lot of Synergy.
+Yeah.
+Yeah.
+Yeah.
+Yeah.
+Yeah.
+Uh, what did we think of the meeting room?
+I guess is an important thing.
+Yeah.
+These cables.
+Yeah.
+Yeah.
+Yeah.
+This feels often.
+Yeah.
+This might work to be a real thing.
+You must have very long shirts, that's way far down, Lavel, Mike, Lavel, Lavel, Lavel.
+Alright.
+That's almost a crouch.
+That's, strength.
+Let's quit.
+Well, you know what to do.
+How long, according, you know, from that microphone is your lunch digesting.
+So yeah, the pen came in all right, and it's a little uncomfortable to use better guess
+it was.
+This is your using a top set up, still.
+That's our boss.
+I'm not convinced of that at all.
+I've been wanting to do that all day, but CD's look like that, that looks like it would
+be that way.
+It was right.
+So it's more comfortable for you for what you're saying, and what you need to make
+yourself involved.
+What new ideas have you found?
+New ideas for the product or for the environment or what it is?
+Well, listed both then for the product.
+Well, we had the favorites list in the scroll bar.
+We have the cradle and the remote call feature.
+And we came up with clever, I had to figure out the ideas, and for the meeting rooms,
+and I didn't get any more comfortable headsets would be nice, but I saw it in years.
+Clearly remote control microphones would be the nice solution to all these cables, but
+I'm sure that there's some justification for these things that I don't know about.
+And of course, I didn't have so much fun with my computer this afternoon.
+It's not been cooperating so well, but I don't think that's the way to go.
+Could have been worse.
+Okay.
+So the cost within the budget?
+Nope.
+Nope.
+Oh, I mean, really did something with the cost of under 12, 50 years.
+No.
+No.
+Okay.
+It's changed.
+We're still under 20 years, though.
+So we do.
+Cost within the budget?
+No.
+The original budget.
+But the owner.
+Is the project evaluated?
+I think so.
+Yeah.
+Then, salvation.
+Away!
+And as it says.
+Right.
+We could provide it out to cafeteria.
+I'm right.
+I had that later.
+Anyway.
+We'll roll that one.
+So we need to close this.
+Yeah, for our goal.
+Congratulations.
+Good job, guys.
+I've got a lot of paperwork to catch up on, so we'll just close this one and come back.
+Yeah.
+A lot of paperwork to catch up on, sir.
+Oh.
+Okay, so we're here to talk about the detailed design of the product.
+Okay, yep.
+And here's the agenda for this meeting.
+I'm just going to open and see if he only wants to start off again.
+And start taking minutes afterwards.
+You guys are going to give us a presentation of our one-third product
+that I can see some demonstrations all over there, but it's cool.
+And then we're going to evaluate it.
+Then we're going to talk about finance.
+And I've got a lovely Excel spreadsheet that I knocked up in the last five minutes for this.
+And look at it.
+And we're going to evaluate the product and close.
+I've got 40 minutes to do this in, which should be fine.
+Let's try and keep this one on schedule.
+All right, so.
+Here is it, is it?
+Sorry.
+Yeah, we're probably not thinking.
+Yeah.
+You want to?
+Hey, don't get in there.
+I'm not going to help time.
+Yeah, so what we ended up with.
+Production course, as you may know,
+by our manufacturing department and the research department,
+which is ours, is 15.8 euros, so much for that.
+Right.
+And in it price, unit production cost.
+Thank you.
+We implemented the basic functions, which is just TV functions,
+plus the locator, which was one of the marketing things,
+cradle, scroll wheel for the channels.
+And we implemented the part of the way of putting the new and
+rough all the scenarios zapping your favorite channels,
+functionality into the scroll.
+Zapping your favorite channels.
+Yeah.
+Scrolling through your favorites list.
+Okay, okay.
+Zapping.
+Yeah.
+Okay.
+Look at this.
+This is Portuguese.
+And yeah, that was the result.
+Okay.
+Now, like the little one there as well.
+It's very prominent.
+Very prominent.
+So this is the.
+So here.
+Give you this.
+This is the cradle unit.
+And this is the actual remote itself.
+So the scroll bar is over the scroll wheel,
+is this screen little scrolling guy here.
+And then the volume controls are here here.
+Okay.
+You've got the keypad, which is the numbers from zero to nine
+and then 10.
+This is the power button.
+We have our.
+We have the enter button and.
+What is the other button here?
+This is the start to.
+To the program program.
+Yeah, the program.
+Can you see?
+So this this button will be used both for the favorites and for
+programming your.
+The.
+The type of television you want to use.
+So the plastic is the white area of this.
+Of the model here and the red area is like a rubber
+covering.
+So you can see that when it lays like this or like this.
+And the buttons are all going to be rubber.
+So it's pretty hard to actually damage it.
+Is that could that be easy to.
+For the scroll wheel to be rotated if it lands on it.
+Yeah.
+That might be a possible.
+Might.
+Possible problem.
+Not helping.
+No, I guess it depends on the stiffness or what.
+Yeah.
+And it depends on the.
+Sliding.
+But I think it's pretty ergonomic.
+You can feel it.
+Yeah.
+It's good.
+I'll take it.
+This is going to be slightly lighter in there.
+Yeah.
+And of course.
+Well, this is quick.
+Yeah.
+So you have to reach.
+Yeah.
+The power button is a bit of a reach.
+But I think we might scale down the final model a bit.
+Oh, yeah.
+This would make sense.
+This is a bit larger than it would be.
+But.
+It's cool.
+It's all about lower level.
+So.
+That's the market perspective.
+Oh, I like it.
+I mean, you guys gave me more than I was asked before to come back.
+Because we've got some really more people features in this.
+Yeah.
+I think it's good.
+It's good.
+Yeah.
+And Pedro can demonstrate that.
+Yeah.
+The page in the building.
+Yeah.
+You have like the base station with the little button for the.
+Where's my remote?
+Beep, beep, beep.
+Oh, wow.
+Okay, the function.
+That's good.
+That's good.
+Beep, beep, beep.
+So when we get it, if I press this button.
+Beep, beep, beep.
+That's me.
+That's wicked.
+Oh, again.
+Beep, beep.
+Shut up.
+So you can take it off.
+Take it off.
+Take it off with you tonight.
+You can push that.
+You'll be across town.
+Beep, beep.
+I find that.
+It's not.
+It's not.
+It's not.
+It's not.
+I've noticed about that.
+To charge off of.
+Exactly.
+That's exactly what those are for.
+And there's one other feature that we were debating.
+But we decided to go against it is you could beep, beep.
+We were thinking that it might be interesting to have a trigger button here.
+Because you have this.
+Yeah.
+It kind of feels like there should be something there.
+But we couldn't figure out what button is important enough to put there.
+And we don't want to accidentally be hitting the power button like that.
+Maybe if you had a trigger plus the scroll.
+And that would get past the problem of it landing in the scroll.
+Because then it would need to be hit.
+So maybe in the final design phase we might tweak that a little bit.
+But it's definitely got options for different types of models and things as well.
+Based on that element.
+Yep.
+All right.
+There we go.
+So is that the final color scheme as well?
+Oh no.
+This is just what we had to work with at the time.
+Okay.
+So we'll leave the color scheme up to the marketing people.
+Careful.
+Yeah.
+Yeah.
+Tina.
+The scrollbills isn't the problem.
+Nothing.
+Nothing.
+Well, I mean, of course, the first guy he wants to touch it.
+My suggestion is we're going to go to the silvers and blacks.
+Like most of the televisions.
+You know, some blend of silvers and blacks.
+Okay.
+Enough of that.
+Okay.
+Enough of that.
+All right.
+Let's kill, guys.
+Okay.
+So have you done with the dispersion station?
+Yep.
+You're off.
+Okay.
+No, no.
+So you're not going to find my folder up there.
+I'm going to do mine up at the board.
+Maybe.
+Okay.
+There you go.
+So.
+Yeah.
+Can I not get your stuff from your shuffle, don't I?
+No, it's not in there because I had the computer problem.
+Like I said, I couldn't create it.
+I couldn't create it in the PowerPoint.
+Okay.
+I think it could just re-strange it.
+So what I had basically going from the PowerPoint for that is that, yeah, I like this a lot.
+Is this one of the tests is to see how we can adapt to changing situations in the reading room?
+Yeah.
+So what we had is we had a method.
+That's not how you spell method isn't.
+Right.
+And this doesn't go so fast as well.
+And when I speak about method, I speak about the marketing and the product stuff.
+And to me with this product, we got basically three things to market.
+We've got the features.
+We have the characteristics.
+And we have the, I don't know what we call the other part.
+Would you call the corporate help me?
+The corporation stands behind the page.
+So the features I think we've got to scroll.
+We've got the locator.
+We've got the durability.
+We've got the features that make this a unique product.
+The characteristics I talk about, we have reliability.
+We have comfort.
+We have ergonomics.
+We have environments.
+We sensitive.
+And the corporation we're talking about, we're a new company.
+We're wanting to make a name for ourselves.
+We're wanting you to find our product.
+So we're going to give you a good product and a fair price.
+One thing I would want to see is, can we get a lifetime guarantee on this product,
+a normal use guarantee, which means that this product for the life of the life use,
+if it should have a technical problem that we can replace it at no cost.
+That was something I would be interested in.
+So, yeah, going into great detail.
+We have a product.
+It has the features and the characteristics in the background.
+I believe to make it marketable.
+I believe it a cost of 30, 35 to 50 euros.
+We're going to be competitive.
+And we're going to have a market niche.
+Would you argue that we're going for the higher cost than in bringing it into 25 as we probably could,
+but lowering your profit margins?
+That would be, that would be, I think, a decision best paid by corporate.
+For my evaluation, based on what a competition is,
+I think that we can go after this and go after more of the exclusivity sense than the mass market sense.
+But I'm sure open to market this in either direction.
+But you guys came up with a great product and at that cost.
+There's nobody else that's putting this combination of ingredients together.
+The only limitations I see to this is that we're focused on television only.
+That's the only, that's the only drawback I see it is.
+But with all of these other features, I think people, one thing I'm hoping for is people are not going to even notice.
+There's going to be somebody going home and say, oh, this thing doesn't work for my DVD and my,
+but I like these other things and keep it.
+And we're actually quite open to be able to expand the product for a later version with those features.
+Okay, same plan.
+There's no fundamentally different thing.
+Oh, what are the thoughts that I had?
+Can this unit be produced in a way that makes it upgradable?
+You know, like a SIM card in a telephone.
+Is there a card?
+Can we make a card?
+And so after...
+We need some more buttons if it was to work on some other stuff.
+But you follow what I mean?
+Yeah, we could get another version of it that actually works.
+Because if we could make this unit upgradable, then we're,
+but then we talk about changing the warranty concept and everything.
+But that was just an idea I had to be able to do.
+Yeah, the bus does the rest of making it unusable as well or making it less.
+Because at the moment it's actually very straightforward to look at the buttons, you know what you do.
+It's very simple and it just works.
+Right.
+Is there a rest of that?
+Okay, so we can talk about finance now.
+So I have a little spreadsheet for a spirit.
+I was wondering, when you talked about the 15.8 euros,
+is this one and how you came up with that figure?
+Oh, there was just our technical team headed up the production cost of the individual units.
+Okay, so I have the spreadsheet here for this.
+Oh, very cool.
+I've made a few assumptions here and assuming that our peradaptor,
+we can make for a cost of four euros according to solar cells,
+which I think is probably fair considering that we have in-house manufacturing the peradaptors already.
+And I'm assuming that the locator beacon, you know, the,
+yeah, maybe it can be made for,
+I think it can be made for a somewhere face to an AOC display.
+And do you think that's fair coming from a manufacturing?
+Yeah.
+I do think that we don't need the events chip and print.
+We only need the regular chip and print.
+Okay.
+Okay.
+So we're doing 16.
+Yeah, we have a single curved.
+Is that a single curve down in the double curved?
+I think that we're not entirely sure what's saying.
+We've got a curve in a droop.
+I don't know whether that.
+It's single curved.
+You think?
+Okay.
+I'm not convinced.
+We say of one euro that we, yeah.
+So we come when you're done today.
+So it's a little bit more than single curved.
+So yeah, it's 15.8.
+That's where I came up with it.
+All right.
+That was big.
+So same here.
+And we have any, we have special forms on it.
+Yeah.
+Yeah.
+We do.
+So that's, yeah.
+We haven't talked about any special color though.
+I don't, if we're going for some reasons,
+I don't know.
+That's not very special.
+It's pretty.
+Okay.
+So we're basically, we have, is this intended to be a button as well?
+Or just a scroll.
+There's a scroll.
+Just a scroll.
+It's not one of the scrolls we're, for example, with this one,
+you could push it down to the above.
+No.
+We just use it as a scroll.
+Okay.
+Then we have 15.8 euros.
+It was a pretty accurate estimate.
+It was back.
+Oh, look at it.
+That's awesome.
+Okay.
+So we're going to, it's frighteningly accurate.
+We're going to put on to the pat on the back part of the presentation
+where we have a look.
+The criteria is that the criteria in criteria that Paul has,
+has given us.
+And we can use that to tell.
+How has it gone?
+How have we done today?
+I think we did pretty well.
+Yeah.
+I think we did pretty well too.
+Well, it looks pretty spectacular.
+Yeah.
+I think we come up with a attractive marker to more product and concept.
+Then you'll have to change the thoughts.
+Okay.
+So, what about room for creativity?
+That was, I think we were just plenty of room.
+I think we're going to couple in the right to do that now.
+Yeah.
+A couple innovative ideas.
+We kind of broke.
+We kind of at least adjusted every criteria that gave us.
+Because we still have the teletext capability in this thing, right?
+We raised the price of it.
+It had a new technology to it.
+So, you know, if this thing flies, then we would just do the broken,
+every idea that gave us.
+Yeah.
+It's still in a more controlled.
+Yeah.
+Yeah.
+But we did break with the specs a lot about, I guess.
+But the...
+What do I like?
+I mean, where I say we have...
+I believe we have room for creativity because this is...
+We did it.
+Okay.
+Leadership, what do we put back to the bosses?
+Yeah.
+I think there are reasonable fights.
+Well, if there's over the whole change in the specs thing.
+Yeah.
+It was more of a teamwork thing than real leadership.
+Thank you.
+Thank you.
+Just...
+cohesive.
+Yeah.
+Technology.
+Yes.
+Technology.
+It's a lot of synergy.
+Yeah.
+Yeah.
+Yeah, yeah.
+Yeah, yeah.
+Yeah.
+Yeah.
+What did we think of the meeting room, I guess, is important.
+Thank you.
+Yeah.
+Yeah.
+Yeah.
+Yeah.
+Yeah.
+Less falls off.
+Yeah.
+Yeah.
+The whiteboard marked really the other thing.
+It must have very long shoots.
+That's way far down lapel.
+Like...
+Um-hmm.
+Lapel.
+Lapel.
+Lapel.
+All right.
+Yeah.
+That's almost a crotch.
+Like...
+That's...
+That's quite close.
+You know what they're going to have on the recording and have for that microphone is your lunch
+digesting.
+And you know...
+Yeah.
+Yeah.
+What did you get?
+Yeah.
+What did you get?
+Yeah.
+Yeah.
+Yeah.
+So, yeah, the pen came in all right.
+And it's a little uncomfortable to use that, I guess it works.
+This is your using it to upset them.
+Yeah.
+Yeah.
+Yeah.
+Yeah.
+That's our boss.
+That's our boss.
+I'm not convinced of that at all.
+I've been...
+What...
+I've been wondering whether that'll live at CDs, like the...
+That looks...
+Yeah.
+That looks like it would be that way, you know.
+It draws right.
+But it feels more comfortable.
+Quite beautiful.
+It's right.
+Yeah.
+Yeah.
+Okay.
+So, that did make me slightly involved.
+But, you know, it is a refund.
+Oh, you ideas for the product or for the... the... the environment or...
+Well, let's do both then.
+For the product.
+Well, we had the favorites list in the scroll bar.
+And we have the cradle.
+And the remote call feature.
+And we came up with the clever.
+I would say new ideas.
+And for the meeting rooms.
+And I would get any more.
+And comfortable headsets would be nice.
+Yeah.
+Yeah.
+Yeah.
+Clearly remote control microphones would be the nice solution to all these cables.
+I'm sure that there's some justification for these things that I don't know about.
+And of course, I didn't have so much fun with my computer this happened.
+And it's not been...
+It's not been cooperating so well.
+But I don't think that's the...
+That's avoidable.
+Could have been worse.
+Okay.
+So...
+The cost within the budget?
+Nope.
+Nope.
+Oh, hang on.
+Really did something with the cost under 12, 50 years.
+No, comments or change.
+We're still under 20 years though.
+So it is.
+Cost within the budget.
+Not the original budget, but the owner.
+Is the project validated?
+I think so.
+Yeah.
+Then, salvation.
+Hello!
+And as it says.
+I think I've provided out the cafeteria.
+Alright.
+Then I had that in a minute.
+Eh.
+Eh.
+We wrote that one.
+So we need to close...
+Thank you guys for meeting me.
+Yeah, for our goal.
+Congratulations.
+Good job, guys.
+I've got a lot of paperwork to catch up on.
+So let's close this one and come back.
+Yeah, a lot of paperwork to catch up on, too.
+Okay.
+Okay, so then you're like, oh yeah, so we've got a sports box, very boss, okay, so
+we're here to talk about the detailed design of the product.
+Okay, yep, and here's the agenda for this meeting.
+I'm just going to open, see if he only wants to start with again, and start taking minutes
+afterwards.
+You guys are going to give us a presentation of our wonder product that I can see some
+negotiations all over there, let's go.
+And then we're going to evaluate it.
+And then we're going to talk about finance, and I've got a lovely Excel spreadsheet that
+knocked up in the last five minutes for this.
+And we'll update it up.
+And we're going to evaluate the product and close.
+Got 40 minutes to do this in, which should be fine.
+Let's try and keep this one on schedule.
+All right, so.
+Yeah, so what we ended up with.
+We implemented the basic functions, which is just TV functions plus the locator, which
+was one of the marketing things.
+Gradle, scroll wheel for the channels, and we implemented the part of the way of putting
+the new and revolutionary zapping your favorite channels functionality in this scroll.
+Zapping your favorite channels.
+Yeah.
+Scrolling through your favorites list.
+Okay, okay, zapping.
+You know, zapping.
+Ah, okay, okay.
+Whether this is Portuguese.
+And, yeah, that was the result.
+Okay.
+And I like that.
+The logo on there as well.
+It's very prominent.
+Very prominent.
+So this is the.
+So.
+Here.
+Give you this.
+This is the cradle unit, and this is the actual remote itself.
+So the scroll bar is, or the scroll wheel is this, this green little scrolling guy here.
+And then the volume controls are here and here.
+Okay.
+You've got the keypad, which is the numbers from 0 to 9 and then 10.
+This is the power button.
+We have our.
+We have the enter button and.
+What is the other one here?
+This is the start to the program program.
+Yeah, the program.
+Okay, you see.
+So this, this button will be used both for the favorites and for programming your.
+The type of television you want to use.
+So the plastic is the white area of this.
+Of the model here and the red area is like a rubber covering.
+So you can see that when it lays like this or like this.
+And the buttons are all going to be rubber.
+So it's pretty hard to actually damage it.
+Is that could that be easy to, for the scroll wheel to be rotated if it lands on it?
+Yeah, that might be possible.
+Not helping.
+No, I guess it depends on the stiffness a little bit.
+Yeah, and it depends on if it's sliding.
+But I think it's pretty ergonomic.
+You can feel it.
+It was good.
+I take it.
+This is going to be slightly lighter.
+Yeah, of course.
+Well, this is clay.
+Yeah, you have to reach.
+Yeah, the power button is a bit of a reach, but I think we might scale down the final model a bit.
+This would make sense.
+This is a bit larger than it would be.
+But it's cool.
+Mm-hmm.
+It's all about no one.
+Yeah.
+Mm-hmm.
+Mm-hmm.
+Mm-hmm.
+Mm-hmm.
+So what's the marketing perspective?
+Oh, I like it.
+I mean, you guys gave me more than I was asked before to come out.
+Because we've got some really more people features in this.
+Yeah.
+I think it's good.
+It's good.
+It's good.
+Yeah.
+And Pedro can demonstrate the page in the building.
+Yeah.
+You have, like, the base station with the little button for that.
+Where's my remote?
+B-b-b-b-b.
+Oh, wow.
+Okay, the function.
+That's good.
+That's good.
+My future means...
+B-b-b-b-b.
+So let me get it.
+I press this button.
+B-b-b-b-b-b.
+That's me.
+That's what you're doing again.
+B-b-b-b-b-b.
+Shut up.
+So you can take this home with you tonight and you can push that.
+You'll be across town.
+B-b-b-b-b-b-b-b.
+I find that.
+Shut up.
+No, no, no.
+Shut up.
+It's not...
+No, no, no.
+Shut up.
+It's relatively...
+I don't expect that to charge off of them.
+Exactly.
+That's exactly what those are for.
+And there's one other feature that we were debating, but we decided to go against it is,
+you could...
+P-P-P-b-b-b-b-b.
+We were thinking that it might be interesting to have a trigger button here because you have
+this finger.
+Yeah.
+It kind of feels like there should be something there, but we couldn't figure out what button
+is important enough to put there.
+And we don't want to accidentally be hitting the power button like that.
+But maybe if you had a trigger or plus the scroll, then that would get past the problem
+of landing in the scroll.
+Right.
+Because then it would need to be hit.
+So maybe in a final design phase, we might tweak that a little bit.
+But it's definitely got options for different types of models and things as well,
+based on that element.
+Yep.
+Alright.
+So is that the final color scheme as well?
+Oh no.
+This is just what we had to work with at the time.
+Okay.
+So we'll leave the color scheme up to the marketing people.
+Careful.
+Yeah.
+Kind of.
+Yeah.
+Kind of.
+The scroll wheels is the problem.
+I think it's a...
+Well, I mean, I think it's the first guy he wants to touch it.
+My suggestion is we're going to go to the silver.
+It's in blacks like most of the televisions.
+You know, some blend of silver and some blacks.
+Maybe if it's...
+Okay.
+Enough of that.
+I'm not.
+It's cool, guys.
+Okay.
+So we've done the...
+The presentation?
+Yep.
+Okay.
+Okay.
+And then I...
+So you're not going to find my...
+My folder up there.
+I'm going to do mine up at the board.
+Maybe.
+Okay.
+Yeah.
+So.
+Uh...
+Can I not get your stuff from your share folder, no?
+No, it's not in there because I had the computer problem and I...
+Ah, I see.
+I couldn't...
+I couldn't create it.
+I couldn't create it in the PowerPoint.
+I kind of think I've got this really strange kid.
+So what I had basically going from the PowerPoint for that is that...
+Yeah, yeah.
+I like this a lot.
+Is this one of the tests is to see how we can adapt to changing situations in the...
+So what we had is we had the method.
+That's not an age film method, isn't it?
+Who are you?
+No way.
+Uh...
+Who are you?
+Well, this doesn't go so fast as well.
+And when I speak about method, I speak about the marketing and the product.
+And to me with this product, we got basically three things to market.
+We've got the features.
+We have the characteristics.
+And we have...
+I don't know what we call the other part.
+What we call...
+You know, the...
+The corporate...
+Corporate.
+Help me.
+The corporation stands behind God, okay?
+So the features I think we've got to scroll.
+We've got the locator.
+We've got the durability.
+We've got the dependability.
+We've got, you know, the features that make this a unique product.
+The characteristics I talk about, we have reliability.
+We have comfort.
+We have ergonomics.
+We have environments.
+We sensitive.
+And the corporation we're talking about, we're a new company.
+We're wanting to make a name for ourselves.
+For wanting you to find our product.
+So we're going to give you a good product and a fair price.
+One thing I would want to see is...
+Can we get a lifetime guarantee on this product and normal use guarantee?
+Which means that this product for the life of the life use,
+if it should have a technical problem that we could replace it in no cost.
+That was something I would be interested in.
+So, yeah, going into great details.
+We have a product.
+It has the features and the characteristics in the background.
+I believe to make it marketable.
+I believe at a cost of 30, 35 to 50 euros.
+We're going to be competitive.
+And we're going to have a market niche.
+Would you argue that we're better going for the higher cost than in bringing you
+then to 25 as we probably could for lowering your profit margins?
+That would be...
+That would be, I think, a decision best paid by corporate.
+For my evaluation, based on what our competition is,
+I think that we can go after this and go after more of the exclusivity sense
+than the mass market sense.
+But I'm sure open to market this in either direction.
+But you guys can't put a great product.
+And at that cost, I think it...
+There's nobody else who's putting this combination of ingredients together.
+The only limitations I see is this is that we're focused on television only.
+That's the only drawback I see this is.
+But with all of these other features, I think people...
+One thing I'm hoping for is people are not going to even notice.
+There's going to be somebody going home and say, oh, this thing doesn't work for my DVD in life.
+But I like these other things.
+And we're actually quite open to be able to expand the product for a later version with those features.
+So basically, there's no fundamentally different thing.
+One of the thoughts that I had is can this unit be produced in a way that makes it upgradable?
+Like a SIM card in a telephone.
+Is there a card? Can we make a card?
+So after...
+We need some more buttons if it was to work on some other stuff.
+We could get another version of it that actually works.
+Because if we could make this unit upgradable, then we talked about changing the warranty concept and everything.
+That was just an idea I had.
+The rest of making it unusable as well are making it less.
+Because at the moment, it's actually very straightforward to look all the buttons you know what they do.
+It's very simple and it just works.
+And there's a rest of that.
+Okay, so we can talk about finance now.
+So I have a little spreadsheet for a spirit.
+I was wondering when you talked about 15.8 euros, is this one then how you came up with that figure?
+Oh, there was just our technical team ended up the production cost of the individual units.
+So I have the spreadsheet here for this.
+Oh, very cool. I've made a few assumptions here.
+And assuming that our power adapter, we can make for across the four euros equivalent to solar cells.
+Which I think is probably fair considering that we have in-house manufacturing power adapters already.
+And I'm assuming that the locator beacon, you know what they can be made for a similar phase two.
+And it'll see display.
+Do you think that's fair coming from the manufacturing?
+Yeah, I do think we don't need the advanced chip and print.
+We only need the regular chip and print.
+Okay.
+And we have a miscalculation here.
+Okay.
+So we're going to enter 60.
+Yeah, we have a single curved.
+Is that a single curved on the double curved?
+I think that we're not entirely sure about same-
+We've got a curve in a droop. I don't know whether that.
+It's single curved.
+You think? Okay.
+I'm not convinced.
+We say of one euro without a year.
+So we can print it down to there.
+See, it's a little bit more than single curved.
+So yeah, it's 15.8.
+That's where we came up with it.
+Well, hang on.
+Don't speak so.
+Same here.
+And do we have any special form, don't we?
+Yeah, we do.
+So that's, yeah.
+What do you know?
+We haven't talked about any special color though.
+Don't, if we're going crazy in silver.
+That's not very special.
+It's pretty.
+Okay.
+So we're, we're basically we have, is this intended to be a button as well?
+Or just a scroll?
+There's a scroll.
+Just a scroll.
+It's not one of the scrolls where, for example, with this one,
+you could push it then to be a button.
+No.
+We just use it as a scroll.
+Okay.
+Then we have 15.8 euros.
+It was a pretty accurate estimate.
+It was back.
+Look at it.
+Yeah.
+Awesome.
+Okay.
+So we're on these two as,
+kind of frighteningly accurate.
+We're on to the part on the back part of the presentation,
+where we have a look.
+The criteria is the poll.
+The criteria in criteria that poll has given us.
+And we can use that to tell.
+How's it going?
+And then we get any thoughts.
+How have we done today?
+I think we did pretty well.
+Yeah.
+I think we did pretty well too.
+Well, we expressed a bit tighter.
+No, I think we'd come up with a, with a attractive market of more
+product and concept.
+Then you're watching your thoughts.
+Okay.
+So what about, um, room for creativity?
+That was, I think there was plenty of room.
+I think we got a couple in the right.
+Yeah.
+A couple innovative ideas.
+We do kind of broke.
+We kind of at least adjusted every,
+every criteria that gave us.
+Because we still have the, the teletext capability in this
+thing, right?
+We raised the price of it.
+If attitude, new technology to it.
+So, you know, if this thing flies, then we,
+we would adjust it or broken every, every idea that gave us.
+It's a big idea.
+Yes.
+It's still in a more controlled.
+Yeah.
+Yeah.
+Yeah.
+But we did, we did break with the specs or about I guess.
+But the,
+But I might, I mean, where I say we have, we have,
+I believe we have room for creativity.
+Because this is, we did it.
+Okay.
+We just said probably we could put back to the bosses.
+Yeah.
+I think there are, the reason with flexible methods over the whole
+changing the space thing.
+Yeah.
+It was more of a teamwork thing than when I was a
+a championship person.
+Thank you.
+Just,
+what,
+what is it?
+Yeah.
+Synergy.
+Yes.
+Synergy.
+It's a lot of synergy.
+Yeah.
+Yeah.
+Yeah.
+Yeah.
+Yeah.
+Yeah.
+Yeah.
+What did we think of the meeting room?
+I guess is important.
+Thank you.
+Yeah.
+These cables suck.
+Yeah.
+Yeah.
+Yeah.
+Less falls off.
+Yep.
+The whiteboard worked really well.
+I think this is a very long shirt.
+That's way far down lapel.
+Like,
+Mm-hmm.
+Lapel.
+Lapel.
+All right.
+Yeah.
+That's almost a crotch.
+Like,
+what's it staying?
+That's great.
+Well, you know what they're going to have on the recording
+and you're from that microphone is your lunch digesting.
+You know what?
+Yeah.
+Yeah.
+Yeah.
+What did you get?
+Yeah.
+What did you get?
+Yeah.
+What did you get from me?
+Yeah.
+So, yeah.
+The pen came in all right.
+And it's a little uncomfortable to use, but I guess it was.
+This is your use me to observe on.
+Yeah.
+Thanks.
+That's our boss.
+That's our boss.
+I'm not convinced of that at all.
+I've been,
+I've been wondering whether that'll leave CDs,
+like,
+that looks,
+they'll use them all.
+That looks like it would be that way.
+That was right.
+But it feels more comfortable.
+Quite beautiful.
+It's right.
+Yeah.
+Yeah.
+Okay.
+So that did to make this slightly involved.
+But, you know, it is a refund.
+You ideas for the product or for the environment or?
+Well, less than both then, for the product.
+Well, we had the favorites list in the scroll bar.
+We have the cradle.
+And the remote call feature.
+You cannot grab that.
+I would check new ideas.
+And for the meeting,
+is there any more?
+A comfortable headset,
+right?
+Yeah.
+Wow.
+I mean,
+clearly remote control microphones would be the nice solution
+to all these cables.
+But I'm sure that there's some justification for these things
+that I don't know about.
+And of course,
+I didn't have so much fun with my computer this happened.
+It's not been,
+it's not been cooperating so well.
+But,
+I don't think that's the,
+that's a way to move.
+Could have been worse.
+Okay.
+So,
+the cost within the budget.
+Nope.
+Nope.
+Nope.
+Oh, I mean,
+really did something in the cost under 12,
+50 years.
+No,
+comments changed.
+We're still under 20 years though.
+So,
+the cost within the budget.
+Not the original budget,
+but the honor.
+Is the project evaluated?
+I think so.
+Yeah.
+Then,
+salvation.
+Hello.
+As it says.
+Right.
+We've got provided out to the cafeteria.
+All right.
+Then I had that little.
+Yeah.
+Oh,
+that one.
+So,
+we need to close it.
+Thanks, guys.
+Yeah.
+Bravo.
+Congratulations.
+Good job, guys.
+I've got a lot of paperwork to catch up on.
+So, let's close this one.
+Come back.
+Yeah.
+Come on.
+People want to catch up once in.
+Oh.
+Oh.
+Oops.
+Oops.
+.
+Okay.
+Hey,
+..
+.
+.
+.
+.
+. .
+. .
+. .
+. .
+. .
+. .
+. .
+. .
+Okay.
+So,
+I'm going to put in here and like,
+oh my god.
+So,
+I forgot to,
+I just want to.
+Boss.
+Then he boss.
+Okay.
+So we're here to talk about the details
+design of the product.
+Okay.
+Yep.
+And here's the agenda for this meeting.
+I'm just going to open,
+see if you're building what's to start with again.
+And start taking minutes afterwards.
+You guys are going to give us a presentation of one of the product
+that I can see some demonstrations all over there.
+Let's go.
+And
+we're going to evaluate it.
+Then we're going to talk about finance.
+And I've got a lovely Excel spreadsheet that knocked up
+in the last five minutes for this.
+And look it up.
+Yep.
+And we're going to evaluate the product
+and close.
+We've got 40 minutes to do this in,
+which should be fine.
+Let's try and keep this one on schedule.
+All right.
+So.
+Your
+is in...
+There's it, sorry.
+There's it, there's it, there's it, there's it, there's it.
+Yeah, we've got our planning.
+Yeah.
+You want to...
+Peter, can you?
+All right.
+I'll talk.
+Yeah.
+So what we ended up with.
+Production course, estimated by our manufacturing department
+and the research department, which is ours,
+is 15.8 euros.
+A unit price, unit price, unit production cost.
+And we implemented the basic functions,
+which is just TV functions plus the locator,
+which was one of the marketing things.
+Gradle, scroll wheel for the channels.
+And we implemented the part of the way of putting the new
+in ruffle the scenario, zapping your favorite channels,
+functionality in the scroll.
+Zapping your favorite channel.
+Yeah.
+Scrolling through your favorites list.
+Okay.
+Okay.
+Zapping.
+Yeah.
+Okay.
+Let me do this.
+This is poetry piece.
+And yeah, that was the result.
+Okay.
+Now like the, the, the logo in there as well.
+It's very prominent.
+Very prominent.
+So this is the.
+So here, give you the, this is the cradle unit.
+And this is the actual remote itself.
+So the scroll bar is, or the scroll wheel is this,
+this green little scrolling guy here.
+And then the volume controls are here and here.
+Okay.
+You've got the keypad.
+This is the numbers from 0 to 9 and then 10.
+This is the power button.
+We have our, we have the enter button.
+And was the other one here.
+This is the start text.
+This is the start to, to, to program program.
+Yeah.
+The program.
+Okay.
+So this, this button will be used both for the favorites
+and for programming your, the, the type of television you want to use.
+So the plastic is the white area of this, of the model here.
+And the red area is like a rubber covering.
+So you can see that when it lays like this.
+Or like this.
+And the buttons are all going to be rubber.
+So it's pretty hard to actually damage it.
+Is that, could that be easy to, for this scroll wheel to be
+rotated if that lands on it?
+Yeah.
+That might be a possible, a possible problem.
+Not a helping.
+Yeah.
+No.
+I guess it depends on the stiffness a little.
+Yeah.
+And it depends on if it's sliding.
+But I think it's pretty ergonomic.
+You can feel it.
+Yeah.
+It's good.
+I take it that this is going to be slightly lighter in there.
+Yeah.
+Of course.
+Well, this is clay.
+Yeah.
+Yeah.
+So you have to reach it.
+Yeah.
+The power button is a bit of a reach.
+But I think we might scale down the final model a bit.
+Oh, yeah.
+This would make sense.
+This is a bit larger than it would be.
+But.
+It's cool.
+Mm-hmm.
+Don't have no one like that.
+Yeah.
+Mm-hmm.
+So what's the mask in perspective?
+Oh, I like.
+I mean, you guys gave me more than I was asking for.
+It's kind of happy.
+Because we've got some really more beautiful features in this.
+Yeah.
+I think it's good.
+Good job.
+And Pedro can demonstrate the page in the building.
+Yeah.
+You have like the base station with the little button for that.
+Where's my remote?
+Beep, beep, beep.
+Oh, wow.
+Okay, the function.
+Yeah.
+That's good.
+I'm a future man.
+Beep, beep.
+So let me get it.
+A bad press this button.
+Beep, beep, beep.
+That's me.
+That's wicked.
+Oh, my God.
+Beep, beep.
+Beep, beep.
+Beep, beep.
+Shut up.
+So you can take this home with you tonight.
+And you can push that.
+You'll be across town.
+Beep, beep.
+Have fun.
+No, no, no.
+It's not too blue.
+I don't know.
+It's not too blue.
+I don't know.
+To charge off of.
+Exactly.
+That's exactly what those are for.
+And there's one other feature that we were debating.
+But we decided to go against it is you could beep, beep, beep.
+We were thinking that it might be interesting to have a trigger button here.
+Because you have this finger.
+Yeah.
+It kind of feels like there should be something there.
+But we couldn't figure out what button is important enough to put there.
+And we don't want to accidentally be hitting the power button like that.
+Maybe if you had a trigger or plus the scroll, then that would get past the problem of
+a landing and scroll.
+Right.
+Because then it would need to be hit.
+So maybe in a final design phase, we might tweak that a little bit.
+But yeah.
+There's definitely options for different types of models and things as well.
+There's a little bit of that.
+Yep.
+All right.
+Good job.
+So is that the final color scheme as well?
+Oh, no.
+This is just what we had to work with at the time.
+OK.
+So we'll leave the color scheme up to the marketing people.
+Careful.
+Yeah.
+Game off.
+There's four wheels in the problem.
+I've been lucky.
+Well, I don't think we're just adding what's the touch.
+Nice and nice.
+The nice of just is we're going to go to the silver, some blacks, like most of the
+televisions.
+You know, some blend of silver, some blacks.
+Hey, beef.
+OK.
+Enough of that.
+OK.
+Let's kill, guys.
+OK.
+So we're done with the dispersion station.
+Yep.
+You're half.
+OK.
+No, no.
+So you're not going to find my folder up there.
+I'm going to do mine up at the board.
+Maybe.
+OK.
+Yeah.
+So can I not get your stuff from your share folder?
+No, it's not in there because I had the computer problem.
+I couldn't create it.
+I couldn't create it in the PowerPoint.
+I kind of think I've got this really strange data.
+So what I had basically going from the PowerPoint format is that, yeah,
+yeah, I like this a lot.
+Is this one of the tests is to see how we can adapt to changing
+this in the reading room.
+So what we had is we had to method.
+That's not an expert method, isn't it?
+Right.
+No way.
+No way.
+No way.
+No way.
+Well, this doesn't look so fast this way.
+And when I speak about method, I speak about the marketing
+method.
+And to me with this product, we got basically three things to
+market.
+We've got the features.
+We have the characteristics.
+And we have, I don't know what we call the other part,
+what we call the corporate.
+Help me.
+The corporation stands behind the product.
+So the features, I think, we've got the scroll.
+We've got the locator.
+We've got the durability.
+We've got the features that make this a unique product.
+The characteristics I talk about, we have reliability.
+We have comfort.
+We have ergonomics.
+We have environments.
+We have sensitive.
+And the corporation we're talking about, we're a new company.
+We're wanting to make a name for a sell.
+For wanting you to find our product.
+So we're going to give you a good product and a fair price.
+One thing I would want to see is, can we get a lifetime guarantee
+on this product and normal use guarantee?
+Which means that this product for the life of the life use,
+it should have a technical problem that we can replace it at no cost.
+That was something I would be interested in.
+So, yeah, without going into great details,
+we have a product that has the features and characteristics
+in the background.
+I believe to make it marketable.
+I believe that a cost of 30, 35 to 50 euros,
+we're going to be competitive.
+And we're going to have a market niche.
+Would you argue that we're better going for the higher cost
+than in bringing it into 25, as we probably could,
+but we're in the profit margins?
+That would be, that would be, I think, a decision
+best paid by corporate.
+For my evaluation, based on what a competition is,
+I think that we can go after this and go after more
+of the exclusivity sense than the mass market sense.
+But I'm sure open to market this matter direction,
+but you guys can't put a great product.
+And at that cost, I think that there's nobody else
+that's putting this combination of ingredients together.
+The only limitations I see to this is that we're focused
+on television only.
+That's the only drawback I see to this.
+But with all of these other features,
+I think people, one thing I'm hoping for is people
+are not going to even notice.
+There's going to be somebody going home and say,
+oh, this thing doesn't work for my DVD and my,
+but I like these other things and keep them just onto it.
+And we're actually quite open to be able to expand the product
+for a later version of those features.
+Okay, so I'm planning on it.
+There's no fundamentally different thing to know what to do.
+One of the thoughts that I had is can this unit be produced
+in a way that makes it upgradable?
+You know, like a SIM card in a telephone.
+Is there a card?
+Can we make a card?
+And so after...
+We need some more buttons if it was to work on some other stuff.
+But you follow on how it works.
+Yeah, we could get another version of it that basically works.
+But if we can make this unit upgradable,
+then then we talk about changing the warranty concept
+and everything.
+But that was just an idea I had.
+To be honest, the rest of making it unusable
+as well are making it less.
+Because at the moment it's actually very straightforward
+to look at all the buttons you know what they do.
+It's very simple and it just works.
+Okay, so we can talk about finance now.
+So I have a little spreadsheet for a spare.
+I was wondering when you talked about 15.8 euros,
+is this one how you came up with that figure?
+Oh, there was just our technical team ended up the production
+cost of the individual units.
+Okay, so I have got the spreadsheet here for this.
+Oh, very cool.
+I've made a few assumptions here in the,
+and assuming that our power adapter,
+we can make for a cost of four euros equivalent to sewer sales,
+which I think is probably fair considering
+that we have in-house manufacturing power adapters already.
+And I'm assuming that the locator beacon,
+can be made for a similar phase to an LC display.
+Do you think that's fair coming from a manufacturing?
+Yeah, I do think that we don't need the advanced chip
+imprint. We only need the regular chip imprints.
+Okay, and we have a missed calculation there.
+Okay, so we're going to 60 percent.
+And we have a single curved.
+Is that a single curved and a double curved?
+I think that we're not entirely sure what same we've got.
+We've got a curve in a droop, I don't know whether that.
+It's single curved.
+It's a little bit more than single curved, so yeah, it's 15.8.
+That's where we came up with it.
+Bye, man.
+Don't speak so.
+Same here.
+Do we have any, we have special form, don't we?
+Yeah, we do.
+So that's, yeah.
+What do you know?
+We haven't talked about any special color though.
+Don't, if we're going to the reason several,
+that's not very special.
+It's pretty.
+Okay, so.
+Pretty much in school, we all, we're basically we have,
+is this intended to be a button as well or just a school?
+There's a scroll.
+Just a scroll.
+It's not one of the schools where, for example,
+if that's when you could push it, then do you have a button?
+No, we just use it as a scroll.
+Okay.
+Then we have 15.8 euros.
+It was a pretty accurate estimate.
+Awesome.
+Awesome.
+Okay.
+So we're on these two as kind of frighteningly accurate.
+We're on to the part on the back part of the presentation
+where we have a look.
+The criteria is that the criteria in criteria at the poll
+has given us, and we can use that to tell.
+How's it going?
+And then we get any thoughts.
+How have we done today?
+I think we did pretty well.
+Yeah.
+I think we did pretty well, too.
+I don't know.
+It's pretty spectacular.
+No, I think we come up with a attractive market of more product
+and concept.
+Any other changes?
+Any other changes?
+Okay.
+So what about room for creativity?
+That was...
+I think we were just planning our room.
+I don't know.
+I think we got a couple innovative.
+Yeah.
+A couple innovative ideas.
+We do kind of broke.
+We kind of at least adjusted every criteria that gave us.
+Because we still have the teletext capability in this thing, right?
+We raised the price of it.
+We've added new technology to it.
+So, you know, if this thing flies,
+then we would adjust it or broken every idea that gave us.
+That's a pretty idea.
+It's still at a more control.
+Yeah.
+There we are.
+No, yeah.
+But we did break with the specs or about, I guess.
+But the...
+But I might...
+I mean, when I say we have...
+I believe we have room for creativity.
+Because this is...
+We did it.
+Okay.
+We need a chat party.
+We'll put back to the bosses.
+You know, there are things that are reasonable fights.
+Well, if there's over the whole change in the specs, then...
+It was more of a teamwork thing than when I was a leadership person.
+Thank you.
+Just...
+It's cohesive.
+It's energy.
+Yes.
+It's energy.
+It's a lot of synergy.
+Yeah, yes.
+But we think of the meeting room, I guess, is important.
+Thank you.
+These cables.
+Yeah.
+Yeah.
+This falls off and...
+Yep.
+The whiteboard worked really well.
+I think it was a very long shirt.
+That's way far down lapel.
+Like...
+Lapel.
+Lapel.
+Lapel.
+Lapel.
+All right.
+That's almost a crotch.
+Like...
+That's quite close.
+You know what they're going to have on a recording now from that microphone is your lunch digesting.
+You know what...
+Yeah.
+I don't know.
+I don't know.
+I don't know.
+I don't know.
+I don't know.
+I don't know.
+I can say it for me.
+Yeah.
+So, yeah, the pen came in all right.
+And it's a lot more uncomfortable to do this, but I guess it was.
+This is your using it to upset them.
+Yeah.
+That's our boss.
+That's our boss.
+I'm not convinced of that at all.
+I've been...
+I've been wondering whether that'll leave CDs look like that.
+That looks...
+That looks like it would be that way.
+All right.
+But it feels more comfortable.
+Okay.
+It works right.
+All right.
+Yeah.
+Okay.
+So that did make a certain bar.
+What new ideas have we found?
+Oh, ideas.
+For the product or for the...
+The...
+The environment or...
+Well, less than both than for the product.
+Well, we had the favorites list in the scroll bar.
+We have the cradle.
+And the remote call feature.
+And then we can grab it.
+And check the new ideas.
+And for the meeting room, does anyone get any more comfortable headsets?
+A bit less?
+Yeah.
+Yeah.
+Clearly remote control microphones would be the nice solution to all these cables.
+But I'm sure that there's some justification for these things that I don't know about.
+And of course, I didn't have so much fun with my computer this afternoon.
+It's not been cooperating so well.
+But I don't think that's the...
+That's a horrible...
+Could have been worse.
+Okay.
+So...
+The cost was in the budget.
+Nope.
+Nope.
+Nope.
+Oh, I mean, really did something in the cost of under 12, 50 years.
+No comments or changes.
+We're still under 20 years though.
+So good.
+Yeah.
+Cost was in the budget.
+Not the original budget, but the honor.
+It is the project evaluated.
+I think so.
+Yeah.
+Then salvation.
+Oh my!
+As it says.
+We could provide that to cafeteria.
+All right.
+I had that with that.
+And...
+Don't roll that one.
+So we need to close this meeting here.
+Bravo.
+Congratulations.
+Good job, guys.
+I've got a lot of paperwork to catch up on.
+So let's close this so I can come back.
+Yeah, a lot of paperwork to catch up on, sir.
+Oh.
+Oops.

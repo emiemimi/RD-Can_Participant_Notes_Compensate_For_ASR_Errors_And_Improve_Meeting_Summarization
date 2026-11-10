@@ -1,0 +1,6237 @@
+All right.
+All right, okay.
+Everyone's waiting.
+Hello.
+Okay, everyone's waiting.
+So we are here for a function and something.
+Okay.
+So we are here for the functional design meeting.
+So first I will show the agenda.
+So we will, I will take notes during this meeting.
+So I will try to summarize it and put that somewhere in the shed for there if you want to look at it afterwards.
+So then each of you will leave the presentation on the task that has been required last time.
+So user requirements, specification, technical function design, and working design.
+Then I will present you some new project requirements.
+I received from the management board.
+Then we will take the decision on the remote control review functions.
+And then I will assign you the task for the next part of the meeting of the process.
+So we want to start the presentation of what the...
+So if you want to stop, you can stop.
+So give me a comment.
+Give me a comment.
+I should be invited for that one.
+I am in the... where are you?
+Oh.
+Oh.
+Okay.
+We will stick with the program.
+Anything you see in the wrong folder.
+You can see somewhere in something like this.
+What do you have in short-cut co-op?
+You can't see somewhere in there.
+Yeah.
+Yeah.
+Again.
+No?
+No.
+But...
+Yeah.
+No.
+When we were in the running.
+When we were in the over.
+Okay.
+No.
+Nothing.
+Yeah.
+There's no...
+Yeah.
+Otherwise, could you just describe my hand with the white phone?
+Yeah.
+If you remember.
+Yeah.
+Yeah.
+Basically.
+One here is the remote control.
+Yeah.
+So...
+Most people want to have a remote for the high-fi and TV and stuff like that.
+Mm-hmm.
+And...
+But other people want to also remote for controlling toys like robotic beds and robots and stuff.
+And other people also want to have remote controlling a whole house.
+Yeah.
+So there's a project I think called X-House or something like that.
+That's that.
+Yeah.
+You can integrate the remote with computer stuff.
+Mm-hmm.
+So...
+There's one last one.
+The other thing is...
+The...
+The find the future.
+Yeah.
+By with you.
+Whatever.
+Yeah.
+Yeah.
+If you have the find the future, then you can actually have the same time as...
+And general ghost commands.
+If you want.
+Yeah.
+Mm-hmm.
+So...
+I think it's clear back.
+I think that case.
+Yeah.
+So the...
+Usually the first one is the two parts.
+One is the voice command.
+But the other one is the actual buttons part.
+The...
+The buttons part would be a set of buttons for choosing devices.
+Mm-hmm.
+A set of buttons for spatial navigation and space.
+Mm-hmm.
+So the buttons for linear access of medium.
+And the set of buttons for random access.
+Okay.
+So what do you mean by linear access?
+Like, we do take good forward backwards and faster stuff.
+Yeah.
+Yeah.
+Okay.
+So spatial navigation, linear access random access.
+And there's a false window.
+Mm-hmm.
+So the button offers spatial navigation.
+Yeah.
+For spatial navigation, we might have a given a menu.
+Okay.
+Yeah.
+The linear access.
+The random access.
+Yeah.
+And also parameter.
+Oh, yeah.
+Sorry.
+So these are common parameters.
+We should put spatial buttons for that.
+Okay.
+Yeah.
+You will have everything that...
+Yeah.
+generic.
+But there are a lot of emotes on the market right now.
+Okay.
+Which gives most of the...
+Almost everybody has this stuff.
+Okay.
+And voice command.
+What's command?
+You could...
+It's fine.
+You could assign any button, a command to any button.
+Okay.
+Okay.
+So that's those are investigations.
+Yeah.
+Yeah.
+Yeah.
+Okay.
+Maybe we can have a look at the user requirements please.
+Yeah.
+I don't know if you can.
+I don't know if I can.
+Maybe you can.
+Love to.
+It's...
+Yeah.
+Okay.
+Let me send you that.
+Yeah.
+I'm talking about the machine.
+I'm talking about the machine.
+Yeah.
+Yeah.
+You should've...
+You need to edit.
+Yeah.
+You should've kept to landing a shuffler.
+Yeah.
+Maybe you can send me to me by adding a...
+Oh, yeah.
+Maybe you can send me to me by adding a...
+Just a participant who has it.
+1
+It's me
+I'm sorry to show you 3 of everyone
+Okay, one
+okay
+Are you funny?
+It's back since time
+yeah
+This is recently
+I'm very good.
+Thank you.
+So maybe I can switch slides
+whenever you are.
+That will be more convenient.
+So, okay.
+Unfortunately, you can do.
+You can do.
+Okay.
+So, in our usability lab,
+we observed that we might control use among 100 subjects.
+And these subjects are so filled with generally.
+Okay.
+And you have those results.
+So, you can see that
+25% of users find most remote controls ugly.
+So, we have to find something to make them more nice, more kind.
+80% of users would spend more money
+when a remote control would look fancy.
+80% of users would spend more money
+when a remote control would look up.
+That's not good.
+So, okay.
+So, I can say,
+75% of users say they zap a lot.
+So, we have to have a remote control
+very out for that.
+The buttons have to be
+like you say,
+resisting to function.
+And 50% of users say they only use 10%
+of the buttons in the...
+Okay.
+So, all the buttons we have to put are
+up to 12
+use a real use.
+Okay.
+Okay.
+So, few are buttons maybe.
+Yes.
+Not many buttons.
+And you use a remote buttons.
+Okay.
+But what kind of remote controls do you think about that?
+Sorry.
+What kind of task was it?
+It was a TV.
+Yeah.
+What was it for?
+What is TV?
+Yeah.
+But in fact,
+we...
+It seems that we are going to make a TV remote control.
+According to new requirements,
+I will see it from the manager on board.
+I would pretend that in the photo room.
+Ah.
+Good.
+Okay.
+You can use them.
+So,
+there are the frustrations expressed by users.
+So, they said they lost a friend remote control in the room.
+So, they want to have a way to...
+To find it.
+Find it.
+Yeah.
+And a lot of the time,
+it takes too much time to learn how to use a new remote control.
+So, they want something simple and easy to use.
+Easy to use.
+And remote controls are bad for...
+What is it?
+I'm sorry.
+What is it?
+Yeah.
+With your wrist.
+It can become painful.
+You can find it on your toes.
+Are you?
+Yeah.
+And you don't do that.
+Actually, it's a top of the computer.
+It's a position.
+Okay.
+So, we have to make it more ergonomic.
+Yeah.
+You have to see.
+Carver.
+Okay.
+It's your job.
+Oh.
+Sorry.
+I didn't see it from my business.
+Okay.
+Okay.
+Before that,
+I have some...
+Some...
+Some...
+Some...
+Same.
+Yeah.
+What you saying?
+Yeah.
+Yeah.
+Yeah.
+Um...
+We know that there is...
+I use a lot of remote control to change channel.
+Yeah.
+Um...
+And to change volume selection.
+Okay.
+And...
+And not a lot for setting...
+Yeah.
+For setting the...
+For the channel.
+And things like that.
+Okay.
+So, it better to put something very easy to that.
+Yeah.
+This function should be very, very accessible.
+Very, very accessible.
+This is the main function.
+Okay.
+So, then we ask some questions.
+Yeah.
+To them.
+Yeah.
+And, um...
+We ask this question.
+If they prefer a new city street now.
+And a remote-specific function remote control.
+Yeah.
+And if they pay more for speech recognition in remote control.
+Yeah.
+And you can do...
+Yeah.
+We have...
+We have the results of...
+The...
+The...
+The...
+The...
+Questions.
+So, you know...
+That, um...
+For the younger.
+It's very important.
+To others.
+To others.
+Yes.
+And speech recognition.
+And...
+And the others is not so important.
+But, uh...
+We know that, uh...
+People between 15 and 25 are people who watch a lot TV.
+And, um...
+You can use a lot this...
+Okay.
+So, maybe we can have...
+Yeah, maybe this...
+This is important.
+Yeah.
+Forward.
+Maybe those, uh...
+Like, just in nature,
+customers can advise their parents to buy these equipment.
+And so, we can...
+We have to take care of that point of view, I think.
+Awesome.
+Mm.
+Yeah.
+Okay.
+And, uh...
+The conclusion.
+So, as we say before,
+I think, uh...
+We will control lightning in the decades.
+It's a good thing.
+Okay.
+Not too many buttons like we said before.
+Yeah.
+Easy to use.
+Uh...
+Way to find it easily in the room.
+And, uh...
+To resistance.
+To...
+To shock.
+To shock.
+To...
+To...
+Okay.
+All right.
+Okay.
+I don't know if you'll see something else in the bottom top.
+I'm just thinking of something.
+Yeah.
+Um...
+We want to have a...
+I don't know if it's a grenade.
+We don't have a general remote control for everything.
+No, no, no.
+No.
+We...
+It seems that we know one, two have a TV remote buffer.
+Okay.
+From the management board, I will see the main.
+Because it would be costly.
+Uh...
+And also, it would take more time to develop to have a general generic remote control.
+Um...
+I...
+It's not the right thing.
+No, no.
+It's not the right thing.
+No, no.
+That it would be the wrong.
+It would be the wrong.
+I think it would be the same.
+Oh, yeah.
+Because I received that,
+I think that made from management board.
+And this seems to tell that,
+that if we want to be on the market,
+as early as possible,
+we should focus on TV more,
+and it seems that the market is more on the bottom.
+So, maybe it's a good decision.
+I don't know.
+I don't know.
+I don't know.
+I don't know.
+I don't know.
+I don't know.
+I don't know.
+I don't know.
+Yeah.
+Finish tonight.
+Okay.
+But basically,
+yeah, maybe I can continue with my presentation.
+It would be okay.
+Yeah.
+But I think we have some technical problems.
+So, I'm just going to describe briefly what we're doing
+in the remote control.
+Maybe you can go to the white body flops
+I'm going to do, you know.
+Oh, yeah.
+I have enough cables.
+Okay.
+Okay.
+Flip, like a dog wheel.
+Okay.
+So, I'm just going to describe.
+In fact, for remote control,
+this is quite easy.
+We just have...
+Okay.
+Are you okay?
+Like that.
+I'm just going to describe.
+Basically, we have a batch wheel.
+A bar supply wheel.
+I'll put that.
+We just have a user interface.
+Let's hear that.
+Something like that,
+which could be the LCD,
+let's say,
+or an array of touch button,
+something like that.
+After that,
+we feel that into,
+like, a little bit extra chip.
+So, I say,
+and I feel that to a LED,
+which is an infrared,
+which is an infrared,
+and so,
+what we call,
+for myself,
+for us,
+this is quite easy.
+You see the sound right here?
+Yeah.
+Okay.
+It's just a chip,
+which does all the
+numerical computation in your computation,
+according to the display.
+And so, for us,
+this is quite easy to just need to,
+to define what we want to do
+when the user interface
+wants something,
+and after that,
+we just do a recording to send that to
+to the,
+to the,
+to the,
+to the,
+okay.
+So, this is quite easy.
+Okay.
+So, this is great for you.
+Yeah.
+And we just have to define
+the processing power that we need,
+especially if you want to do
+some,
+a speech recognition,
+in that case,
+in that case,
+that we are going to use more.
+This is,
+this will take more time to do it.
+Yeah.
+Of course,
+and,
+but for us,
+this is really,
+it's a question of
+one month.
+So,
+you use,
+you speak about voice control?
+No, no, no, I say it.
+Stun that but what?
+Yeah.
+Stun,
+stand out,
+understand how we both come from,
+thanks for the one month
+to be able to do that.
+So, the only time for the voice to the person.
+Yeah.
+Definitely.
+So,
+do you have any idea
+of what will take,
+what's pollution?
+I will say,
+do me a thing.
+I would say that I can bounce to the first results, okay, so it's a bit normal, yeah.
+One month for the start-up one with voting, yeah. Even if we have a very easy display, yeah, I don't know, this is where it's turned off the device, isn't it?
+Okay, so we can take this into account. So we think it would be going to go for like speech recognition, but we will do a lot of time to mark it.
+And also, I'll mention, I think, I think covering the kick-off meeting, you said that we shouldn't go up to 25, 25 units.
+Yeah, so how many units should we sell to ever?
+Well, each unit is a 25-year-old. Yeah, but how much do you get? How much do you get? How much do you buy one million units?
+One hundred thousand units, it's going to be like, yeah, how much will it cost for one hundred thousand units?
+Usually, this is less than about two dollars, actually, okay.
+Because we have any, for apart from one, we're going to have to do it.
+Yeah, okay.
+It seems that we want to say, like, four million units from the first meeting.
+Okay, four million units.
+Okay, maybe we can look at the new requirement I received from the management board and the streets discussed.
+All function we want to run.
+I just had a question, do you want to come to me?
+Yeah, I agree with you.
+Well, ask your question, if you want.
+You say that I don't remember how to let 30% of the distance people say that it's quite difficult to use the remote control.
+Do they say that this is difficult, but for the same reason, or do they have other reasons?
+Maybe to keep in mind, maybe to access to that menu, you should do something like that.
+Yeah, I think that it's difficult to learn how to use it, but when you know how to use it, it's okay.
+That's not it, you see.
+But yeah, maybe a lot about it with designer remote control, which can be configured as it wants.
+You say that if I want, I have six words.
+A lot of people are, if you have actually the screen, you can do it completely the way you want,
+because the bottom touch will look the way you want them.
+But also, it will be hard to configure.
+So it's really something for the expert user.
+Also, there are markets and markets.
+I think the young people are testing here.
+So for young people, it will be cool.
+They will be able to use it.
+Maybe their parents will not, but they will configure it.
+I guess as much as they do.
+Maybe it will be more complex to configure it to be simple.
+Then creating a simple project.
+There are other things that if you make something that's simple,
+and it needs to use it, it needs to be exactly the same as everything else.
+Otherwise, if it's different, then of course it will cache some of the customers to learn.
+First.
+Yeah.
+But also, we see that most people find it's fine remote controls to complex because they have too many buttons.
+And they mainly use only channels and volume buttons.
+So we may just make it very easy to use remote controls with mainly those buttons.
+And maybe also some lightning stuff because most people find also art to find the remote controls.
+These are these two points on the main frustration.
+So maybe if we design something very simple and easy to find when lost,
+it will add a serious competitive advantage without making something too complex and too long to need.
+So, but let us see first the new requirement.
+So we don't have to, so this is in the same direction as we were speaking.
+So we don't have to make a very complex remote controls to access teletext and stuff like that.
+It takes just one button.
+Yeah.
+But then you have to define the buttons to serve your most.
+They just tries to write a number.
+Yeah.
+So where?
+Where would they tell you?
+Right.
+Yeah.
+So anywhere we don't have to move through this feature because it's not used anymore by users.
+They prefer to.
+Yeah.
+I'm sure that it doesn't like, but I don't see it just one button.
+Yeah.
+So.
+I don't know.
+If one button is still one more button.
+If you want to make it very simple, we have to reduce the power button compared to our competitors.
+Well, anyway, I have this point.
+We can discuss.
+Also, so as I told before, it would be better if it's only for the CD.
+Because we want to be quick on the market.
+And then, also, we have to make very clear that this remote control is part of our products
+and show a cooperator level and the core is under design as well.
+So that they not fit as one of our products.
+So this is the key point.
+So before finishing, we can define what would be the characteristic of the control, of the remote control,
+and which button do we need, which function do we want, et cetera.
+So do you, so from the marketing expert, I think, the key aspect is the easy to use aspect.
+It should be very simple.
+And most buttons are never used, only 10% of the buttons are used often.
+So I think we have to do something very simple.
+And I think we are every on that point.
+Well, if you do, do you get a technical control?
+Yeah.
+Okay.
+So the key point here is simple.
+Maybe, so few buttons, channel, volume control, and what function do you see?
+Well, if you think you are simple as possible, then just like if you want to do, there is no other function of the action.
+Okay.
+Maybe switch to V on the note.
+You want to keep the results of the advertising campaign.
+Yes.
+Yeah.
+Yeah.
+Volume, maybe your mute button, and then one off button.
+And that's all.
+I know that.
+So you say that many people are doing plenty of lots of zapping.
+I know I discovered that I did a quick look.
+They do not solve.
+They do something which is quite nice now.
+You have a button.
+You press it.
+And this is the previous channel which is coming back.
+Yeah, this is cool.
+Maybe we can include that as a previous channel button.
+So we have like channel button, the previous channel button, the volume button plus a mute
+button.
+And just the traditional one off button and of course the channel is changing buttons.
+Yeah.
+I think it's probably a really comfortable implementer because when you make a long way,
+you can go to increment.
+Yeah.
+Incremental, definitely because it's happening.
+You switch them.
+Let's say that we can do something like that.
+This is an improvement tone.
+But when you press it for a long time, you go five by five.
+We do go five.
+Two by five.
+It's an interesting idea that if you press it for a long time, that's something else.
+In general.
+So if you have your ten buttons for the numerical buttons and you have just one memory,
+you have a few percent for a long time.
+No.
+It doesn't work.
+Maybe we should have also the G.
+Maybe we have also to have the G.
+Or an improvement tone.
+I don't know.
+Because it's useful.
+It's useful.
+Like if you don't click the edge, for example.
+Then you cannot just remember the increment tone.
+Yeah.
+Because you have your previous channel button.
+If you have incremental only, it's a...
+It doesn't work.
+Because the progression is either a minus one or a plus one.
+Yeah.
+So I think we need also a DG.
+Okay.
+Maybe we can make very obvious the channel and volume button and smaller button.
+Turn there with the DGs.
+Yeah.
+One is up usually.
+You will have to put the same button with the time tone.
+Yeah.
+And we can do something like that.
+We can design the remote control to our access.
+You know some remote control have a protection.
+And so you...
+Yeah.
+Yeah.
+Yeah.
+This was the thing.
+There's a...
+You know there's a mask with a wheel like this.
+It's still having the up-down button.
+Yeah.
+Yeah.
+Okay.
+Maybe we can have a wheel for incremental.
+Okay.
+So I have a wheel for incremental.
+I have the DGs on the lower side.
+That can be closed.
+So it is then protected.
+Okay.
+And...
+Yeah.
+I think this...
+On the lower side.
+I think we have tint.
+No.
+And we...
+Do we have a...
+Or a bow?
+Yeah.
+Not a wheel button.
+But a bow.
+And you say...
+It's better.
+I will say the wheel is better.
+Because the wheel is better.
+Because the wheel is better.
+Because the wheel is better.
+Because it's better.
+Yeah.
+Because it's not like a volume which is smooth.
+Yeah.
+It's generally changed one by one.
+Yeah.
+So you have to...
+And you should feel the...
+Yeah.
+They...
+Yeah.
+That's good.
+Yeah.
+That's a good idea.
+Yeah.
+And...
+Well, also we have to decide...
+So it should be like...
+Meaning the dark.
+I think...
+Because most people lost their own control.
+Quite easy with all types.
+With black light on the...
+With a wheel LED or if it's a...
+It's a wheel LED.
+And it's a wheel LED.
+And we sell that.
+And we put an LCD display.
+Because it was important for young customers, if you remember.
+I think it's only important if you have more diffraction.
+If you have more diffraction then there's no pump on them.
+It should be just because of course...
+Okay.
+And you don't have an advantage.
+So no LCD.
+Mm-hmm.
+And so no stitch as well.
+Because it would delay too much.
+Okay.
+The vehicle is going to delay.
+Yeah.
+Yeah.
+It would be good.
+Because it could say a CNN for example.
+Cool.
+See?
+Cool.
+Yeah.
+That would be cool.
+But eight months is really normal.
+Maybe we can just...
+Ten years.
+Ten years.
+Yeah.
+So...
+I will...
+I will...
+So...
+We will move to next meeting.
+So in...
+After the range break.
+Uh...
+You are the individual action.
+Uh...
+You are required to do.
+But you will be...
+Uh...
+Record those actions by...
+You may, I think.
+But you can take notes if you want.
+But...
+Well, the instruction will be the same.
+So...
+Thank you for your suggestion.
+And I will make a summary of that meeting that I will put in the share folder.
+You can't see.
+Okay.
+And...
+And then you will be able to see what has been...
+Has been said on this meeting and what has been decided.
+Uh...
+Maybe for next meeting, send me your presentation before by mail.
+So that we can see them all together.
+Yeah.
+That will be easier.
+What is the fault of our people using?
+A little block.
+No.
+No, he did not work.
+No, he said to me by mail.
+No.
+Okay.
+So maybe it's better to send it by mail.
+Okay.
+What is your memory?
+So...
+Yeah.
+I mean, it's in the first...
+Uh...
+You may...
+So I'm about to submit one.
+I'm about to submit one.
+Okay.
+Uh...
+Where is that?
+It's here.
+How to submit one and...
+Okay.
+So...
+See you.
+Do a lunch break.
+You're going to do a lunch break, actually.
+There you go.
+So next time we should tell the fight.
+Yeah.
+What do you think?
+I will tell you.
+Maybe it's one or two or something.
+Okay.
+We'll help us to be a friend.
+Use the fight and then we'll deny you that.
+See if there you are.
+There you are.
+Okay, everyone is ready.
+Okay. Okay. Everyone's ready? Hello. So we are here for our function design. Okay. So we
+are here for the function design meeting. So first I will show the agenda. So we will
+I will take notes during this meeting. So I will try to summarize it and put that
+somewhere in the shell folder if you want to look at it afterwards. So then each of you
+will lead a presentation on the task that has been required last time. So user requirement
+specification, technical function design, I'm working design. Then I will present you
+some new project requirements. I received from the management board. Then we will take the
+decision on the remote control and the functions. And then I will assign you the task for the next
+task. But of the meeting, of the process. So we want to start the presentation of what the
+We will start the brainstorming. So this is kind of the shooting and we are going.
+What do you have in Shotkuk?
+Go up.
+Can't you spend two?
+Yeah.
+Go up.
+Yeah.
+Again.
+No.
+No.
+But.
+Yeah.
+No.
+Maybe you hasn't done.
+I can do.
+Over.
+Okay.
+Nothing.
+Nothing.
+Nothing.
+Nothing.
+Nothing.
+Nothing.
+Nothing.
+Nothing.
+Nothing.
+Nothing.
+Nothing.
+Nothing.
+It's not.
+Why, could you just describe my hand with the white pole?
+Yeah.
+If you remember?
+Yeah.
+Yeah.
+So basically what we want here is the remote port to arrive.
+Yeah.
+So that question will be somewhat more to control.
+So most people want to have a note for the high fire and TV and stuff like that.
+The other people want also remote for controlling
+and toys like robotic beds and robots and stuff.
+And other people also want to have remote
+for controlling whole house, yeah.
+So there's a project that I think call text house
+or something like that.
+That's that.
+You can integrate remote with computers and stuff.
+So there's one lot to work with.
+The other thing is the finder features are by working
+with whatever.
+If you have the finder feature, then you
+can also have at the same time, and then it
+goes commands if you want.
+So I think it's clear packets in that case.
+So the user in the face of this is the two parts.
+One is the voice command, but one is the actual patterns part.
+The buttons part would be a set of buttons for choosing devices.
+A set of buttons for spatial navigation in space.
+So the buttons for linear access of medium.
+And the set of buttons for random access.
+OK.
+What do you mean by linear access?
+Like a video tape goes forward backwards and stuff.
+OK, so spatial navigation, linear access
+random access, and there's a false window.
+So the button now for spatial navigation.
+Yeah, for spatial navigation, you might have a TV
+and a menu.
+The linear access, the random access.
+Yeah, and also parameter.
+Are you there?
+So if there are common parameters, we
+will put spatial buttons for that.
+We will have everything generic.
+But there are a lot of remotes on the market right now.
+This is most of everybody had this stuff.
+OK, and voice command?
+First command, you could define a command to any button.
+OK, if you have enough processing power, I guess.
+OK.
+So that's that close your investigations.
+Yeah.
+OK, maybe we can have a look at the user requirements, please.
+Yeah.
+I don't know if you can.
+I don't know if I can.
+Maybe you can.
+Not here.
+It's not here.
+Yes, I know.
+I took a look at the page.
+Yeah.
+Yeah.
+Yeah.
+Yeah.
+Yeah.
+Yeah.
+Shortcut to remove that menu.
+That's a short folder.
+Yeah.
+Yeah.
+Yeah.
+Maybe you can send it to me by maybe just to pass the point one.
+Add a menu.
+Yeah.
+OK.
+I'm going to try to show it to everyone.
+I'll put it in more.
+OK.
+OK.
+Um.
+Is that it?
+It's a simple time.
+Yeah.
+Oh, this is easy to me.
+I'm very good.
+I'm very good.
+I'm very good.
+Thank you.
+So maybe I can switch slides whenever you want to do it, so you can do it in how I use
+the BT Lab.
+We observed the remote control use among 100 subjects, and these subjects are so
+filled, a questionnaire-y, and you have the results, so you can see that 75% of users
+find most remote controls ugly, so we have to find something to make them more nice, more
+kind.
+80% of users would spend more money when a remote control would look fancy.
+80% of users would spend more money when a remote control would look up.
+That's not good.
+So, okay, so I can say, 75% of users say they zap a lot, so we have to have a remote
+remote control, very out for that, the buttons have to be, like you say, resistant
+to chunks.
+And 50% of users say they only use 10% of the buttons in the remote control.
+So all the buttons we have to put are, we have to use a real use and not take any help.
+Okay, so if you have any questions maybe if you have any questions and you use a remote
+buttons.
+Okay, but what kind of remote controls you can cut?
+Yeah, but in fact it seems that we are going to make a TV remote control according to
+new requirements I receive from the management board, I would present them in the photo.
+Okay, you can use them.
+There are the frustrations expressed by users, so they said they lost a lot of the remote
+control in the room, so they want to have a way to find it, and a lot of the time it
+takes too much time to learn how to use a new remote control.
+Because I want something very simple and easy to use.
+And remote controls are bad for what is the inside.
+The other side, yeah, your wrist can't come painful, because I'm telling you this.
+Yeah.
+And you don't do that.
+Okay, so we have to make it more an ergonomic, you know what I'm going to make, yeah,
+I'm going to say half a point, it's your job.
+Oh, sorry, I didn't see it from Microsoft.
+Okay, before that, I have some, some, some thing, what do you say?
+Yeah.
+We know that there is a use, a lot of remote control to change channel.
+Yeah.
+And to change volume selection.
+Okay.
+And I'm not a lot for setting, for setting the channels and things like that.
+Okay.
+So if better to put something very easy to that, and these functions should be very accessible.
+Okay.
+Okay.
+This is the main function.
+Okay.
+So then we ask some questions to them.
+Yeah.
+And we ask this question, if they prefer a new city spinner on the remote effects function
+remote control.
+And if they pay more for speech recognition in remote control.
+Yeah.
+And you can go, we have here the results of the question.
+So, you know, that for the younger, it's very important to others.
+To others.
+Yes.
+And speech recognition.
+And, and the others is not so important, but we know that people between 15 and 25 are people
+who can watch a lot of TV and who can use a lot of this.
+Okay.
+So maybe we can have this.
+Yeah.
+Maybe this is important.
+Yeah.
+Over.
+Maybe it was like a teenager, customer can advise parents to buy this equipment.
+So we can, we have to take care of that point of view.
+Question.
+Yeah.
+Okay.
+And if there is a conclusion.
+So, as we said before, I think a remote control lightning in the decades.
+It's a good thing.
+Okay.
+Not too many buttons like we said before.
+Yeah.
+Easy to use.
+A way to find it easily in the room.
+And resistance to, to, to shock can, to, to.
+Okay.
+Okay.
+I don't know if you see something else in the monitor.
+And just thinking of something.
+Yeah.
+We want to have that.
+I don't know if it's a good idea.
+We also have a general remote control for everything.
+No.
+No.
+No.
+It seems that we know one, two have a TV remote control.
+Okay.
+From the management board, I will see a, you may.
+Because it would be costly.
+And, and also it would take more time to develop to have a general generic remote control.
+No.
+It's not broken.
+No.
+No.
+It's not broken.
+No.
+No.
+It's not broken.
+No.
+It's not broken.
+No.
+No.
+It's not broken.
+No.
+It's not broken.
+That it would be wrong.
+It would be wrong.
+I think it would be the same.
+Oh, yeah.
+Because I received that made from management board.
+And this seems to tell that that if we want to be on the market, as early as possible,
+we should focus on TV more and it seems that the market is more important.
+So maybe it's a good decision.
+I know.
+I know.
+I know.
+I know.
+I know.
+I know.
+I don't think I should know which more about how fast we can design.
+Don't think it could be there.
+Yeah.
+Finished tonight.
+Okay.
+But basically, yeah, maybe I can continue with my presentation to the.
+Okay.
+But I think we have some technical support.
+So I'm just going to describe briefly what we do in the remote control.
+Maybe you can go to white body traps on going to the studio, I don't know, do I know?
+Oh yeah, no, I have enough cables.
+Okay, I feel like a dog moves.
+Okay, so I'm just going to this front.
+In fact, for a remote controller, this is quite easy.
+We just have a phone.
+Okay, are you okay?
+Like that.
+I'm just going to this front.
+Basically, we have a battery, a voice, a client.
+After that, we just have a user interface.
+Let's say that something like that, which could be the LCD,
+I'd say, or an array of push button, something like that.
+After that, we feel that into an electronic chip.
+So I say, new, I say, and I feel that to an LED,
+which is an infrared, which is an infrared, and so what we for myself,
+for us, this is quite easy.
+You see the center unit?
+Yeah.
+Okay, it's just a chip, which does all the critical computation
+in your computation, according to the display.
+And so for us, this is quite easy.
+You just need to define what we want to do when the user interface
+wants something.
+And after that, we just do a recording to send that to the
+two-step illusion.
+Okay, so this is quite easy.
+Okay, so this is great for you.
+Yeah.
+And we just have to define the processing power that we need,
+especially if we want to do some speech recognition in that case,
+that we have to be able to use more.
+We have to think this would take more time to do it.
+Yeah, of course.
+But for a standard one, this is really easy.
+It's great enough.
+One month, so.
+Do you speak a voice control?
+No, no, no.
+Yeah, standard one.
+Yeah, standard, standard robot control.
+Thanks for the amount of speech to do that.
+So the only time for the voice group.
+Yeah, definitely.
+So do you have any idea what would take to a voice
+solution?
+I would say any other.
+I would say that eight months to have the first response.
+Okay, so it's a bit normal.
+Yeah.
+One month for the standard one is button.
+Yeah.
+Even if we have a voice, it will display.
+Yeah.
+I mean, this is where it's turned off to the device, isn't it?
+Um, thanks.
+Fall on the speech recognition.
+Okay, yeah.
+Okay.
+So we can take a piece into a car.
+So we think it would be going to do for like speech recognition,
+but we will have time to mark it.
+And also, I'm not sure.
+I think, I think we're going to kick off.
+We think you said that we shouldn't go up to 5 or 5 units.
+Yeah.
+So how many units should we set together?
+Well, each unit is 25 euros.
+Yeah.
+But how much do you get?
+How much do you get?
+How much do you get?
+If you buy one million units, right?
+One half a thousand units.
+Two, three, two, right?
+Yeah.
+How much do you get?
+Because one half a thousand units.
+Usually, this is my standard of two dollars, actually.
+Okay.
+Because when I went for the parking lot,
+it would be enough for me to...
+Yeah.
+Okay.
+So it seems that we want to say, like,
+four million units from the first meeting.
+Okay.
+Four million units.
+Okay.
+Maybe we can look at the new requirement I received from the management board
+and discuss all function we want to run.
+I just had a question.
+Do you want to come to me?
+Yeah.
+A week or two.
+Well, that's your question, if you want.
+You said that.
+I don't remember how.
+30% of the testing people said that it's quite difficult to use.
+So the remote control.
+Yeah.
+Do they sell them?
+This is difficult, but for the same reason,
+or do they have a reason?
+Maybe to keep in mind, maybe to access to that menu,
+you should do something like that.
+Yeah.
+I think that it's difficult to learn how to use it,
+but when you know how to use it, it's okay.
+That's not easy to use.
+Yeah.
+Maybe.
+And what about if we design a remote control,
+which can be configured as it wants?
+You said that.
+I want.
+I have six words.
+A lot of people are, if you have the LCD screen.
+Yeah.
+You're completely the way you want.
+Because the bottom touch will look.
+Yeah.
+The way you want them.
+But also this will be hard to configure.
+I mean, you might have had it.
+So it's really something for the expert user.
+Also, I mean, there are markets and markets.
+Yeah.
+Yeah.
+Yeah.
+Yeah.
+So for our young people, it would be cool.
+They're going to use it.
+Maybe their parents will not, but they will configure it.
+I guess I'll know if there's a study.
+Maybe it would be more complex to configure it.
+Yeah.
+To be simple.
+Yeah.
+Then creating a simple project.
+Yeah.
+I think that if we make something that's simple,
+and this is the user, it's basically the same as everything else.
+Yeah.
+All right.
+Yeah.
+Otherwise, if it's different, then of course,
+we're going to catch some of the customer learning.
+Yeah.
+First.
+Yeah.
+But also, we see that most people find it fine remote controls
+to complex because they have too many buttons.
+And they may be used only channels and volume buttons.
+So we may just make it very easy to use remote control with
+mainly those buttons.
+Yeah.
+And maybe also some lightning stuff to,
+because most people find also art to find the remote control
+rooms to proceed, et cetera.
+These are, these two points are the main frustration.
+So maybe if we design something very simple and easy to find
+when lost, it will add a share use competitive advantage
+without making something too complex and too long to move out.
+So, but let us see first the new requirement.
+So we don't have to, so this is in the, this is in the same direction
+as we were speaking.
+So we don't have to make a very complex remote controls
+to access teletext and stuff like that.
+You text it just one button.
+Yeah.
+But then you have to, you have to define the buttons to serve
+your mouse.
+They just tries to write a number.
+Yeah.
+Yeah.
+So where you are with the teletext, right?
+Yeah.
+Sure.
+So anyway, we don't have to make this feature,
+because it's, it's not used anymore by users.
+They prefer to.
+Yeah.
+I'm sure that they don't like, but I don't see, just one button.
+Yeah.
+So, I don't know.
+If one button is still one more button.
+If, if, if we want to make it very simple, we have to,
+we use them for our buttons to combat to the, to our competitors.
+Well, anyway, I have this point.
+We can discuss also.
+So as, as I told before, it will be better if it's only for the CD.
+Because we want to be quick on, on the market.
+And then also we have to make very clear that this,
+this remote control is, is part of, of our projects,
+and show, operate a logo and colors on the, on the design as well.
+So that they don't fight as one of our projects.
+So this is the key point.
+So before finishing, we can define what would be the characteristic
+of the, of the, of the control, of the remote control,
+and which button do we need, which function do we want,
+et cetera.
+So, do you, so, so, from, from the, the marketing
+expert, I think the key aspect is the,
+easy to use aspect.
+It should be very simple.
+And most buttons are never used, only 10% of the buttons are,
+are used often.
+So I think we have to do something very simple.
+And I think we are every on that point.
+Yeah.
+Well, if you do, do, do, do, do, do, do.
+Yeah.
+Okay.
+So the other key point here is simple.
+Maybe, so few buttons, channel,
+volume control.
+And what, what function do you see?
+Well, if you need to be as simple as possible,
+and just at the remote control, there's no other faction
+or like, actually.
+Okay.
+Maybe switch to the unknown.
+No, you want to do the wrong sort of,
+the advertising campaign.
+Everyone you can come back to us.
+Yeah.
+Something.
+Yeah.
+Volume.
+Maybe your mute button.
+And then one off button.
+And that's all.
+I know that.
+You say that many people are doing plenty of lot of zapping.
+I know.
+I discovered that when I did a quick look.
+They do not sort.
+They do something which is quite nice now.
+You have a button.
+You press it.
+And this is the previous channel which is coming back.
+Yeah, this is cool.
+Maybe we can include that as well.
+Previous, previous channel button.
+So we have like channel button.
+The previous channel button.
+The volume button.
+Plus a mute button.
+And just the traditional one off.
+And of course, the channel changing buttons.
+Yeah.
+I told you all right.
+Yeah.
+I told you all right.
+Because when you make a long year,
+you can be also incremental.
+Yeah.
+Incremental, definitely.
+Because zapping, you switch them.
+Let's say that we can do something like that.
+This is an instrumental.
+But when you press it for a long time,
+you go five by five.
+You do go five?
+To go five.
+It's an interesting idea.
+But if you press it for a long time,
+that's something else.
+So if you have your 10 buttons for the numerical buttons,
+and you have just one memory,
+you have a few percent for a long time,
+you know,
+you don't work.
+There you go.
+Maybe we should have also a DG.
+But have a complete burden to try for some commands.
+Like that?
+Yeah.
+It takes time to wait.
+Yeah.
+Yeah.
+Maybe we have also to have the genes
+or an incremental.
+I don't know.
+Because it's useful.
+It's useful.
+Like if you do three times for example,
+then you can look forward to just remember the incremental.
+Yeah.
+Because you have your previous channel button,
+if you have incremental only,
+it doesn't work.
+Because the progression is a minus one,
+or a plus one.
+Yeah.
+So I think we need also a DG.
+Okay.
+Maybe we can make very obvious
+the channel and volume button
+and smaller button down there
+with the DGs.
+Yeah.
+One is up usually.
+You will have to put the same button
+with the time.
+Yeah.
+And we can do something like that.
+We can design the remote control to have access.
+You know,
+some remote control have a protection.
+And so you,
+you,
+yeah.
+Yeah.
+Yeah.
+I just always think there is a,
+you know,
+that's how much we will like this.
+Still having the up-down buttons.
+Yeah.
+Yeah.
+Yeah.
+Maybe we can have a wheel for incremental.
+Okay.
+So I have a wheel for incremental.
+I have the DGs on the lower side
+that can be closed.
+So he is then protected.
+And,
+yeah.
+I think on the lower side,
+I think that after 10.
+And do we,
+do we have a,
+or a bow?
+Yeah.
+Not a,
+a wheel,
+but a bow.
+And you say,
+you know,
+I will say,
+the wheel is better.
+Good.
+Yeah.
+Good.
+It's not like a volume,
+it just moves.
+Yeah.
+So you have to,
+you should feel the,
+the,
+the,
+the,
+the,
+the bit.
+Yeah.
+That's a good idea.
+And,
+well,
+also,
+we have to decide,
+so it should be lightning in the dark.
+I think because most people lost their control quite easily
+with,
+with backlights on the,
+with the way they lay their,
+if it's a,
+if it's a blue,
+a blue,
+and then we settle that.
+And do we put an LCD display?
+Because it was important for,
+young customers,
+if you remember.
+I think it's only important
+to have all the function.
+You know,
+there's no problem pointing out there.
+It should be just because of course.
+Okay.
+And you don't have an advantage.
+So no LCD.
+And,
+so no speech as well,
+because it would delay too much,
+the,
+the,
+the,
+the,
+the,
+the,
+the,
+the,
+the,
+yeah,
+that would be cool.
+But eight months is really long.
+Maybe we can just,
+tell you this.
+So,
+uh,
+uh,
+I will,
+uh,
+I will,
+so,
+we will move to next meeting.
+So in,
+after the range break,
+uh,
+yeah,
+the individual action,
+uh,
+you are required to do,
+but you will be,
+uh,
+record those actions
+by,
+you may,
+but you can take notes if you,
+if you want.
+But,
+well,
+the instruction will be sent.
+So,
+thank you for your suggestion.
+And I,
+I will make a summary of that meeting
+that we,
+within the share of further,
+you can see.
+Okay.
+And,
+and then you will,
+you will be able to,
+to see what has been,
+um,
+has been said on this meeting
+and,
+what has been decided,
+uh,
+maybe for next meeting,
+send me your presentation before
+by email,
+so that we can see them,
+uh,
+all together,
+that will be easier.
+What is the fault of our people,
+you are doing,
+you need to work.
+No,
+no,
+he did not work.
+He said to me by email.
+Okay.
+So,
+maybe it's better to send it by email.
+Okay.
+So,
+yeah,
+I mean,
+uh,
+you know,
+it's one participant,
+one,
+okay.
+Uh,
+where is that?
+It's here,
+participant,
+one,
+and,
+okay.
+Okay.
+So,
+see you,
+do lunch break.
+We'll do lunch break actually.
+Okay.
+Okay.
+Okay.
+So,
+see you,
+do lunch break.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+So,
+next time we should start a fight.
+Yeah.
+Remember this,
+I will tell you.
+They will be one of those people.
+Okay.
+Okay.
+We can't just put some beer in there.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Let's go.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Thank you.
+Okay, okay, everyone's ready.
+Hello, so we are here for our finishing night of time.
+Okay, so we are here for the functional design routine.
+So first I will show the agenda, so we will, I will take notes during this meeting.
+So I will try to summarize it and put that summary in the chat for there if you want to look at it afterwards.
+So then each of you will read the presentation on the task that has been required class time.
+So user requirements specification, taking care function design and working design.
+Then I will present you some new project requirements I received from the management board.
+Then we will take the decision on the remote control routine functions.
+And then I will assign you the task for the next part of the meeting of the process.
+So we want to start the presentation of what the,
+do you want to stop?
+Do you think this is in the wrong folder?
+Do you know how to do something like this?
+What do you have in short clip?
+Go up.
+Can't you stand too?
+Yeah, go up.
+Yeah.
+Again.
+No.
+In fact, we have no, we haven't done anything.
+Okay.
+There's no, there's no.
+Yeah.
+Otherwise could you just describe my hand with the white hole?
+Yeah.
+If you remember.
+Yeah.
+Basically, what we want here is the remote control, right?
+Yeah.
+So, of course, we will first of all want to control.
+So most people want to have a mod for the high-fi and TV and stuff like that.
+And but other people want also a mod for controlling and toys like robotic pairs and robots
+and other people also want to have a mod for controlling a whole house.
+Yeah.
+So there's a project I think called X house or something like that.
+That's that.
+You can integrate the remote with the computer stuff.
+You know, there's one lot to work with.
+The other thing is the, the find the feature where we'll deal with whatever.
+And if you have the find the feature, then you can also have at the same time.
+And then our voice commands if you want.
+Mm-hmm.
+So, I think this will get back at that case.
+So the, usually the facial muscles of the parts.
+One is the voice command, but one is the actual patterns part.
+The buttons part would be a set of buttons for choosing devices.
+A set of buttons for spatial navigation and space.
+Mm-hmm.
+So the buttons for linear access of medium and the set of buttons for random access.
+Okay.
+Yeah.
+What do you mean by linear access?
+Like a video tape goes forward backwards and fast and stuff.
+Yeah.
+Okay.
+So special navigation, linear access, random access, and there's a false window.
+Mm-hmm.
+So the button now for spatial navigation?
+Yeah.
+For special navigation, we might have a TV in the menu.
+Okay.
+Yeah.
+The linear access, then random access.
+Yeah.
+And also parameter.
+Oh, yeah.
+Okay.
+So if there are common parameters, we should put special buttons for that.
+Okay.
+We will have everything that generic.
+But there are a lot of remotes on the market right now.
+And this is most of everybody has this path.
+Okay.
+And voice command.
+First command, we could define things.
+We could assign any button, a command, to any button.
+Okay.
+If we have enough processing power, I guess.
+Okay.
+So that's, that plus or investigations.
+Yeah.
+Yeah.
+Okay.
+Maybe we can have a look at the user requirements, please.
+Okay.
+Okay.
+And I know if you can.
+I don't know if I can.
+Maybe you can.
+Not here.
+It's, uh, in.
+Yes, I know.
+Yeah.
+In which color?
+You need to do it.
+Here.
+Here.
+Here.
+Here.
+Yeah.
+In which color?
+Here.
+Here.
+Here.
+Here.
+Here.
+Here.
+Two dimensions.
+Another transition folder.
+Yeah.
+Yeah.
+Maybe you can send me to me by maybe.
+Just some again.
+pixel.
+One.
+Like.
+That's me.
+Yeah.
+Let kind of try to show you everyone that we do more.
+Cool.
+Okay.
+Em.
+You sorry.
+Okay.
+Okay.
+It's subsequent, I don't know.
+Yeah.
+Oh, this is decimated.
+It's not good.
+It's not good.
+Okay.
+Okay.
+So maybe I can switch slides when you...
+Yeah.
+Whenever you...
+That would be more convenient.
+So...
+Okay.
+You can do it.
+You can do it.
+Okay.
+So...
+In how I use a BT Lab,
+we have sent the remote control use among 100 subjects.
+Hmm.
+And the subjects are so filled.
+Uh...
+Questionary.
+Yeah.
+And you have the results.
+So you can see that, um,
+25% of users find most remote controls ugly.
+So we have to find things to make them more...
+More nice, more kind.
+80% of users would spend more money when a remote control would look fancy.
+Uh, 80% of users would spend more money when a remote control would look up.
+It's not good.
+So...
+Okay.
+So you can do...
+But I can say...
+Yeah.
+75% of users say they zap a lot.
+So we have to have a remote control,
+uh, very, um,
+out for that.
+Uh, the buttons have to be, uh,
+uh, uh,
+like you say,
+resisting two shocks.
+Um, and 50% of users say the only use,
+uh, 10% of,
+of the buttons in the...
+Okay.
+In the remote control.
+So all the buttons we,
+we have to put our,
+have to,
+to have, uh,
+use a real use and not to...
+Okay.
+Okay.
+So fewer returns may be,
+yeah.
+Not many buttons,
+and, uh,
+and, uh,
+uh,
+userable buttons.
+Okay.
+But what kind of remote control?
+Okay.
+Sorry.
+What kind of passport?
+It wasn't TV.
+Yeah.
+Uh,
+yeah.
+Most,
+yeah.
+But in fact,
+we,
+it seems that we are going to make a TV remote control.
+According to new requirements,
+I received from the manager.
+I would put them in the photo.
+Ah.
+Okay.
+You can use them.
+So,
+there are the frustrations expressed by users.
+So they said they lost,
+uh,
+offend the,
+uh,
+remote control in the room.
+So they want to have a way to,
+to,
+to find it.
+To find it.
+Yeah.
+Um,
+and,
+a lot of the time,
+they,
+it takes too much time to learn how to use a new remote control.
+So they want something
+simple and easy to use.
+And,
+uh,
+remote controls are bad for,
+what is inside?
+Um,
+where is I?
+Yeah.
+With your wrist.
+Can you come from,
+can you come from telling me this?
+Oh, yeah.
+Yeah.
+And you don't do that.
+I'll just go to the top of the photo.
+Okay.
+So we have to make it,
+uh,
+more an ergonomy.
+Yeah.
+Yeah.
+See.
+Yeah.
+Yeah.
+Yeah.
+It's so true.
+Yeah.
+Yeah.
+Oh.
+Yeah.
+Uh,
+sorry.
+Uh,
+sorry.
+Let me see.
+From my cousin.
+Okay.
+Okay.
+Before that,
+I,
+I have some,
+some,
+some,
+some,
+something.
+Yeah.
+Uh,
+what do you say?
+Yeah.
+Um,
+we know that,
+uh,
+as I use,
+uh,
+the remote control,
+um,
+to,
+to change,
+channel.
+Yeah.
+Um,
+and,
+to,
+to change,
+volume,
+selection.
+Okay.
+And,
+uh,
+I'm not,
+uh,
+a lot for setting,
+for setting,
+the,
+the channel,
+and,
+see,
+see like that.
+Okay.
+So it better to put,
+uh,
+uh,
+uh,
+something very easy to zap.
+And,
+yeah.
+These functions should be very,
+very accessible.
+Yes.
+Okay.
+This is the main function.
+Okay.
+So then we
+ask some questions to them.
+Yeah.
+Yeah.
+Um,
+we ask this question.
+If they prefer a new city spinner,
+on a romantic function,
+remote control,
+and if they,
+pay more for speech recognition
+in remote control,
+yeah.
+And you can go,
+we have,
+we have,
+the results of,
+the,
+the,
+the,
+the,
+questions.
+So,
+you know,
+that,
+um,
+for the younger,
+it's very important.
+To others.
+To others.
+Yes.
+And speech recognition.
+And,
+um,
+and the others is,
+not so important,
+but,
+uh,
+we know that,
+uh,
+people between 15 and 25,
+uh,
+people who watch a lot TV,
+and,
+um,
+um,
+can use a lot this,
+um,
+okay.
+So maybe we,
+we can have a,
+maybe this is important.
+Yeah.
+So,
+forward,
+maybe those,
+like used in nature,
+customer can,
+advise,
+uh,
+parents to buy,
+this equipment,
+and so we can,
+we have to take care of that point of view,
+I think.
+Hmm.
+Yeah.
+Okay.
+Um,
+so,
+as we say before,
+I think,
+um,
+uh,
+a remote control lightning
+in the rockets.
+It's a good thing.
+Okay.
+Not too many buttons,
+like we,
+we said before.
+Yeah.
+Easy to use.
+Uh,
+a way to find it easily in the room,
+and,
+uh,
+uh,
+to resistance,
+to,
+to shock,
+to,
+to,
+to,
+to,
+okay.
+Okay.
+Okay.
+I don't know if you see
+something else,
+I don't know.
+I'm just thinking of something.
+Yeah.
+Yeah.
+Um,
+we want to have a,
+no,
+I don't know,
+it's a good idea.
+We want to have a,
+a general remote control for everything.
+No,
+no.
+We,
+it seems that we know one,
+two have a TV,
+you know,
+okay.
+From the management board,
+I would say,
+you may,
+because it would be costly,
+uh,
+and,
+and also it,
+it would take more time to develop,
+to have a,
+a general generic remote control.
+I'll,
+it's not working.
+There are no certain people.
+That it would be the wrong,
+it would be the same.
+Yeah.
+Because I received that he made from management board,
+and this seems to tell that,
+that if we want to be on the market,
+as early as possible,
+which would,
+uh,
+focus on TV more,
+and it seems that the market is more important.
+So maybe it's a good decision.
+I know,
+it was,
+I don't know,
+I don't know,
+I don't know,
+about how fast you can design,
+I don't think,
+it could be there.
+Yeah.
+Finish tonight.
+Okay.
+But basically,
+yeah,
+maybe,
+I'll continue with my presentation for the,
+okay,
+but I think
+we have some technical problems.
+So I'm just going to describe briefly
+what we do in the remote control.
+Maybe you can go to,
+wait,
+what if you have some going to,
+you know,
+you know,
+doing it.
+Oh, yeah.
+I have enough cables.
+Okay.
+I feel like a dog boot.
+Okay.
+So,
+I'm just going to describe,
+in fact,
+for a remote control,
+this is quite easy.
+We just have,
+sorry.
+Okay.
+Okay.
+Okay.
+I don't get like that.
+I'm just going to describe.
+Basically,
+we have a batch room,
+a bar supply room.
+After that,
+we just use our interface.
+Let's say that,
+um,
+something like that,
+which could be,
+uh,
+LCD,
+let's say,
+all,
+um,
+an array of,
+something like that.
+After that,
+we,
+we feel that into,
+um,
+like,
+the electronic chip.
+So I say,
+um,
+see,
+and I feel that to,
+uh,
+which is,
+uh,
+infrared,
+which is,
+uh,
+infrared,
+um,
+and,
+and so,
+for,
+for myself,
+for us,
+this is quite easy.
+You see the,
+so I'm trying to do it.
+Yeah.
+Okay.
+It's,
+it's just a chip,
+which does all the,
+um,
+electrical,
+computational,
+numerical computation,
+according to the display.
+And so for us,
+this is quite easy.
+You just need to,
+to,
+to define what we want to do
+when the user interface,
+uh,
+wants something.
+And after that,
+we just do the coding to,
+and send that to,
+to,
+to the,
+to the,
+to the,
+to the vision.
+Okay.
+So far,
+this is quite easy.
+Okay.
+So this is great.
+Yeah.
+And we just have to define the processing
+program that we need,
+uh,
+especially if you want to use some,
+uh,
+feature recognition in that case,
+that we,
+that we are going to use now.
+We've seen this for a bit more than,
+the ability.
+Yeah.
+Of course.
+I know,
+but for a standard one,
+this is really easy.
+It's a question of,
+one month size.
+So,
+whoever,
+you,
+you speak about voice control?
+No, no, no.
+I said,
+standard,
+standard,
+standard remote control,
+takes for the,
+one month to be about.
+Yeah.
+So the only time
+problem is,
+the voice,
+yeah.
+Definitely.
+Yeah.
+So,
+do you have any idea
+or anything to take to a voice
+permission?
+I would say,
+yeah.
+Yeah.
+Thank you.
+Thank you.
+I would say,
+uh,
+that time months.
+Yeah.
+The first results.
+Okay.
+So,
+it's a bit normal.
+Yeah.
+Yeah.
+Yeah.
+Yeah.
+Yeah.
+Yeah.
+Yeah.
+Yeah.
+Yeah.
+Yeah.
+Yeah.
+Yeah.
+Yeah.
+One month for the standard one with button.
+Yeah.
+Even if we have a very C.D. display.
+Yeah.
+Yeah.
+This is really standard
+device is now.
+Um,
+thanks.
+Okay.
+Four.
+Four.
+Speech.
+Information.
+Okay.
+Yeah.
+Okay.
+Yeah.
+Yeah.
+Okay.
+Okay.
+So we can take this into account.
+So,
+we think it would be
+going to go for,
+like speech recognition,
+but we will have time to mark it.
+And also,
+I'm not sure.
+Yeah.
+I think,
+I think,
+because we're in the kickoff,
+making you say that we should,
+we should then go up to,
+12,
+25,
+your own style units.
+Yeah.
+So,
+how many units should we
+say to have a,
+well,
+each unit is,
+is,
+25 euros.
+Yeah.
+But how many,
+yeah.
+How much,
+how much do you get?
+How much do you do?
+You can buy one video
+and you can use one.
+Yeah.
+One hundred thousand units.
+Uh,
+tips,
+put it into like,
+yeah.
+How much do you put?
+The one hundred thousand.
+Usually,
+this is last time,
+about two dollars,
+okay.
+Because we're going to,
+for the parking lot,
+uh,
+we're going to not put,
+so,
+yeah.
+Yeah.
+Okay.
+So,
+it seems that,
+that we want to say,
+like,
+forming your units
+from the,
+uh,
+first meeting.
+Okay.
+Okay.
+Okay.
+Okay.
+Maybe we can,
+we can look at the new
+requirement.
+I received from the management board
+because this case,
+old function,
+we want to work.
+Okay.
+Um,
+I just had a question,
+uh,
+do you want to come to me?
+Maybe.
+Yeah.
+A,
+we'll,
+ask your question if you'll.
+Um,
+you said that
+I don't remember
+about half
+the 30%
+of the distant people
+say that it's quite difficult
+to,
+to,
+to,
+to use the remote control.
+Yeah.
+Do they say
+that this is difficult,
+but for the same reason
+or do they,
+uh,
+what are the reasons?
+To,
+to,
+maybe to keep in mind,
+maybe to access to that menu,
+you should do something
+like that.
+Yeah.
+Like,
+I,
+I think
+that it's,
+uh,
+difficult to learn
+how to use it,
+it's okay.
+And that's not the issue.
+Yeah.
+But yeah,
+maybe,
+and what about if we design a remote control,
+which can be configured as you want?
+You said that I want,
+I have six words on it.
+A lot of people are,
+if you have the issue,
+the issue,
+yeah.
+Yeah.
+You're completely the way you want,
+because the bottom touch will look
+the way you want them.
+But also,
+it will be hard to configure,
+I mean,
+you might have,
+uh,
+so it's really shocking
+for the expertise,
+um,
+so
+I mean,
+there are markets and markets.
+I think the young people are,
+uh,
+are,
+uh,
+Christine here said that.
+Yeah.
+Yeah.
+Yeah.
+It is,
+so for young people,
+uh,
+it would be cool.
+They're able to use it.
+Maybe their parents will not,
+but they will configure it.
+I guess,
+I'll know if there's study.
+Maybe it would be more complex
+to configure it
+and have to be simple.
+Yeah.
+Then creating a simple code.
+Yeah.
+I think that,
+if we make something that's simple
+and this is the use of,
+this,
+the use of,
+that means that to be exactly the same
+as everything else.
+Yeah.
+Right.
+Yeah.
+Otherwise,
+if it's different,
+then of course,
+we'll catch some of it has to learn.
+Yeah.
+But also,
+we see that,
+that most people find it,
+find remote controls
+to complex because they have too many buttons
+and they may be used on the channels
+and volume buttons.
+So,
+we'll make just,
+make it very easy to use remote controls
+with mainly those buttons.
+Yeah.
+And maybe also,
+you know,
+some lightning stuff
+to,
+because most people find also
+art to,
+to find the remote controls,
+to lose,
+to see it,
+et cetera.
+These are,
+these two points on the main frustration.
+So,
+maybe if we design something,
+very simple,
+and easy to find,
+when lost,
+it will add a share use competitive advantage
+without making something too complex
+and too long to move on.
+Mm-hmm.
+So,
+but let us see first the new requirement.
+So, we don't have to,
+so this,
+this,
+is,
+is,
+is,
+in the,
+this is in the same direction as we were speaking.
+So,
+we don't have to make a very complex remote controls
+to access teletext
+and stuff like that.
+So,
+it's just one button.
+Yeah,
+but then you have to,
+you have to,
+define the buttons to serve,
+your homes,
+they just write the,
+write the numbers.
+Yeah.
+So,
+where you are,
+the tunnel,
+keys,
+right?
+Yeah.
+So,
+because it's,
+it's not used anymore by users,
+they prefer to,
+yeah,
+I'm sure that it would be like,
+but,
+I don't see,
+just one button.
+Yeah.
+So,
+I don't know.
+If,
+one button is still one more button.
+If,
+if,
+if you want to make it very simple,
+we have to,
+we do the more button,
+convert to the,
+to work competitors.
+Mm-hmm.
+Well,
+anyway,
+I have this point,
+also,
+um,
+so,
+as,
+as I told before,
+uh,
+it would be better if it's only for the TV,
+uh,
+because we want to be quick on,
+on the market.
+And then also,
+we have to make very,
+uh,
+clear that this,
+this remote control is,
+it's part of,
+of our projects,
+and show,
+operate,
+uh,
+low,
+and chorus,
+on the,
+on the design as well.
+So that,
+uh,
+they not fight as one of,
+of products.
+So this is the,
+the key point.
+So,
+before,
+uh,
+finishing,
+we can,
+define,
+what would be the
+characteristic of the,
+of the,
+of the,
+of the remote control,
+and,
+which would be,
+do we need,
+which function,
+do we want,
+et cetera.
+So,
+do,
+um,
+so,
+so,
+from,
+from the,
+the marketing expert,
+I think,
+the key aspect is the,
+easy to use aspect.
+It should be very simple,
+and most written,
+I'll never use it only 10% of the written,
+uh,
+I use often.
+So,
+I think we have to do something very simple.
+And I think we are agree on that point.
+Yeah,
+well,
+the key,
+the,
+the,
+the,
+the,
+the,
+the,
+the,
+the,
+the,
+the,
+the,
+the,
+the,
+the,
+the,
+and what,
+what function do you see?
+Well,
+if you think
+you are simple as possible,
+then that's the big one,
+don't,
+there's no other traction,
+that actually.
+Okay.
+Maybe switch TV on,
+no,
+no.
+Uh,
+no,
+you don't do it,
+you don't do it,
+you don't do it,
+you can come back to us.
+Yeah.
+Something.
+Yeah,
+volume,
+maybe your mute button,
+and,
+um,
+an off button,
+and that's one.
+I know that. You say that many people are doing plenty of lots of zapping.
+I discovered that when I did a quick look. They do not. They do something which is quite nice now.
+You have a button. You press it and this is the previous channel which is coming back.
+Yeah, this is cool. Maybe we can include that as a previous channel button.
+So we have like channel button, the previous channel button, the volume button, press a mute button.
+And just the traditional and of course the channel is changing buttons.
+Yeah, I totally agree. I totally agree.
+Because when you make a long year, you put the actual incremental.
+Yeah.
+Incremental definitely because you switch them.
+Let's say that we can do something like that. This is an incremental.
+But when you press it for a long time, you go five by five.
+You go five, two by five.
+You turn it up in the idea. If you press it for a long time, that's something else.
+If you have your 10 buttons for the numerical buttons, and you have just one memory,
+you have a few percent for a long time.
+Maybe we should have also a DG.
+But have a complete button for some commands.
+Yeah.
+Then it's time to wait.
+Maybe we have also to have DGs or an incremental.
+I don't know.
+Because it's useful.
+It's useful.
+Like if you want to do three times for example, then you cannot just remember the incremental.
+Yeah.
+Because you have your previous channel button.
+If you have incremental only, it doesn't watch it.
+Because the previous channel is the minus one.
+Or first one.
+Yeah.
+So I think we need also DGs.
+Okay.
+Maybe we can make very obvious the channel and volume button.
+And smaller button.
+Turn there with the DGs.
+Yeah, we'll use that usually.
+You will have to press the bottom at the time.
+Oh, we can do something like that.
+We can design the remote control to have access.
+You know, some remote control have protection.
+And so you...
+Yeah.
+Yeah.
+Yeah.
+That's the oldest thing.
+There is a...
+You know there's...
+That's how much the wheel like this.
+It's to having the up-down buttons.
+Yeah.
+Yeah.
+Kind of just like...
+Yeah.
+Maybe we can have a wheel for incremental.
+Okay.
+So I have a wheel for incremental.
+I have the DGs on the lower side.
+That can be closed.
+So anything protected?
+Okay.
+And...
+Yeah, I think this is...
+On the lower side, I think we have 10.
+No.
+And do we...
+Do we have a...
+Or a ball?
+Yeah.
+Not a wheel but a ball.
+And you say...
+Yeah.
+Do you like it?
+I would say the wheel is better.
+Because that...
+Like this is the...
+Yeah.
+Because it's not like a volume which is smooth.
+Yeah.
+The turn you think is one by one.
+Yeah.
+So you have to...
+You should feel the...
+Yeah.
+That's good.
+Yeah, that's good.
+A bit.
+Yeah.
+That's a good idea.
+And...
+Well, also we have to decide...
+So it should be like in the dark.
+I think because most people lost their control.
+Quite easy with all types.
+With backlights on the...
+On the...
+On the...
+On the...
+On the...
+On the...
+On the...
+On the...
+On the...
+Because it was important for young customers if you remember.
+I think it's only important for multi-function.
+Yeah.
+It's not multi-function.
+And there's no problem.
+I mean, it's just because of course...
+Okay.
+And either they don't have an advantage.
+So I know I see...
+Yeah.
+Mm-hmm.
+And so I know speech as well because it would delay too much...
+Okay.
+... the...
+... the...
+... the...
+... the...
+... the...
+... the...
+Nothing.
+Yeah, that one be cool.
+But eight months, it's really lonely.
+... Yeah.
+Maybe we can just...
+You really crazy.
+Right?
+It's generous.
+So, I...
+I will...
+I will.
+So we will move to next meeting.
+So in...
+After the Lodge Break...
+You are the individual action.
+You are required to do, but you will be record transactions by May 19th.
+But you can take notes if you want.
+But while the instruction will be sent.
+So thank you for your suggestion.
+And I will make a summary of that meeting that I will put in the share further.
+You can see.
+And then you will be able to see what has been set on this meeting and what has been decided.
+Maybe for next meeting send me your presentation before by email so that we can see them all together.
+That will be easier.
+What is the fault of our people?
+So maybe it is better to send it by email.
+So yeah, I am using the first email.
+So I am about to submit one.
+Where is that?
+It is here.
+How to submit one at any meeting.
+Okay.
+So see you.
+Do a lunch break.
+Do a lunch break actually.
+There you go.
+So next time we will start the fight.
+What is this?
+I will tell you.
+I will tell you.
+I will send you a friend.
+These are the fight.
+I will send you a friend.
+Okay, okay everyone's ready, hello.
+So, we are here for a functional design.
+So, we are here for the functional design routine.
+So, first I will show the agenda.
+So, I will take notes during this meeting.
+So, I will try to summarize it and put that somewhere in the shell for there if you want to look at it afterwards.
+So, then each of you will leave the presentation on the task that has been required last time.
+So, use our requirements specification, technical function design and working design.
+Then I will present you some new project requirements I received from the management board.
+Then we will take the decision on the remote control routine functions.
+And then I will assign you to task for the next part of the meeting of the process.
+So, we want to start the presentation of what the...
+Do you want to stop?
+I think we can program.
+You can do something like this.
+What do you have in shortcut?
+I will go up again.
+No.
+No.
+Maybe you have a question down here.
+Over?
+Okay.
+There is nothing.
+There is no...
+It is a little bit.
+Otherwise, could you just describe my hand with the whiteboard?
+Yeah, if you remember.
+Yeah.
+Basically, what we want here is a remote control, right?
+Yeah.
+So, the question is what we want to control.
+So, most people want to have a remote for the high-fi and TV and stuff like that.
+But other people want to also remote for controlling and toys like robotic beds and robots and stuff.
+And other people also want to have remote controlling a whole house.
+Yeah.
+So, there is a project that can context how or something like that.
+That's that.
+You can integrate the remote with computers and stuff.
+So, there is one not one thing.
+The other thing is the finder feature by Wistling or whatever.
+If you have the finder feature, then you can also have at the same time, and generate voice commands if you want.
+So, I think this will be a backup in that case.
+So, usually the facial pieces of the parts.
+One is the voice command, but one is the actual buttons part.
+The buttons part would be a set of buttons for choosing devices.
+A set of buttons for spatial navigation in space.
+So, the buttons for linear access of medium and the set of buttons for random access.
+Okay.
+What do you mean by linear access?
+Like a video tape goes forward backwards first.
+Yeah.
+Okay.
+So, spatial navigation, linear access, random access, and there is a false window.
+So, the button offers spatial navigation.
+Yeah.
+For spatial navigation, for example, you might have a TV in the menu.
+Okay.
+Then linear access, then random access.
+And also parameter.
+Okay.
+So, if there are common parameters, we should put spatial buttons for that.
+Okay.
+And we will have everything generic.
+But there are a lot of emotes on the market right now.
+Okay.
+Just use the most to everybody has this stuff.
+Okay.
+And voice command.
+What's command?
+We could specify anything.
+We could assign any button, a command to any button.
+Okay.
+So, have enough position power, I guess.
+Okay.
+So, that's, that close your investigations.
+Yeah.
+Yeah.
+Okay.
+Maybe we can have a look at the user requirements please.
+Okay.
+I don't know if you can.
+I don't know if I can.
+Maybe you can.
+Not here.
+Okay.
+Okay.
+Okay.
+Okay.
+So, let me see.
+Yep.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Good.
+Okay.
+Okay.
+Okay.
+This is a little bit of, you know, a little bit.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+So, I'm going to give you a picture.
+just to pass the burnt one at ami
+I'll try to show it to everyone
+but it will be more comfortable
+okay, you say it
+it's a specific one
+yeah, oh, this is decimated
+it's not good
+okay
+okay
+so maybe I can switch slides whenever you are
+whenever you are
+that would be more convenient
+so, okay
+you can do
+okay, so
+and how I use a bit enough
+we observed the remote control use among 100 subjects
+and the subjects are so filled
+with the questionnaire
+and you have the results
+so you can see that
+25 percent of users find most remote controls ugly
+so we have to find something to make them more
+more light, more kind
+80 percent of users would spend more money
+when a remote control would look fancy
+80 and 100 percent of users would spend more money
+when a remote control would look up
+it's not good
+so, okay
+so you can just keep it
+but I can say
+75 percent of users say
+they zap a lot
+and we have to have a remote control
+very out for that
+the buttons have to be
+they have to say
+resisting to function
+and 50 percent of users
+say the only use
+10 percent of the buttons
+in the remote control
+all the buttons we have to put
+are up to 12
+we use real use
+and nothing
+okay, so fewer returns maybe
+not many buttons
+and
+you use able buttons
+okay, but what kind of remote controls
+sorry, what kind of password
+you are doing
+yeah
+most of us
+yeah, but in fact we
+it seems that we are
+going to make a TV remote control
+according to new requirements
+I received from the manager
+I would put them in the photo
+okay, you can use
+so
+there are the frustrations
+expressed by users
+they say
+they lost
+the remote control
+in the room
+so they want to have
+to find this
+and
+a lot of the time
+it takes too much time to run
+out to use a new remote control
+so they want something
+simple and
+easy to use
+and
+the remote controls
+are bad for
+what is
+inside
+um
+inside, yeah
+your wrist
+you can come from
+you can come down
+and you don't do that
+you can also
+okay, so we have to make it
+more overwhelming
+see
+half of them
+inside
+of them
+oh
+sorry
+but in the stage
+from Microsoft
+okay, before that
+I have some
+some
+something
+yeah
+to say
+yeah
+we know
+that
+there is a lot
+remote control
+to
+change
+channel
+and
+to change
+selection
+and
+not a lot for
+setting
+for setting
+and
+things like that
+so it's better to
+put
+something very easy to that
+and
+these functions should be
+very accessible
+this is the main function
+so then we ask
+and
+we ask this question
+if they prefer a new city screen
+or a new
+specific function remote
+control
+and if they
+pay more for speech recognition
+you can go
+we have
+results
+the
+questions
+so you know
+the younger
+it's very important
+to have
+as a speech recognition
+and
+the other is
+we know that
+people between
+15 and 25
+people
+watch a lot
+and
+use a lot
+so maybe
+we can have
+maybe this is important
+maybe
+like this teenager
+customer can
+advise
+this equipment
+so we can
+we have to take care of
+that point of view
+as we say
+and
+remote control
+it's a good thing
+not too many
+buttons like
+we said before
+it's easy to use
+a way to
+find
+it easily
+in the room
+and
+and
+see something else
+and just
+thinking of something
+we want to have
+not
+we want to have a
+general remote control
+for everything
+okay from
+the management board
+because it will be
+costly
+and also it will take
+more time to
+develop
+a general
+general
+that it will be
+wrong
+because i received that
+the management board
+and this seems to tell
+that if we want to be on the market
+as early as possible
+we should
+focus on TV
+more and
+it seems that the market is more important
+so maybe it's a good decision
+I know
+how fast we can
+design
+finish tonight
+but basically
+yeah maybe
+I can continue with my presentation
+okay but I think
+we have some technical problems
+so i'm just going to describe briefly
+what we do in the room of control
+maybe you can go to
+wait while if you have some
+going to do
+oh yeah
+i have enough cables
+feel it like a dog
+okay so
+i'm just going to describe
+in fact for
+this is quite easy
+we just have
+okay are you okay
+like that
+i'm just going to describe
+basically we have a
+battery
+something like that
+something like that
+which could be
+LCD
+I'd say
+an array of
+something like that
+I should note
+after that
+we feel that
+a electronic chip
+so I say
+you see
+and I feel that
+which is
+an infrared
+which is
+an infrared
+and so
+for myself
+this is quite easy
+you see the
+I need
+this is just a chip
+which does
+all the
+electrical
+computation
+and so for us
+this is quite easy
+just need to
+define what we want to do
+when the user interface
+wants
+something
+and after that we just do the coding
+and send that to
+to the
+to that
+this is quite easy
+okay so this is great
+we just have to define
+the processing
+problem that we need
+especially going to
+use some
+speech recognition
+in that case
+that we are going to use
+this thing
+this will take more than
+yeah of course
+but for instance
+this is really
+one month
+so to have
+you speak a little
+voice control
+yeah
+thanks for being
+one month
+so the only
+time for the voice
+yeah
+so do you have any idea
+of what it would take
+to a voice
+I would say
+I would say
+I would say
+I would say
+I would say
+okay so
+it's a big note
+yeah
+one month
+for the
+standard one with
+but yeah
+even if we have
+actually
+displayed
+yeah even
+this is really
+standard
+for
+speech
+okay
+okay so we can take
+piece into work on
+so we think it would be going
+to go for
+like speech recognition
+but we do have time
+also
+I think
+I think
+you said
+you shouldn't
+go up to
+25
+units
+so how many units should
+be
+well each unit is
+25 euros
+yeah but
+how much
+many units
+one hundred thousand units
+it's going into
+how much
+we would go
+this is
+about two dollars
+okay
+for the part
+it seems that
+we want to say
+from
+the
+okay
+okay
+maybe we can
+we can look at
+the new
+requirement
+I just
+had a question
+well
+question if you
+you said that
+I don't remember
+about 30
+people said that
+it's quite difficult
+to use the remote
+control
+maybe to keep in mind
+to access
+to something
+I think
+it's difficult
+to learn
+when you know
+how to use it
+but yeah
+maybe
+what about if we design a remote control
+which can be configured
+as you want
+I have
+if you have
+you completely
+the way you want
+the way you want
+it would be hard to configure
+so it's really something for the
+I mean there are markets and markets
+I think the young people
+are
+so for young people
+it would be cool
+maybe their parents will not
+but they would configure it
+I guess I don't know if this would be
+more complex to configure it
+to be simple
+than creating a simple project
+I think that
+if you make something that's simple
+and it needs to use
+exactly the same as everything else
+otherwise
+if it's different then of course
+we'll have to learn
+first
+but also we
+we see that
+most people find it
+remote controls to complex
+because they have too many buttons
+and they mainly use only
+channels and volume
+so we may just
+make it very easy to use
+remote controls
+with mainly those buttons
+and maybe also
+some light
+lightening stuff
+because most people
+find also art
+to find the remote controls
+to use it
+etc
+these are these two points
+on the main frustration
+so maybe if you design something
+very simple
+and easy to
+find when lost
+it will add a
+share use competitive advantage
+without making something
+too complex
+and too long to measure
+but let us see
+first the new
+requirement
+so we don't have to
+this
+in the
+same direction as we were
+speaking so we don't have
+to make a very complex
+remote controls to access
+but then you
+have to define
+the buttons to serve
+amongst
+a number
+so we
+have to
+tell you
+anywhere we don't have to
+include this feature
+because it's not used anymore
+by users
+but
+it's just one button
+yeah
+if one button
+is still one more button
+if you want to make it
+very simple we have to
+reduce the number of buttons
+well anyway i have this point
+we can discuss
+also
+so
+as i thought before
+it would be better if
+it's only for the TV
+because we want
+to be quick on the market
+and then also we have to
+make very
+clear that
+this
+remote control is part of
+for projects
+and show
+and colors
+on the design
+as well so that
+they not fight as
+one of
+products
+so this is the
+key point
+so before
+finishing we can
+define what would be
+the characteristic of
+the control
+of the remote control
+which button
+do we need
+which function
+do we want
+etc
+so
+do you
+so
+from the
+the marketing
+expert i think
+the key aspect
+is the
+easy to use aspect
+it should be very
+simple
+and most
+i think
+i think
+we have to do
+something very simple
+and i think we will agree on that point
+so
+the other
+key point here is
+simple
+maybe
+so few
+buttons
+what function do you see
+well
+it should be
+simple
+maybe
+switch
+do you want
+to
+yeah
+volume
+maybe a mute
+button
+and an
+and that's all
+i know that
+many people are doing plenty of
+a lot of zapping
+i know
+i discovered that
+they do not
+so they do something which is quite nice
+now you have a button
+you press it and this is
+the previous channel which is
+yeah this is good
+maybe we can include that
+so previous
+we have
+like channel button
+the previous channel button
+the volume button
+press a mute button
+and just the
+traditional
+and of course the channel is
+sending buttons
+yeah
+incremental
+definitely because
+switch them
+let's say that we can do something like that
+this is
+an incremental
+but when you press it for a long time
+you go five by five
+you go five
+to go faster
+it's an interesting idea
+that if you press
+for a long time
+so if you have
+your 10 buttons
+for the
+buttons and you have
+having just one memory
+you have a few percent for a long time
+let's not
+maybe we should have
+also a dg
+but have a
+complete garden
+that's also common
+yeah it's time to wait
+maybe we have also to have the
+only incremental
+I don't know
+because it's useful
+for example
+you cannot
+just remember the incremental
+yeah because you
+have your previous channel button
+if you have incremental
+only it's not
+because the provision is a
+minus one
+so I think we need also dg
+maybe we can make
+very obvious the channel and volume
+button and smaller button
+done there
+with the dg
+yeah only use up usually
+we'll have to press the same button
+and we can
+do something like that
+we can design the remote control
+to have access
+remote control
+have protection
+and so
+yeah and that's all the things
+there is a
+that's how much the wheel like this
+it's to having the up-down buttons
+yeah, kind of just stick
+yeah maybe we can have a wheel
+for incremental
+okay so have a wheel for incremental
+have the dg
+on the lower side
+that can be closed
+so it is protected
+and
+yeah I think this is on the lower side
+you have to tilt
+and do we have
+a ball? yeah, not a wheel
+but a ball
+and you say
+it's better
+it's better
+it's not like a volume
+it just moves
+so you have to
+feel the
+it's good
+it's good
+that's a good idea
+and
+while also we have to decide
+so it should be lightening in the dark
+I think because most people
+lost their remote control
+quite easy with all types
+with backlights on the
+way that led you
+blew a lady
+and we said that
+and we put an LCD display
+because it was important
+for young customers
+if you remember
+there's no problem
+there's no problem
+there should be just because
+there's no problem
+so no LCD
+and so no speech
+because it would delay
+too much
+yeah
+yeah that would be cool
+but eight months is really long
+maybe we can just
+maybe we can just
+tell me
+so
+I will
+I will
+so we will move
+to next meeting
+after the lunch break
+yeah the individual
+action you are required to do
+but you will be
+in those actions
+by email I think
+but you can take notes
+if you want
+but while the instruction will be sent
+so
+thank you for your suggestion
+and I will make a
+summary of that meeting
+that I will put in the share
+further you can see
+and then you will
+you will be able to
+as been said
+on this meeting
+and what has been decided
+maybe for next meeting
+send me your presentation
+before by email
+so that we can
+see them all together
+that will be easier
+what is the fault of our people
+we need to work
+now we did not work
+she sent her to me by email
+so maybe it's better to send it by
+so yeah
+I mean
+it's in the first
+you make one
+participant one
+anyone
+where is that
+it's here
+participant one
+and
+okay
+so see you
+the lunch break
+the lunch break
+oh yeah
+so
+next time we should
+try to fight
+I will put
+a baby with money
+it will happen
+to be a friend
+and
+this is
+a fight
+even though
+even though
+there is a
+Okay, okay, everyone's ready.
+Hello.
+So we are here for our functional design.
+Okay.
+So we are here for the functional design meeting.
+So first I will show the agenda.
+So we will, I will take notes during this meeting.
+So I will try to summarize it and put that somewhere in the shell for there if you want to look at it afterwards.
+So then each of you will leave the presentation on the task that has been required last time.
+So use our requirements specification, technical function design and working design.
+Then I will present you some new project requirements I received from the management board.
+Then we will take the decision on the remote control unit functions.
+And then I will assign you the task for the next part of the meeting of the process.
+So we want to stop the presentation of what the...
+Do you want to stop?
+Do you want to stop?
+Do you want to stop?
+Do you want to stop?
+I want to stop.
+Do you want to stop?
+Do you want to stop?
+Do you want to stop?
+Do you want to stop?
+Do you want to stop?
+Do you want to stop?
+Do you want to stop?
+Do you want to stop?
+Do you want to stop?
+Do you want to stop?
+Do you want to stop?
+Do you want to stop?
+Do you want to stop?
+Do you want to stop?
+Do you want to stop?
+Do you want to stop?
+Do you want to stop?
+Do you want to stop?
+Do you want to stop?
+Do you want to stop?
+Do you want to stop?
+Do you want to stop?
+Do you want to stop?
+Do you want to stop?
+Do you want to stop?
+Do you want to stop?
+Do you want to stop?
+Do you want to stop?
+Do you want to stop?
+Do you want to stop?
+Do you want to stop?
+Do you want to stop?
+Do you want to stop?
+Do you want to stop?
+Do you want to stop?
+Do you want to stop?
+Do you want to stop?
+Do you want to stop?
+Do you want to stop?
+Do you want to stop?
+Do you want to stop?
+Do you want to stop?
+Do you want to stop?
+Do you want to stop?
+Do you want to stop?
+Do you want to stop?
+Do you want to stop?
+Do you want to stop?
+Do you want to stop?
+Do you want to stop?
+Do you want to stop?
+Do you want to stop?
+Do you want to stop?
+Do you want to stop?
+Do you want to stop?
+Do you want to stop?
+Do you want to stop?
+Do you want to stop?
+Do you want to stop?
+Do you want to stop?
+Do you want to stop?
+Do you want to stop?
+Do you want to stop?
+Do you want to stop?
+Do you want to stop?
+Do you want to stop?
+Do you want to stop?
+Do you want to stop?
+Do you want to stop?
+Do you want to stop?
+Do you want to stop?
+Do you want to stop?
+Do you want to stop?
+Do you want to stop?
+Do you want to stop?
+Do you want to stop?
+Do you want to stop?
+Do you want to stop?
+Do you want to stop?
+Do you want to stop?
+Do you want to stop?
+Do you want to stop?
+Do you want to stop?
+Do you want to stop?
+Do you want to stop?
+Do you want to stop?
+Okay, okay, everyone's ready.
+Hello.
+So, we are here for our functional design routine.
+So, first I will show the agenda.
+So, I will take notes during this meeting.
+So, I will try to summarize it and put that somewhere in the chat for there if you want to look at it afterwards.
+So, then each of you will leave the presentation on the task that has been required last time.
+So, use our requirements specification, technical function design, and working design.
+Then, I will present you some new project requirements.
+I received from the management board.
+Then, we will take the decision on the remote control routine functions.
+And then, I will assign you to task for the next part of the meeting of the process.
+So, we want to start the presentation of what they need.
+So, if you want to start, you can start.
+You can start.
+So, if you want to start, you can start.
+Okay.
+Okay.
+So, stick with your program.
+Thank you.
+I think Schott could go up at this point too.
+Yeah, go up.
+Yeah.
+Again.
+No?
+No?
+No.
+But you have no...
+You have no...
+You have no...
+You have no...
+You have no...
+You have no...
+You have no...
+You have no...
+Okay.
+No?
+No?
+No.
+No.
+No.
+There's no...
+You have...
+It's even too important.
+Yeah.
+Yeah.
+Otherwise, could you just describe my hand?
+Okay.
+With the whiteboard?
+Yeah.
+If you remember.
+Yeah.
+Yeah.
+But there were basically...
+What we want here is a remote control, right?
+Yeah.
+So...
+Of course, we want to follow up to control.
+So, most people want to have a remote for the high-fi and TV and stuff like that.
+Mm-hmm.
+But other people want to also remote for controlling...
+And toys like robotic beds and robots and stuff.
+And other people also want to have emotes for controlling...
+Whole house.
+Mm-hmm.
+Yeah.
+So there's a project that I think collects houses or something like that.
+That's that.
+You can integrate the remote with computer stuff.
+Mm-hmm.
+So...
+There's a lot of things.
+The other thing is the...
+The finder feature.
+You can buy a whistling or whatever.
+If you have the finder feature, then you can also have...
+At the same time, it's...
+And general voice commands if you want.
+Yeah.
+Mm-hmm.
+So...
+I think there's weird packets in that case.
+So, the...
+Usually, the facial muscles are two parts.
+One is the voice command.
+But the new one is the actual pattern spot.
+The bottom spot would be a set of buttons for choosing devices.
+Mm-hmm.
+A set of buttons for spatial navigation in space.
+Mm-hmm.
+A set of buttons for linear access of medium.
+And a set of buttons for random access.
+Okay.
+Yeah.
+What do you mean by linear access?
+Like a videotape goes forward backwards first and stuff.
+Yeah.
+Okay.
+So, spatial navigation, linear access, random access.
+And there's a false window.
+Mm-hmm.
+So, the button now for spatial navigation.
+Yeah.
+For spatial navigation, for example, you might have a TV and a menu.
+Okay.
+Yeah.
+Then linear access.
+Then random access.
+Yeah.
+And also parameter.
+Yeah.
+So, these are common parameters.
+Maybe you should specify the buttons for a lot.
+Okay.
+Okay.
+I knew how everything there is.
+Yeah.
+A generic button.
+There are a lot of emotes on the market right now.
+Okay.
+I guess it is most of everybody has this stuff.
+Okay.
+And voice comment?
+What's comment?
+What could define thing?
+Sign a any button, a comment, to any button.
+Okay.
+If we have enough position power, I guess.
+Yeah.
+Okay.
+So, that's that close your investigations.
+Yeah.
+Yeah.
+Yeah.
+Okay.
+Maybe we can have a look at the user requirements, please.
+Okay.
+I know if you can.
+I don't know if I can.
+Maybe you can.
+Maybe you can.
+Not you.
+It's.
+Yeah.
+Do.
+Miss Andrew.
+Yeah.
+And which other?
+Yeah.
+And which other?
+Yeah.
+And which other?
+Yeah.
+And which other?
+Yeah.
+And which other?
+Yeah.
+And which other?
+Yeah.
+Yeah.
+Shrotcat to have any sha-father.
+Yeah.
+Yeah.
+Maybe you can send me to me by me.
+Yeah.
+Just to pass the band one.
+That's I mean.
+Yeah.
+And I'm trying to show it to everyone.
+I could be more confident.
+Okay.
+Okay.
+Um.
+You send it?
+It's flexible.
+Yeah.
+Yeah.
+This is easy.
+Maybe.
+Yeah.
+Yeah.
+This is easy.
+Yeah.
+Yeah.
+Yeah.
+This is easy.
+Good.
+Okay.
+Okay.
+Okay.
+So maybe I can switch slides whenever you are, whenever you are, that would be more convenient.
+So, okay, functional environments, you can do.
+Okay, so, in how I use the built-in app, we observed the remote control use among 100 subjects.
+And the subjects are so filled with engineering.
+And you have the results.
+So, you can see that 25 percent of users find most remote controls ugly.
+So, we have to find things to make them more nice, more kind.
+And 80 percent of users would spend more money when the remote control would look fancy.
+80 hundred percent of users would spend more money when the remote control would look up.
+That's good.
+So, okay.
+So, I can say, 75 percent of users say they zap a lot.
+And we have to have a remote control, very out for that.
+The buttons are to be, like you say, resisting to...
+Okay.
+And 50 percent of users say they only use 10 percent of the buttons in the...
+Okay.
+So, all the buttons we have to put are...
+I have to have a real use.
+Okay.
+Okay.
+So, if you are buttons, maybe you can be good.
+Not many buttons.
+And you use the above buttons.
+Okay.
+But what kind of remote controls?
+I'm good.
+Sorry.
+That's possible.
+It wasn't TV.
+Yeah.
+Uh...
+Yeah.
+Most...
+Most...
+Yeah.
+But, in fact, it seems that we are going to make a TV remote control.
+According to new requirements, I wish you from the management board.
+I would put them in the following.
+Ah.
+Good.
+Okay.
+You can use them.
+So, these are the frustrations expressed by users.
+So, they say they lost the remote control in the room.
+So, they want to have a way to...
+To find this.
+Find this.
+Yeah.
+And a lot of the time, it takes too much time to run out to use a new remote control.
+So, they want something very simple.
+And...
+Okay.
+Easy to use.
+And the remote controls are bad for...
+What is the outside?
+Um...
+The other side, yeah.
+Your wrist.
+You can come back from the front end of this.
+Oh, yeah?
+Yeah.
+And you don't do that.
+You can also tap a little bit.
+There's no position.
+Okay.
+So, we have to make it more an ergonomic.
+Yeah.
+Yeah.
+Yeah.
+Of course.
+Yeah.
+Yeah.
+It's wonderful.
+Yeah.
+Oh.
+Yeah.
+Uh...
+Sorry.
+I didn't say it from Microsoft.
+Okay.
+Before that, I have some...
+Some...
+Some...
+Some...
+Same.
+Same.
+Yeah.
+Uh...
+What'd you say?
+Yeah.
+What'd you say?
+Yeah.
+Um...
+Um...
+We know that there is a use, a lot of remote control to change channel.
+Yeah.
+Um...
+And, um...
+To...
+To change volume selection.
+Okay.
+And, uh...
+And not a lot for setting, for setting the channels and things like that.
+Okay.
+So, it's better to put something very easy to that.
+Yeah.
+These functions should be very accessible.
+This is very nice.
+Yeah.
+Okay.
+This is the main function.
+Okay.
+So, then we ask some questions to them.
+Yeah.
+And, um...
+We ask this question.
+If they prefer a new city screen or on a remote-specific function remote control.
+And if they pay more for a speech recognition in remote control.
+Yeah.
+And you can go...
+Yeah.
+We have...
+We have the results of the...
+The first question.
+Or the questions.
+So, you know, that, um...
+For the younger.
+It's very important.
+To others.
+To others.
+Yes.
+And speech recognition.
+And, um...
+And the others is not so important.
+But, uh...
+We know that, uh...
+People between 15 and 25 are people who watch a lot TV.
+And, um...
+We can use a lot of this, um...
+Okay.
+So, maybe we can have a speech recognition.
+Yeah, maybe this is important.
+Yeah.
+Moreover, maybe those, uh...
+Like, use teenager.
+Customer can advise parents to buy this equipment.
+And, yeah.
+So, we can...
+We have to take care of that point of view, I think.
+Awesome.
+Yeah.
+Okay.
+And, if there is a conclusion.
+So, as we say before, I think, um...
+We might go from lightning in the rockets.
+It's, I would say.
+Okay.
+Not too many buttons, like we said before.
+Yeah.
+Easy to use.
+Uh...
+Way to find it easily in the room.
+And, uh...
+To resistance.
+To...
+To shock cancer.
+To...
+To...
+Okay.
+Okay.
+These are...
+I don't know if you see something else.
+I don't know.
+I'm just thinking of something.
+Yeah.
+Um...
+We want to have that now.
+I don't know if it's available.
+We don't have a general remote control for everything.
+No, no.
+No.
+We...
+It seems that we know one, two have a TU remote control.
+Okay.
+From the management board, I always see that in the mail.
+Cause it would be costly.
+Uh...
+And also, it would take more time to develop, to have a general generic remote control.
+Um...
+I...
+It's not too often.
+No.
+No.
+No.
+No.
+That it would be the wrong.
+It would be the wrong.
+I think it should be the same.
+Yeah.
+Because I received that, he made from management board.
+And this seems to tell that that if we want to be on the market, as early as possible,
+we should, uh...
+It seems that the market is more important.
+So, maybe it's a good decision.
+I know, with, uh...
+I love my government.
+To know, which more about how fast we've been, uh...
+design, I don't think...
+I don't think...
+I think I can...
+Yeah.
+I'll finish two minutes.
+Okay.
+But basically, yeah, maybe I can continue with my presentation.
+We'll be here.
+Okay.
+Yeah.
+But I think we have some technical support at West Coast.
+I'm just going to describe briefly
+what we do in the remote control.
+Maybe you can go to the whiteboard
+if you have some going to do, you know.
+Oh, yeah.
+I have enough cables.
+Okay.
+I played like a dogoo.
+Okay.
+So I'm just going to describe in fact for remote control.
+This is quite easy.
+We just have...
+Okay.
+Okay.
+Are you okay?
+Like that.
+I'm just going to describe.
+Basically, we have a battery, a voice, a plan here.
+After that, we just have a user interface.
+Let's say that something like that,
+which could be an LCD,
+let's say,
+or an array of gushing button,
+something like that.
+After that, we feel that's into an electronic chip.
+So I say,
+you see.
+And I feel that to an LED,
+which is an infrared,
+which is an infrared,
+and so what we...
+For myself,
+this is quite easy.
+You see the central unit?
+Yeah.
+Okay.
+It's just a chip,
+which does all the
+numerical computation,
+numerical computation,
+according to the display.
+And so for us,
+this is quite easy.
+Okay.
+So this is great.
+Yeah.
+And we just have to define what we want to do
+when the user interface wants something.
+And after that,
+we just do a recording to send that to the
+to the,
+to the,
+to the,
+to the vision.
+Okay.
+So for us,
+this is quite easy.
+Okay.
+So this is great to do.
+Yeah.
+And we just have to define the processing power that we need.
+But especially if we want to do some speech recognition,
+in that case,
+that's great.
+I don't want to use them all.
+We just think this won't pick more than
+to do it.
+Yeah.
+Of course.
+Yeah.
+And,
+that's our standard one.
+This is really easy.
+It's first and off.
+One month.
+So,
+do you speak about voice control?
+No, no, no.
+I said standard one.
+Yeah.
+Standard.
+Standard.
+Standard.
+For the one months to do that.
+No.
+So the only time problem with the voice recognition.
+Yeah.
+Yeah.
+Definitely.
+Yeah.
+So do you have any idea of what it would take to a voice
+permission?
+No.
+I would say.
+No.
+No.
+No.
+I would say,
+right.
+Right.
+And once.
+Sure.
+The first results.
+Okay.
+So,
+it's a bit lonely.
+Yeah.
+One month for the standard one with button.
+Yeah.
+Even if we have a voice,
+you display.
+Yeah.
+I mean,
+this is really standard.
+You guys,
+isn't it?
+Yeah.
+Thanks.
+For a speech.
+For permission.
+Okay.
+Yeah.
+Okay.
+Yeah.
+Okay.
+So we can take this into account.
+So,
+we think it would be going to go for like speech recognition.
+But we don't have time to make it.
+And also.
+Oh,
+Oh,
+I think.
+I think
+because you're in the kickoff meeting,
+you said that we shouldn't go up to
+25 euros.
+So,
+Yeah.
+So,
+how many units should be set up to have a.
+Well,
+each unit is a 25 euros.
+Yeah,
+but how many?
+Yeah.
+How much do you get?
+How much do you get?
+How much do you get?
+How many?
+One hundred thousand units.
+Yeah.
+Two.
+What do you mean?
+Two five.
+Yeah.
+How much would it go?
+One hundred thousand.
+Usually,
+this is not so bad.
+Two dollars.
+Gotcha.
+Okay.
+Because we are in it,
+for a powerful one of them,
+we're going to have enough of both to do with them.
+Yeah.
+Yeah.
+Okay.
+So.
+It seems that that we want to say like,
+for me,
+your units from the.
+First meeting.
+Okay.
+Okay.
+From the.
+From the.
+From the.
+Okay.
+Maybe we can,
+we can look at the new requirement.
+I received from the management board
+and discuss,
+discuss,
+all function we want to grab.
+I just had a question.
+Do you want to come to me?
+Yeah.
+I will continue.
+Well,
+ask your question if you want.
+You say that.
+I don't remember.
+I don't remember.
+You're out with 30%.
+Yeah.
+The.
+Distant.
+People say that it's quite difficult to.
+To.
+To use the remote control.
+Yeah.
+Do they say that this is difficult,
+but for the same reason,
+or do they have other reason.
+To.
+To.
+Maybe to keep in mind,
+maybe to access to that menu,
+you should do something.
+But.
+Yeah.
+I think that it's difficult to learn how to use it.
+When you know how to use it,
+it's okay.
+Absolutely.
+To.
+But yeah.
+Maybe.
+And what about if we design a remote control,
+which can be configured as you want.
+You said that I want.
+I have six words.
+A lot of people are.
+If you have actually the screen.
+Yeah.
+You're completely the way you want.
+Because the bottom touch would look.
+Yeah.
+The way you want them.
+But also,
+it will be hard to configure.
+I mean.
+Yeah.
+So it's really something for the expertise.
+So.
+I mean,
+there are markets and markets.
+I think the young people are.
+Are.
+Christine here said.
+Yeah.
+Come.
+Yeah.
+Is.
+So for our young people,
+it will be cool.
+They will be able to use it.
+Maybe their parents will not,
+but they will configure it.
+I guess.
+I don't know if there's.
+Maybe it would be more complex to configure it.
+Yeah.
+I have to be simple.
+Yeah.
+Then creating a simple project.
+Yeah.
+I think that if we make something that's simple,
+and it needs to use it,
+but using it,
+that means that we'll be exactly the same as everything else.
+Yeah.
+Right.
+Yeah.
+Otherwise, if it's different,
+then of course it will cache some of the customer learn.
+Yeah.
+First.
+Yeah.
+But also,
+we see that most people find it.
+Find remote controls to complex
+because they have too many buttons.
+And they mainly use only channels and volume buttons.
+So,
+we may just make it very easy to use remote controls
+with mainly those buttons.
+Yeah.
+And maybe also some lightning stuff
+to,
+because most people find also art
+to find the remote controls.
+We lose,
+we see it,
+et cetera.
+These are,
+these two points are the main frustration.
+So,
+maybe if we design something
+very simple
+and easy to find
+when lost,
+it will add a share use,
+competitive advantage
+without making something too complex and too long to move.
+Mm-hmm.
+So,
+but let us see first the new requirement.
+So, we don't have to,
+so this,
+this,
+is a,
+is a,
+in the,
+this is in the same direction as we were speaking.
+So,
+we don't have to make a very complex remote controls
+to access teletext and stuff like that.
+So,
+you can just go on bottom.
+Yeah,
+but then you have to,
+you have to define the buttons to serve
+amongst,
+just to write a number.
+Yeah.
+So,
+where you're at with a tele-use, right?
+Yeah.
+So, anyway,
+we don't have to include this feature
+because it's,
+it's not used anymore by users.
+They prefer to,
+yeah,
+I'm sure that,
+like,
+I don't see,
+just one button.
+Yeah.
+So,
+I don't know.
+If one button is still one more button,
+if,
+if,
+if you want to make it very simple,
+we have to,
+we use them by our buttons
+to convert to,
+to our competitors.
+Okay.
+Okay.
+Well,
+anyway,
+I have this point,
+we can discuss.
+Also,
+um,
+so,
+as,
+as I told before,
+uh,
+it would be better if it's only for the TV,
+uh,
+because we want to be,
+open on the market.
+And then also,
+we have to make very,
+uh,
+uh,
+clear that this,
+uh,
+this female cohort is,
+is part of,
+of,
+for projects,
+and show,
+copyright,
+uh,
+the world,
+and,
+and the,
+under design as well,
+so that,
+uh,
+they don't fight as one of,
+our product.
+So,
+uh,
+the key points.
+So,
+before,
+uh,
+finishing,
+we can define,
+uh,
+what would be the
+characteristic of the,
+uh,
+of the control,
+of the remote control,
+and,
+which put in,
+do we need,
+which function,
+do we want,
+et cetera,
+capital.
+So,
+do,
+um,
+so,
+so,
+from,
+from the,
+the marketing expert,
+I think,
+a key aspect is the,
+easy to use aspect.
+It should be very simple,
+and most Bhutan are never used
+only 10% of the Bhutan are,
+are used often.
+So,
+I think we have to do something very simple,
+and I think we are agree on that point,
+you know?
+Well,
+if it,
+if it,
+if it,
+if it,
+the key point here is simple,
+maybe,
+uh,
+so few versions,
+channel,
+uh,
+volume control,
+and what,
+what function do you see?
+Well,
+it should be a simple,
+as possible,
+and that's it,
+if you don't want control,
+there is no other fraction of the country.
+Okay.
+Maybe switch to the,
+on,
+on,
+on.
+Uh,
+no,
+you want to,
+you want to,
+whenever you can come back.
+Yes.
+Yeah,
+something.
+Yeah,
+volume,
+maybe a mute,
+button,
+and then,
+an off button,
+and that's all.
+Uh,
+I know that,
+some people say that many people are doing plenty of,
+a lot of zapping.
+Mm-hmm.
+Uh,
+I know,
+I discovered that when I did a quick look,
+uh,
+they do not start,
+they do something,
+which is quite nice now.
+You have a button,
+you press it,
+and this is the previous channel,
+which you can back.
+Yeah,
+this is good.
+Maybe we can include that,
+so previous,
+previous channel button.
+So we have,
+like,
+channel button,
+the previous channel button,
+the volume button,
+plus a mute button.
+Mm-hmm.
+And, uh,
+just the,
+the traditional,
+on,
+off,
+and of course,
+the channel is changing buttons.
+Yeah.
+I talked about,
+I mean,
+because,
+it would be numerical only,
+it would be also incremental.
+Yeah.
+Incremental,
+definitely,
+because zapping,
+you,
+you switch them.
+Let's say that we can do something like that.
+This is,
+uh,
+an instrumental,
+but when you press it for a long time,
+you go five by five.
+You go five,
+to go faster.
+Mm-hmm.
+It's an interesting idea,
+that if you press for a long time,
+it does something else in there.
+So if you have your 10 buttons for the,
+uh,
+for the numerical buttons,
+and you have,
+if you have just one memory,
+yeah.
+You have,
+if you press them for a long time,
+you know,
+it doesn't work.
+There you go.
+Maybe we should have also,
+did you,
+but have a complete board
+and the type of some comments.
+Yeah.
+It's a time to wait.
+Yeah.
+Maybe we,
+uh,
+for some to have two genes,
+or only incremental.
+I don't know,
+because if you are useful,
+like if you want to change,
+you can change the answer,
+for example.
+Then you have,
+you cannot,
+you cannot,
+just remember the incremental.
+Yeah.
+Because you have your previous channel,
+but if you have incremental only,
+it's an,
+uh,
+it doesn't work.
+Because the previous channel is either a minus one,
+or a plus one.
+Yeah.
+Yeah.
+So I think we need also a DGs.
+Okay.
+Maybe we,
+we can make very obvious the channel,
+and volume,
+but then,
+and smaller,
+but then,
+done there with the,
+the DGs.
+Yeah.
+One user usually,
+you will have to press the same button
+at the time.
+Yeah.
+And,
+oh, we can do something like that.
+We can design the remote control to have access.
+You know,
+some remote control have protection.
+And so,
+you,
+you know,
+yeah.
+Yeah.
+Yeah.
+That's the thing.
+You know,
+that's how much the wheel like this.
+It's the fronting the up-down buttons.
+Yeah.
+Yeah.
+Kind of just stick.
+Yeah.
+Yeah.
+Maybe we can have a wheel for incremental.
+Okay.
+So,
+have a wheel for incremental.
+Have the DGs on the lower side
+that can be closed.
+So,
+it is then protected.
+And,
+yeah,
+I think this is on the lower side.
+I think we have to trim it.
+No.
+And do we,
+do we have a,
+or a ball?
+Yeah.
+Not a wheel,
+but a ball.
+And you say,
+do you better,
+I will still do it.
+It's better.
+I think it's better.
+Yeah.
+It's better.
+It's better.
+It's better.
+It's better.
+It's better.
+It's better.
+It's better.
+It's better.
+Yeah.
+It's good.
+Yeah,
+but it's better.
+Yeah.
+That's a good idea.
+And,
+while also we have to decide,
+so it should be like,
+ning in the dark.
+I think,
+because most people lost their remote control,
+quite easily with all kinds of tools.
+With backlight on the,
+with the wheel.
+The wheel,
+the wheel,
+the wheel,
+the wheel,
+the wheel,
+the wheel,
+the wheel,
+the wheel,
+the wheel, the wheel, the wheel, the wheel, the wheel, the wheel, the wheel, the wheel, the wheel.
+Your customers,
+if you remember,
+I think it's only a problem with the function.
+Yeah.
+It's not really the function,
+when there's no component.
+It's just because,
+of course,
+okay,
+you don't have an advantage.
+So no LCD.
+Mm-hmm.
+And,
+so no speech,
+as well,
+because it would delay too much,
+the,
+the,
+the wheel,
+the wheel,
+the wheel,
+the wheel,
+the wheel,
+the wheel,
+the wheel,
+the wheel,
+is very cool.
+But,
+eight months is really lonely.
+Maybe we can just,
+uh,
+10 years.
+10 years.
+So,
+uh,
+I will,
+I will,
+I will.
+So,
+we will move to next meeting.
+So,
+in,
+after the lunch break,
+uh,
+you are the individual action.
+You are required to do,
+but you will be,
+uh,
+record those actions by,
+uh,
+email,
+I think,
+but you can take notes if you,
+if you want.
+But,
+well,
+the instruction will be sent.
+So,
+thank you for your suggestion.
+And I,
+I will make a summary of that meeting
+that I will put in the shared folder.
+You can see.
+Okay.
+And,
+and then you will,
+you will be able to,
+to see what has been,
+uh,
+has been said on,
+on this meeting and,
+and what has been decided.
+Uh,
+maybe for next meeting,
+send me your presentation before by email,
+so that we can see them all together.
+Well,
+that will be easier.
+What is the folder that people use?
+We,
+we block.
+No, it did not work.
+She sent her to me by email.
+Okay.
+So,
+okay.
+Okay.
+So,
+yeah.
+I mean,
+it's in the first email.
+So,
+I'm participant one at email.
+Okay.
+Uh,
+where is that?
+It's here.
+participant one at email.
+Okay.
+So,
+see you,
+to lunch break.
+You're doing lunch break.
+Okay.
+Okay.
+Okay.
+There you go.
+So, next time,
+we should tell the fight.
+Yeah.
+What is this?
+I will tell you.
+Baby is mine.
+I will tell you.
+What happens to be your friend?
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+I will tell you.
+Okay.
+Okay.
+I will tell you.
+I will tell you.
+Okay.
+Okay.
+So,
+there you are.
+Keep it,
+take for the hurry up.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Alright.
+Okay.
+Okay, okay everyone's ready, hello.
+So we are here for a functional design.
+Okay, so we are here for the functional design meeting.
+So first I will show the agenda.
+So we will, I will take notes during this meeting.
+So I will try to summarize it and put that somewhere in the shell for there if you want to look at it afterwards.
+So then each of you will lead a presentation on the task that has been required last time.
+So user requirements specification, technical function design and working design.
+Then I will present you some new project requirements.
+I received from the management board.
+Then we will take the decision on the remote control and unique functions.
+And then I will assign you the task for the next part of the meeting of the process.
+So we want to start the presentation of what the,
+do you want to start?
+You can start.
+So give me comment.
+Give me the problem.
+This will be my portfolio.
+I am maybe there.
+Where are you?
+Let's see.
+Ouch.
+Okay, stick with your program.
+I think this is in the wrong folder.
+You can see something like this.
+What do you have in shortcut?
+Go up.
+Go up.
+Yeah.
+Again.
+No.
+No.
+Okay.
+No.
+Nothing.
+Nothing.
+There is no.
+No.
+No.
+Nothing.
+No.
+Nothing.
+No.
+Nothing.
+There is no.
+You have it.
+You have it.
+You have it.
+You have it.
+You have it.
+You have it.
+You have it.
+You have it.
+Yeah.
+Otherwise, could you just describe my hand with the whiteboard?
+Yeah.
+Yeah.
+Yeah.
+That's basically what we want here is a remote control.
+Yeah.
+So, of course, we want to follow up to control.
+So, most people want to have a remote for the high-fi and TV and stuff like that.
+But other people want to also remote for controlling toys like robotic beds and robots and
+stuff.
+And other people also want to have a remote for controlling a whole house.
+Yeah.
+So, there is a project I think called X house or something like that.
+That's that.
+You can integrate the remote with the computer stuff.
+Mm-hmm.
+So, there is one lot, one thing.
+The other thing is the finder filter by a with-limber or whatever.
+If you have the finder filter, then you can also have at the same time.
+And general voice commands if you want.
+Yeah.
+Mm-hmm.
+So, I think this gave back at that case.
+So, the user in the face of most of the two parts.
+One is the voice command, but the new one is the actual pattern spot.
+The bottom spot would be a set of buttons for choosing devices.
+Mm-hmm.
+A set of buttons for spatial navigation in space.
+Mm-hmm.
+A set of buttons for linear access of medium.
+And a set of buttons for random access.
+Okay.
+Yeah.
+What do you mean by linear access?
+Like a video tape goes forward backwards and fast and stuff.
+Yeah.
+Okay.
+So, spatial navigation, linear access fundamentals.
+And there's a false window.
+Mm-hmm.
+So, the button now for spatial navigation?
+Yeah.
+So, spatial navigation, for example, you might have a tip in the menu.
+Okay.
+Okay.
+Then linear access, then random access.
+Yeah.
+And also parameter.
+Are you saying?
+Okay.
+So, these are common parameters.
+We should put spatial buttons for that.
+Okay.
+So, we will have everything generic.
+But there are a lot of emotes on the market right now.
+Okay.
+And just use the most of the...
+Most everybody has this stuff.
+Okay.
+And voice command.
+What's command?
+What's the fine thing?
+What's sign a name in the button?
+A command to any button?
+Okay.
+If you have enough position power, I guess.
+Okay.
+So, that's...
+That plus your investigations?
+Yeah.
+And...
+Yeah, for sure.
+Okay.
+Maybe we can have a look at the user requirements, please.
+Okay.
+Yeah.
+Um...
+I don't know if you can...
+I don't know if I can.
+Maybe you can.
+Up to you.
+It's...
+Uhh...
+Uhh...
+Miss Andrew.
+Yeah.
+In which folder?
+Maybe.
+Yeah.
+In which folder?
+Yeah.
+Yeah.
+Yeah.
+In which folder?
+Yeah.
+In which folder?
+Yeah.
+Yeah.
+Yeah.
+Maybe you can send it to me by email.
+Yeah.
+Just to pass the parent one.
+Yeah.
+I mean...
+Yeah.
+I'm trying to show it to everyone.
+What could be more...
+Okay.
+You send it?
+It's...
+Yeah.
+Yeah.
+This is decimated.
+Okay.
+Okay.
+Um...
+You send it?
+It's...
+Yeah.
+Oh, this is decimated.
+Yeah.
+This is decimated.
+That was a good one.
+I wanna see.
+I'm gonna get it.
+I'm gonna see.
+Yeah.
+I'm gonna get it.
+All right.
+Okay.
+Thank you.
+Okay.
+So maybe I can switch slides whenever you have that would be more convenient.
+So, OK.
+Unfortunately, you can do.
+OK.
+So, in how I use an Internet, we observed the remote control use among 100 subjects.
+And the subjects are so fields.
+Questionally.
+Yeah.
+And here we have the results.
+So, you can see that 25 percent of users find most remote controls ugly.
+So, we have to find something to make them more nice, more kind.
+80 percent of users would spend more money when the remote control would look fancy.
+80 percent of users would spend more money when the remote control would look up.
+That's good.
+OK.
+So, OK.
+So, you can just keep doing that.
+But I can say, 75 percent of users say they zap a lot.
+So, we have to have a remote control, very out for that.
+The buttons have to be, let's say, resisting two shocks.
+And 50 percent of users say they only use 10 percent of the buttons in the...
+OK.
+So, all the buttons we have to put are, have to use a real use.
+OK.
+OK.
+So, fewer buttons may be good.
+Yes.
+Not many buttons.
+And the user even buttons.
+OK.
+But what kind of remote controls do you have?
+Sorry.
+What kind of task would it be?
+Yeah.
+Yeah.
+What's the most interesting thing?
+Yeah.
+But in fact, it seems that we are going to make a TV remote control according to new requirements
+I received from the management board.
+I would put them in the following.
+Ah.
+Good.
+OK.
+You can use them.
+So, there are the frustrations expressed by users.
+So, they say they lost the remote control in the room.
+So, they want to have a way to find these.
+Yeah.
+And a lot of the time, it takes too much time to run out to use a new remote control.
+So, they want something simple and easy to use.
+And remote controls are bad for what is inside.
+Oh, OK.
+Well, inside, yeah.
+With your wrist, you can't come from contact on this.
+Oh, yeah.
+Yeah.
+And you don't do that.
+Actually, it's a couple of different positions.
+OK.
+I have to make it more an ergonomic.
+Yeah.
+Yeah.
+I have to say, half a point.
+I know.
+It's a drop.
+Oh.
+Oh, sorry.
+I have to message from Microsoft.
+OK.
+Before that, I have some thing to say.
+Yeah.
+We know that as I use the remote control to change channel.
+Yeah.
+And to change volume selection.
+OK.
+And I'm not a lot for setting, for setting the channels and things like that.
+OK.
+So, it better to put something very easy to that.
+Yeah.
+These functions should be very accessible.
+OK.
+This is the main function.
+OK.
+So, then, we ask some questions to them.
+Yeah.
+And we ask this question.
+If they prefer a new city screen or on the remote image function remote control.
+And if they pay more for speech recognition in remote control.
+Yeah.
+And you can go.
+We have here the results of the question.
+So, you know, that for the younger, it's very important.
+Two of it.
+Two of it.
+Yes.
+And speech recognition.
+And the others is not so important.
+But we know that people between 15 and 25 are people who watch a lot TV.
+And we can use a lot of this.
+OK.
+So, maybe we can have a screen.
+Yeah, maybe this is important.
+Yeah.
+More word.
+Maybe it was like this teenager, customer can advise their parents to buy this equipment.
+And so, we have to take care of that point of view.
+Awesome.
+Yeah.
+OK.
+And if the conclusion.
+So, as we say before, I think a remote control lightning in the dark, it's a good scene.
+OK.
+Not too many buttons like we said before.
+Yeah.
+Easy to use.
+Way to find it easily in the room.
+And to resistance, to shock control.
+OK.
+OK, design.
+I know if you see something else in the dark.
+And just thinking of something.
+We're wrong to have that number.
+I don't know if it's a grenade.
+We don't have a general remote control for everything.
+No, no, no.
+It seems that we know one, two have a TV remote control.
+OK.
+From the management board, I will see another in the mail.
+Because it would be costly.
+And also, it would take more time to develop two have a general generic remote control.
+And it's not the right thing.
+No, no, it's a good thing.
+That it would be wrong.
+It would be wrong.
+I think it would be the same.
+Yeah.
+Because I received that make from management board.
+And this seems to tell that if we want to be on the market,
+as early as possible, we should focus on TV more over.
+It seems that the market is more important.
+So we make this a good decision.
+I know what's happening.
+I know I'm not going to know about how fast we can design.
+I don't think it would be.
+Yeah.
+I finished two minutes.
+OK.
+But basically, yeah, maybe I can continue with my presentation for the.
+OK.
+But I think we have some technical support at once.
+I'm just going to describe briefly what we do in the remote control.
+Maybe you can go to wait for it if you have some going to do.
+Oh, yeah.
+No, I have enough cameras.
+OK.
+I feel like a dog who is.
+OK.
+So I'm just going to describe in fact form for a remote control.
+This is quite easy.
+You just have.
+OK.
+OK.
+Are you OK?
+Like that.
+I'm just going to describe.
+Basically, we have a battery, a voice, a client.
+Yeah.
+After that, we just have a user interface.
+Let's say that something like that, which could be the LCD,
+I'd say, or an array of dash button, something like that.
+That's what I see.
+After that, we feel that into an electronic chip.
+So I say, you see.
+And I feel that, which is an infrared, which is an infrared.
+And so what we for myself for us, this is quite easy.
+You see the sun trying to do it?
+Yeah.
+OK.
+It's just a chip which does all the numerical computation
+according to the display.
+And so for us, this is quite easy.
+You just need to define what we want to do when the user interface
+wants something.
+And after that, we just do a recording to send that to another
+to another television.
+OK.
+So far, this is quite easy.
+OK.
+So this is great to you.
+And we just have to define the processing power that we need.
+Otherwise, especially if we want to do some speech recognition.
+In that case, I think that we are going to use more.
+This is important to do that.
+Yeah.
+Of course, we are not.
+But for a standard one, this is really easy.
+It's a question of what nonsense.
+Do you speak about voice control?
+No, no, no.
+I said standard button one.
+Yeah.
+And standard time remote control takes over all months to do that.
+The only time for the voice detection is a symmetric.
+Yeah.
+We are definitely.
+So do you have any idea of what we rotate and do it?
+I would say, I would say, I don't know what to do.
+Do we understand what power performs for make- views?
+Well, let me connect people with changes.
+first results. Okay, so it's a bit more good. Yeah, one month for the standard one with
+this button. Yeah, even if we have a result, we display. Yeah, this is what is turned off the device, isn't it?
+Okay, so we can take this into a car. So we think it would be going to go for like
+a bit of a solution, but we don't have time to make it. And also, oh much. I think
+I think during the kickoff meeting, you said that we shouldn't go up to 25 units. Yeah, so how many
+many units should be sold to ever? Well, each unit is 25 units. Yeah, but how much do you get?
+How much do you get? How much do you get? If you buy one million units. One hundred thousand units. It's going to be different. Yeah, how much will it cost for one hundred thousand units.
+is less than two dollars. Okay, because we are going to for a part of one hundred thousand units. Okay.
+It seems that that we want to say like four million units from the first meeting. Okay, maybe we can we can look at the new
+requirement they receive from the management board and discuss all function we want to well.
+I just had a question. Do you want to come to me? Yeah, I will continue. Well, ask your question if you want. You say that I don't remember
+about 30% of the testing people say that it's quite difficult to use the remote control.
+Doing they say that this is difficult but for the same reason or doing the data for the reason.
+Maybe to keep in mind maybe to access to that menu you should do something like that.
+I think they say that it's difficult to learn how to use it. But when you know how to use it, it's okay.
+But yeah, maybe and what about if we design a remote control which can be configured as you want.
+You say that's five ones. I have six words. A lot of people are if you have the LCD screen.
+Yeah, you're completely the way you want because the bottom touch will look the way you want them.
+But also it will be hard to configure. I mean, so it's really something for the expertise.
+I mean there are markets and markets. I think the young people are
+testing here. So for young people to be cool, they're able to use it.
+Maybe their parents will not but they will configure it. I guess I'll know if there's a study.
+Maybe it would be more complex to configure it to be simple than creating a simple project.
+But I think that if we make something that's simple at least to use it,
+they use it to be exactly the same as everything else.
+Otherwise, if it's different, then of course it will cache some of the customers to learn.
+But also we see that most people find it's fine remote controls to complex because they have too many buttons.
+And they mainly use only channels and volume buttons.
+So we may just make it very easy to use remote controls with mainly those buttons.
+And maybe also some lightning stuff because most people find also art to find the remote controls,
+to use it, et cetera. These are these two points on the main frustration.
+So maybe if we design something very simple and easy to find when lost,
+it will add a share use competitive advantage without making something too complex and too long to measure.
+So let's just see first the new requirement.
+So we don't have to, so this is in the same direction as we were speaking.
+So we don't have to make a very complex remote controls to access teletext and stuff like that.
+So it's just one button.
+But then you have to, you have to define the buttons to serve amongst things.
+Just try to write a number.
+Yeah.
+So where would the tunnel use?
+Right.
+Yeah.
+So anywhere we don't have to include this feature because it's not used anymore by users.
+They prefer to...
+Yeah.
+I'm sure that they like, but I want to just one button.
+Yeah.
+Sure.
+I don't know.
+If one button is still one more button.
+If we want to make it very simple, we have to use them for our buttons to convert to our competitors.
+But anyway, I have this point we can discuss.
+Also, so as I told before, it would be better if it's only for the TV because we want to be quick on the market.
+And then also, we have to make very clear that this remote control is part of our projects.
+And show a copyright logo and the colors on the design as well.
+So that they don't fight as one of our products.
+So this is the key point.
+So before finishing, we can define what would be the characteristic of the control, of the remote control,
+and which button do we need, which function, and do we want, etc.
+Okay.
+So do you...
+So from the marketing expert, I think, the key aspect is the easy-to-use aspect.
+It should be very simple.
+And most buttons are never used only 10% of the buttons are used often.
+So I think we have to do something very simple.
+And I think we are agree on that point.
+No.
+Well, if it is going to be that the TV remote control is very simple.
+Yeah.
+Okay.
+So the key point here is simple.
+Maybe so few buttons, channel, volume control, and what function do you see?
+Well, if it is simple, that's possible.
+And that's the big remote control.
+There is no other action on the country.
+Okay.
+Maybe switch TV on and off.
+Yeah.
+Yeah.
+Yeah.
+Volume.
+Maybe a mute button and then one off button.
+And that's all.
+I know that.
+You said that many people are going plenty of lots of zapping.
+I know that.
+I discovered that when I did a quick look.
+They do not sort.
+They do something which is simple.
+I discovered that when I did a quick look.
+They do not sort.
+They do something which is quite nice.
+No.
+You have a button.
+You press it.
+And this is the previous channel which is coming back.
+Yeah.
+This is good.
+Maybe we can include that as a previous channel button.
+So we have like channel button, the previous channel button, the volume button, press
+button.
+Mm-hmm.
+And just the traditional one off button.
+And of course the channel is changing the buttons.
+Yeah.
+I totally recommend that.
+Yeah.
+I totally recommend that.
+Because it will be numerical only.
+It will be also incremental.
+Yeah.
+Incremental definitely because zapping switch them.
+Let's say that we can do something like that.
+This is an internal tone.
+But when you press it for a long time, you go five by five.
+You don't go five?
+To go faster.
+Mm-hmm.
+It's an interesting idea.
+If you press it for a long time, it has something else in there.
+So if you have your 10 buttons for the numerical buttons, and you have just one memory,
+you have a few percent for a long time, it doesn't work.
+Right.
+Maybe we should have also a DG.
+But have a complete button to try for some commands.
+Yeah.
+It's time to wait.
+Yeah.
+Maybe we have also to have the genes or an equivalent type.
+I don't know.
+Because it's useful.
+It's useful.
+It's useful.
+It's useful.
+It's useful.
+It's useful.
+It's useful.
+It's useful.
+Yeah.
+Because you have your previous channel button.
+If you have incremental only, it doesn't work.
+Because the previous channel is either minus one or plus one.
+Yeah.
+So I think we need also a DG.
+Okay.
+Maybe we can make very obvious the channel and volume booter button.
+And smaller button down there with the DGs.
+Yeah.
+I want to use that usually.
+You will have to put the same button at the time.
+Yeah.
+And we can do something like that.
+We can design the remote control to have access.
+You know some remote control have a protection.
+And so you...
+Yeah.
+Yeah.
+Yeah.
+Yeah.
+I just always think there is a...
+You know, there's a mask with a wheel like this.
+It's to hang the up-down buttons.
+Yeah.
+Yeah.
+Okay.
+Yeah.
+Maybe we can have a wheel for incremental.
+Okay.
+So I have a wheel for incremental.
+I have the DGs on the lower side.
+That can be closed.
+So anything protected?
+Yeah.
+And...
+Yeah.
+I think this is...
+On the lower side.
+I think we have to turn it.
+And do we...
+Do we have a bow?
+Yeah.
+Not a wheel but a bow.
+And you say...
+A little bit.
+I would still do it.
+It's better to cut it.
+I think it's better to cut it.
+I think it's better to cut it.
+Yeah.
+It's not like a volume with the smooth.
+Yeah.
+It's not only things one by one.
+Yeah.
+So you have to...
+You should feel the...
+Yeah.
+The grid.
+Yeah.
+The grid.
+Yeah.
+That's a good idea.
+And...
+Well, also we have to decide...
+So it should be lightning in the dark.
+I think because most people lost their control quite easily.
+But that's...
+With backlights on the...
+With the way L.A.D.
+Or if it's...
+If it's...
+If it's a blue L.A.D.
+And we sell that.
+And do we put an LCD display?
+Because it was important for young customers,
+if you remember.
+I think it's only important for all the functions.
+Yeah.
+Because all the functions,
+there's no component,
+actually.
+Just because of course...
+Okay.
+And you don't have an advantage.
+You don't have no LCD.
+And so no speech as well,
+because it would delay too much delay.
+It would delay too much delay.
+Yeah.
+Yeah.
+It would be cool.
+It would be cool.
+You could say CNN for a long time.
+Cool.
+Yeah.
+That would be cool.
+But eight months is really long.
+Maybe we can just...
+Yeah.
+Ten years.
+Ten years.
+Ten years.
+Ten years.
+So I will...
+I will...
+So we will move to the next meeting.
+So after the launch break,
+you are the individual action.
+You are required to do,
+but you will be recorded transactions by email, I think.
+But you can take notes if you want.
+But while the instruction will be sent.
+So thank you for your suggestion.
+And I will make a summary of that meeting
+that I will put in the share folder.
+You can't see.
+Okay.
+And then you will be able to see what has been...
+has been said on this meeting and what has been decided.
+Maybe for the next meeting, send me your presentation before by email,
+so that we can see them all together.
+That will be easier.
+What is the folder that people you are doing?
+It will work.
+No, it did not work.
+She sent her to me by email.
+Okay.
+So maybe this is better to send it by email.
+Okay.
+Okay.
+So yeah.
+It is in the first email.
+So I am about to submit one.
+Add it by email.
+Okay.
+Where is that?
+It is here.
+I have to submit one at any meeting.
+Okay.
+So see you.
+The lunch break.
+We will do the lunch break.
+There you go.
+So next time we should try the fight.
+Yeah.
+What is this?
+I will do it.
+I will do it.
+There you go.
+Okay.
+We will establish the beautiful end.
+Mm.
+Mm.
+Is that fight?
+Yeah.
+You can't do that.
+Yeah.
+It is everywhere.
+It is everywhere.
+See if it hurts.
+Okay, okay, everyone's waiting.
+Hello.
+So we are here for a functional design.
+Okay.
+So we are here for the functional design meeting.
+So first I will show the agenda.
+So we will, I will take notes during this meeting.
+So I will try to summarize it and put that somewhere in the shell for there if you want to look at it afterwards.
+So then each of you will lead a presentation on the task that has been required last time.
+So user requirements specification, technical function design and working design.
+Then I will present you some new project requirements.
+I received from the management board.
+Then we will take the decision on the remote control and delete functions.
+And then I will assign the task for the next part of the meeting of the process.
+So we want to start the presentation of what the...
+Do you want to start?
+You can start.
+Give me a comment.
+Give me a comment.
+It should be made by the folder.
+I am in there.
+Where are you?
+Let's see.
+Oh.
+Okay.
+Take me to the program.
+Anything you said in the wrong folder?
+You can see something like this in the name of something like that.
+What do you have in shortcut?
+No.
+Anybody?
+No.
+You have no...
+You have no...
+You have no...
+You have no...
+You have no...
+That's not...
+Over?
+Okay.
+No?
+That's not...
+Nothing.
+There is no...
+There is no...
+There is no...
+Let's go and take a program.
+Yeah.
+Otherwise, could you just describe my hand with the whiteboard?
+Yeah.
+Okay.
+With the whiteboard?
+Yeah.
+Which you remember?
+Yeah.
+Yeah.
+Right.
+Basically.
+What we want here is the remote control, right?
+Yeah.
+So...
+Of course, we will have a lot of control.
+So, most people want to have a remote for the high fire until they stop like that.
+Mm-hmm.
+So, there are other people who want to access the remote for controlling the...
+And toys like robotic beds and robots and stuff.
+And other people also want to have a remote for controlling the whole house.
+Mm-hmm.
+Yeah.
+So, there is a project that I think collects houses after that.
+That's that.
+You can integrate the remote with computers and stuff.
+I mean, there is a lot of one thing.
+The other thing is the...
+The finder features are by a machine or whatever.
+If you have the finder feature, then you can actually have at the same time as...
+And then it goes commands if you want.
+Mm-hmm.
+So, I think it's clear packets in that case.
+So, the...
+Usually the first most is the two parts.
+One is the voice command.
+One is the actual buttons part.
+The buttons part would be a set of buttons for choosing devices.
+Mm-hmm.
+A set of buttons for spatial navigation and space.
+Mm-hmm.
+A set of buttons for linear access of medium.
+And a set of buttons for random access.
+Okay.
+Yeah.
+What do you mean by linear access?
+Like a videotape with four buttons and stuff.
+Yeah.
+Okay.
+So, spatial navigation, linear access, random access.
+And there's a false window.
+Mm-hmm.
+So, the button are for spatial navigation.
+Yeah.
+For spatial access, for example, you might have a tip in the menu.
+Okay.
+Yeah.
+Then in your access, then random access.
+Yeah.
+And also parameter.
+Are you saying that?
+So, these are common parameters.
+We should put spatial buttons for that.
+Okay.
+We will have everything there generic.
+But there are a lot of emotes on the market right now.
+Okay.
+And this is most of everybody has this stuff.
+Okay.
+And voice command.
+What's command?
+What's the fine thing?
+I'm saying any button, a command doing a button.
+Okay.
+We'll have enough purpose in power, I guess.
+Okay.
+So, that's close to our investigations.
+Yeah.
+Yeah.
+Yeah.
+Okay.
+Maybe we can have a look at the user requirements, please.
+Okay.
+I know if you can.
+I don't know if I can.
+Maybe you can.
+I'll talk to you.
+It's.
+Yeah.
+Okay.
+I'm going to talk to you.
+Yeah.
+I'm going to talk to you.
+Yeah.
+Yeah.
+In which order?
+You need to be.
+Yeah.
+Yeah.
+In which order?
+You need to be.
+Yeah.
+You need to be.
+Yeah.
+You need to.
+You need to.
+Short cut to.
+Let me see.
+The short folder.
+Yeah.
+Yeah.
+Maybe you can send me to me by.
+Yeah.
+Maybe.
+Just to pass the bank one.
+Add any.
+Yeah.
+Okay.
+I'm trying to show you through everyone.
+Okay.
+More.
+Okay.
+Okay.
+Okay.
+Okay.
+Um.
+Is that it?
+It's.
+Yeah.
+Yeah.
+Oh, this is missing.
+Yeah.
+Yeah.
+Yeah.
+Oh, this is missing.
+Yeah.
+Yeah.
+Good.
+We think, yeah.
+Okay.
+Let me see.
+Can I see?
+Yeah.
+Yeah.
+Yeah.
+Yeah.
+Okay.
+Okay.
+Okay.
+Yeah.
+Okay.
+Okay.
+Okay.
+Okay.
+Come here.
+Okay.
+Okay, so maybe I can switch slides whenever you have that would be more convenient.
+Okay, so in how I use a meeting app, we observe the remote control use among 100 subjects and the subjects also feel a questionnaire.
+And here are the results.
+So you can see that the 25% of users find most remote controls ugly.
+So we have to find something to make them more like more kind.
+80% of users would spend more money when the remote control would look fancy.
+80% of users would spend more money when the remote control would look fancy.
+That's good.
+So, okay.
+So I can say, 75% of users say they zap a lot.
+So we have to have a remote control, very out for that.
+The buttons have to be, like you say, resisting two shocks.
+And 50% of users say they only use 10% of the buttons in the remote control.
+So all the buttons we have to put are, after we have to use a real use.
+Okay.
+Okay, so fewer buttons may be good.
+Yes.
+Not many buttons and you say both buttons.
+Okay.
+But what kind of remote controls do you think about that?
+Sorry.
+Yeah.
+Yeah.
+Yeah.
+But in fact, it seems that we are going to make a team here remote control.
+I thought into new requirements I received from the management board.
+I would present them in the following.
+Ah.
+Good.
+Okay.
+You can do this.
+So there are the frustrations expressed by users.
+So they said they lost often the remote control in the room.
+So they want to have a way to find it.
+Yeah.
+And a lot of the time it takes too much time to learn how to use a new remote control.
+Because I want something very simple and easy to use.
+And remote controls are bad for what is a site.
+What is a site?
+Yeah.
+Your wrist can't come painful.
+You can come turn on this.
+Yeah.
+Yeah.
+And you don't do that.
+Okay.
+Okay.
+Okay.
+So we have to make it more an ergonomy.
+Yeah.
+Yeah.
+I have to say half a point.
+It's your job.
+Oh.
+Yeah.
+Sorry.
+I have to message from Microsoft.
+Okay.
+Okay.
+Before that I have some something.
+Yeah.
+To say yeah.
+Yeah.
+We know that as I use the remote control to change channel.
+And to change volume selection.
+Okay.
+And I'm not a lot for setting.
+Yeah.
+For setting the channel and things like that.
+Okay.
+So it better to put something very easy to that.
+Yeah.
+These functions should be very easy.
+They're very accessible.
+They're very accessible.
+Yeah.
+Okay.
+This is the main function.
+Okay.
+So then we ask some questions to them.
+Yeah.
+And we ask this question.
+If they prefer a new city screen or on the reminitive function remote control.
+And if they pay more for a speech recognition in remote control.
+Yeah.
+And you can go.
+We have the results of the.
+First question.
+Okay.
+Questions.
+So you know that for the younger.
+It's very important.
+To others.
+To others.
+To others.
+Yes.
+And speech recognition.
+And the others is not so important.
+But we know that people between 15 and 25 are people who watch a lot TV.
+And can use a lot this.
+Okay.
+So maybe we can have.
+Yeah.
+Maybe this is important.
+Yeah.
+Over.
+Maybe it was like your teenager, customer can advise their parents to buy.
+This equipment.
+So we can.
+We have to take care of that point of view.
+Awesome.
+Yeah.
+Okay.
+Okay.
+And if there is a conclusion.
+So.
+As we say before, I think.
+A remote control lightning in the dark.
+It's.
+It's a good thing.
+Okay.
+Not too many with buttons like you said before.
+Yeah.
+Easy to use.
+Way to find it easily in the room.
+And.
+Resistance to.
+To.
+To.
+Okay.
+Okay.
+I don't know if you see something else on top.
+I'm just thinking of something.
+Yeah.
+I don't know.
+I don't know.
+It's a good idea.
+I don't have a general remote control for everything.
+No.
+No.
+We.
+It seems that we know one to have the TV remote.
+Okay.
+From the management board.
+I would say no.
+You may.
+Because it would be costly.
+And.
+And also it would take more time to develop to have a general generic remote protocol.
+I think.
+I think.
+I don't know.
+I don't know.
+I don't know.
+I don't know.
+I don't know.
+I don't know.
+I think.
+I think it's the same.
+Yeah.
+Because I received that made from management board.
+And this seems to tell that.
+That if we want to be on the market.
+As early as possible.
+Which would.
+We should focus on TV more over.
+It seems that the market is more important.
+So maybe this is the CEO.
+I know.
+I know.
+I know.
+I know.
+I know.
+I know.
+I know.
+I know.
+I know.
+I know.
+I know.
+I know.
+I know.
+I know.
+Yeah.
+I know.
+Yeah.
+I know.
+I know.
+I.
+Yeah.
+Yeah.
+I know.
+I know.
+I know.
+I know.
+I know.
+I did it.
+Yeah.
+I know.
+Yeah.
+Yeah.
+Well, I have enough camels.
+Yeah.
+Okay.
+I feel like a dogui.
+Oh, yeah.
+Yeah.
+Okay.
+So I'm just going to describe on.
+In fact, for the remote controller.
+This is great.
+Easy.
+We just have.
+And also.
+Okay.
+Okay, I will get like that I'm just going to describe basically we have a battery
+a poor supply here after that we just have a user interface let's say that something
+that which could be the LCD I'd say or an array of version but in something
+I don't actually know what I see after that we feel that into an electronic chip so
+I say you see and I feel that to and which is an infrared which is an infrared and so
+what we for myself this for us is quite easy you see the central unit yeah it's a it's this
+just a chip which does all the critical computation according to the display and so
+for us this is quite easy you just need to take to define what we want to do when the user
+interface wants something and after that we just do a decoding to send that to
+to a division okay so for us this is quite easy okay so this is great to me yeah and we just have
+to define the processing power that we need especially if we want to do some speech recognition
+in that case that we are ready to use more this is a big more than to do it yeah of course
+and let's find a stunner one this is really easy it's a question of one man's son so to have a
+use you speak about voice control no no I said stunner burden one yeah stunner every much control
+takes maybe one month to do that so the only time for the voice recognition yeah definitely
+so do you have any idea of what we take to a voice solution I will say it it's a bad
+one month for the stunner one with but yeah even if we have already display yeah
+I mean this is what is turned off devices now okay so we can take this into a car so we think
+it would be going to go for like speech recognition but you do have time to make it and also
+I'll mention I think I think during the kickoff meeting you said that we shouldn't we shouldn't go
+up to twenty five units yeah so how many units should you sell to other well each unit is
+twenty five units yeah but how much do you get how much do you buy one million units one high the
+you see that we want to say like four million units from the first meeting
+okay okay maybe we can we can look at the new requirement I received from the management board and
+excuse this guys all function we want to grab I just had a question do you want to come to me yes I will
+well that's your question if you're you say that I don't remember out that 30% the testing people say that it's quite
+difficult to to to use the remote control doing they say that this is difficult but for the same reason
+but yeah maybe and what about if we design a remote control which can be configured as a
+you say that five ones I have six words a lot of people are if you have the issue the screen yeah yeah you completely the way you
+want because the bottom touch will look yeah the way you want them but it's hard to configure I mean so it's really
+something for the expertise I mean there are markets and markets I think the young people are testing here I said yeah it is so for
+young people to be cool they're going to use it maybe their parents will know but they will configure it I guess I'll move this study maybe it would be
+more complex to configure it yeah I have to be simple then creating a simple program there are other things that if we make something that's
+simple and this to use it be easy me that means that to be exactly the same as everything else otherwise if it's different then of course it will cast some of it has to learn first yeah but also we we see that that most people find it find remote controls to complex because they have too many buttons
+and they mainly use only channels and volume buttons so we may just make it very easy to use remote control with mainly those buttons yeah and maybe also some lightning stuff to because most people find also art to find the remote controls
+loose to see it etc these are these two points are the main frustration so maybe if we design something very simple and easy to find when lost it will add a serious competitive advantage without making something too complex and too long to me there so but let us see first the new
+requirement so we don't have to so this this is a is in the this is in the same direction as we were speaking so we don't have to make a very complex remote controls to access teletext and stuff like that
+that you text it just one button yeah but then you have to you have to define the buttons to serve amongst they just tries to write a number yeah so we are with the Italian keys right yeah so anywhere we don't have to make this feature because it's it's not used anymore by uses they prefer to I'm sure that like but I'll
+want to just one button yeah I don't know if one button is the one more button if if you want to make it very simple we have to reduce the number of buttons compared to the two competitors well anyway I have this point we can discuss also so as I told before it would be better if it's only for the TV
+because we want to be quick on on the market and then also we have to make very clear that this this remote control is part of for projects and show operator logo and colors on the on the design as well so that they don't fight as well
+kind of our product so this is the key points so before finishing we can define what would be the characteristic of the of the control of the remote control and which put on to any which function do you want etc
+so do you so so from the the marketing expert I think the key aspect is the easy to use aspect it should be very simple and most button never used only 10% of the button are I use often so I think we have to do something very simple and
+I think we are every on that point yeah so the point here is simple maybe so few buttons channel volume control and what function do you see well
+well do you know you want the situation that can combine
+yeah volume maybe you are m Idea used and reach when you can compare your
+and then one off button and that's all I know that you say that many people are doing plenty of
+a lot of zapping I know I discovered that I did a quick look they do not solve they do
+something which is quite nice no you have a button you press it and this is the
+previous channel which is coming back yeah this is good maybe we can include that
+previous channel button so we have like channel button the previous channel button the
+volume button press a mute button and just the traditional one and of course the channel
+changing buttons yeah I probably would like to implement it because there could be numerical
+only there could be also incremental yeah incremental definitely because zapping you switch them
+let's say that we can do something that this is an improvement on but when you press it for a long
+time you go five by five you don't go five two go faster you know it's an interesting idea
+if you press it for a long time that's something else in general so if you have your ten
+buttons for the numerical buttons and you have you have just one memory yeah you have a few
+percent for a long time you know doesn't work maybe we should have also DG but have a complete
+burden type of some comments yeah it's time to wait maybe we have also to have cheese or a new
+incremental I don't know because it's so useful like if you want to change the temperature
+also for example then you cannot it's not what just remember the incremental yeah because you have
+your previous channel button if you have incremental only it's a doesn't watch it because the
+production is either minus one or press one yeah so I think we need also DGs okay maybe we we can make
+very obvious the channel and volume motor button and smaller button done there with the DGs
+yeah one news is up usually you have to press the same button with the alpha and and or we can
+do something like that we can design the remote control to the nice as you know some remote control
+have protection and so you yeah and just this thing there is a you know there isn't that's how
+much we do it like this you're still having the up down but yeah yeah that kind of joystick yeah
+Yeah, maybe we can have a wheel for incremental.
+OK, so I have a wheel for incremental.
+I have the digits on the lower side that can be closed.
+So it is then protected.
+And yeah, I think it's on the lower side, I think, of the tent.
+And do we have a bow?
+Yeah, not a wheel, but a bow.
+And to say, you know, I will say the wheel is better.
+It's not like a volume, which is smooth.
+Yeah, it's only things one by one.
+Yeah.
+So you have to, when you should feel the grid, it's a bit.
+Yeah.
+That's a good idea.
+And also, we have to decide, so it should be likeening the dark,
+I think, because most people lost their own control quite easily
+with backlights on the wheel that we LED or if it's a
+digital wheel, and we sell that.
+And do we put an LCD display?
+Because it was important for human customers, if you remember.
+I think it's only important if we have more diffraction.
+Yeah, it's not only diffraction, then there's no problem
+on the LCD, just because, of course, OK,
+either they don't have an advantage.
+So no LCD.
+And so no speech as well, because it
+would delay too much delay, because it could say CNN, for example.
+Cool.
+Yeah, that would be cool.
+But eight months is really long.
+Maybe we can just tell you this.
+So we will move to the next meeting.
+So after the launch break, you are the individual action.
+You are required to do, but you will be recording those actions
+by email, I think, but you can take notes if you want.
+But what the instruction will be sent.
+So thank you for your suggestion.
+And I will make a summary of that meeting,
+that I will put in the share folder, you can't see.
+And then you will be able to see what has been said on this meeting
+and what has been decided.
+Maybe for the next meeting, send me your presentation before by email
+so that we can see them all together.
+That will be easier.
+What is the folder that people using?
+It will work.
+No, it did not work.
+She sent her to me by email.
+So maybe it's better to send it by email.
+What is your memory?
+So, yeah, it's in the first image, so I'm put,
+so next time we should try the fight.
+Yeah.
+What is next?
+I will tell you.
+Maybe one or two or something.
+What happens to be your friend?
+Use the fight and event to organize me there.
+Use it everywhere.
+Use it everywhere.
+Use it everywhere.

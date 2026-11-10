@@ -1,0 +1,3848 @@
+Excuse me, that's a product.
+Okay.
+The mass partition.
+Okay.
+So we are here for the constant design routine.
+So we will first start by summarizing the produce between the decision with the term.
+I will take notes through this meeting, so that we can look at my order to see the summary of this meeting afterwards.
+So each of you will show us the very used investigation that I'm doing.
+Produce hours.
+We'll then take the decision concept and then we will define the next task to be done before the next meeting.
+So last time we decided to have a simple interface.
+We also decided to have a will to change channel, produce channel button,
+channel DGs.
+The buttons should be protected by plastic cover or something for the remote control to do very simple.
+We have also a button for volume and to switch one of the TV.
+We have also the lightning feature for the remote control to be easy to find.
+And for fast development and low cost, we have decided to have nowhere to see the normal features.
+So now we will have three presentations.
+So the concept of your specification by industry designer.
+The specification of the UI by...
+You last read.
+It's my name.
+Okay.
+And the last point is train watching by market experts.
+So maybe we can start with the industry design.
+So we see the presentation idea.
+Maybe I can switch slide on your place.
+I just look at the...
+And just these points and white pages.
+We have to find some of the competition.
+And I think the remote control is as I mentioned previously.
+We just have a very simple chip.
+And the user interface is just usually by touch button.
+In our case, we are using a will control.
+So I was looking basically for that chip.
+Which is a very, very standard.
+And I just look for the wind sensor and the standard push button.
+And yeah, we can change the effect.
+I have the number of that element, which is very standard for remote control.
+The push button are usually extremely cheap.
+But I just have one problem and this is related with the real sensor.
+Which seems to be quite expensive.
+Okay.
+And I think if we could just talk about that, if we really need a real sensor,
+or if we can combine something with the push button.
+Okay.
+A real sensor is 50 times the price of a push button.
+But is it a significant price on the world remote control?
+Because we can have all the up to 12 euros for the price of the remote control.
+Yeah.
+So we will this with the including all possible things.
+So buttons will energy be lower than 12 euros to produce.
+But I don't think that we should.
+I should talk about the design of the box.
+Okay.
+I don't know how to do it.
+Maybe you will see the image about the voice.
+No?
+Yeah, I will have an image from my mind.
+That's the image that they have.
+Basically a voice of an image from a tip already divided.
+It says that right now, it just gives it to record the answers to particular questions.
+But I guess if you could immediately add up to the position,
+which is the recording of the answer, you can just record something simple.
+Okay. And there you can recognize some color.
+Yeah.
+So you can recognize the recording from the answers.
+If you really have the answer.
+Yeah.
+You could give it.
+Okay. Maybe we can just listen to this presentation
+and then take the decision later.
+Okay.
+According to the news.
+But I think it's, yeah.
+So I have written my personal references.
+I just want to mention the problem of the real sense of which is much more expensive.
+Okay.
+If we could reduce that.
+We have already some good things with the back lights of the brush button.
+I have a question about that.
+What is the purpose of the light?
+Just to make something which is nice and more designed.
+It's a screaming box.
+You can see the button button button button in the dark.
+Yeah, but it will still not light.
+It will be turned on when the user moves the remote control.
+If you move it, then you have it.
+You can see the buttons better, of course.
+Yeah.
+Yeah.
+Yeah.
+Yeah.
+But if you move it, then you have to have some sense of it.
+When you move it, take that your move.
+As soon as you start to move the remote control, you have the right.
+Yeah.
+But you need another sense of about that.
+Yeah.
+Again.
+Yeah.
+You need it too expensive.
+I don't think that this is really expensive but at the end this is plenty of
+fun.
+It's kind of cheap.
+Yeah.
+Okay.
+Devices but it will be installed.
+Yeah.
+But actually, we will do a little bit more detail.
+Yeah.
+First of all, I was thinking to have a continuous light.
+And when you press the on button, you have the light and you will be more controlled.
+Once you want to turn off the light, you can see the light we continue.
+The light is always out.
+It's on it.
+Why would you discuss that?
+Maybe.
+Okay.
+Because you have a wide one.
+It should be shared further.
+Yeah.
+Right?
+Can you take it?
+I don't know.
+Okay.
+Okay.
+Let's move the light.
+This is good.
+What is simple.
+That's the main 0.
+Right here.
+That's the main 0.
+So, I just look at some current designs on the web of
+usually more complicated in the converse.
+Just look at two of them, because even though they have many buttons,
+they look quite simple.
+And in that case, we just detect the buttons.
+Yeah.
+And the buttons.
+And also does it fit well in.
+And because it was a risk problem.
+Well, this is a most hard part thing.
+So, what's in this space?
+So, they have all these buttons that you can see.
+But most of them, we just need the ones in the middle.
+Yeah.
+So, from the bottom, where the numbers,
+and then the top, until the time.
+So, this middle part.
+And the left one is exactly the same.
+So, it's basically more or less how we would like
+with a big volume control, big time control, a mutant power.
+Yeah.
+It's the basic thing.
+So, it's only the central part.
+So, basically, something that we will look more or less
+the same as this two.
+Yeah.
+With maybe a more economic design.
+Yeah.
+If you have, for example, I think that the volume and buttons
+attack, they don't need top part.
+So, it's easy to get something.
+Yeah.
+And be on the right side, for example.
+Okay.
+Yeah.
+Because we don't have these input buttons.
+And we just have a few times.
+And I think that the plastic cover is not very good.
+Right.
+Because you open it, it can break.
+It can do better things.
+Okay.
+You just need to put the channel numbers somewhere
+a bit out of the way.
+Okay.
+So, that's it for a little bit.
+Yeah.
+And this is to put the other big buttons.
+But it's not the difficult to place the entire button.
+Sorry.
+I think that if you put the cover,
+it will be a more difficult one.
+Okay.
+Good.
+Yeah.
+Usually what,
+I have noticed that people put the plastic cover on things
+that you normally don't miss with, like,
+buttons for tuning the channels and stuff like that.
+Yeah.
+But you will put that to me.
+And I think it's a decision.
+Okay.
+So, I don't think.
+Yeah.
+This is just the wheel.
+Use some wheels can be pushed down.
+It's done with the wheel for that coil if you want.
+Mm-hmm.
+So, we just basically use one just wheel
+and use the wheel just the wheel to everything.
+Yeah.
+At the time.
+In that case.
+Maybe the wheel will be with the,
+with the advantage of our competitors.
+Mm-hmm.
+Because it's a wide space standard
+about the competitors.
+It's very simple.
+So maybe this was to,
+to have more expense on that,
+that respect.
+Mm-hmm.
+You know,
+this,
+might be considered to be kind of a robot.
+Mm-hmm.
+Okay.
+So we can move to the,
+is there any questions for
+design of user interface?
+Or we can move to the next box.
+Maybe in this case afterwards.
+Okay.
+Can we go?
+Oh, yeah.
+So there are,
+there is something investigation
+we have done
+on,
+on the very much controls.
+So the most important aspects
+for remote controls
+is to be fancy,
+and feel,
+and not current functionality can feel.
+And the second aspect
+is that the remote control
+should be a technological innovative.
+Okay.
+And the third,
+must be bottom aspect.
+It to,
+to,
+is that the remote control should be easy to use.
+So,
+there are things we,
+who have,
+or speak about before.
+Yeah.
+And,
+and,
+so you can go.
+Yeah.
+After.
+And,
+there is a fashion which is,
+in Paris and Mina,
+that I've detected the following trends.
+Foot,
+and vegetables will be the most important time
+for closed issues and features.
+So,
+maybe our,
+remote control
+have to be,
+food form or vegetable forms.
+Okay.
+Like that.
+It's important.
+Yeah.
+And,
+the material is expected to be spongy.
+Oh,
+I don't know.
+Which material
+can be spongy?
+Yeah.
+And if you.
+This is good or so far.
+I think,
+I think,
+in terms of,
+in terms of,
+in the board, right?
+Yeah.
+Yeah.
+I think it is good or so.
+To have this point.
+Yeah.
+I know it's better.
+Yeah.
+Because it's purpose.
+It's a research.
+Hey,
+that's a cool one.
+It's a research.
+It's a research.
+It's a research.
+It's a research.
+It's a research.
+It's a research.
+It's a research.
+Yeah.
+I'm sorry.
+I know that they do that for.
+I'm a plug.
+Yeah.
+And,
+you can,
+you can say that.
+You can.
+No.
+You can.
+Before.
+Before.
+Before.
+Yes.
+And you know,
+the more important aspect is the fencing can feel.
+Yeah.
+After it's a technical,
+innovative.
+Yeah.
+After the,
+easy to use.
+Yes.
+I think it's innovative to use the,
+the wheel,
+because I have no one.
+Yeah.
+That's right.
+Yeah.
+That's right.
+I think we have to keep that.
+It's,
+yeah.
+I think it's,
+it makes it,
+both easy and both,
+in the,
+I think it's a good aspect.
+Yeah.
+And,
+I think it's a good aspect.
+Yeah.
+Cool.
+Fancy.
+Yeah.
+You have to make it look like,
+like,
+food or fidget.
+Yeah.
+Maybe a,
+maybe a,
+um,
+a color that's
+remembers.
+Oh,
+like,
+inside that.
+It's obviously the banana,
+I guess.
+Yeah.
+Maybe
+I thought about,
+an example,
+you know,
+it's pure,
+it's easy to,
+like,
+having,
+I don't know because,
+yeah.
+But,
+but it's pure,
+not for me.
+Okay.
+Maybe,
+here,
+yeah.
+I think that,
+yeah.
+We can discuss that.
+Is there anything you want to add?
+Is there anything to add this?
+Spontie.
+Yeah.
+I don't think so.
+I think we,
+we can have,
+like,
+yeah,
+it's quite,
+or,
+but,
+you know,
+I don't know,
+for,
+maybe,
+look and feel,
+what about,
+a piece of ice,
+with blue,
+and it's inside.
+But,
+that's going to be,
+the drain,
+the drain is spongy,
+and the gingerbread,
+it's the powder,
+and the powder.
+Yeah.
+I think
+spongy is good,
+because it's,
+it will be robust as well.
+Yeah.
+So,
+I think we can keep
+the wheel
+because it's easy,
+it's innovative,
+even if the craft is a bit higher.
+And,
+we also have to find a,
+so,
+a fruit,
+like,
+pure banana,
+or any others,
+I think you are.
+Okay.
+Okay.
+Okay.
+What kind of
+fruit do you like to,
+to control your TV wheels?
+Yeah.
+Banana,
+I think it's nice.
+Banana is a,
+because you lose,
+so you,
+you cannot lose,
+your remote control is there.
+Yeah.
+Don't use a banana,
+so the banana is curving like that,
+but when the banana is curving like that,
+yeah.
+With the wheel on the top,
+yeah,
+to control.
+And here,
+you have,
+with the touch button,
+to,
+you can just have the,
+just have the scare we are,
+and you move your pants here,
+to push the buttons,
+and then you move the other side.
+Yeah.
+You can have them on two sides,
+and you can,
+you know,
+yeah.
+I think it's a good design,
+and it's,
+you know,
+that you're as well,
+and maybe we can keep the banana,
+and it will be very easy to find.
+And,
+everybody knows what is a banana.
+Basically,
+if you,
+if you start with fancy foods,
+yeah.
+You can also take,
+to turn the faggot,
+the banana,
+fits with the color scheme of our company.
+Yeah.
+Oh,
+yeah.
+Yeah.
+It's really,
+a really,
+a good point.
+Yeah.
+Yeah.
+Yeah.
+I hope you see,
+you do some management,
+bye.
+Thank you.
+Yeah.
+Oh,
+yeah.
+Yeah.
+Okay.
+So,
+so,
+so we have to take
+some decisions on this aspect.
+So,
+so for,
+sorry,
+for,
+components.
+So,
+so,
+So we have to think about those aspects, sorry.
+So we will just use an external battery.
+Yeah.
+And that should be a chip on the print.
+We know exactly what we want to use.
+What do you mean by case?
+I think it's the box that should be spongy, bananas, shape.
+I mean, for me, if we use a spongy, banana case,
+it doesn't matter.
+I just want to have something to print
+to fix my components into that box.
+So you can't be inside the image, but the things
+that the bottoms and the wheel have to be spongy,
+then the bottoms and the wheel have to move right.
+So it would be bent, I don't know if it's possible.
+If no, the button would be infected.
+It should be something I'll shape with a spongy cover.
+Yeah.
+Let's see, it's in my eye.
+OK, I'll shape with spongy cover.
+And it's not a battery.
+OK, a chip on print.
+There's no specific problem.
+So we agree with the wheel.
+The wheel on the top, the button, why do we want to see what it means?
+Well, usually, the wheel won't be good for the left hand.
+You look right.
+Yeah.
+Sorry, it has to be symmetrical.
+Yeah, but OK.
+So let's say that the button, basically, you can take two sides.
+One side, one side, one side, and one side, one side.
+Yeah, other side, one side.
+Yeah, just to give this one button, you know, it's very comfortable.
+Yeah, it's comfortable, it's comfortable.
+This one, the wheel, and then this one, the buttons.
+Yeah, it's also careful.
+Right and left.
+So if we get left, we have the help.
+I think you can turn it this way or something.
+You can do this.
+The wheel, the buttons.
+Yeah, the buttons, the buttons, the buttons, and the buttons are on the other side.
+You can see the wheel, you will get used to it.
+And the buttons have to be here and the wheel has to happen.
+All righty, so you immediately don't try the right side.
+Because you have lights and buttons.
+Yeah, I know, but if you have your other hands and the wheels here,
+the buttons are here, they only tend around the buttons are on the other side.
+No, you, I think you will use it on the right or left hand,
+whether you're right here or left here.
+I think for left here, it's okay.
+I can do this movement and for right here as well.
+I think this doesn't change that much.
+Okay.
+Yeah.
+Okay, maybe.
+Yeah.
+So for interface, we said so that we have this banana shape with button on this on the side.
+And the wheel on the top.
+Yeah.
+So the color is yellow.
+I think it's, we define everything.
+We're calling it to what we should, but the decision we should take.
+So maybe we can, we can work on do the specs until next meeting.
+So at the final, we can feel design, got into the decision.
+And after the user interface design and then evaluate the product,
+that is to say check the requirement given by the users,
+but according to your presentation, it seems to be okay.
+It seems to be fancy, innovative, and easy to use.
+So to prepare the product, I would suggest that the industrial designer and
+the user interface designer work together to do better.
+I think.
+And, and so you will receive further instruction by mail, as usual.
+Yes, master.
+Do you need to add anything?
+No.
+You feel okay?
+You feel free to express what you want to say.
+Yeah.
+You don't feel too constrained.
+You don't feel free to answer this.
+No, you can.
+No, no, no, no.
+Okay.
+So.
+See you.
+I think we can leave the room for the tracking.
+Excuse me, that's a karate.
+Okay.
+You must be in touch.
+Okay.
+Okay.
+So, we are here for the concept design routine.
+So, we will first start by summarizing the produce routine
+and the decision we've taken.
+I will take notes through this routine so that you can look at my folder to see the summary of this meeting afterwards.
+So, each of you will show us the very used investigation that I'm doing.
+Produce hours.
+We'll then take decision on concept and then we will define the next task
+to be done before the next meeting.
+So, last time we decided to have a simple interface,
+we also decided to have a will to change the channel button.
+Channel DG's buttons should be protected by plastic cover or something for the remote control to be very simple.
+We have also a button for volume and to switch one of the TV.
+We have also the lightning feature for the remote control to be easy to find.
+And for fast development and low first, we have decided to have no LCD, no voice features.
+So, now we will have three presentations.
+So, the concept you have specification by industry designer.
+The specification of the UI by...
+You are 100.
+It's my name.
+Okay.
+And the last point is train watching by market expert.
+So, maybe we can start with the industry design.
+So, we see the presentation and idea.
+Maybe I can switch slide on your slides.
+So, I just look at the...
+Just these points and white pages.
+I find some of the communication and I think the remote control is as I mentioned previously.
+You just have a very simple chip.
+The user interface is usually just usually like push cutting.
+In our case, we are using a weak control.
+So, I'm just looking basically for that chip, which is a very very standard.
+And I just look for the weak sensor and the standard push button.
+And yeah, we can change the...
+In fact, I have a number of that element, which is very standard for remote control.
+The push button are usually extremely cheap, but I just have one program and this is related with the weak sensor, which seems to be quite expensive.
+Okay.
+And I think if we could just talk about that, if we really need a weak sensor,
+or if we can combine something with a push button.
+Okay.
+A real sensor is 50 times the price of a push button.
+But is it a significant price and the world remote control?
+Because we can have a photo up to 12 euros for the price of the remote control.
+Yeah.
+All right.
+So, we will this with including all possible things.
+So, buttons will under change the lower than 12 euros to produce.
+But I don't think that we should...
+I should talk about the design of the box.
+Okay.
+I also have to say...
+Do you ever see the mail about the voice of our mission?
+No.
+No.
+You already have something?
+Yeah.
+I would have an email from everyone.
+What's the reason that they have basically a voice of a mission that's already developed?
+Hmm.
+Yeah.
+It says that right now, it just gives it to record answers to particular questions.
+But I guess it could be the idea that the...
+Of course it's possible.
+This is the recording in the answer.
+You can just record something simple earlier.
+Okay.
+And they can recognize some comments.
+Yeah.
+So, we're going to make a comment.
+We're going to record new information stuff.
+So, if you already have it as an agency.
+Yeah.
+You could give it.
+Okay.
+Maybe we can just listen to this presentation and then take this decision later.
+Okay.
+I thought it would do some news.
+But I think it's...
+Yeah.
+So, I have written my personal references.
+And I just want to mention the problem of the weirdest answer, which is much more expensive.
+That's any push-backs.
+Okay.
+If we could reduce that.
+We have already some good things with the backlight of the push-backs.
+I have a question about that.
+What is the purpose of the light?
+Just to make something which is slightly more designed.
+That's a...
+You just scream in box.
+You can see right in the right hand, but the dark.
+But in the dark.
+Yeah.
+But you don't want to understand the light.
+It will be turned on when the user moves the...
+You will control it.
+If you move it, then you have it.
+You can see the buttons, but of course.
+Yeah.
+Yeah.
+Yeah.
+Yeah.
+See.
+But if you move it, then you have to have some sense of it.
+When you move it, take that your move.
+As soon as you start to move the remote controller you have the right.
+Yeah.
+But you need another chance of the right.
+Yeah.
+I don't think that this is really expensive, but at the end this is plenty of...
+I don't think that this is really expensive, but at the end this is plenty of...
+I don't want to achieve the devices, but it has been installed.
+Yeah.
+But actually I will do a little bit in point.
+First of all, I was thinking to have a continuous light and to...
+You press the on button via the light on your remote controller.
+Once you want to turn off the device...
+That's the idea.
+That's the idea.
+That's the idea.
+That's the idea.
+That's the idea.
+That's not it.
+That's not it.
+Why would we discuss that?
+Okay.
+Maybe...
+Okay.
+Because you have a mighty one.
+It should be shared further.
+Yeah.
+Yeah.
+Oh, you can do this.
+Okay.
+Okay.
+Yeah.
+Okay, let's move the...
+Let's slide...
+Cool.
+So basically...
+It's a very simple right?
+It's the major idea.
+I think it's a very small space.
+Yeah.
+So, I just look at some current designs on the web of
+usually more complicated in the converse.
+And it's like a two of them, because even though they have many buttons,
+they look quite simple.
+And in our case, we just detected a button for the video.
+Yeah.
+And in the double length of the screen.
+And also, does it fit well in, and because it was a real risk program.
+Well, this is a most hard part thing, so what's the next page?
+So, they have all these buttons that you can see.
+But most of them, we just need the ones in the middle.
+Yeah.
+So, from the bottom, where are the numbers, and then the top, until the turn, so,
+this middle part.
+And on the left one, it's exactly the same.
+So, basically, more or less, how we level with a big volume control, big turn control,
+and the mutant power.
+Yeah.
+It's the basic thing.
+So, it's only the central part.
+So, basically, something that will look more or less the same as this two.
+Yeah.
+With maybe a more economic design.
+Yeah.
+If we have, for example, I think that the volume and the buttons that are there on the top
+are easier to get something.
+Yeah.
+On the right side, for example.
+Okay.
+Yeah.
+Because we don't have these input buttons and these other stuff that you have.
+And I think that the plastic cover is not very good.
+Because you open it, you can break, you can do various things.
+Okay.
+You just need to put the channel numbers somewhere a bit out of the way.
+Okay.
+So, that's a pretty big thing.
+Just to put the other big buttons, but it's not the difficult to put the channel buttons
+either.
+I think that if you put the cover, it would be a little more difficult for the user.
+Okay.
+Yeah.
+Usually, what I have noticed that people put the plastic cover on things that you normally
+don't miss with, like, buttons for tuning the channels and stuff like that.
+Yeah.
+I do not protect them.
+Yeah.
+I think it's a decision.
+Okay.
+So, I don't think.
+Yeah.
+This is just the wheel.
+If you use some wheels, it can be pushed down.
+You can use a piece down of the wheel for that coil if you want.
+Mm-hmm.
+Yeah.
+So, we just basically use one just wheel and a user will use just a wheel to everything.
+Yeah.
+At times, in that case.
+Maybe the wheel will be a good advantage of our computers because it's a wide space.
+It's time to know about the fact that it's very simple.
+So, maybe this works to have more expense on that aspect.
+Mm-hmm.
+You know, it gives the microphone to kind of a robot.
+Okay.
+So, we can move to the, is there any questions?
+So, our design of user interface.
+So, we can move to the next box.
+Maybe in this case, have to work.
+Okay.
+Can we do it?
+Yeah.
+So, there will be something investigation.
+We have done up to very much controls.
+So, the most important aspect for remote controls is to be fancy and feel.
+And not current functionality can feel.
+And the second aspect is that the remote controls should be a technological innovative.
+Okay.
+And the third most important aspect is that the remote controls should be easy to use.
+So, things we have to speak about before.
+Yeah.
+And so, you can go.
+Yeah.
+After.
+And there is a fashion which is, in Paris and Mina, that I've detected the following trends.
+Foot and vegetables will be the most important time for closed issues and features.
+So, maybe our remote control has to be a foot form or a technical form.
+Something like that.
+Totally.
+And the material is expected to be spongy.
+I don't know which material can be spongy and which.
+This largest policy at the University of Angeles is currently across this fashion.
+It is about whatever right?
+That is not easy, that.
+But it is.
+It is a bit of natural.
+And it is actually.
+Right.
+Well, what want the main one?
+The main SpaceX.
+It is.
+And you can see now you can go before yes and you know yeah the more important
+aspect is the fancy you can feel after is technically you can imagine after the
+easy to use I think it's innovative to use the the wheel because I can
+yeah that's why I think we have to keep that as well yeah I think it's it makes
+it both easy and both innovative so I think it's a good aspect and it's
+we have to make it look like a fruit or a fidget in it maybe a color that's
+remember oh I thought about a few for example you know it's
+I don't think so I think we we can have like
+I think we can keep the wheel because it's easy it's
+innovative even if the cost is a bit higher and we also have to find a
+so a fruit like pure banana and others I think what kind of fruit will
+write to to control your TU it's very nice because yellow so you you
+can't lose your remote control yeah don't use the banana so the banana is
+curving like that but when the banana is curving like that yeah with the wheel on the top
+yeah to control and here you have a little touch button to I think you can just have
+just have this care of yeah and you move your hands here to put the button on
+the other side yeah you can have them on two sides and yeah I think it's a good
+design and it's innovative as well then maybe we can keep the banana and it will be
+very easy to find and put up the button knows what is the banana basically if you
+you start with fancy foods you can also take to account the father the banana
+fits with the color scheme of our company yeah yeah it's really a really a good point
+I hope this you did something about my diet I think it's so so we have to take from
+the decision on those aspects so so for sorry for components so so we have to think
+about those aspects sorry so we will just use a stand up battery yeah and the chip we
+chip on print we know exactly what do you mean by case I think it's the box that should be
+spongy bananas shape I mean for me if we use a spongy banana case it doesn't matter I just want
+to have something to print to fix my yeah my components to that box you can't be inside
+but the thing is that the bottoms and the wheel have to be spongy then the bottoms and
+the wheel have to move right so it would be bent I don't know I think it's possible I think
+no the button would be in fact it should be something out shaped with a spongy cover yeah
+again this is okay I'll shape with spongy cover and start a battery okay chip on print there's
+no specific problem so we agree with the wheel mm-hmm we're on the top that's on why do you
+you want to be good also for a left hand unit right yeah sorry it has to be similar to
+the yeah but okay so let's say that they thought to be basically you can take two sides one of
+this beside where there's a thumb and the other side where there's a yeah out of the thumb yeah
+or you use this one but don't you know it's very comfortable yeah this for the wheel and then
+this for the bottom yeah and it's okay right and left mm-hmm because we got left the top I think
+you can turn this way I'm seeing you can do this with the buttons yeah the
+buttons and wheel they don't want to turn it around the buttons are on the other side
+well you will get used to it and no the buttons have to be here and they will turn on right
+so you immediately don't fight the right side because you have lights on buttons yeah I know
+but if you have to do your account and the wheels here and the buttons are here they want to
+turn that around the bottom of your another side no you you I think you will use it on the right
+or left hand whether you'll right here left here I think for left it's okay I can do this movement
+and for right here it will I think this doesn't change that much okay yeah okay yeah
+so for interface we said so that we have a this banana shape with button on this on the side
+and and the wheel on the top
+so the color is yellow I think it's we define everything we call this to what we should
+but the decision we should take so maybe we can we can work on do the specs until next meeting
+so after finally we can feel design according to the decision
+and after the user interface design and then evaluate the project the product
+that is to say check if the requirement given by the users but according to your presentation
+it seems to be okay it seems to be fancy innovative and easy to use
+so so to prepare the profile I would suggest that the industrial designer and the user interface
+designer work together with the data I think and and so you will receive further instruction
+by the way as usual yes master do you need to add anything you feel okay you feel free to express
+what you want to say you don't feel too constrained you don't feel free to answer this
+no you can okay so I think we can leave the
+for the directly
+Excuse me, I'm present, I'll take it.
+Okay.
+The must be touched.
+Okay.
+So we are here for the coastal design routine.
+So we will first stop by summarizing the produce meeting
+and the decision we've taken.
+We'll take notes during this meeting,
+so that we can look at my folder to see the summary of this meeting afterwards.
+So each of you will show us the very used investigation left on the drain.
+Produce hours.
+We then take the decision on concept and then we will define the next task
+to be done before the next meeting.
+So last time we decided to have a simple interface,
+we also decided to have a willing to change channel,
+create channel buttons,
+channel dg's buttons should be protected by plastic cover or something
+for the remote cohort to be very simple.
+We have also a button for volume and to switch one of the TV.
+We have also the lightning feature for the remote input to be easy to find.
+And for fast development and low quest,
+we have decided to have no LCD, no voice features.
+So now we will have three presentations.
+So the concept you have specification by industry designer,
+the specification of the UI or a URL.
+You will have a thread.
+It's my name.
+And the last point is train watching by market expert.
+So maybe we can start with the industry design.
+So we see the presentation idea.
+Maybe I can switch slide on your place.
+I only have three slides.
+So I just look at the...
+Just this.
+Once you want pages,
+you can find some of the competition.
+I think the remote control is...
+As I mentioned previously,
+you just have a very simple chip.
+And the user interface is just not usually by patch protein.
+In our case, we are using a wheel control.
+So I was looking basically for that chip,
+which is a very very standard.
+And I just look for the wind sensor and the standard patch protein.
+And yeah, we can change the...
+In fact, I have a number of dots in the band,
+which is very standard for the remote control.
+The best button are usually extremely cheap,
+but I just have one program and this is related with the wheel sensor,
+which seems to be quite expensive.
+Okay.
+And I think if we could just talk about that,
+we really need a wheel sensor,
+or it cannot be if we can combine something of the patch protein.
+Okay.
+A wheel sensor is 50 times the price of a patch protein.
+But it is a significant price and the word remote control.
+First, we can have a photo up to 12 euros for the price of the remote control.
+Yeah.
+All right.
+So we will this with the inverting all possible things,
+so buttons will under chip the lower than 12 euros to produce.
+But I don't think that you should...
+You should talk about the design of the box.
+Okay.
+I'll also have to say,
+do you really think they made about the voice of a remote control?
+No.
+You really see something?
+Yeah.
+We have an email from a one-first individual that they have,
+basically, a voice of a remote control already developed.
+Hmm.
+Yeah.
+It says that right now,
+it just gives it to record answers to particular questions.
+But I guess it could be the idea that,
+it's the record in the answer.
+You can just record something simpler like that.
+Okay.
+And then we can recognize some comments.
+Yeah.
+So we have a nice command.
+We can record new commands and stuff.
+So if you already have that, as it is.
+Yeah.
+You could use it.
+Okay.
+Maybe we can just listen to this presentation and then take the decision later.
+Okay.
+And according to news.
+But I think it's...
+Yeah.
+Sorry.
+I just want to mention the program of the,
+the weirdest answer which is much more expensive.
+And that's any push-button.
+Okay.
+If we could reduce that.
+We have already some good things with the,
+with the back lights of the push-button.
+I have a question about that.
+What is the purpose of the light?
+Just to make something,
+which is a slightly more design.
+That's a...
+You just query box.
+You can see right on the right hand.
+But the dark.
+But in the dark.
+Yeah.
+But it's going to be almost turned on.
+It will be turned on when the user moves the control.
+If you move it then you have it.
+You can see the bottom is better of push.
+Yeah.
+Yeah.
+Yeah.
+Yeah.
+See.
+But if you move it then,
+you have to have some sense of it.
+When you move it,
+take that, you're moving.
+As soon as you start to move the remote control,
+you have the right.
+Yeah.
+But you need another sense of the right.
+Yeah.
+I don't think that this is really expensive,
+but at the end this is plenty of unexpected...
+A very cheap devices,
+but it will be installed too.
+Yeah.
+But expertly,
+it will do a bit more detail.
+First of all,
+I was thinking to have a continuous light
+that you went to,
+you press the on button,
+you have the light,
+and you will be more controlled.
+Once you want to turn off,
+you can get the battery continuing,
+you know.
+The light is not...
+The light is not...
+It's not...
+It's not...
+It's not...
+It's not...
+It will be...
+Yeah.
+Okay.
+So why you want...
+It should be shared further.
+Yeah.
+So,
+let's move to the next slide.
+So basically,
+it won't be very simple, right?
+It's a major idea.
+That's a new spot.
+Yeah.
+So...
+Okay.
+Let's move to the next slide.
+So basically,
+it won't be very simple, right?
+It's a major idea.
+That's a new spot.
+Yeah.
+So...
+I just look at some current designs on the web of
+usually more complicated in the controls.
+And it's like a two of them,
+because even though they have many buttons,
+they look quite simple.
+And in that case,
+we just detected the buttons.
+Yeah.
+And the buttons.
+Okay.
+So,
+so does it fit well in...
+And because it was a...
+Yeah.
+With this...
+Well, this...
+This remote is quite big.
+So go to the next page.
+So...
+How about these buttons?
+You can see.
+But most of them,
+we just need the ones in the middle.
+Yeah.
+So,
+from the bottom,
+where the...
+Yeah.
+The numbers,
+and then the top,
+until the time.
+So,
+this middle part.
+Yeah.
+And on the left one,
+it's exactly the same.
+So, basically,
+more or less,
+how,
+with a big volume control,
+big time control,
+a mutant power.
+Yeah.
+It's the basic thing.
+So, basically,
+something that we will look more or less the same as this two.
+Yeah.
+With a...
+Maybe a...
+more economic design on it.
+Yeah.
+If you have,
+for example,
+I think that the volume,
+the buttons that are there on the top,
+are easier to get something.
+Yeah.
+And be on the right side,
+for example.
+Okay.
+Yeah.
+Because we don't have these input buttons,
+and there's other stuff that we have.
+And I think that the plastic cover is not very good.
+Yeah.
+Idea,
+because you open it,
+it can break.
+And the various things.
+Okay.
+You just need to put the channels numbers somewhere,
+a bit out of the way.
+Okay.
+So, that's a pretty big thing.
+Yeah.
+And just to put the other big buttons,
+but,
+it's not difficult to put the entire buttons.
+I think that if you put the cover,
+it would be more difficult for a user.
+Okay.
+All right.
+You want it now.
+Usually,
+I have noticed that people put the plastic cover on things that
+you normally don't mess with, like,
+buttons for tuning the channels,
+and it's not like that.
+Yeah.
+I do want to put it in.
+And I think it's a solution over there.
+Okay.
+So, I don't think.
+Yeah.
+This is just the wheel.
+Some wheels can be pushed down,
+could use a push down of the wheel for the coil,
+if you want.
+Mm-hmm.
+Yeah.
+So,
+just basically use one just wheel,
+and a user will use just the wheel,
+the everything.
+Yeah.
+The times,
+in that case.
+Maybe the wheel would be,
+would advantage of our computers,
+because of why it's pretty standard,
+about different things.
+Very simple.
+So, maybe,
+this works through,
+through a more
+expense on that,
+that expense.
+You know,
+I guess the,
+might be successful,
+but,
+okay.
+Okay.
+So, we can move to the,
+is there any question,
+for,
+design of user interface,
+or we can move to the next box,
+maybe,
+and discuss afterwards?
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+So,
+now,
+there is something investigation,
+we have done,
+well,
+after very much control.
+Um,
+so,
+the most important aspects,
+for remote controls,
+is to be fancy,
+and feel,
+and not current,
+functional,
+look at feel.
+And,
+the second aspect
+is,
+that the remote controls
+should be,
+a technological,
+innovative.
+Okay.
+And the third,
+most important aspect,
+is,
+to,
+is that,
+remote controls,
+be easy to use.
+So,
+since we,
+we have,
+or,
+speak about,
+before.
+Yeah.
+And,
+um,
+so,
+you can build,
+after.
+Yeah.
+After.
+And,
+there is a fashion,
+which is,
+in Paris and Mina,
+that I've detected the following trends,
+uh,
+fruits and vegetables will be the most important time
+for closed issues
+and for new tools.
+So,
+maybe,
+our,
+remote control
+have to be,
+uh,
+put form or vegetable forms.
+Okay.
+Like that.
+It's important.
+Yeah.
+And,
+um,
+the material is expected to be spongy.
+Well,
+I don't know,
+which material
+can be spongy and few.
+This is good for our,
+I think,
+unconsciously,
+just,
+feel a crunching,
+feel good, right?
+Yeah.
+Yeah.
+Yeah.
+I think this is good,
+also,
+without any of you.
+Yeah because
+it's purpose.
+It's a research.
+Yeah,
+that's a cool one.
+I think it's a research
+and you throw it in their vision
+and it tends to dough.
+Like,
+the,
+that's a shock.
+Yeah.
+I know,
+but I don't...
+I know that they do that for grand plaque.
+And,
+and,
+you can,
+you can see,
+you can,
+uh,
+you can,
+you can,
+you can,
+you can,
+you can see,
+the more important aspect is the fancy you can feel
+after is the technological energy, after the easy to use.
+I think it's innovative to use the will because I think it's the one that's right.
+I think we have to keep that with it as well.
+Yeah, I think it makes it both easy and both in the right is so...
+I think it's a good aspect and it's the question.
+Cool. Fancy?
+Yeah.
+We have to make it look like a foot or a fidget or something.
+Maybe a corner that remembers things like that.
+The obvious thing is a banana, I guess.
+Maybe it is.
+I thought about a pee for example.
+You know, it's peeing is like that.
+It's easy to have it.
+I don't know if it does work.
+Yeah.
+You're not doing it often long.
+Maybe pee or something like that?
+Oh, it's like that?
+Yeah.
+Can you cut it?
+Is there anything you want to like?
+Is there anything you want to like?
+Is there anything you want to like?
+I don't think so.
+I think we can have like a pure, good, fit weather or banana or something.
+I don't know.
+For maybe look and feel what was a piece of Christ with blue LED inside.
+But they're going to be the train.
+The train is pongy and legitimate.
+It's not hard there, metallic.
+I think this pongy is good because it will be rugged as well.
+Yeah.
+So, I think we can keep the wheel because it's easy.
+It's innovative even if the craft is a bit higher.
+And we also have to find a foot like pure banana or any other idea you have.
+What kind of foot would you like to control your TU is?
+I don't know.
+I don't know.
+I think it's nice.
+Banana is also yellow, so you can't lose.
+You can't lose.
+You're remote control there.
+Don't use the banana.
+Banana is curving like that when the banana is curling like that.
+With the wheel on the top, you can control it.
+And here we have a little tight push button.
+You can just have this curve here.
+You move your pants here to put the buttons and then you move on the other side.
+You can have them on two sides.
+I think it's a good design and it's innovative as well.
+I think we can keep the banana and it will be very easy to find.
+Everybody knows what is a banana.
+Basically, if you start with fancy foods.
+You can also take the fat that the banana fits with the colour of the skin of our company.
+Oh, yeah.
+It's really a really good point.
+I hope this unit's up match went die, so I think...
+That's what we are going to be eating.
+Tell you a bit.
+So we have to take from the decision and do the specs.
+So for components, so we have to think about those specs.
+We will just use a standard battery.
+Yeah.
+And that chip will chip on print.
+We know exactly what we're going to use.
+What do you mean by case?
+I think it's the box that should be spongy bananas shaped.
+I mean, for me, if we use a spongy banana case, it doesn't matter.
+I just wanted to have something to print to fix my components
+It can't be an inside thing.
+Yeah.
+But the thing is that the bottoms and the wheel have to be,
+I mean, it's bouncy.
+Then the bottoms and the wheels have to,
+if it's want to move right,
+it would be bent a little bit.
+If it's a button, it's possible.
+If it's not the button would be,
+in fact, it should be something odd shaped with a spongy cover.
+Okay.
+Let's see what's going on right now.
+Okay, odd shaped with spongy cover.
+And it's not a battery.
+Okay, chip on print.
+There's no specific program.
+So when you read with the wheel.
+We don't have that top button.
+Why do we want some bottoms?
+Well, usually hold.
+Okay, we want to be good also for a left hand unit, right?
+Yeah.
+It's going to have to, it has to be symmetrical.
+Yeah, but it's okay.
+So let's say that the,
+it's not going to be, basically, you can only take two sides.
+One of the, beside what is the thumb.
+And the other side, we're going to say, yeah.
+Yeah, also the thumb.
+Yeah, basically.
+Or you could use,
+use this one, but don't know if it's very good.
+You can use some of the wheel.
+Yeah, I mean, it's more comfortable.
+This is for the wheel.
+I mean, this is for the buttons.
+Yeah.
+And it's okay for those right and left.
+Mm-hmm.
+So if we get left, we have the,
+the, I think you can turn it this way also.
+You can do those wheel buttons.
+Yeah, the blue wheels have buttons and wheel.
+Then when you turn it around, the buttons are on the other side.
+You can see the wheel.
+Well, you, you will get used to it.
+And no, the buttons have to be here.
+Yeah, and the wheel has to be highlighted.
+So you, you immediately don't try the right side.
+Because you have light on buttons.
+Yeah, I know.
+But if you have the other hand and the wheel is here,
+and the buttons are here, they only tend around.
+The button will be on the other side.
+No, you, you, I think you will use it on the right or left
+and whether you're right here or left here.
+I think for a lift, it's okay.
+I can do this movement and for a right here as well.
+I think this doesn't change that much.
+Okay.
+Yeah.
+Okay.
+Maybe.
+Yeah.
+So for interface, we said, so that we have a,
+this banana shape with button on this, on the side.
+And, and the wheel on the top.
+So the color is yellow.
+I think it's, we define everything.
+We call this to what we should,
+but the decision we should take there.
+So maybe we can, we can work on,
+do the specs until next meeting.
+So at the final, we can feel design going to do the decision.
+And after the user interface design,
+and then evaluate the project.
+That is to say check if it fits the,
+the requirement given by the users.
+But according to your presentation, it seems to be okay.
+It seems to be fancy, innovative and easy to use.
+Mm hmm.
+So, so to prepare the prototype,
+I would suggest that the, the,
+the software designer and the user interface designers work together to,
+to be better, I think.
+And, and so,
+you will receive the instruction by name as usual.
+Yes, master.
+Do you need to add anything?
+No.
+You feel okay?
+Yeah.
+You feel free to express what you want to say.
+Yeah.
+You don't feel too constrained.
+You don't feel free to answer this.
+No, you can.
+Okay.
+So.
+Thank you.
+See you.
+I think we can leave the room for the tracking group.
+Okay.
+Excuse me, that's a classic, that's it.
+Okay, the must be touched.
+Okay?
+So we are here for the coast of the design routine.
+So we will first stop by summarizing the produce meeting and the decision we've taken.
+I will take notes during this meeting so that we can look at my folder to see the summary of this meeting afterwards.
+So each of you will show us the various investigation they've done in red.
+Produce hours.
+We'll then take the decision on concept and then we will define the next task to be done before the next meeting.
+So, last time we decided to have a simple interface.
+We also decided to have a will to change the channel button.
+Channel DGs, buttons should be protected by plastic cover or something for the remote control to do very simple.
+We have also a button for volume and to switch one of the TV.
+We have also the lightning feature for the remote input to be easy to find.
+And for fast development and low quest, we have decided to have no LCD, no voice features.
+So now we will have three presentations.
+So the concept of your specification by industry designer.
+The specification of the UI by...
+You are a president.
+It's my name.
+Okay.
+And the last point is train watching by market experts.
+So maybe we can start with the industrial design.
+So we see the presentation idea.
+Maybe I can switch slide no requests.
+Only three slides.
+So I just look at the...
+Just one page.
+Yeah.
+I find some of the competition.
+And I think the remote control is as I mentioned previously.
+You just have a very simple cheat.
+And the user interface is just usually by touch cutting.
+In our case, we are using a will control.
+So I was looking basically for that chip.
+Which is a very, very standard.
+And I just look for the wind sensor and the standard push button.
+Yeah.
+You can change the...
+In fact, I have a number of that element, which is very standard for remote control.
+The push button are usually extremely cheap.
+But I just have one program.
+This is related with the real sensor.
+Which seems to be quite expensive.
+Okay.
+And I think we could just talk about that.
+If we really need a real sensor,
+or if we can combine something of the push button.
+Okay.
+A real sensor is 50 times the price of a push button.
+But is it a significant price on the world remote control?
+Because we can afford up to 12 euros for the price of the remote control.
+Yeah.
+So will this with the including all possible things?
+So buttons will energy the lower than 12 euros to produce.
+But I don't think that we should...
+I should talk about the design of the box.
+Okay.
+I also have to say,
+did you receive the email about the voice or the engine?
+No.
+That's it.
+No.
+You receive the engine?
+Yeah.
+We have an email from the wind.
+That's really the vision.
+They have basically a voice or engine tip already developed.
+Sure.
+It says right now,
+it just gives it to record answers to particular questions.
+But I guess it could be the idea that it is possible.
+It's the recording answer.
+You can just record something simpler like that.
+Okay.
+And they can recognize some common?
+Yeah.
+You can recognize common.
+You can record new commands and stuff.
+So if you already have it as it's it.
+Yeah.
+You could use it.
+Okay.
+So we sent it to this presentation.
+And then take this generator.
+Okay.
+And according to the news.
+But I think it's, yeah.
+So I have a written by personal references.
+And I just want to mention the program of the
+real sense of which is much more expensive.
+And that's going to be pushed.
+Okay.
+If we could reduce that.
+We have already some good things.
+With the, with the back lights of the touch button.
+I have a question about that.
+What is the purpose of the light?
+Just to make something which is slightly more designed.
+That's a query box.
+You can use it right in the bottom.
+But the dark.
+But in the dark.
+Yeah.
+But it's going to go to stand on the light.
+It will be turned on when the,
+when the user moves the remote configuration.
+But if you move it then you have it.
+Hmm.
+You can see the buttons.
+But of course.
+Yeah.
+Yeah.
+Yeah.
+Yeah.
+So.
+But if you move it then you have to have some sense.
+When you move it, take that you're moving.
+As soon as you start to move the remote control you have the right.
+Yeah.
+But you need another chance for the right.
+Yeah.
+Again.
+Yeah.
+You need to express it.
+Yeah.
+I don't think that this is really expensive.
+But at the end this is plenty of fun expensive.
+You can achieve devices.
+But the biggest task.
+Yeah.
+But I actually will do the tip part.
+You can achieve.
+First of all I was thinking to have a continuous light.
+And you went to, you press the on button.
+You have the light.
+And you will be more controlled.
+Once you want to turn off.
+But I can be battery-consuming.
+You know.
+So the light is always on.
+It's on it.
+Why would you discuss that?
+Maybe.
+Okay.
+So my one should be shared for the.
+Yeah.
+It would last time or so.
+How did it do?
+Okay.
+Okay.
+Let's move to the next slide.
+So basically, one very simple.
+Right.
+That's a major idea.
+I think it was possible.
+Yeah.
+So I just look at some current designs.
+On the web of usually more complicated in the controls.
+And it's like a two of them.
+Because even though they have many buttons, they look quite simple.
+And in that case, we just reject the buttons.
+We don't need it.
+Yeah.
+And it's a government simple.
+And also does it fit well in?
+Because it was the risk problem.
+Well, this is the most part big.
+So the next page.
+So how about these buttons that you can see?
+But most of them, we just need the ones in the middle.
+Yeah.
+So from the bottom or where there's the numbers.
+And then the top until the time.
+So this middle part.
+And the last one is exactly the same.
+So it's basically more of this.
+How we like it with a big volume control, big tire control,
+a mutant power.
+Yeah.
+It's the basic thing.
+So it's only the central part.
+So basically, something that we will be able to look more
+or less the same as these two.
+Yeah.
+With maybe a more economic design in the room.
+Yeah.
+If we have, for example, I think that the volume and the buttons
+are done on the top are easy to reach with the top.
+Yeah.
+And be on the right side, for example.
+Okay.
+Because we don't have these input buttons.
+And there's other stuff that we have.
+And I think that the plastic cover is not very good.
+I have the app because you open it, it can break.
+You can do various things.
+Okay.
+You just need to put the channel numbers somewhere
+a bit out of the way.
+Okay.
+So that's a pretty little bit.
+Yeah.
+And it's just to put the other big buttons.
+But it's not the difficult to put the channel buttons.
+Yeah.
+Yeah.
+I think that if you put the cover, it would be more difficult
+for the user.
+Okay.
+Yeah.
+Usually, what I have noticed that people put the plastic cover
+on things that you normally don't mess with.
+Like, buttons for tuning the channels and stuff like that.
+You know, that you want to protect them.
+And I think it's original.
+Okay.
+So I don't think.
+Yeah.
+So that's the wheel.
+We use the, some wheels can be pushed down.
+We could use the, it's down of the wheel for that coil if we want.
+Yeah.
+Yeah.
+So we just basically use one just wheel and a user will use
+just the wheel to everything.
+Yeah.
+The times.
+In that case.
+Maybe the wheel would be a,
+would advantage of our competitors.
+Okay.
+Because otherwise it's pretty standard about the fact that it's very
+simple.
+So maybe this was to, to add more expense on that,
+that's the respect.
+Yeah.
+I guess the,
+might be excited to tell us a little about it.
+Okay.
+Okay.
+So we can move to the,
+is there any question for
+design of user interface?
+Or we can move to the next box.
+Maybe in this case afterwards.
+Okay.
+Can we do it?
+Yeah.
+So now there is something in investigation.
+We have done,
+well, of very much controls.
+So the most important aspect for remote controls is to be
+fancy and feel and not current functionality can feel.
+And the second aspect is that the remote controls
+should be a technological innovative.
+Okay.
+And the third most important aspect is to,
+is that the remote control should be easy to use.
+And since we,
+we have,
+speak about,
+come from.
+Yeah.
+And,
+so you can go after.
+Yeah.
+After.
+And there is a fashion which is,
+in Paris and Mina,
+that I've detected the following trends.
+Foot and vegetables will be the most important time for
+closed issues and furniture.
+So maybe our remote control has to be
+a foot form or vegetable forms.
+Don't you like that?
+It's an important example.
+And the material is expected to be spongy.
+I don't know which material can be spongy and a few.
+This is good to do.
+I think,
+I think,
+in terms of,
+you just feel the direction of spongy.
+It would work, right?
+Yeah.
+Yeah.
+I think it is good or so.
+To have a spongy.
+I throw it by the telephone.
+Yeah.
+Because it's progress.
+Yeah.
+It's a research.
+Yeah.
+That's a cool one.
+We could say that we should throw it,
+you have a sensor,
+and you throw it,
+and it's a television,
+and it tends it off.
+When it takes a shock.
+Yeah.
+I'm sorry.
+I know what they do with that for.
+From Prague.
+Yeah.
+Yes.
+You can,
+you can,
+you can,
+you can,
+you can,
+you can,
+before,
+before,
+yes.
+And you know,
+the more important aspect is the fancy you can feel.
+Yeah.
+After,
+yeah.
+I have to,
+yeah.
+I think it's,
+you know,
+where to use the,
+the wheel,
+because I can,
+yeah.
+Yeah.
+That's right.
+Yeah.
+I think we have to keep that,
+I think it's,
+it makes it both easy and both in a variety.
+So,
+I think it's a good aspect.
+Yeah.
+And it's hard to work to look cool.
+It's a custom.
+Cool.
+Fancy.
+Yeah.
+We have to make it look,
+like a,
+a,
+a,
+a,
+a,
+a,
+a,
+a corner that's remembered.
+Oh,
+yeah.
+Inside that.
+Oh,
+yeah.
+Yeah.
+Yeah.
+Oh,
+yeah.
+Oh,
+yeah.
+Yeah.
+Oh,
+yeah.
+Yeah.
+Yeah.
+Yeah.
+Yeah.
+Yeah.
+I
+think
+I
+think
+I
+don't see.
+I don't think so.
+I think we can have a pure, good,
+a bit of banana, and a little.
+So maybe you can feel what was a piece of ice
+with blue, and it's inside.
+But they're gonna see the drain.
+The drain is pongy, and it's never fruits.
+It's not hard, but I don't have to eat it.
+I think pongy is good,
+because it will be raw, because it's as well.
+So I think we can keep the wheel,
+because it's easy, it's innovative,
+even if the crust is a bit higher.
+And we also have to find a food like pure banana
+with any others, I think you have.
+What kind of food would you like to control your TU is?
+I don't know, I think it's nice.
+Banana is also yellow, so you, you can't lose.
+You're remote control there, you don't use the banana.
+So the banana is curving like that,
+but when the banana is curving like that,
+with the wheel on the top, and you control,
+and here you have a little bit of a push button,
+to, I guess we can just have this curve here,
+and you move your hands here to push the buttons,
+and then you move on the other side,
+to have it on two sides, and you move.
+I think it's a good design, and it's innovative as well,
+then maybe we can keep the banana,
+and it would be very easy to find.
+Everybody knows what is a banana.
+Basically, if you start with fancy foods,
+you can also take, to account the fat that the banana
+fits with the color scheme of our company.
+Oh, yeah.
+Yeah, it's really a really good point.
+I hope this video doesn't matter to me, but I don't think we need to.
+I think it's so, so we have to take some decision on those aspects.
+So for, sorry, for components, so we have to think about those aspects, sorry.
+So we will just use a external battery.
+Yeah, and that chip will chip on the frame,
+we know exactly what we're going to use.
+What do you mean by case?
+I think it's the box that should be spongy bananas shaped.
+I mean, for me, if we use a spongy banana case,
+it doesn't matter, I just want to have something to print,
+to fix my components onto that box.
+It can be an inside day, but the thing is that the bottoms
+and the wheel have to be spongy, then the bottoms
+and the wheels have to, if it wasn't going to move right,
+so it would be bent a little bit.
+I don't know if the bottom is possible.
+If it's not the bottom would be, in fact, it should be something
+out shaped with a spongy cover.
+Yeah.
+Okay, out shaped with spongy cover.
+And start battery.
+Okay, chip on print, there's no specific problem,
+so we agreed to put the wheel.
+Wheel on that top, bottom, why do we want some bottoms?
+Well, usually, hold it.
+Okay, we want the big good answer for the left hand,
+use it right.
+Yeah.
+Sorry, it has to be some integral.
+Yeah, well, it's okay.
+So let's say that there's also,
+basically, you can only take two sides.
+One on this side will do the thumb,
+and the other side will do the thumb.
+Yeah, out of the thumb.
+Yeah.
+Let's do it.
+Or you could use this one, but don't know if it's very comfortable.
+Yeah, it's comfortable.
+The wheel is more comfortable.
+This is for the wheel, and then this is for the bottoms.
+Yeah, it's okay for those right and left.
+Mm-hmm.
+So if we get left, we have the up.
+I think you can turn it this way or so.
+You can do those wheeled bottoms.
+Yeah, the bottom is of, bottoms and wheeled,
+and then you turn it around, the bottoms are on the other side.
+You can see them.
+Well, you will get used to it.
+And all the bottoms have to be here,
+and the wheel is happening.
+So you immediately identify the right side,
+because you have light on bottoms.
+Yeah, I know, but if you have the other hand,
+and the wheel is here, and the bottoms are here,
+then when you turn it around,
+the bottom is going to the other side.
+No, I think you will use it on the right or left,
+and whether you're right here or left here.
+I think for a lift, it's okay.
+I can do this movement and for a right here as well.
+I think this doesn't change that much.
+Okay.
+Yeah?
+Okay, really.
+Yeah.
+So for interface,
+we said so that we have this banana shape
+with button on this side,
+and the wheel on the top.
+Yeah.
+So the color is yellow.
+I think it's...
+We define everything according to what we should,
+but the decision we should take here.
+So maybe we can...
+We can work on do the specs until next meeting.
+So at the final, we can feel design
+according to the decision.
+And after the user interface design,
+and then evaluate the product,
+that is to say check if it fits the requirement
+given by the users,
+but according to your presentation,
+it seems to be okay.
+It seems to be fancy, innovative, and easy to use.
+Okay.
+So to prepare the prototype,
+I would suggest that the industrial designer,
+the user interface designer,
+and work together to do the data, I think.
+And so you will receive further instruction by mail as usual.
+Yes, Master.
+Do you need to add any?
+You feel okay?
+You feel free to express what you want to say?
+Yeah, you don't feel too constrained.
+You don't feel free to answer this.
+No, you can move.
+Okay.
+Okay.
+So...
+See you?
+I think we can leave the room
+for the tracking group.
+Excuse me, that's a classic.
+Okay.
+For my split touch.
+Okay.
+So we are here for the concept design team.
+So we will first start by summarizing the produce meeting and the decision we've taken.
+I will take notes during this meeting so that you can look at my folder to see the summary of this meeting afterwards.
+So each of you will show us the various investigation that I'm doing.
+Produce hours.
+We'll then take the decision on concept and then we will define the next task to be done before the next meeting.
+So last time we decided to have a simple interface.
+We also decided to have a will to change channel,
+previous channel button, channel dg buttons should be protected by plastic cover or something for the remote control to be very simple.
+We have also a button for volume and to switch on off the TV.
+We have also the lightning feature for the remote control to be easy to find.
+And for fast development and low quest, we've decided to have no LCD, no voice features.
+So now we'll have three presentations.
+So the concept yours specification by industry designer.
+The specification of the UI by...
+You are a president.
+It's my name.
+Okay.
+And the last point is train watching by market experts.
+So maybe we can start with the industrial design.
+So we see the presentation idea.
+Maybe I can switch slide on your request.
+They only have three slides.
+So I just look at the...
+And just these ones in one page.
+Yeah.
+I find some in the competition.
+And I think the remote control is as I mentioned previously.
+We just have a very simple chip.
+And the user interface is just usually by plastic cutting.
+In our case, we are using a will control.
+So I was looking basically for that chip.
+Which is a very, very standard.
+And I just look for the wind sensor.
+I have the standard push button.
+Yeah.
+We can change the input.
+In fact, I have the number of dots in the end.
+Which is very standard for remote control.
+The push button are usually extremely cheap.
+But I just have one problem.
+This is related with the real sensor.
+Which seems to be quite expensive.
+Okay.
+And I think we could just talk about that.
+We really need a real sensor.
+Or if we can combine something with the push button.
+Okay.
+A real sensor is 50 times the price of a push button.
+But is it a significant price on the world remote control?
+Because we can afford up to 12 euros for the price of the remote control.
+Yeah.
+All right.
+So we will, this is including all possible things.
+So buttons will and achieve the lower than 12 euros to produce.
+But I don't think that we should talk about the design.
+The design of the box.
+Okay.
+I also have to say, do you receive the image about the voice of a machine?
+No.
+You receive the machine?
+Yeah.
+We have an image from the one.
+What is the vision that they have?
+Basically a voice of a machine is already developed.
+You know, it says right now that it just gives it to record the answers to particular questions.
+But I guess it could be the idea that it is possible.
+This is the recording answer.
+You can just record something simpler like that.
+Okay.
+And they can recognize some cover?
+Yeah.
+You can recognize commands.
+You can record new commands and stuff.
+So if you already have it as an answer.
+Yeah.
+You can give it.
+Okay.
+Maybe we can just listen to this presentation and then take this vision later.
+Okay.
+And according to those news.
+But I think it's, yeah.
+Sorry.
+I have a reason why personal offenses.
+And I just want to mention the problem of the real sense of which is much more expensive.
+And that's kind of a pushback.
+Okay.
+We have already some good things with the back lights of the touch button.
+I have a question about that.
+What is the purpose of the light?
+Just to make something which is actually more designed.
+You can find the button, but the dark.
+But in the dark.
+Yeah.
+But it's going to go loose and not the light.
+It will be turned on when the user moves the remote control.
+What if you move it and you have it?
+You can see the buttons.
+But of course.
+Yeah.
+Yeah.
+Yeah.
+So.
+Yeah.
+But if you move it, then you have to have some sense of it.
+When you move it, take that, you move it.
+As soon as you start to move the remote control, you have the right.
+Yeah.
+But you need another chance for that, right?
+Yeah.
+Again.
+Yeah.
+You need to express it.
+Yeah.
+I don't think that this is really expensive, but at the end, this is plenty of...
+You can explain the relationship and the devices, but the biggest task to do.
+Yeah.
+But I could actually agree with you, but you can really appreciate it.
+First of all, I was thinking to have a continuous light and to...
+When you press the under, you have the light.
+When you move the remote control.
+When you want to turn off the...
+But again, the battery continuing.
+So I would like to...
+It's always on...
+It's on it.
+Why would we discuss that after maybe...
+Okay.
+You know, my one should be the shed folder.
+Yeah.
+It would last time I should.
+Under two years.
+Okay.
+Okay, let's move to the next slide.
+So basically, it won't be very simple, right?
+It's a major idea.
+I shouldn't be supposed to.
+Yeah.
+So I just look at some current designs on the web of usually more complicated in the controls.
+And it's like a two of them.
+Because even though they have many buttons, they look quite simple.
+And in that case, we just inject the buttons with them.
+Yeah.
+And it's not even simple.
+And also does it fit well in?
+And because it was a...
+Yeah.
+With this remote is quite big.
+So what's the next page?
+So...
+You have all these buttons that you can see.
+But most of them, we just need the ones in the middle.
+Yeah.
+So from the bottom of where there's the numbers,
+and then the top, until the turn, it's the middle part.
+And on the left one, it's exactly the same.
+So basically, more or less, how we like it with a big volume control,
+big turn control, a mutant power.
+Yeah.
+It's the basic thing.
+So it's only the central part.
+So basically, something that we will look more or less the same as these two.
+Yeah.
+With maybe a more economic design on the...
+Yeah.
+Yeah.
+If you have, for example, I think that the volume and the buttons that are there on the top
+are easy to read through your thumb.
+Yeah.
+And be on the right side, for example.
+Okay.
+Yeah.
+Because we don't have these input buttons on this other side.
+Yeah.
+And I think that the plastic cover is not very good.
+Okay.
+I have the app because you open it, it can break.
+You can do various things.
+Okay.
+You just need to put the channel numbers somewhere a bit out of the way.
+Okay.
+That's the parent a bit.
+Yeah.
+Yeah.
+And it's just to press the other big buttons, but it's not be difficult to press the
+channel buttons either.
+Yeah.
+I think that if you put the cover, it would be more difficult for a user.
+Okay.
+Yeah.
+Usually what I have noticed that people put the plastic cover on things that you normally
+don't mess with, like buttons for tuning the channels and stuff like that.
+That you want to protect it.
+And I think it's original.
+Okay.
+So I don't think.
+Yeah.
+This is just the wheel.
+You can use some wheels can be pushed down.
+You could use a push down of the wheel for that coil if you want.
+Yeah.
+So we just basically use one just wheel and a user will use just the wheel to
+everything.
+Yeah.
+The times.
+In that case.
+Maybe the wheel would be a good advantage of our competitors.
+Okay.
+Because otherwise it's pretty standard about the fact that it's very simple.
+So maybe this works to a more expensive aspect.
+Okay.
+So we can move to the...
+Is there any question for design of user interface?
+Or we can move to the next box.
+Maybe and discuss afterwards.
+Okay.
+Can we go?
+Yeah.
+So now there is something in investigation.
+We have done all of the very much controls.
+So the most important aspect for remote controls is to be fancy and feel.
+And not come and function and you can feel.
+And the second aspect is that the remote controls should be the technology
+called innovative.
+And the third most important aspect is that the remote controls should be easy to use.
+So since we have speak about information.
+Yeah.
+And so you can go after.
+Because there is a fashion which is, in Paris and Mila, that I detected the following trends.
+Foot and vegetables will be the most important time for closed issues and features.
+So maybe our remote control has to be a foot form or vegetable forms.
+Okay.
+Like that.
+It's important.
+And the material is expected to be spongy.
+I don't know which material can be spongy and a few.
+This is good to do for our, I think, unconsciously.
+It's just electronics.
+It's constantly thing.
+It's good.
+Right?
+Yeah.
+I think this is good or so.
+To have a spongy.
+You can throw it back to the television.
+Yeah.
+Because it's purpose.
+Yeah.
+It's a research.
+Hey.
+We could say that we should throw it here.
+And you throw it in the television and tense it off.
+Wait.
+It takes a shock.
+Yeah.
+I know that they do that for around the clock.
+Yeah.
+And this, you can, you can see.
+No.
+You can go before.
+Before.
+Before.
+Yes.
+And you know here, the more important aspect is the fencing can feel.
+like there is a technological energy after the easy to use.
+Yes.
+I think it's innovative to use the wheel because I think you're one.
+That's right.
+Yeah.
+I think we have to keep that as well.
+Yeah.
+I think it's, it makes it both easy and both innovative.
+So I think it's a good aspect.
+And it's hard to work to look cool.
+It's a custom.
+Cool.
+Fancy.
+Yeah.
+We have to make it look like a foot or a fidget.
+Yeah.
+Maybe a, a color that's remembered.
+Oh, yeah.
+So it's a, it's like that.
+A little bit of a stingy.
+It's a banana, I guess.
+Yeah.
+Maybe you said about it.
+Maybe you said about it a few, for example.
+You know, it's a few years like that.
+It's easy to make.
+And it's, I don't know because we're in.
+Yeah.
+Maybe, maybe here.
+Yeah.
+Yeah.
+Yeah.
+We can escape that.
+Is there anything you want to add?
+Is there any food to it is spawning?
+Yeah.
+I don't think so.
+I think we, we can have like, yeah, appear.
+It's good.
+It's great.
+Or banana.
+Yeah.
+Yeah.
+So, maybe you can feel what about a piece of eyes.
+With blue LED inside.
+But that one is in the train.
+Yeah.
+The train is pongy.
+And it's never food.
+It's not hard.
+It's metal.
+It's not hard.
+It's metal.
+Yeah.
+I think it was pongy is good because it will be robust as well.
+Yeah.
+So, I think we can keep the wheel.
+Because it's easy.
+It's innovative.
+Even if the cup is a bit higher.
+And we also have to find a,
+so a food like pure banana with any others.
+I do you have.
+What kind of food would you like to control your team?
+Yes.
+Yes.
+Yes.
+I think it's nice.
+Banana is also yellow.
+So, you, you can't lose your remote control there.
+Yeah.
+Don't use the banana.
+So, the banana is curving like that.
+That's when the banana is curving like that.
+Yeah.
+With the wheel on the top.
+Yeah.
+And you control it.
+And here you have a little time push button to...
+Actually, you can just cover the, just have this care via.
+And you move your hand here to push the button and then you move the other side.
+Yeah.
+So, you can have it on two sides and the cool.
+Yeah.
+I think it's a good design and it's innovative as well.
+Maybe we can keep the banana and it would be very easy to find.
+And put up the banana.
+Everybody knows what is a banana.
+Basically, if you, if you start with fancy foods.
+Yeah.
+You can also take to account the father that the banana fits with the color scheme of our company.
+Yeah.
+Oh, yeah.
+Yeah.
+It's really, really a good point.
+Yeah.
+Yeah.
+I hope this unit of madman die.
+I hope this unit of madman die.
+Yeah.
+Yeah.
+Yeah.
+Yeah.
+I will go in with you.
+I think it's so...
+I think it's so...
+So we have to take from the seizure and undo the spec.
+So, so forth.
+Sorry.
+For components.
+So, so we have to think about those aspects.
+Sorry.
+So we will just use a standard battery.
+Yeah.
+And that should be a chip on print.
+We know exactly what time we're going to use.
+What do we mean by case?
+I think it's the box that should be spongy bananas shaped.
+I mean, for me, if we use a spongy banana case, it doesn't matter.
+I just want to have something to print to fix my components on to that box.
+It can be an inside page.
+Yeah.
+But the thing is that the bottoms and the wheel have to be...
+I mean, it's a spongy.
+Then the bottoms and the wheels have to...
+I mean, if it's going to move, right?
+So it would be bent a little bit.
+So if you turn it on, the bottom is possible.
+If it's not, the bottom would be...
+In fact, it should be something out shaped with a spongy cover.
+Yeah.
+Let's see.
+Okay.
+Outshaped with spongy cover.
+And style battery.
+Okay, chip on print.
+There's no specific problem.
+So we agree to put the wheel.
+Mm-hmm.
+Wheel on the top.
+That's...
+Where do we want some bottoms?
+Well, usually hold...
+Okay.
+One big good answer for left hand users, right?
+Yeah.
+That's where it has to be seen in Drupal.
+Yeah, but...
+Okay.
+So let's say that the...
+It has to be...
+Basically, you cannot take two sides.
+One of the...
+This side will be the thumb.
+And the other side will...
+Yeah.
+Yeah.
+Also the thumb.
+Yeah.
+Just to...
+Or you can use...
+Use this one, but don't...
+No, it's very comfortable.
+Yeah, it's comfortable.
+The wheel is more comfortable.
+This is for the wheel and then this is for the bottom.
+Yeah.
+And it also cares for those right and left.
+Mm-hmm.
+Because we've got left.
+We've got...
+Dope.
+I think you can turn it this way or so.
+Yeah.
+You can do those...
+With buttons.
+Yeah, the wheel is...
+The buttons and wheel...
+And then we'll turn it around.
+The buttons are on the other side.
+You can see them.
+Well, you...
+You will get used to it.
+And the buttons have to be here.
+Yeah.
+And then we'll turn it all right.
+It's all right.
+So you immediately identify the right side.
+Because you have right and buttons.
+Yeah.
+I know, but if you have your left hand and the wheel is here and the buttons are here.
+They only turn it around.
+The buttons are on the other side.
+No, you...
+I think you will use it on the right or left hand.
+Whether you write your left hand.
+I think for left hand it's okay.
+I can do this movement and for right as well.
+I think this doesn't change that much.
+Okay.
+Yeah.
+Okay.
+Maybe.
+Yeah.
+So for interface we said so that we have this banana shape with button on this side.
+And...
+And the wheel on the top.
+Yeah.
+So the color is yellow.
+I think it's...
+We need to find everything according to what we should...
+But the decision we should take here.
+So maybe we can...
+We can work on do the specs until next meeting.
+So at the final...
+We can feel design according to the decision.
+And the user interface design.
+And then evaluate the product.
+That is to say check if it fits the requirement given by the users.
+But according to your presentation it seems to be okay.
+It seems to be fancy, innovative and easy to use.
+Mm-hmm.
+So...
+So...
+To prepare the prototype.
+I would suggest that the industrial designer and the user interface designer work together.
+With the...
+The better, I think.
+And...
+And so...
+You will receive further instruction by mail as usual.
+Yes, Master.
+Do you need to add any?
+No.
+You feel okay?
+Yeah.
+You feel free to express what you want to say.
+Yeah.
+You don't feel too...
+Constrains.
+No.
+You don't feel free to answer this.
+No, you can.
+No, no, no.
+Okay.
+Okay.
+So...
+Thank you.
+See you.
+Oh.
+I think we can leave the room for the tracking.
+Okay.
+Excuse me, that's a classic.
+Okay.
+For my split touch.
+Okay.
+So we are here for the concept design routine.
+So we will first tap by summarizing the produce meeting and the decision we've taken.
+I will take notes during this meeting so that we can look at my folder to see the summary of this meeting afterwards.
+So each of you will show us the various investigation they've done during.
+Previous hours.
+We'll then take the decision on concept and then we will define the next task to be done before the next meeting.
+So, last time we decided to have a simple interface.
+We also decided to have a will to change the channel button.
+Channel DGs buttons should be protected by plastic cover or something for the remote control to be very simple.
+We have also a button for volume and to switch on of the TV.
+We have also the lightning feature for the remote control to be easy to find.
+And for fast development and low cost we have decided to have no LCD nor voice features.
+So now we will have three presentations.
+So the concept you are specification by industry designer.
+The specification of the UI by...
+You are a resident.
+It's my name.
+Okay.
+And the last point is train watching by market experts.
+So maybe we can start with the industry design.
+So you see the presentation idea.
+Maybe I can switch slide on your request.
+I only have two slides.
+So I just look at the...
+Just one page.
+Yeah.
+I find some in the competition.
+And I think the remote control is as I mentioned previously.
+You just have a very simple chip.
+And the user interface is just usually by plasticity.
+In our case, we are using a real control.
+So I'm just looking basically for that chip.
+Which is a very very standard.
+And I just look for the reason.
+So I understand our first building.
+Yeah.
+We can change the...
+In fact, I have the number of dots in the end.
+Which is very standard for remote control.
+The best button are usually extremely cheap.
+But I just have one problem.
+This is related with the real sensor.
+Which seems to be quite expensive.
+Okay.
+And I think if we could just talk about that,
+if we really need a real sensor,
+or it cannot be free combined,
+something with the question.
+Okay.
+A real sensor is 50 times the price of a...
+A price of a...
+A price of a...
+But is it a significant price on the...
+World remote control?
+Because we can afford up to 12 euros for the price of the remote control.
+Yeah.
+So we will...
+We will...
+This is including all possible things.
+So buttons will...
+And achieve the lower than 12 euros to produce.
+But I don't think that...
+You should...
+I should talk about the design of the box.
+Okay.
+I also have to...
+When you say...
+Do you ever see the image about the voice of a remote control?
+Oh...
+That's nice.
+No?
+You receive something?
+Yeah.
+Or have a...
+A male from the microphone.
+That's really visual.
+They have basically a voice of a remote control already developed.
+Hmm.
+Yeah.
+Right now, it just gives it to...
+To record answers to particular questions.
+But I guess...
+And it could be the idea that...
+It gives it possible.
+It's not recording the answer.
+You can just record something simpler like that.
+Okay.
+And they can recognize some command?
+Yeah.
+So we will recognize command.
+We can record new command and stuff.
+So if you learn how it is, as it is...
+Yeah.
+You could give it.
+Okay.
+So we sent it to this presentation and then take the decision later.
+Okay.
+And according to those news.
+But I think it's...
+Yeah.
+Sorry.
+I have written by personal friends.
+Um...
+And I just want to mention the...
+The...
+The...
+The...
+The...
+The...
+The...
+The...
+The...
+The...
+The...
+The...
+The...
+The...
+The...
+The...
+With the...
+With the back lights of the...
+Touch button.
+I have a question about that.
+Um...
+What is the purpose of the light?
+Just to make something which is a strength for more design.
+That's a...
+Uh...
+The screaming box.
+You can see right in the button.
+But the dark.
+So...
+Uh...
+Uh...
+Yeah, but it's going to be almost turned on.
+Like...
+It will be turned on when the...
+When the user moves the...
+The...
+The...
+The...
+The...
+The...
+The...
+The...
+The...
+The...
+Yeah.
+Yeah.
+Yeah.
+True.
+But if you move it,
+then you have to have some sense.
+Yeah.
+When you move it to...
+The...
+The...
+The...
+As soon as you start to move the...
+The remote controller you have to write.
+Yeah.
+But you need another transfer for about time.
+Yeah.
+And then...
+The...
+The...
+The...
+The...
+The...
+The...
+I don't think that this is really expensive,
+but at the end it is plenty of...
+The...
+The...
+The...
+The...
+The...
+The...
+The...
+The...
+The...
+The...
+The...
+The...
+The...
+And then...
+And then...
+The...
+The...
+The...
+The...
+The...
+The...
+The...
+The...
+The...
+This...
+And what...
+The...
+The...
+The...
+The...
+The...
+The...
+And the...
+The...
+The...
+My...
+The...
+Oh, my...
+The...
+The...
+The...
+We wrote...
+Yeah...
+I'll do the last time I'll show it.
+One, two, three.
+Okay.
+So, okay, let's move to the next slide.
+What was the skew?
+One, very simple, right?
+That's a major idea.
+I think it was possible.
+So, I just looked at some current designs
+on the web of usually more complicated in the controls.
+And it's like a two of them,
+because even though they have many buttons,
+they look quite simple.
+And in our case, we just detected the buttons
+that we don't need.
+Yeah.
+And it would have been super.
+And also, does it fit well in?
+And because it was the least problem.
+Well, this remote is quite big.
+So, what's the next page?
+So, how about these buttons that you can see?
+But most of them, we just need the ones in the middle.
+Yeah.
+So, from the bottom, or whatever, the numbers,
+and then the top, until the time, it's the middle part.
+And the last one is exactly the same.
+So, basically, more or less,
+how we like it with a big volume control,
+big time control, a mutant power.
+Yeah.
+It's the basic thing.
+So, it's only the central part.
+So, basically, something that we will look more or less
+the same as these two.
+Yeah.
+With maybe a more economic design.
+Yeah.
+If you have, for example, I think that the volume
+and the buttons attack, they're on the top part.
+It's very easy to get something.
+Yeah.
+And be on the right side, for example.
+OK.
+Yeah.
+Because we don't have these input buttons,
+and there's other stuff that we have.
+And I think that the plastic cover is not very good.
+Right.
+Because you open it, it can break.
+It can do various things.
+OK.
+You just need to put the channel numbers somewhere
+a bit out of the way.
+OK.
+So, that's a pretty little bit.
+Yeah.
+And just to put the other big buttons,
+but it's not difficult to put the channel buttons on.
+I think that if you put the cover,
+it would be a little more difficult for a user.
+OK.
+Well, yeah.
+Usually, what I have noticed is that people
+put the plastic cover on things that you normally don't mess
+with, like, buttons for tuning the channels.
+And it's not like that.
+Yeah.
+That you want to put it with.
+I think it's original.
+OK.
+So, I don't think that.
+Yeah.
+This is just the wheel.
+Use some wheels can be pushed down.
+You could use a push down of the wheel for that coil if you want.
+Mm-hmm.
+So, we just basically use one just wheel
+and a user will use just the wheel.
+Do you think?
+Yeah, the times.
+In that case.
+Maybe the wheel would be a good advantage
+of our competitors.
+OK.
+Because it's a wide, it's pretty standard
+about the finger.
+It's very simple.
+So, maybe this works to a more
+expensive aspect.
+OK.
+So, we can move to the...
+Is there any question for
+designer of user interface?
+Or we can move to the next box.
+Maybe I discuss afterwards.
+OK.
+Can we go?
+Yeah.
+So, now there is something investigation
+we have done of the very much control.
+So, the most important aspect for remote controls
+is to be fancy and feel,
+and not current functionality can feel.
+And the second aspect
+is that the remote controls
+should be a technological innovative.
+OK.
+And the third most important aspect
+is that the remote controls
+should be easy to use.
+So, since we have...
+Let's speak about info.
+Yeah.
+And so, you can go.
+Yeah.
+After.
+And there is a fresher which is,
+in Paris and Mina,
+that I detected the following trends.
+Foots and vegetables will be the most important
+10 for closes shoes and furniture.
+So, maybe our remote control
+has to be fruitful or vegetable forms.
+OK.
+Don't you like that?
+That's important.
+OK.
+And the material is expected to be spongy.
+I don't know which material can be spongy and if you...
+This is good or good for us.
+I think this is good or so to have a spongy.
+It's probably good.
+Because it's robust.
+It's robust.
+Hey, that's a cool one.
+Good say that we should throw it,
+and you throw it,
+and you throw it,
+and you turn it off.
+When it takes a stroke.
+Yeah.
+I know that they do that for a problem clock.
+And in this, you can see.
+You can...
+No.
+You can go before...
+Before?
+Before?
+Yes.
+And you know,
+the more important aspect is the fancy you can feel.
+Yeah.
+After is the technical ability.
+Yeah.
+After the easy tools.
+Yes.
+I think it's innovative to use the wheel,
+because I can do one size.
+Yeah.
+I think we have to keep that as well.
+Yeah.
+I think it's...
+It makes it both easy and both innovative.
+Thank you.
+So, I think it's a good aspect.
+And it's a good one.
+It's a good one.
+It's a good one.
+Cool.
+Fancy?
+Yeah.
+We have to make it look like a foot or a fidget.
+Yeah.
+Maybe a color that's remembered.
+I don't know.
+I'm excited.
+A little bit of a thing.
+It's a banana, I guess.
+Yeah.
+Maybe it's...
+I said about it a few, for example.
+You know, it's a few years like that.
+And it's easy to...
+You're too having...
+Yeah.
+I don't know.
+Because we're...
+Yeah.
+You're too smart.
+You're not so good on it.
+Okay.
+Maybe?
+Here or yes.
+I said that.
+Oh.
+It's a foot like that.
+Yes.
+You can discuss that.
+Is there anything you want to add?
+Is there any foot like this spongy?
+Yes.
+Yes.
+I don't think so.
+I think we...
+We can have like...
+Yeah.
+A pier is good.
+Fit well or banana as you throw.
+Yeah.
+I don't think so.
+For maybe you can feel what was a piece of ice with blue LED inside.
+But that's going to be...
+That's going to be the train.
+Yeah.
+The train is spongy and whichever foot.
+It's not hard.
+It's not hard.
+I think spongy is good because it will be robust as well.
+Yeah.
+So I think we can keep the wheel because it's easy.
+It's innovative.
+Even if the cut is a bit higher.
+And we also have to find a foot like pier or banana with any others.
+Yes.
+I think you are...
+Okay.
+What kind of foot would you like to control your team?
+Yes.
+Yes.
+Yes.
+Thank you.
+Banana.
+I think it's nice.
+Banana is also yellow.
+So you...
+You can't lose.
+You're remote control then.
+Yeah.
+Banana is also yellow.
+So you...
+You can't lose.
+You're remote control then.
+Yeah.
+Don't use the banana.
+So the banana is curving like that.
+But when the banana is curving like that.
+Yeah.
+With the wheel on the top.
+Yeah.
+And you can control.
+And here you have a little tight push button to...
+I don't know.
+You can just have the...
+Just have this curve.
+Yeah.
+And you move your hands here to push the button.
+And then you move the other side.
+Yeah.
+So you can have it on two sides.
+And you can move.
+Yeah.
+I think it's a good design.
+And it's innovative as well.
+Maybe we can keep the banana.
+And it will be very easy to find.
+And everybody knows what is a banana.
+Basically.
+If you start with fancy foods.
+Yeah.
+You can also take...
+And to account the fact that the banana fits
+with the color scheme of our company.
+Oh.
+Yeah.
+Yeah.
+It's really...
+It's really a good point.
+I hope this unit of mods will die.
+I think it will be...
+I think it...
+I think it...
+I think it...
+It's so...
+I think it...
+I think it's...
+I think it's...
+So we have to take some decision on due respect.
+So, so for, sorry, for components, so we have to think about those aspects, sorry.
+So we will just use a standard battery and the chip, chip on the print, we know exactly
+what they're going to use, what do you mean by case?
+I think it's the box that should be spongy, bananas, shape.
+I mean, for me, if we use a spongy, banana case, it doesn't matter, I just want to have some
+you want me to print to fix my, yeah, my components on two of that box.
+You can't be inside of it, but the thing is that the buttons and the wheel have to be, I mean,
+then the buttons on the wheel have to, I mean, if it's going to move right, so, it would
+be bent, should be bent on the bottom.
+It's possible.
+If it's not the button would be, in fact, it should be something out shaped with a spongy
+cover.
+Yeah.
+This is, yeah.
+Okay, out shaped with spongy cover.
+And style battery, okay, chip on print, there's no specific problem.
+So we agree to put the wheel, mm-hmm.
+Wheel on the top, button, whether you want some buttons.
+Well, usually hold, okay, one, big good answer for the left hand, right?
+Yeah.
+So it has to be symmetrical, yeah, but, okay, so let's say that, let's say that,
+it's basically going to take two sides, one on this side, one on the thumb, and the other
+side will just, yeah, out of the thumb, let's see, or you can use this one, but it's
+not very comfortable.
+Yeah, it's comfortable with the wheel.
+Yeah, it's more comfortable.
+This is called the wheel, and then this is called the buttons.
+Yeah, it's okay for those right and left.
+Mm-hmm.
+So if you get left, you can help.
+Nope.
+I think you can turn it this way or so.
+You can do those wheeled buttons.
+Yeah, the wheeling buttons are on the buttons on the other side.
+You can see them.
+Well, you will get used to it.
+So the buttons have to be here, and they will try.
+Do you want them to be?
+All righty.
+So you immediately identify the right side, because you have light on buttons.
+Yeah, I know.
+But if you have the other hand, and the wheel is here, and the buttons are here, then when
+you tend around, the buttons will be on the other side.
+No, you, I think you will use it on the right or left hand, whether you write your left
+team.
+I think for left teams, okay, I can do this movement and for right, as well.
+I think this doesn't change that much.
+Yeah?
+Okay, maybe.
+Yeah.
+So for interface, we said so that we have this banana shape with button on this, on the
+side, and the wheel on the top.
+So the color is yellow.
+I think it's, we define everything.
+We call it into what we should, but the decision we should take.
+So maybe we can, we can work on the respect until next meeting.
+So at the final looking field design, we're going to do this here.
+And after the user interface design, and then evaluate the project, the product,
+that is to say check if it fits the requirement given by the users.
+But according to your presentation, it seems to be okay.
+It seems to be fancy, innovative, and easy to use.
+So to prepare the prototype, I would suggest that the industrial designer,
+the user interface designer, work together to do better, I think.
+And so you will receive further instruction by mail as usual.
+Yes, master.
+Do you need to add anything?
+If you're okay, you feel free to express what you want to say.
+If you don't feel too constrained.
+You don't feel free to answer this.
+No, you can.
+Okay, so see you.
+I think we can leave the room from the tracking group.
+Excuse me, that's a part of it.
+Okay.
+The must be touched.
+Okay.
+So we are here for the concept design routine.
+So we will first stop by summarizing the produce meeting and the decision we've taken.
+I will take notes during this meeting so that you can look at my further proceeding summary of this meeting afterwards.
+So each of you will show us the various investigation that we've done during,
+produce hours.
+We'll then take the decision on concept and then we will define the next task to be done before the next meeting.
+So last time we decided to have a simple interface.
+We also decided to have a will to change channel, produce channel buttons,
+channel dg buttons should be protected by plastic cover or something for the remote control to be very simple.
+We have also a button for volume and to switch on of the TV.
+We have also the lightning feature for the remote control to be easy to find.
+And for fast development and low cost, we have decided to have no LCD, no voice features.
+So now we will have three presentations.
+So the concept you have specification by industry designer, the specification of the UI by...
+...or UI.
+This morning.
+Okay.
+And the last point is train watching by market experts.
+So maybe we can start with the industrial design.
+So this is the presentation idea.
+Maybe I can switch slide on your website.
+I just look at the...
+...just once we went pages and find some of the competition.
+And I think the remote control is, as I mentioned previously,
+we just have a very simple chip.
+And the user interface is just usually by touch button.
+In our case, we are using a will control.
+So I was looking basically for that chip, which is a very, very standard.
+And I just look for the wind sensor and the standard touch button.
+Yeah, we can change the...
+In fact, I have a number of that element, which is very standard for remote control.
+The best button are usually extremely cheap, but I just have one problem.
+This is related with the will sensor, which seems to be quite expensive.
+Okay. And I think if we could just talk about that,
+we really need a will sensor or if we can combine something with the push button.
+Okay. A will sensor is 50 times the price of a push button.
+But is it a significant price on the world remote control?
+Because we can afford up to 12 euros for the price of the remote control.
+Yeah, all right.
+So we will...
+Will this with including all possible things?
+So buttons will and achieve the lower than 12 euros to produce.
+But I don't think that we should...
+I should talk about the design of the box.
+Okay.
+I also have to say...
+Did you ever see the image about the voice I've already shown?
+Oh, that's nice.
+No?
+You receive something?
+Yeah, we'll have an image from my mind.
+That's the image.
+We'll have basically a voice of the image on the tip already developed.
+Yes.
+So right now, it's just easy to record answers to particular questions.
+But I guess it could be the idea that the...
+Of course, you can just record the answer.
+You can just record something simpler.
+Okay. And they can recognize some common?
+Yeah, you'll recognize a common image or a common image.
+So if you already have it as...
+Yeah.
+You could give it.
+Okay.
+Maybe we can just listen to this presentation and then take the decision later.
+Okay.
+On...
+According to those news.
+But I think it's...
+Yeah.
+Sorry.
+I have a reason why personal affairs...
+And I just want to mention the...
+The problem of the...
+Will Samsung, which is much more expensive.
+And that's kind of much better.
+Okay.
+If we could reduce that.
+We have already some good things.
+With the...
+With the back lights of the touch button.
+I have a question about that.
+What is the purpose of the light?
+Just to make something which is slightly more designed.
+That's a...
+A square root box.
+A square root button.
+But the dark.
+But in the dark.
+Yeah.
+But it's going to be always turned on for a light.
+It will be turned on when the...
+When the user moves the control.
+But if you move it, then you have it.
+Hmm.
+You can see the bottom of the brush.
+Yeah.
+Yeah.
+Yeah.
+Yeah.
+True.
+But if you move it, then you have to have some sense of it.
+Yeah.
+When you move it.
+To take the moment.
+As soon as you start to move the...
+The remote control you have the right.
+Yeah.
+But you need another control for that.
+Yeah.
+Yeah.
+Yeah.
+Yeah.
+It's too expensive.
+I don't think that this is really expensive.
+But at the end, this is plenty of...
+Plenty of...
+A very cheap...
+Yeah.
+Devices.
+But...
+The biggest task.
+Yeah.
+You get onto the will to be cheap.
+I think then it's really expensive.
+Yeah.
+First of all, I was thinking to have a continuous light.
+And when you...
+When you press the on button, you have the light.
+When you will be more controlled.
+When you...
+You want to turn off the...
+But again...
+But again...
+The battery consuming, you know.
+The...
+The...
+The...
+The...
+The...
+The...
+The...
+The...
+Okay.
+Because when you...
+I think you want...
+The...
+It should be the...
+The...
+The...
+Yeah.
+You can do that, I'm sure.
+Yeah.
+And the two is...
+The...
+The...
+The...
+The...
+The...
+The...
+The...
+The...
+The...
+The...
+The...
+The...
+The...
+The...
+The...
+The...
+The...
+It won't be very simple, right?
+It's a major idea, I think it was possible.
+So, I just look at some current designs on the web of usually more complicated in the controllers.
+And it's like a two of them, because even though they have many buttons, they look quite simple.
+And in that case, we just detect the buttons with them.
+Yeah.
+And also does it fit well in, because it was the least problem.
+Well, this is most part big, so not the next page.
+So, they have all these buttons that you can see.
+But most of them, we just need the ones in the middle.
+Yeah.
+So, from the bottom of where there's the numbers, and then the top, until the time, it's the middle part.
+And the last one is exactly the same.
+So, basically, more or less, how we would like, with a big volume control, big time control, a mutant power.
+Yeah.
+It's the basic thing.
+So, it's only the central part.
+So, basically, something that we would look more or less the same as these two.
+Yeah.
+With maybe a more economic design.
+Yeah, if we have, for example, I think that the volume and the buttons are the only top part of it,
+will be on the right side, for example.
+Okay.
+Yeah.
+Because we don't have these input buttons, and there's other stuff that we have.
+And I think that the plastic cover is not very good.
+I'd be happy, because you open it, it can break.
+It can be various things.
+Okay.
+You just need to put the ton of numbers somewhere a bit out of the way.
+Okay.
+So, that's the point that we have.
+Yeah.
+And this is to press the other big buttons, but it's not the difficult to press the entire button.
+Sorry.
+Yeah.
+I think that if you put the cover, it would be more difficult for a user.
+Okay.
+Yeah.
+Usually, what, I have noticed that people put the plastic cover on things that you normally
+don't mess with, like, buttons for tuning the channels and stuff like that.
+Yeah.
+Yeah.
+Yeah.
+I think it's, it's usually not good.
+Okay.
+So, I don't think.
+Yeah.
+This is just the wheel.
+You can use the, some wheels can be pushed down.
+You can use the, it's down with the wheel, for example, if you want.
+Mm-hmm.
+So, we just basically use one just wheel and a user could use just the wheel to everything.
+Yeah.
+And that gives, maybe the wheel would be a, would advantage or are competitors.
+Mm-hmm.
+Because of the way it's pretty standard about the fact that it's very simple.
+So maybe this was to, to, to have more expense on that, that's, that's the spec.
+Mm-hmm.
+This, the, might be this as we tell us a little bit.
+Okay.
+So, we can move to the, is there any question for design of user interface?
+Or we can move to the next box.
+Maybe in a discuss afterwards.
+Okay.
+Okay.
+Okay.
+Can we go?
+Yeah.
+Okay.
+So, now that we're something with the vision, we have done, well, of very much control.
+So, the most important aspect for remote controls is to be fancy and feel, and not current
+functionality can feel.
+And the second aspect is that the remote controls would be a technological innovative.
+Okay.
+And the third, most important aspect is to, to, is that the remote control should be easy
+to use.
+So, since we, we have, let's speak about info.
+Yeah.
+And so, if you can go.
+Yeah.
+After.
+And there is a fashion which is, in Paris and Mina, that I've detected the following trends.
+Foot and vegetables will be the most important thing for closed issues and features.
+So, maybe our remote control has to be a foot form or a vegetable form.
+Okay.
+Like that.
+It's important.
+Yeah.
+And the material is expected to be spongy.
+So, I don't know which material can be spongy and few.
+This is good or so far.
+You just.
+milestone is considering being able to work, right?
+Yeah.
+I think that this is good or so to have responsibility.
+It'sallahs by the elephant.
+They're immune.
+Yeah, because it's privacy.
+It's, it's overthrate.
+It's remotely.
+Hey, that is a cool one.
+You could say that we have a social door and you throw it in the manifesto.
+Unmittent logo of
+Dexso creaky.
+When, exactly.
+Well, Price
+What?
+I know that if they do it out for RAM drop XP.
+you can see you can go before before yes and you know yeah the more important
+aspect is the fancy you can feel after is the technological
+innovative after the easy to use yes I think it's innovative to use the the wheel
+because I think that's how I think we have to keep that
+yes I think it's it makes it both easy and both innovative so I think it's a
+good aspect and it can help you to look cool fancy yeah we have to make it look like
+your foot or a fidgeting yeah make it a color that's remember inside that a
+little bit of a banana I guess maybe you said about it for example you know
+I don't think so I think we we cannot like
+yeah up here it's good it's better or better you know
+for maybe you can feel what was the piece of eyes with blue LED inside but
+that's the drain the drain is pongy and whichever it's not hard
+I think this pongy is good because it will be robust as well so I think we can
+keep the wheel because it's easy it's innovative even if the cut is a bit
+higher and we also have to find a so a foot like pier or banana or any others I do
+what kind of food would you like to control your team you
+you don't use the banana it's got a nice curving like that when the
+banana is curving like that yeah with the wheel on the top yeah you control
+and here you have a little touch button to I guess because that's how they just
+have this care we are and you move your pants here because the button and then you move
+the other side yeah you can have them on two sides and you know cool yeah I think
+it's a good design and it's innovative as well then maybe we can keep the banana
+and it's very easy to find that everybody knows what is a banana basically if you
+if you start with fancy foods you can also take into account the father the banana fits
+with a color scheme of our company yeah yeah it's really a really a good point
+I hope this new setup might not be a die I think it's so
+so we have to take some decision on do the specs so so for sorry for components so
+so we have to think about those aspects sorry so we will just use a
+standard battery yeah and the chip win chip on print we know exactly what do you mean by
+case I think it's the box that should be spongy bananas shape I mean for me if we use a spongy
+banana case it doesn't matter I just want to have something to print to fix my yeah my components
+to that probably you can't be inside there yeah yeah but the thing is that the
+bottoms and the wheel have to be I mean spongy then the bottoms so the wheel have to
+for the engine to move right so it will be bent I don't know about it's possible if
+no the button would be in fact it should be something outshade with a spongy cover yeah this is
+okay I'll shape with spongy cover and start a battery okay chip on print there's no specific
+problem so we agreed with the wheel
+wheel on the top button where do you want some buttons well usually hold okay one
+to be good for the left hand you look like yeah it has to be symmetrical yeah but okay so
+let's say that they will cause you basically you can take two sides one of this side where there's
+a thumb and the other side where there's a yeah other the thumb yeah just to only use this one but
+don't know it's very comfortable yeah this one is more comfortable this for the wheel and then
+this for the bottoms yeah it's okay for those right and left so if you get left the
+I think you can turn it this way also you can do those wheeled buttons yeah the
+wheel is gone buttons and wheel then all the buttons are on the buttons are on the other side
+you can see the well you will get used to it and the buttons have to be here and the wheel
+don't know are lighty so you immediately don't try the right side because you have light on buttons
+yeah I know but if you have your other hand and the wheel is here and the buttons are here
+they want to bend around the bottom of another side no you you I think you will use it on you on
+the right or left hand whether you right here or left here I think for left it's okay I can do
+this movement and for right here as well I think this doesn't change that much okay yeah
+okay yeah so for interface we said so that we have a this banana shape with button on this
+on the side and and the wheel on the top so the color is yellow I think it's we define everything
+according to what we should but the decision we should take here so maybe we can we can work
+undo the spec until next meeting so at the final we can feel design according to the decision
+and after the user interface design and then evaluate the project the product that is to say
+check if it fits the requirement given by the users but according to your presentation it seems to be
+okay it seems to be fancy innovative and easy to use so so to prepare the product I would
+suggest that the industrial designer and the user interface designer work together with the
+the data I think and and so you will receive further instruction by mail as usual yes master
+do you need to add in you know if you're okay you feel free to express what you want to say
+you don't feel too constrained
+you don't feel free to answer this no you can
+okay so thank you see you
+I think we can leave the room for the tracking group
+Excuse me, that's a part of it.
+Very great.
+It's a must be touched.
+Okay.
+So we are here for the concept design in the team.
+So we will first stop by summarizing the produce meeting in the decision with the term.
+I will take notes through this meeting so that you can look at my folder to see the summary of this meeting afterwards.
+So each of you will show us the very use investigation that I'm doing.
+Produce hours.
+We'll then take the decision on concept and then we will define the next task to be done before the next meeting.
+So last time we decided to have a simple interface.
+We also decided to have a will to change the channel button.
+Channel DG's buttons should be protected by plastic cover or something for the remote control to be very simple.
+We have also a button for volume and to switch on of the TV.
+We have also the lightning feature for the remote control to be easy to find.
+And for fast development and low cost we have decided to have no LCD nor voice features.
+So now we will have three presentations.
+So the concept just specification by industry designer.
+The specification of the UI value.
+And the last point is train watching by market expert.
+So maybe we can start with the industrial design.
+So we see the presentation idea.
+Maybe I can switch slide on your place.
+I only have three slides.
+So I just look at the, just these ones in white pages.
+I find some of the competition and I think the remote control is as I mentioned previously.
+You just have a very simple chip.
+And the user interface is just usually by push protein.
+In our case we are using a will control.
+So I was looking basically for that chip.
+Which is a very, very standard.
+And I just look for the wind sensor and the standard push protein.
+Yeah, we can change the.
+In fact, I have the number of that demand which is very standard for remote control.
+The best button are usually extremely cheap.
+But I just have one problem and this is related with the real sensor.
+Which seems to be quite expensive.
+Okay.
+And I think if we could just talk about that, if we really need a real sensor,
+or if we can combine something with a push protein.
+Okay.
+A real sensor is 50 times the price of a push protein.
+But is it a significant price on the world remote control?
+Because we can afford up to 12 euros for the price of the remote control.
+Yeah.
+All right.
+Yeah.
+So we will in this with the including all possible things.
+So buttons will and the chip be lower than 12 euros to produce.
+But I don't think that we should.
+I should talk about the design of the box.
+Okay.
+I also have to say, do you ever see the image about the voice or the remote.
+No.
+You're a sensor.
+Yeah.
+We'll have an email from the one.
+First of all, the visual that they have basically a voice of an image from the tip already developed.
+Hmm.
+You know.
+It says that right now, it's just easy to record answers to particular questions.
+But I guess it could be the other tip.
+Okay.
+Okay.
+And there you can recognize some color.
+Yeah.
+You know, you're going to have to recognize some color.
+Yeah.
+You could give it.
+Okay.
+Maybe we can just listen to this presentation and then take this generator.
+Okay.
+And according to news.
+But I think it's.
+Yeah.
+I have written my personal differences.
+And I just want to mention the problem of.
+Really sense, which is much more expensive.
+That can be pushed.
+Okay.
+If we could reduce that.
+We have already some good things.
+With the.
+With the back lights of the.
+I have a question about.
+What is the purpose of the light?
+Just to make something which is a slightly more designed.
+That is query box.
+Okay.
+Right.
+But the dark.
+But in the dark.
+Yeah.
+But it will still not.
+It will be turned on when the.
+When the user move the.
+Control.
+But if you move it then you have.
+Hmm.
+You can see the buttons.
+But of course.
+Yeah.
+Yeah.
+Yeah.
+True.
+Yeah.
+But if you move it then you have to have some sense of.
+When you move it.
+Take that.
+Yeah.
+As soon as you start to move the.
+The remote controller you have to write.
+Yeah.
+But you need another sense of product.
+Yeah.
+Yeah.
+Yeah.
+Yeah.
+It was too specific.
+Yeah.
+I don't think that this is really expensive.
+But at the end this is plenty of.
+Can you spend.
+A very cheap devices.
+But.
+The biggest task.
+Yeah.
+But actually we'll do the thing.
+Yeah.
+First of all I was thinking to have a continuous light.
+and to.
+Well when you press the on button you have the light.
+When you will be more controlled.
+When you want to turn off.
+But I can be.
+Yeah.
+But I can be.
+Yeah.
+Try to continue.
+No.
+No.
+I like it.
+It's worth it.
+It's worth it.
+Why won't you discuss that?
+Maybe.
+Yeah.
+Okay.
+Why won't you want.
+It should be shared for the.
+Yeah.
+It's worth it.
+And it is.
+So.
+Okay.
+Let's move the.
+Let's like.
+But basically.
+One.
+Very simple right.
+It's a major idea.
+That's a major possible.
+Yeah.
+So.
+I just look at some current designs.
+On the web of.
+Usually more complicated.
+Because.
+And it's a little over.
+Because.
+Even though they have many buttons.
+They look quite simple.
+And.
+In our case we just.
+We check the buttons.
+Yeah.
+And.
+The.
+So.
+And also does it fit well.
+And.
+Because it was.
+Yeah.
+The.
+Well this.
+This is most.
+The.
+The.
+So.
+So.
+The.
+The.
+The.
+The.
+The.
+And.
+So.
+From the bottom.
+Where.
+The.
+The.
+The.
+The.
+The.
+So.
+The.
+The.
+The.
+The.
+The.
+The.
+The power.
+Yeah.
+It's a basic thing.
+central path. So basically something that we will look more or less the same as this
+two. Yeah, maybe a more economic design. Yeah, if you have, for example, I think that the
+volume and the buttons that are there on the top are the easy to use, we need something
+to be on the right side, for example. Okay. Because we don't have these input buttons
+and these other stuff like that. And I think that the plastic cover is not very good.
+because you open it, it can break, it can be various things. Okay. You just need to put the
+channel numbers somewhere a bit out of the way. Okay. So that's the period that we have.
+Yeah. And this is to put the other big buttons, but it's not the difficult to put the
+the entire bottom side. I think that if you put the cover, it will be a little more difficult
+for me to do that. Okay. Usually what I have noticed that people put the plastic cover on things
+that you normally don't miss with like buttons for, yeah, tuning the channels and stuff like
+that. I do it to protect them. I think it's interesting. Okay. So I don't think, yeah,
+this is just the wheel. If you use some wheels, it can be put down, it can be put down of
+the wheel, for example, if you want. So we just basically use one just wheel and use
+it will be just a wheel to everything. Yeah. In that case, maybe the wheel will be a good advantage
+of our competitors because of the way it's great system or the top to think that it's very
+simple. So maybe this was to run more expense on that respect. This might be a good sense
+to tell us a little bit. Okay. So we can move to the, is there any question for design of user interface?
+Or we can move to the next box, maybe in this case afterwards? Okay. Can we do it? Yeah.
+So now there is something with the solution. We have done up there much control. So the most important
+aspect for remote controls is to be fancy and feel and not current functionality can feel. And the second aspect
+is that the remote controls should be a technological innovative. And the third most important aspect is that
+the remote controls should be easy to use. So things we have to speak about before. And so you can go after.
+And there is a fashion which is in Paris and you know that I've detected the following trends.
+Foot and vegetables will be the most important for closed issues and for new tools. So maybe our remote control
+will have to be food form or vegetable forms. Not even like that. And the material is expected to be
+this point. Which material can be this point? This is good or so far? I think it is good or so to have this point.
+Yeah, because it's privacy. It's privacy. Hey, that's a cool one.
+I'm good to say that we should throw it. You have a search and you throw it. It's a television intensity.
+When it takes a shock? Yeah. I know that they do that for alarm clock.
+And in this you can see that. You can go before or before.
+Yes. And you know here the more important aspect is the fancy you can feel. After is the technical liberty.
+After the easy to use. Yes. I think it's innovative to use the wheel because I know one.
+That's right. I think we have to keep that as well. Yeah. I think it makes it both easy and both innovative.
+So I think it's a good aspect. And it's cool. We have to make it look like a food or a kitchen together.
+Maybe a color that remembers inside that.
+I thought about it for example. You know it's pretty like that. It's easy to have it.
+I don't think so. Maybe here or here.
+Is there anything you want to add? Is there anything to add to it?
+I don't think so. I think we can have a beer, a beer, a quid, or a banana.
+For maybe look and feel what was the piece of ice with blue LED inside.
+But that comes in the drain. The drain is pongy. It's not hard.
+I think this pongy is good because it will be robust as well.
+So I think we can keep the wheel because it's easy. It's innovative even if the cup is a bit higher.
+We also have to find a food like beer or a banana with any other item you have.
+What kind of food would you like to control your TV with?
+I think it's nice.
+Because you lose. You can't lose. You remove control then.
+Don't use the banana. The banana is curving like that when the banana is curling like that.
+With the wheel on the top you can control and here you have a little touch button.
+You can just have this curving and you move your pants here to push the bottom and then you move the other side.
+You can have them on two sides and the cool.
+I think it's a good design and it's very well done.
+Maybe we can keep the banana and it would be very easy to find.
+Everybody knows what is a banana. Basically, if you start with fancy foods.
+You can also take the banana and fit with the color scheme of our combine.
+Yeah, it's really a really good point.
+I hope these videos of lovers will die with you.
+That's how you do it.
+So,
+So we have to take from the decision and do the specs.
+So for components, so we have to think about those specs.
+So we will just use a standout battery.
+Yeah.
+And that chip with chip on the paint, we do exactly what we want to use.
+What do you mean by case?
+I think it's the box that should be sponging bananas shape.
+I mean, for me, if we use a spongy banana case, it doesn't matter.
+I just want to have something to print to fix my components into that box.
+But the things that the bottoms and the wheel have to be spongy,
+then the bottoms and the wheel have to move right.
+So it would be bent.
+I don't know if a bucket is possible.
+If no, the button would be infected.
+It should be something outshaped with the spongy cover.
+Okay, I'll check with spongy cover.
+And the style battery, okay, chip on print.
+There's no specific problem.
+So we agreed to put the wheel.
+Put on the top button.
+Why do we want some buttons?
+Well, usually hold one.
+It would be good for the left hand unit, right?
+Yeah.
+Sorry, it has to be seen in trouble.
+Yeah, but it's okay.
+So let's say that they're basically going to take two sides.
+One on the side, one on the side, one on the side, one on the side.
+Yeah, other than the thumb.
+I think you can turn it this way also.
+You can do both the wheel buttons.
+Yeah, the buttons can hold one on the side.
+Yeah, it's okay for those right and left.
+So if you get left, help.
+I think you can turn it this way also.
+You can do both the wheel buttons.
+Yeah, the buttons can hold the buttons around the other side.
+You can see the wheel.
+Well, we get used to it.
+So the buttons have to be here, and the wheel is happening.
+All righty.
+So you immediately don't try the right side.
+Because you have right hand buttons.
+Yeah, I know, but if you have the right hand,
+then the wheel is here, and the buttons are here.
+They want to bend around.
+The buttons will be on the other side.
+No, you, I think you will use it on the right or left hand.
+Whether you right here or left here.
+I think for left here, it's okay.
+I can do this movement and for right here as well.
+I think this doesn't change that much.
+Okay.
+Yeah.
+Okay.
+Maybe.
+Yeah.
+So for interface, we said so that we have this banana shape
+with button on the file.
+And the wheel on the top.
+Yeah.
+So the color is yellow.
+I think it's, we define everything.
+We're calling it through what we should,
+but the decision we should take.
+So maybe we can, we can work on do the specs until next meeting.
+So at the final, we can feel design going to do the decision
+to have the user interface design,
+and then evaluate the project.
+That is to say check if it's the requirement given by the users.
+But according to your presentation, it seems to be okay.
+It seems to be fancy, innovative, and easy to use.
+So to prepare the prototype,
+I would suggest that the industrial designer
+and the user interface designer work together.
+It's better, I think.
+And so you will receive further instruction by mail as usual.
+Yes, master.
+Do you need to add anything?
+No.
+You feel okay?
+You feel free to express what you want to say.
+You don't feel too much constraints.
+You don't feel free to answer this.
+No, you can.
+Okay.
+So,
+don't you?
+See you.
+I think we can leave the room for the tracking.

@@ -1,0 +1,5532 @@
+I'm sorry I'm a little late, I'm not going to accept the traffic.
+I'm going to start the traffic up here.
+Yeah.
+Let me see, are forward and lost meeting.
+There it is.
+Our last meeting, this meeting we will discuss our final design.
+And we will do some evaluation about not only the product, but also the project.
+And then we're going to close the project today as well.
+So, after that you'll be feeling free to go and spend all your money.
+And this design, detailed design meeting, we will discuss the look of fields and design.
+This build the interface design and we will do the product evaluation.
+In order to go to this agenda, we will have the prototype presentation first.
+We will set up some evaluation criteria.
+Then we will look at the finance.
+We will have to see if everything we want to do is also possible within our budget.
+Because everything goes money and the more finishes you want to have, the more money it will cost.
+So, we will see if it fits within the 12 and a half year per remote.
+Because we will see that later.
+Then we will do the project evaluation and the closing after that.
+We've got 40 minutes.
+So, we will be finished at all of those three.
+But first, people do the prototype presentation.
+So, this is what Ami and Richard came up with.
+The default spot for the on-off button.
+The new button just below that.
+Then there's the volume and channel selector.
+Same for plus, minus button.
+We fold up a help button if you hold it and you press another button.
+The help goes to the LCD screen.
+Then there's the 0 to 1 to 0 buttons.
+A button for teletext.
+A button for the subtitles and the company logo.
+So, it's for our simple prototype.
+We left to see from testing it.
+How do users state it?
+Okay.
+System moment where we ask.
+We can ask questions about the functionality.
+Sure.
+Yeah.
+Just pop it at any time.
+When you're in teletext, you're using your buttons where you just press it and you go to the next teletext page.
+That's just the normal remote controls.
+So, you push it.
+In page 100, you can use the normal 1 to 0 buttons.
+But you can also use the button for changing the channel.
+So, the shifting button.
+The shifting button.
+The shifting button.
+The shifting button.
+Okay.
+Okay.
+But I've filled in a few meetings earlier.
+And I'll try to give it simple.
+Just a few buttons and large buttons.
+But I think these are all together.
+Quite a few buttons.
+I'm wondering if we really need all of those buttons.
+Thank you for your look at most controls.
+I've got more buttons on this.
+That's right.
+The all-off button, it's in necessity.
+Yeah.
+I'm proud of that one.
+Before you have a channel buttons, you can obviously use the other buttons.
+Yeah.
+The mute button could be replaced by pressing the volume down to the twice.
+So, it could cancel that one.
+I think the help button really is necessary.
+There's no other way to know when someone wants to know what a button does.
+Or you can build it when you press one button.
+Yeah.
+Yeah.
+But, yeah.
+We just discussed that already.
+But we think all people don't know that option.
+So, they just put in the button.
+Yeah.
+Okay.
+Well, you can't leave out the number buttons, I guess.
+Yeah.
+Yeah.
+That's what I pointed out earlier.
+You should just make a control for just a TV.
+There's just not much to gain in.
+Yeah.
+Okay.
+Yeah.
+Somebody bought something about the design of the buttons there.
+Yeah.
+Yeah.
+Yeah.
+Yeah.
+That's the same thing.
+Yeah.
+Yeah.
+Yeah.
+Yeah.
+Yeah.
+Yeah.
+Yeah.
+Yeah.
+Yeah.
+Yeah.
+Yeah.
+Yeah.
+Yeah.
+Yeah.
+Yeah.
+Yeah.
+Yeah.
+Yeah.
+Yeah.
+Okay.
+So, we don't need a little display.
+We don't have to use it.
+Yeah.
+So.
+Okay.
+for the materials we've just chosen for rubber buttons
+with a different color than the case.
+So, jump on.
+Okay, let's find it.
+It's not.
+Then, I think it costs more than I have 50 minutes left.
+I want to move on to the finance part,
+which is pretty exciting to see if it's not possible
+what we want to do.
+And make it tell you.
+If you're going to have a pretty hard time producing base
+for seven or a half euros.
+If we see, I don't know if I've felt it correctly,
+so I just correct me if you see something wrong.
+I've got two batteries, but maybe you can also use one.
+I don't know.
+Since it's a rechargeable.
+It's rechargeable.
+It's a vacuum.
+You should have a wrong one.
+Okay.
+Let's tell you what's up.
+We need the altitude.
+So, there's not much to say there.
+Here, we have the single curve.
+We can see the difference between pink curves
+and single curves is one euro.
+I don't know, but I think the single curve
+is good for design and also for the display
+to have a problem of place on the remote control.
+Yes.
+I think we have to keep that.
+Then we have the case material supplements.
+It's plastic.
+It's the cheapest one we need.
+So, that's not much to say either.
+But then the biggest cost are the buttons.
+So, maybe we really should try to discard some buttons
+to keep our cost though.
+Because we have to get the 12 and all of euros at the end.
+So, if we first got the buttons, we have to now.
+So, we have 16, that will be even more than 18 euros.
+So, 15, 17, yeah, with the whole button.
+Okay, including the hell?
+Yeah, I said that.
+I think we can discard the hell and the mute button
+by pressing down volume long or pressing down a number.
+Long, let's say it's the one euro already.
+Is that me, I've got 15, I think?
+Yeah.
+What do you think?
+No, that's it.
+And this is, I assume you've come to the volume
+and channel things for two buttons each, right?
+No, those are one.
+No, I think.
+I think I think they're two buttons.
+It's just a long bit of a bit.
+Two, one big bit, but they are more expensive
+than the small ones, yeah.
+Yeah, but it's not the standard in this.
+Just, so maybe we have a range of,
+we can even make one button with the volume
+and the channel, it won by pressing,
+maybe you could just integrate three of those numbers
+to one button.
+That's the ability as well.
+No, come to cost.
+So, and it's good for a design as well,
+so you can make,
+make this.
+Yeah.
+It's good for the background.
+Cross.
+But uh, it don't.
+I don't know if it's still got four buttons, but just so I think they can
+the material. Not a better, better on itself, but on the chip chip you've got still
+before that's right or better so yeah, but I think because we have that's fun
+on the chip. Yeah, but you can just cut this as one button. I think this
+will be used for the buttons on you, yes, maybe it is, but then it seems to me that
+it's impossible to get it out of your eyes. Also that I'll see this play. I think it's too expensive for
+this play we use. I think they, so if we leave out this play we can also save
+money on the chip. That's right, but what's the biggest advantage of our remote
+then? Only the documentation of this? Yeah, which isn't the docking station, isn't
+even in this schematic. No, it's not even taking into the prize. That's where maybe we should
+do it to a different spot. That's an option. Don't you think we can, if we can cut this as one
+button and integrate these buttons in three? You could save money on it, but would it make
+the remote more usable for elderly people? Yeah, that's right. My water can't even send
+the SMS message. We can buy a remote control when you can use it. So yeah, we must stay
+below the 1250 or cancer. Well, since the market research indicated that older people spend
+their money easier, more easy, maybe it's feasible to just put the price of the remote
+up below, especially soon as we have those nice features. Yeah, but we have to stick with it
+off and off. We don't have any more on budget. It's possible to make one for our 1250. I don't think so.
+too, but I can't use. There it is. Yeah. There you want. So fancy and attractive options. So
+you can stay below 1250. So basically you can be choice between like either good remote and higher
+production costs are just no any other remote control. We can leave out the 10 buttons and take
+long scroll wheel for the program. That's one. That's not. We save 10 buttons and buy more.
+We're getting closer. How would a school do you work here? Maybe you can scroll. If you
+scroll, you will see the number on the LCD display until you have the right number and then you push it.
+That would bring up the price of the school.
+I can't just scroll for half a second. Yeah. That's right. You don't have to learn them.
+Anyway, the half second that it comes to the channel. I think that would be like the end of our
+usability. Yeah. That would definitely drop costs.
+Yeah. And you need better. And the regular chip is not possible. That's the exhaust.
+You don't want to use an LCD screen. You need an exhaust chip. How are you going to save the
+euro by a flip? These are. That's an option again. Yeah.
+No, we're almost there. Yeah. If you just leave out one more button. Yeah. So if we
+we have to skip the subtitle button. Yeah. That is a big problem. Yeah, it's a big changes.
+But can we integrate the data tax and the subtitles in one button? Yeah.
+I think it's pretty much three text subtitles are right now. You just push the
+text button, go to page 888. Yeah. And it doesn't text disappears. But sometimes it's
+saying there. But if you push the case, then it's right. What if you have to scroll to page
+88, 800, 88? I could be almost scroll to eight, click, scroll to eight, click, scroll to eight,
+click. But then again, there will be just pretty much an option for other people who don't
+even know what a school wheel is, holding a remote with with today's spec to have like
+10 buttons for the numbers one to zero. It's only five buttons on it. And a school
+wheel. I think if you make a good advertisement on television and in the in the guide, you can
+explain to people how they use the school wheel. Just make it real simple. Because it saves
+a lot of money and we can keep our LCD screen, which can provide extra information how to use
+the other buttons as subtitles. But it's good for the, you know, the design as well. If you
+it's pretty big school.
+Two buttons out there and just if you press the volume button, you can control the volume with
+the scroll wheel. So that would save two buttons if you do the same for the channel. That's really
+pretty. Thank you. And it will make the use of the school wheel more obvious. One of these in
+so if we try to read code, we can use the text in. If we want, yeah, so it's better. So this is
+one of the, if we leave our photos buttons, we can go with the flat, flat case and make it smaller
+overall. So if you put the volume and channel buttons on the same height, that's the enough button,
+the screen right behind under that, then the scroll button. You will get a much smaller remote.
+But we can make a quite big remote control for just the same price as a small one.
+Yeah, just you only have to pay for the double curve or single curve. Yeah, it's a bit,
+as it's more the models in which they are being made, I think, single curves is pretty easy to
+just fill in and the case is going right out of the machine and single curves. You have a different
+machine. I think this is a really easy one. But does everybody think about a flat or a single
+curve? These are, right? No, I still think we should cover a single curve design there. And then again,
+Rich, it's argument. All these changes are not really
+okay with me, but since
+just have to know. Yeah, yeah, I don't just go to the board and
+get us $18. Yeah, I'm going to do some work research and see what the options are.
+Yeah, but I think we can keep the single curve on just to express our LCD screen a bit more.
+Yeah, some people will use it more and especially for the health issues. It will be good if we
+scroll for scroll button. It will be necessary if we have a good health function as well.
+I think it was better to have this process.
+Yeah, that's pretty different. This is not really like for the group you were making
+or not. This will really require a lot of marketing to get this to sell. Other people like
+familiar firms and familiar stuff. This is much familiar for it.
+We're going to have to do a lot of convincing them. Think the most. But they know the scroll buttons
+from already. But it's like that's for changing. Maybe it's like a whole. Maybe that's
+very special. I would like. Yeah, but you're not 60. I would buy it if I don't see it.
+No. No. No. No. No. No. No. No. We can go. That's it.
+It's still 15 minutes left. Nice and schedule. The project process.
+So I'd like to set up all these criteria. The original issue of the thingy. Thank you.
+You've got five minutes I think. No, we've got 15 minutes, but okay.
+Yes.
+Okay. So there's some literature student study analysis of the requirement. You set up right here.
+Yeah. Translated to the criteria. Which would be these. This is remote fancy shape looking
+enough to what new functions are there. Easy to use. Learnability is a very important factor.
+It's functional. There are not too many functions among the functions and those functions are very
+useful. The cost. The target group is the remote really for the group we're making it for.
+Recruitment ability. Our company is. It's easy to do recognizable. They're company rated.
+So we're supposed to evaluate it right now. Okay.
+Oh, I have to say this was a bill. All right, because the minutes over last meeting.
+Yeah, that's because my pen failed to apply his data. Okay. I tried to, but it's giving errors.
+Okay, this is designed fancy. I think it's fancy six.
+This is designed in an over tip. Very good. So, yeah. Also, you simple. I don't know what you said.
+Yeah. Seven. Seven. Yeah. So we've got 20 cents for our talking station.
+Should we do it? Yeah. It's designed easy to use.
+All right. It's a bit 13. What would be for us?
+Well, I would say it for the four or five. Four or five. It's four or four.
+It's functional. It's a design function. Do we have more functions that we want to do?
+Yeah. Do we have to do any functions? No. No. It's pretty. I think it's seven.
+Oh, and do we take care of the biggest frustrations of the remote control? Like it's getting lost.
+There's a lot of thought about the answers. I have been worked out.
+There are, okay, not very functional and getting lost.
+Are the production costs within the pre-sentence? Well, they are now.
+This is designed to fit the group of focus. I think that's a free.
+I think that a new radio button, I think it's better.
+We have the distance. I still, I think it's, I think it's too fancy to
+think that it's not exactly what all the people expect of remote control.
+That would give us a score.
+I'm not sure. I think I can go for a team. I can go for a team.
+I can go for a team. So then we have to go in three.
+Is it coffee, coffee like an ice ball? Yes. Is it a roller?
+Yeah. And they want to put fashion in their products.
+In the slogan of the company, we have the removable phone cases.
+So I think it's very recognizable.
+Yeah.
+I was also supposed to calculate the score, but
+we've got a company as to this.
+Is this, so I can do this on each other?
+We've got to evaluate it.
+All, these are seven architectures, 27, something,
+right Nathan. Pretty nice.
+I think that's a pretty nice score.
+So, that brings us to the project evaluation.
+Project process, did we move through the right places?
+You think along the process?
+Yes.
+Yeah.
+I think we should have, we should have the columns feeling hot earlier.
+Yeah.
+That's right.
+In the design phase.
+So, lack of information about prices.
+Yeah.
+Yeah.
+Yeah.
+Absolutely.
+Okay.
+Okay.
+Okay.
+So, this fixing was the room for creativity?
+No.
+No.
+Not too much.
+No.
+Okay.
+Because of the finance.
+Yeah.
+Yeah.
+It wasn't a room for finance.
+Yeah.
+And the room was.
+Yeah.
+And I would have like to go for the younger users also.
+Yeah.
+And just to be able to access the internet.
+Get something up here.
+Street change.
+Internet taxes.
+Okay.
+Leadership.
+Was it okay with everybody had to do?
+According to the roles and functions.
+Okay.
+Teamwork.
+Is it work out working together?
+Also, you have two of you with the.
+That's what I've got last days.
+Nice.
+The tasks are very strict.
+So you can just do step by step.
+It was very easy.
+It's actually the tasks.
+Okay.
+What a mean sufficient for the tasks that we had to do.
+Why were they too much?
+The smart board.
+The drawing is just a painting.
+Yes.
+I didn't.
+I didn't.
+It didn't depend.
+It's very nice.
+Yeah.
+If it belongs down to this.
+Yeah.
+Data.
+Smart boards.
+Smart boards.
+That's irritating.
+So you run.
+I wanted to have a flip over.
+Or something.
+A flip over.
+Or somewhere.
+Two size.
+Yeah.
+Fostoms.
+Yes.
+Yeah.
+If you want to share.
+Of when you make a picture like this.
+And the presentation.
+It's easier to share it with other people.
+So you can save it and put it on the internet.
+Or share it for a follower.
+And share it.
+Try to put it in the file.
+It's on my laptop.
+No.
+No.
+You need the smart board.
+Yeah.
+Location, I think.
+Okay.
+You can export it.
+Yeah.
+You can export it with this image.
+Yes.
+Yes.
+Yes.
+You should go back there.
+So I'm sharing of information.
+What's the...
+Okay.
+Okay.
+That's right.
+Yeah.
+Finishing on the camera.
+Yeah.
+Yeah.
+Yeah.
+Yeah.
+Yeah.
+Yeah.
+Yeah.
+Yeah.
+Yeah.
+Yeah.
+Yeah.
+Yeah.
+Yeah.
+Okay.
+It's possible.
+Yeah.
+Okay.
+Yeah.
+Yeah.
+Yeah.
+That's nice.
+Okay.
+We found new ideas for...
+Yeah.
+I think this kind of meeting.
+Yeah.
+Yeah.
+Maybe.
+I mean, just like if the numbers of...
+Yeah.
+I want...
+I would say I have to...
+Yeah.
+Yeah.
+So easier to...
+To do some things.
+I like that song a little computer.
+Yeah.
+Oh, just like...
+Yeah.
+Yeah.
+Yeah.
+So I really put this on score.
+Yeah.
+Yeah.
+If media is the score, yeah.
+Yeah.
+I can get one.
+Yeah.
+That's better.
+So it's...
+How do you call it.
+Yeah.
+Yeah.
+Yeah.
+Yeah.
+Okay, any more ideas or questions about the project or about the project?
+Yes.
+I think.
+Let's see.
+Can we get to our last few?
+Are the costs in the budget?
+Yes.
+Yes.
+Do you know?
+Considering we are not going to make a talking station.
+Boy.
+That made it because of the talking station, the price of the remote and also data is at high.
+Yeah.
+And I think you can compensate that as well.
+So I think that it shouldn't be the biggest problem because it's very cheap to make as well.
+Do we think we're going to get the 12-0 million?
+No, it wasn't.
+50.
+50 million.
+I think we will.
+Are you going to exploit this product?
+Yeah.
+You know who to push in America?
+People are taking that.
+Sometimes.
+Yeah, I still don't think.
+I mean, if we're going to make a scroll button anyway, we need more for the hundred people
+and for the older people.
+So maybe we should just refocus.
+Let's put it on the market for everybody.
+You can specifically change the market by changing the flow of the cover.
+And it's one thing.
+You can change it.
+So you can also try to reach the other people that are putting fancy covers on the market.
+Just as a test.
+See how it works.
+That's, I think, a good thought.
+I think then it would be way more popular with him or people on this.
+That would be with older people.
+Yeah.
+Even if you were there covers.
+Yeah.
+I think we can provide a celebration.
+It's already put.
+I think we still have to put in one more position.
+I don't know.
+I didn't get a message from the ending of the app.
+You didn't have one.
+Five more minutes.
+It's good.
+Then we still have some questions.
+Somebody asked some questions.
+They can ask them now.
+They can put these in the projects for as well.
+Mm-hmm.
+That's what it is.
+Make sure I think.
+Yeah.
+No.
+Okay.
+Okay.
+Okay.
+So let me see.
+Where's your color?
+Right.
+Maybe you're a daggle safe.
+Okay.
+Okay.
+I think I'm going to make our final presentation now.
+Right.
+You're supposed to make.
+And I will be back in about ten minutes to show you the final presentation.
+Okay.
+Thank you.
+Okay.
+Okay.
+I think you'll get the christian in your room, and then I'll meet you and take a look at them and it's okay. Okay. Thank you.
+Hopefully my fender will download this software. Yeah.
+Thank you.
+I'm sorry I'm a little late, I'm not going to step in the traffic.
+It's supposed to stand straight up here.
+Yeah.
+Let me see our forward and lost meeting.
+There it is.
+There's our lost meeting.
+This meeting we will discuss our final design.
+And we will do some evaluation about not only the product,
+but also the project.
+And then we're going to close the project today as well.
+So, after that you'll be pretty good.
+It's been very many.
+And this design, detailed design meeting.
+We will discuss the look and feel of the design.
+We will build the interface design and we will do the product evaluation.
+In order to do it, we have this agenda.
+We will have the prototype presentation first.
+Then we will set up some evaluation criteria.
+Then we will look at the finance.
+We will have to see if everything we want to do is also possible within our budget.
+Because everything goes money.
+And in my first year, if you want to have the money, it will cost.
+And we will see if it fits within the 12-and-a-half year or per month.
+We will see that later.
+Then we will do the project evaluation and the closing after that.
+We've got 40 minutes.
+So, we will finish it all past three years.
+The first people do the prototype presentation.
+So, some asking for it.
+So, this is what me and Richard came up with.
+The default spot for the on-off button.
+The new button just below that.
+And there is the volume and channel selector.
+Simple plus minus button.
+We fold up a help button if you hold it.
+And you press another button.
+And the help goes to the LCD screen.
+Then there is the 0 to 1 to 0 buttons.
+A button for the teletext.
+A button for the sub titles and the company logo.
+So, it is our simple prototype.
+And we will have to see from testing how the user stated.
+Okay.
+So, we can ask questions about the procedure.
+Sure.
+Yeah.
+Just poke at it.
+When you're in teletext or usually your buttons where you just press it and you go to the next
+teletext page.
+That is just the normal remote controls.
+You push it.
+You come in page 100.
+You can use the normal 1 to 0 buttons.
+But you can also use the button for changing the channel.
+So, the shifting button.
+For the shifting, I have been on the edge of the text and shifting it out.
+Okay.
+Okay.
+But I saw in a few meetings earlier, we tried to give it a simple, just a few buttons and
+a large buttons.
+But I think these are all together.
+Quite a few buttons.
+I'm wondering if we really need all of those buttons.
+Thank you, if you look at most controls that have got more buttons on this.
+That's right.
+Well, the on-off button, it is an SSD.
+Okay.
+If all of you have a channel buttons, if you look up, you see these down.
+The mute button could be replaced by pressing the full-in down button twice.
+So, we could cancel that one.
+I think the help button really is necessary.
+There's no other way to know when someone wants to know what a button does.
+Or, you can build it when you press one button.
+Yeah.
+But, yeah.
+We just discussed it already.
+But, we think all people don't know that option.
+So, they just put in the first button.
+Yeah.
+Okay.
+Well, you can't leave out these number buttons, I guess.
+Yeah.
+Okay.
+That's the subtitles.
+Yeah.
+Yeah.
+Okay.
+So, it's rather basic already.
+Yeah.
+I think so.
+That's what I pointed out earlier.
+You should just make a control for just a TV.
+There's just not much to gain.
+Yeah.
+Yeah.
+Okay.
+So, yeah, it's somebody about to say something about the design of the buttons there.
+Yeah.
+Yeah.
+We need a little wide, there should be equal size rather with a little logo on it for the
+volume.
+Try to recognize it in some direction.
+Yeah.
+And we don't need a letter or some remote controls to do it.
+Yeah.
+Yes.
+I have because we use the little display, we don't have to use it.
+Yeah.
+So for the materials we've just chosen for rubber buttons with a different color than the case, so I'm going to jump on.
+Okay, let's find it.
+What's next?
+Then I think I'll see you guys in 30 minutes now.
+I want to move on to the finance part, which is pretty exciting.
+Let's see if it's not possible.
+What do we want to do?
+And I can tell you.
+Let's take out the pretty hard time producing this for 30 and a half euros.
+If we see...
+I don't know if I've filled in correctly, so I'll just grab me if you see something wrong.
+I can't do batteries, but maybe we can also use one.
+I don't know.
+Since it'll be charitable.
+Let's reach out a little bit.
+No, we can use it now.
+Okay.
+Let's tell you what's up.
+Okay.
+We need the health balance jet, so there aren't much here.
+Let's just say it there.
+Here we have the single curve.
+We can see the difference between end curves and the single curves is one euro.
+I don't know, but I think the single curve is good for this eye, and also for the display
+to have the problem of place on the remote control.
+I think we have the key bit.
+Then we have the case material supplement.
+It's plastic.
+It's the cheapest one we need.
+So that's not much to say right there.
+But then in the biggest cost, quite a bit.
+So maybe we should try to discard some buttons to keep our cost, though.
+Because we have to get the top and off euros at the end.
+So every, let's first count the buttons we have now.
+16.
+It will be even more in it.
+18 euros.
+So 15.
+With the help button.
+Okay, including the help?
+I think we can discard the help and the mute button by pressing down volume long or pressing down a memory.
+Yeah.
+Long.
+Let's say it's one euro already.
+Is that me?
+That's 15?
+Yeah.
+What do you mean?
+It is.
+And this is, I sure need to count the volume and channel things for two buttons each.
+Yeah.
+Those are one.
+I think.
+I think I do two buttons.
+It's just one bit of a bit.
+Two, one big bit.
+But they are more expensive than the small ones I am.
+Yeah.
+But it's not stated in this.
+It's just, so maybe you have a wrench.
+Or you can even make one button with the volume and the channel.
+It won't.
+Well, I think maybe you can just integrate three of those numbers to one button.
+That's what stability is.
+Nope.
+Couple of costs.
+So, and it's good for the design as well.
+So you can make.
+And then you can make this.
+Thank you so much.
+Thank you.
+It's good for that.
+Thank you.
+Good for that.
+I'm curious.
+Okay.
+I'm sure you've got that.
+What's that?
+Good.
+Good.
+Good for that.
+I'm sure you can.
+Good.
+Good.
+Good for that.
+Alright.
+Let's do that for that.
+Good for that.
+Good for that.
+Good.
+Close.
+Good.
+Good.
+Good for that.
+Good.
+Good for that.
+but I don't know if it's still got four buttons but just so I think they can
+do the material to cut, not a better button itself but on the chip
+yeah yeah you've got still got four buttons so yeah but I think because we
+have that's fun to chip yeah but you can just cut this as one button but now
+I think this review is full of buttons in here maybe it seems to me that
+it's a possible problem of yours also that I'll see this play I think it's too
+expensive for this play we use I think that if we leave out this play we can
+also save money on the chip that's right but what's the biggest
+bondage of our remote thing on the document station in this yeah which
+here's the do docking station isn't even in this schematic no it's not
+even taking into the press it's very we should do to the first time don't
+you think we can definitely can cut this as one button and integrate these
+buttons in three you could save money on it but would it make the remote
+more usable for elderly people now you know what I can't even send send a
+there's a message so yeah are you gonna buy a remote control when you can use
+it so yeah we must stay below the low 1250 all right
+well since the market research indicated that older people spend their money
+easier more easy maybe it's feasible to just put the price of the remote
+up below especially soon we have those nice features yeah but we have to
+stick to it off and off here we don't have any more enriching
+yeah it's possible to make one for 1250 I don't think so
+you want so fancy and attractive options so you can stay below 1250
+so I think it's basically a choice between like either a good remote and higher
+production costs are just no any other remote control or we can leave at the
+ten buttons and take them on scroll wheel for the program
+scroll is one because that's not we save ten buttons and then buy one
+getting closer but how would a scroll wheel work here maybe you can scroll if
+you scroll you will see the numbers on the LCD display until you have the right
+number and you push it there would bring up the price of the scroll
+you could just not scroll for a half a second yeah that's right you don't
+go at a number and then you wait the opposite and then it comes to the channel
+I think it would be like the end of our usability there would definitely drop cost
+and the regular check is not possible it has to be as well if you want to use an LCD
+screen you need an attached chip pin how do you say if you're on by a flat design
+that's an option yeah let me almost there yeah if you just leave out one more button
+so yeah or we have to skip the subtitle button yeah that is a big
+problem yeah it's a big advantage but can we integrate the data text in the subtitles
+in one button yeah I think it's pretty much three text subtitles are right now you just push
+the 10th text button go to page 888 yeah and there's the experience but sometimes it's
+saying there but if you push the space of business right what if you have to scroll to page
+88 88 88 one I could be a scroll to 8 click scroll to 8 click scroll to 8 click
+but then again there would be just pretty much an option for all their people who don't
+need to know what a scroll wheel is holding a remote with today's spec to have like 10 buttons
+for the numbers one to zero it's only five buttons on it and a scroll wheel I think if you
+make a good advertisement on television and in the in the go you can explain to people how to use
+the scroll wheel just make it real simple because it saves a lot of money and we can keep
+my LCD screen which can provide extra information how to use the scroll wheel how to use the
+buttons as subtitles but it's good for the you know the design as well
+I wouldite that up
+it's pretty good
+You could wait two buttons out of that and just if you press the volume button you can
+control the volume with the scroll wheel so that would save two buttons if you do the same
+so if we're in square so we've got the voltage there we can use the delta x in if we want
+yep it's been so it's been so it's been so it's been if we leave our
+buildings buttons perhaps you can go with the flat flat case and make it smaller
+overall so if you put the volume and channel buttons on the same height that's the
+enough button screen right behind under that then the scroll button you
+get a much smaller remote
+but we can make a quite big remote control for just the same price as a
+small one yeah just you only have to pay for the double curved or single
+curved yeah it's a bit as it's more the walls in which they are being made
+I think single curves is really easy to just fill in and then the case is
+going right out of the machine single curves you have a different machine
+I think this is a really easy one others everybody think about a flat or a single
+curved well I still think we should cover a single curved design then again
+these changes are not really open with me but since we have to go just
+have to yeah yeah I don't just go to the board and get us to $18 yeah I'm going to do
+some more research and see what the options are
+but I think we can keep the same curve though just to express our LCD screen a
+bit more yeah some people will use it more and especially for the help
+functions it will be good if we scroll for scroll button it will be necessary
+if we have good help finishing I think it
+does better to have this process to get dirty you know that's been a
+different screen this is not really like for the group you were making
+this will really require a lot of marketing yeah to get this to sell
+other people like familiar firms and familiar stuff this is not familiar for
+them so we're gonna have to do a lot of convincing I think the most but they know
+the scroll buttons from all three deals they go also buttons like that's for
+changing and so maybe it's for maybe that's very nice
+that's very special so I would like yeah but you're about 60 I would buy it
+I guess then it's all in all heroes no yes yeah no we can go with the
+project process so I'd like to send up all these criteria
+thank you
+literature student study analysis of the requirements you set up right here
+translate it into a criteria which would be these
+is a remote fancy shape looking through
+and often
+what new functions on there
+uh... easy to use
+uh... learnability is a very important factor here
+uh... is functional
+are there
+not too many functions
+among the functions and
+did those functions are very useful
+uh... the cost
+the target group is uh...
+remote reading from the group we're making it for
+and
+record mobility
+or
+companies
+it's easy to recognize the
+uh...
+so we're supposed to evaluate it right now
+all i have to say
+this was a little
+hard because
+the mass of our last meeting
+yeah that's because my pen failed to upload his data
+try to but it's
+it's giving hours
+i don't know so far
+kingdom
+i think it's
+said
+is
+status
+to
+visit
+establish
+Yeah, it's a design easy to use, or it's a bit too well, would be for us, or let's say
+it for the L5, for L5, for L5, for L5, for L4, for L4, for L4, for L4, for L4, for L4,
+for L5, it's a design functional so we have more functions that we want to do.
+Do we have too many functions?
+Do we take care of the big frustrations of the remote control,
+the stresses of the remote control, but if you're getting lost, there is a lot of
+photo cover on the houses.
+I had them work out.
+They're okay, not very functional in getting lost.
+Our production costs within the pre-sentence, while they are now.
+Just to design a 50-group of focus, I think that's free.
+I think with a new radio button, I think it's better.
+I think it's better.
+I still think it's too fancy to...
+I think that the audio button is not exactly what all the people expect over the remote control.
+That would give us a score.
+I'm not sure.
+I think I'm going for a two, like a four-tree.
+Then we have to do it in three.
+Let's go.
+This car we've copied right now is full.
+It has a little bit of a car.
+And they want to put fashion in their products in the slogan of the company.
+We have the removable phone cases.
+I think it's very recognizable.
+I was also supposed to calculate the score, but what do we have for the company after this?
+We've got to evaluate.
+These are seven factors.
+I think that's a pretty nice score.
+Okay.
+Okay.
+Thank you.
+So, it'll bring us to the project evaluation.
+Project process, did we move through the right faces?
+You think long process?
+Yes.
+Yeah.
+I think we should have the final thing here.
+Yeah.
+That's right.
+In the design phase.
+So, lack of information about prices.
+Yeah.
+That's true.
+Okay.
+Okay.
+So, this is for machine.
+What's the room for creativity?
+No.
+Not too much.
+Yeah.
+Because of the finance.
+Yeah.
+Yeah.
+It was a real true finance and the room was.
+And I would like to go for the younger users also.
+And just to be able to access each another.
+Okay.
+So, here.
+Should you choose?
+I didn't think that's it.
+Okay.
+Leadership.
+Was it clear what everybody had to do?
+Going through the roles and solutions.
+Yes.
+Teamwork.
+Is it work out working together?
+Also, you would do a few with the.
+That's what I got last days.
+Nice.
+The tasks are very strict.
+So, you can just do step by step.
+It's very easy.
+Stitch with the tasks.
+What it means sufficient for the tasks that we had to do.
+What are we doing too much?
+Well, the smart board.
+The drawing is just depending on the aspect.
+The discipline is very nice.
+If it goes down to this.
+Data.
+The smart board was very data.
+So, you want to have flip over?
+Something like the board was here.
+Two size.
+Yeah.
+Fasting as well.
+Yeah.
+But if you want to share.
+Of when you make.
+A picture like this.
+On the presentation.
+It's easier to share it with other people.
+So, you can save it.
+And put it on the internet.
+Or.
+And share it for.
+For.
+And share it.
+Try to do the follow.
+On my laptop.
+No.
+Not for.
+You need the smart board.
+Yeah.
+Vacation.
+I think.
+Yeah.
+You can export it.
+Yeah.
+You can export it.
+Yeah.
+You can export it.
+Just.
+Yeah.
+So you're sharing of information most.
+Okay.
+Yeah let's go.
+Present.
+Yeah.
+Yeah.
+Ew.
+It's nice. We found new ideas for having this kind of meeting.
+Yeah, maybe.
+I mean, just like if the numbers of, uh, uh, one of us, uh,
+see if it's easier to, uh, to do things like that on the computer.
+Yeah, just like, uh, like, uh, to university.
+Yeah.
+So everybody puts his own score.
+Yeah.
+Yeah.
+If media is the score, yeah.
+I can get one.
+Yeah.
+That's better.
+So it's, uh,
+very cool.
+Okay.
+Any more ideas or questions about the project?
+But the project?
+Yeah.
+Good.
+Good.
+I think.
+Yeah.
+That's it.
+Okay.
+If you get the last two.
+Harder cost than in the budget.
+Yeah.
+Considering we're not going to make a talking station, talking station.
+Boy, that made it because of the talking station, the, uh,
+the price of the remote can also be as high.
+Yeah.
+And I think you can come to that.
+So,
+So I think that shouldn't be the biggest problem.
+It's really cheap to make as well.
+Yeah.
+So we think we're going to get the 12 and all million.
+50.
+50.
+50.
+I think we will.
+Are you going to export this product?
+Yeah.
+You know if it's a push in America.
+People are taking it.
+Sometimes.
+Yeah.
+I still don't think.
+I mean, if we're going to make a scroll button anyway.
+You can do more for the 100 people or for the other people.
+Yeah.
+Yeah.
+So maybe it's just brief focus.
+Let's put it on the market for everybody.
+You can specifically for the changing markets where by changing the flow.
+Cover.
+And it's one thing you can change it.
+So you can also try to reach the only people that are putting fancy covers on the market.
+Just as a test.
+Yeah.
+It works.
+That's, I think, a good spot.
+Yeah.
+Yeah.
+Then it would be way more popular with people than this.
+Don't be with all the people.
+Yeah.
+Even the word they're covering.
+Yeah.
+I think we can provide a separation.
+No.
+Okay.
+That's it.
+Party.
+Yeah.
+I think we saw some today.
+Well, more.
+Yeah.
+Yeah.
+I don't know.
+I didn't get a message from the handling of the app.
+Yeah.
+We didn't have one.
+Five more minutes.
+Oh, it's good.
+Then we still have some questions.
+Somebody has some questions.
+I can ask her now.
+I can put these to the projects for those.
+Mm-hmm.
+Yeah.
+Okay.
+As a structure.
+Okay.
+I think.
+So let me see you further isn't it.
+Maybe you would say, if it's sort of, yeah, it's really much of an answer, yeah, it's
+good.
+I think I'm going to make our final presentation now, and I'm supposed to make, and I will
+be back in about ten minutes to show you the final presentation.
+Okay, okay.
+I'm going to give you the summary of the presentation, I'm really supposed to do my first
+question.
+I think you'll get the question in your room.
+And then I'll meet you in ten minutes.
+Okay, okay.
+I'm going to let you know what I'm going to do, and I'm going to let you know what I'm going to do.
+Okay.
+Okay.
+Okay.
+Okay.
+I'm sorry I'm a little late, I'll put a second on traffic.
+Let's go somewhere.
+Let's start with the next steps, it's way up front.
+Yeah.
+Let me see our forward and lost meeting.
+There it is.
+There it is.
+Okay, this is our lost meeting.
+This meeting we will discuss our final design.
+And we will do some evaluation about not only the project,
+but also the project.
+And then we're going to close the project today as well.
+So, after that, you'll be pretty good.
+You spend all your money.
+This design, detailed design meeting.
+We will discuss the look and feel of the design.
+We will use the interface design and we will do the project evaluation.
+In order to do this in general,
+we will have the prototype presentation first.
+Then we will set up some evaluation card criteria.
+Then we will look at the finance.
+We will have to see if everything we want to know is also possible within our budget.
+Because everything costs money.
+And the more finishes you want to have, the more money you will cost.
+So, we'll see if it fits within the 12 and a half year.
+We'll remove.
+We will see that later.
+Then we will do the project evaluation and the closing after that.
+We've got 40 minutes.
+So, we will be finished in all of those three.
+But first,
+we will do the prototype presentation.
+So, some questions for them.
+So, this is what me and Richard came up with.
+The default spot for the on-off button.
+The new button just below that.
+Then there's the volume and channel selector.
+Same for plus, minus button.
+We thought of a help button.
+If you hold it and you press a lot of button,
+the help goes to the LCD screen.
+Then there's the 0 to 1 to 0 buttons.
+A button for a teletext.
+A button for the subtitles.
+And the company logo.
+So, it's sort of a simple prototype.
+And then we'll have to see from testing how do you just take it.
+Okay.
+Since we haven't really asked,
+we're going to ask questions about the question of it.
+Sure.
+Yeah.
+Just pop in.
+When you're in teletext,
+or usually your buttons,
+where you just press it and you go to the next teletext page.
+That's just the normal remote controls.
+So, you proceed.
+You came in page 100.
+You can use the normal 1 to 0 buttons.
+But you can also use the button for changing the channel.
+So, shifting the button.
+Okay.
+For shifting up in the text and shifting it out.
+Okay.
+Okay.
+But I thought in a few meetings earlier,
+which I have to give it simple.
+Just a few buttons and large buttons.
+But I think these are all together.
+Quite a few buttons.
+I'm wondering if we really need all of those buttons.
+Thank you.
+If you look at most controls,
+they've got more buttons than this.
+That's your hand.
+Well, the amount button, it's in necessity.
+Yeah.
+For example,
+the volume and channel buttons,
+if you obviously need those,
+the mute button could be replaced
+by pressing the volume down to the twice.
+So, we could cancel that one.
+I think the help button really is necessary to us.
+There's no other way to know when someone wants to know what a button does.
+Or you can build it when you press one button.
+Yeah.
+But, yeah.
+We just discussed it already.
+But we think all people don't know that option.
+So, they just put in the button.
+Yeah.
+Okay.
+No.
+The default,
+the number of buttons, I guess.
+Yeah.
+That's the subtitles.
+Yeah.
+That's, yeah.
+Okay.
+So, it's rather basic already.
+Yeah.
+That's what it pointed out earlier.
+You should just make a control for just a TV.
+There's just not much to gain.
+Yeah.
+Yeah.
+Okay.
+So, yeah, it's somebody but something about the design of the buttons there.
+Yeah.
+Yeah.
+No, I'm not playing.
+Yeah.
+The role, the white, what they're supposed to be equal sized around with, uh,
+with a little logo on it for the, for the volume.
+Yeah.
+Just to recognize it in a certain direction.
+Uh, yeah.
+And we don't need, uh, that's, or, um, no.
+Uh, some, uh, remote controls, uh, do it.
+So, uh, because we use the little display.
+We don't, uh, have to use it.
+Uh, yeah.
+So, okay.
+So, for the materials, we've just chosen for rubber buttons.
+Yeah.
+We have a different color than the case.
+So, um, jump out.
+Okay.
+That's about it.
+That's nice.
+Then, I think that's one right here.
+30 minutes left.
+I'm going to move on to the finance part.
+Which is pretty exciting to see if it's not possible.
+What we want to do.
+And I can tell you.
+If you don't have, uh, a pretty hard time producing this for 30 and a half years.
+If we see, I don't know if I've felt it correctly.
+So, just correct me if you see, uh, something wrong.
+I got two batteries, but maybe you can also use one.
+I don't know if it's essentially charging one.
+Let's reach out.
+No, I can't.
+Just for now.
+Okay.
+Let's tell you what's up.
+Okay.
+We need the health function.
+So, we have the single curve.
+Uh, we can see that the difference between thin curves
+is one zero.
+Um, I don't know.
+But I think the single curve is good for design.
+Yeah.
+And also for the display to have a problem that plays on the remote control.
+Yes.
+I think we have to keep it.
+Yeah.
+Then we have the case material supplements.
+It's plastic.
+It's the cheapest one we need.
+So, that's, uh, not much to save either.
+But then the biggest costs are the buttons.
+So, maybe we really should try to discard some buttons to keep our costs, though.
+Because we have to, we want to get the 12 and all heroes at the end.
+Um, so, if we, let's first cut the buttons we have now.
+So, I think we can discard the health and the mute button by pressing down and folding
+or pressing down the number.
+Yeah.
+No.
+Let's say it's one zero already.
+Is that enough?
+That's 15, I think.
+Yeah.
+What do you mean?
+Yeah.
+That's it.
+That's it.
+Sure.
+Yeah.
+And this is, I sure you can count the volume and channel thingies for two buttons each, right?
+Oh, those are a lot.
+Yeah.
+I think.
+I think I see there are two buttons.
+Um, it's just a long bit of a bit.
+Um, uh, two, uh, one big button.
+But they are, uh, more expensive than the small ones.
+Yeah.
+Yeah.
+But it's not the state.
+It's just, uh, so maybe you have a wrench.
+Or you can even make one button.
+But the volume and the channel, everyone.
+Well, I was thinking maybe you could just integrate through those numbers to one button.
+That's the stability as well.
+Nope.
+Couple of costs.
+So, and it's good for a design as well, so you can make, uh, some of these.
+Yeah.
+Yeah.
+Yeah.
+Yeah.
+Yeah.
+Uh, but I don't know if it's a starter show.
+Yeah.
+But I don't know if it's a starter show.
+Yeah.
+Yeah.
+We've still got four buttons, but just, um, so, yeah, I think they can do the material.
+Not a bit better, but on the chip, yeah, yeah, you've got still that far, that's very far better, so yeah, but I think because we have that as far as chip, yeah, but we can just kind of this as well with that.
+I think this will use for a button to you.
+Yes.
+Yeah.
+Maybe it is, but then it seems to me that it's a cost of $1.5 a year.
+Also, I'll see this play.
+I think it's too expensive for this play we use.
+I think that if we leave out this play, we can also save money on the chip.
+That's right.
+But what's the biggest bondage of our remote then?
+Only the documentation of this.
+Yeah.
+Which here's the...
+The docking station isn't even in this schematic.
+No, it's not even taken into the prize.
+That's excellent.
+It's very...
+Maybe we should do a different score.
+That's an option.
+Don't you think we can...
+If we can cut this as one button and integrate these buttons in three?
+Let me say about money as well.
+You could save money on it, but would it make the remote more usable for elderly people?
+My water can't even send the NASA mass message.
+Are we going to buy a remote control when you can use it?
+Yeah.
+You must stay below the FELF-50.
+All right.
+Can't...
+Go.
+No.
+Well, since the market research indicated that older people spend their money easily more
+and easy, maybe it's feasible to just put the price of the remote up below.
+Especially since we have those nice features.
+Yeah.
+But we have to stick to the TELF-in-all here.
+We don't have any more on budget.
+The market has to store.
+Yeah.
+It's possible to make one for our TELF-50.
+I don't think so.
+If you would be here, there's some serious play.
+And if you use...
+Yeah.
+There's some bad things.
+So...
+Two bit.
+Are you going to...
+Can't use a single chip?
+There it is.
+Yeah.
+Sure.
+So you want the like, uh, red bin.
+So, uh, fancy am I?
+Uh, yeah.
+Yeah.
+Okay.
+Yeah.
+Okay.
+Yeah.
+Okay.
+Okay.
+So, uh, you can stay below TELF-50.
+Yeah.
+So.
+I think it's difficult as well.
+Basically, you can only choice between, like, either a good remote and higher production
+costs are just...
+No.
+Any other remote control?
+Or...
+We can leave at the 10 buttons and take one scroll wheel for the program.
+That's cool.
+That's one.
+That's not...
+That's not...
+We save 10 buttons.
+Yeah.
+Five.
+And one.
+Yeah.
+Yeah.
+Let's see.
+Let's see.
+Let's see.
+Okay.
+Let's see.
+Let's see.
+Let's see.
+Are we getting closer?
+Okay.
+Let's see.
+Okay.
+Let's see.
+Let's see.
+Okay.
+Okay.
+Okay.
+Let's see.
+Okay.
+Okay.
+Let's see.
+Let's see.
+Okay.
+What is this?
+Okay.
+Okay.
+Let's see.
+Okay.
+Okay.
+I would just scroll your work here.
+Maybe you can scroll.
+Maybe you can scroll.
+Scroll.
+If you scroll you will see the number on the LCD display.
+Until you have the right number, then you push it.
+That would bring up the harness in the screen or also.
+All right.
+You could just not scroll for a half a second.
+Yeah.
+That's right.
+You won't see the word number on the new way.
+The half second then it tends to the channel.
+I think that would be like the end of our usability.
+Yeah.
+Yeah, it would definitely drop costs.
+Yeah.
+And it is very good.
+And the regular chip is not possible.
+It has to be at once.
+If you want to use an LCD screen, you will need an as-arms chip here.
+How do you say that you're on a flat design?
+That's an option, you can.
+Then we're almost there.
+Yeah, if we just leave out one more button.
+Yeah.
+Yeah, or we have to skip the subtitle button.
+Yeah, that is a big control.
+Yeah, it's a big thing.
+But can we integrate the data text in the subtitles and one button?
+Yeah.
+I think it's pretty much three types of subtitles right now.
+You just push the text button.
+Go to page 888.
+Yeah.
+And that text disappears.
+But sometimes it's the same there.
+But if you push the database and then it slides,
+what if you have to scroll to page 8888?
+Why?
+If you scroll to 8, click scroll to 8, click scroll to 8, click.
+But then again, there will be just pretty much an option
+for all their people who don't even know what a scroll really is.
+Yeah.
+Holding out.
+Remote.
+With today's spec to have like 10 buttons for the numbers 1, 2, 0.
+The only five buttons on it.
+That is cool.
+I think if you make a good advertisement,
+an observation in the guard,
+you can explain to people how they use the scroll wheel.
+Just make it real simple.
+Doesn't say it's a lot of money and we can keep it on CD screen,
+which can provide extra information how to use the scroll wheel.
+How to use the other two buttons as subtitles.
+And it's good for the enough to design as well.
+If you want to erase this.
+It's pretty much cool.
+Something that got it.
+And then, yeah.
+Just scroll to 1, 2, 2, 4.
+Right.
+Let the list go for you.
+Okay.
+Good way.
+Two buttons out of there.
+And just if you press the volume button,
+you can control the volume with the scroll wheel.
+So that would save two buttons if you do the same for the channel.
+That's really good.
+Pretty.
+Thank you.
+I'm going to make the use of the scroll wheel more obvious.
+My off here is in me.
+So make one.
+And pull it into the channel.
+So we've got one, two, three.
+Yeah.
+We can use the delta X in if you want.
+Yep.
+So it's better.
+So let's just point.
+If we leave our all those buttons, perhaps you can go with the flat case and make it smaller
+overall.
+So if you put the volume and channel buttons on the same height as the enough button,
+the screen right under that, then the scroll button.
+Yeah.
+You can get a much smaller remote.
+Yeah.
+That's right.
+And it.
+So it's good.
+Okay.
+But we can make a quite big remote control for just the same price as the small one.
+Yeah.
+You only have to pay for the double curve or single curve.
+Yeah.
+It's a bit as it's more the models in which they are being made of single curve.
+So it's a bit as if you're just filling them in the cases.
+Going to write out a machine and single curves.
+Yes.
+You have to put it in here.
+Just into the machine.
+I think this is a really easy one.
+All those everybody think about the flat or single curve.
+Disneyland.
+What do you think?
+Well, I still think we should come for the single curve design there and go again.
+I'm rich at argument. All these changes are not really open with me, but since
+we have to go just have to know. Yeah. Yeah, I don't just go to the board and get us
+to pay $18 a month. Yeah, I'm going to do some work research and see what the
+options are. I think we can keep the single curve just to express our LCD
+screen a bit more. Yeah. Some people will not use it more and especially for the
+health functions. We'll be good if we have a scroll button. We'll be necessary if we have a good
+health function as well. I think it was better to have this process a bit earlier.
+Yeah, that's pretty different. This is not really like for the group you were
+making. This will really require a lot of marketing to get this to sell. Other people
+like familiar firms and familiar stuff. This is not familiar for them. So we're gonna have to do
+a lot of convincing them. Thank you most. But then I know the scroll buttons from all
+Twadios, but it's like that's for changing a channel. Maybe it's thicker. Maybe that's
+very nice. Yeah, it's a good one. So it's less frightening, I think. It might be confusing to,
+yeah. It didn't get like one. Only five buttons. That's very special, so I would like. Yeah, but you're on a 60.
+I would buy it if I would say no. But I guess it's all my heroes. No. Yes, they are. No. But we can go with the
+project. We still have 15 minutes left. Nice and scheduled. The project process. So I like
+sort of all these criteria. I originally of the it's right. That's just thingy. Thank you.
+Okay, so I did some literature student study analysis of the requirements you set up right here. Translated
+with your criteria, which would be these. This remote fancy shape looking through a note of what new functions are
+easy to use. The learnability is a very important factor here. It's functional. There are not too many functions are
+among the functions and those functions are very useful. The cost. The target group is the remote really from the group we're making it for.
+And recordability. If our company is easily recognizable, they're company related. So we're supposed to evaluate it right now.
+Okay.
+Yeah, that's because my pen failed to upload his data. Try to, but it's giving errors.
+Okay, so we've got 20 cents for our looking station.
+So we need to use the right to work. It would be for us. Well, let's say for the LFI four or five, four or four.
+It's functional. Do we have more functions that we want to do? Do we have too many functions?
+Do we take care of the biggest frustrations of the remote control that if you're getting lost?
+Okay.
+Okay. Very functional and getting lost.
+I'm a production cost within a piece of minutes. Well, they are now.
+Does the design fit the group with focus?
+I think that's a free.
+Yeah. I think with a new radio button, I think it's better.
+Yeah. I think it's too fancy to think that there's not exactly what old people expect of remote control.
+Yeah.
+That would give us a four.
+I think we're going to approach it for three.
+So then we have to do it in three.
+Is this a coffee or a grocery?
+Yeah.
+Is it a little over there?
+So, and they want to put fashion in their products in the slogan of the company.
+We have the removable phone cases.
+Yeah. So, I think it's very recognizable.
+Yeah.
+I was also supposed to calculate the score of the program.
+We've got a good idea to do this.
+Is this site after this or each other?
+We've got a really, really wide volume.
+These are seven factors, not seven.
+That's 84%.
+That's 84%.
+I think that's a pretty nice score.
+So, that brings us to the project evaluation.
+Yeah.
+The project process, did we move through the right faces, do you think, along the process?
+Yes.
+Yeah.
+I think we should have, should have the finance figure out earlier.
+Yeah.
+That's right.
+In the design phase.
+So, lack of information about prices.
+Yeah.
+Yeah.
+Yeah.
+That's true.
+Okay.
+Okay.
+So, this figure was the room for creativity?
+No.
+Not too much.
+Yeah.
+Because of the finance.
+Yeah.
+Yeah.
+Yeah.
+Yeah.
+Yeah.
+Yeah.
+Yeah.
+And I would if, I would like to go for the younger users.
+Also, just to be able to go for the, get some further here.
+Okay.
+Was it clear what everybody had to do going through their roles and functions?
+Teamwork, did it work out, working together, also you would do a few of you with the
+one of those things, nice, the tasks are very strict so you can just do step by step
+up there, it was very easy, we had to do the smart board, the drawing is just
+debating the aspect, it didn't look very much, it didn't look very much, it didn't
+go down to this data, smart board was very dating,
+so you'd rather wanted to have a flip over, or something like a flip over, or a two size
+faster as well, if you want to make a picture like this presentation, it's easier to share it with other
+people, so you can save it and put it on the internet, or share it for work,
+and then share it there, so you need the smart board application, I think,
+you can export it, you can export it as an image, so I'll be sharing of the information
+in most, what's okay, it's nice, and we found new ideas for
+I think this kind of meeting, yeah maybe, just like if the numbers are easier to do
+things, I like that on the computer, it's like university, yeah, so everybody puts
+his own score, yeah, it mediates the score, yeah, that's better, so it's very cool,
+yeah, okay, okay, any more ideas, questions about the project or about the product,
+I think.
+I think.
+I think.
+I think.
+I think.
+I think.
+I think.
+I think.
+I think.
+I think.
+I think that's a hard mouse to.
+Hard to call somebody in the budget.
+Yeah.
+Yeah.
+Yeah.
+Okay.
+Okay.
+Yeah.
+Yeah.
+Okay.
+Considering we're not going to make a talking station.
+Okay.
+Okay.
+Well, right.
+So it's been that we've made it because of the talking station, the prize of the remoteosphere
+I think you will be going to export this product in over the push in America.
+People are taking it.
+Sometimes.
+Yeah, I still don't think I'm going to make a scroll button anyway.
+You're going to need more for the younger people or for the older people.
+Yeah, so maybe it's just brief focus.
+You can specifically change markets by changing the flow of government.
+And it's one thing you can change it with.
+So you can also try to reach the younger people there.
+You can see copies on the market.
+Just as a test.
+See how it works.
+That's, I think, a good spot.
+Yeah, I think that it would be way more popular.
+But with younger people on this, it won't be with older people.
+Yeah.
+You can use it to work in their comfort.
+I think we can have our data celebration.
+I'm not kidding.
+That's it already.
+Okay.
+I think we still have to put it in a lot more position.
+Okay.
+I didn't know.
+I didn't get a message.
+From the ending of the family.
+I didn't have one.
+Five more minutes.
+Oh, it's good.
+Then we still have some questions.
+Somebody has some questions.
+I can ask them now.
+You can put these in the projects for those.
+Yeah.
+Mhm.
+Make sure I think.
+Yeah.
+Yeah.
+Yeah.
+Right?
+I think it's okay.
+Yeah.
+Alright.
+Thank you.
+That's all!
+I don't know.
+Maybe you're a diverse language, so yeah.
+I guess you're running much of a mouse.
+That's good.
+I think I'm going to make our final presentation now.
+I mean, you're supposed to make it.
+And I will be back in about ten minutes to show you the final presentation.
+Okay.
+Okay.
+Summary of the project.
+Are we supposed to go into a room again?
+Yeah, maybe you have to fill another question here.
+I think you'll get the question here, man.
+In your room.
+Yeah.
+And then I'll meet you in ten minutes.
+Okay.
+Okay.
+Okay.
+Hopefully my fender will download this software.
+Yeah.
+Okay.
+Okay.
+I'm sorry I'm a little late, I'll give you a second of traffic.
+Okay, this is our last meeting.
+This meeting you'll discuss our final design.
+And we will do some evaluation about the mobile needed project,
+because also in our project.
+And then we're going to close the project today as you know.
+So, after that you'll be a pretty good instrumental in mind.
+This design, detailed design meeting.
+We will discuss the look and feel of the design.
+It will be the interface design, and we will do the project evaluation.
+In order to do this agenda, we will have the prototype presentation first.
+Then we will set up some evaluation and criteria.
+Then we will look at the finance.
+We will have to see if everything we want to do is also possible within our project.
+Does everything cost money?
+And the more things you want to have, the more money it will cost.
+We'll see if it fits within the 12.5-year level, where we will see that later.
+Then we will do the project evaluation and the closing after that.
+We've got 40 minutes, so we will finish at all of those three.
+The first, we will do the prototype presentation.
+Some estimates for it.
+So, this is what me and Richard came up with.
+The default spot for the on-off button.
+The new button just below that.
+Then there's the full human channel selector.
+Same for closed lines, but we thought of a help button.
+If you hold it and you press a lot of button, the help goes to the LCD screen.
+Then there's the 0 to 1 to 0 buttons, a button for the teletext, a button for the subtitles and the company logo.
+So, it's what a simple prototype.
+We'll have to see from testing it how the user stated.
+Is this a moment where we ask?
+Or can I ask a question about the question?
+Sure.
+Just pop it.
+When you're in teletext or usually your buttons, where you just press it and you go to the next teletext page.
+That's just the normal remote controls.
+You can use normal 1 to 0 buttons, but you can also use the button for changing the channel.
+But, yeah, shifting up in depth and shifting it out.
+But, I thought in a few meetings earlier, we tried to give it simple.
+A few buttons and large buttons.
+But, I think these are all together.
+Quite a few buttons.
+I'm wondering if we really need all of those buttons.
+Thank you for your look at most controls.
+I've got more buttons than this.
+That's right.
+Well, the unlock button, it's a necessity.
+If only you had channel buttons, you obviously need those.
+The mute button could be replaced by pressing the volume down button twice.
+So, we could guess what that one.
+I think the help button really is necessary.
+There's no other way to know when someone wants to know what a button does.
+Or, you can build it when you press one button.
+We just discussed it already.
+But, we think all people don't know that option.
+So, they just put in the button.
+That's what they pointed out earlier.
+They could control for just a TV.
+There's just not much to gain.
+Okay.
+So, it's somebody but something about the design of the buttons there.
+Yeah, they're normal playing.
+Yeah, they're all the white.
+They're supposed to be equal sized rather with a little logo on it for the volume.
+I'm trying.
+Just to recognize it.
+Yeah, and we don't need that.
+Or some remote controls to do it.
+So, that's because we use the little display.
+We don't have to use it.
+Yeah, so.
+Okay.
+So, for the materials, we've just chosen for rubber buttons.
+Yeah.
+We have a different color than the case.
+So, jump on.
+Okay.
+That's funny.
+It's nice.
+And I think the question on that.
+I don't know if I can move on to the finance part.
+It's just pretty exciting to see if it's not possible or if we want to do it.
+And I can tell you.
+Let's take a look at pretty much time producing this for 10 or a half euros.
+If we see, I don't know if I've filled it correctly.
+So, just correcting if you see something wrong.
+I can do batteries, but maybe you can also use one.
+I don't know.
+It's simply chargeable.
+It's rechargeable.
+No.
+It's everything.
+Just for power.
+Okay.
+Let's tell you what's up.
+Okay.
+We need the altitude.
+There are not much here.
+To save there.
+Here we have the single curve.
+We can see the difference between end curves and the single curve is 1 euro.
+I don't know.
+But I think the single curve is good for design and also for the display to have a prominent
+display on the remote control.
+Yes.
+I think we have to keep that.
+Yeah.
+Then we have the case material supplements.
+It's plastic.
+It's the cheapest one we need.
+So that's not much to save either.
+But then the biggest cost part of buttons.
+So maybe we really should try to discard some buttons to keep our cost though.
+Because we will have to get 12 north euros at the end.
+So every, let's first count the buttons we have now.
+Got it.
+16.
+That will be even more added.
+18 euros.
+Yeah.
+I mean, including the help?
+I think we can discard the help in the mute button.
+And add by pressing down the volume load or pressing down the number.
+Yeah.
+Long, it's just 9 1 euro already.
+This is, I assume you've come to the volume and channel things for two buttons each, right?
+Those are one, I think. I think I do have two buttons. It's just one bit of a bit.
+Two, for one big button, but they are more expensive than the small ones I hear.
+Yeah, but it's not stated in this.
+So maybe a bunch of...
+We can even make one button, but the volume and the channel, everyone...
+I have to say, I think maybe you could just integrate through those numbers to one button.
+That's what's going to be as well.
+Nope.
+Cut the cost.
+So, and it's going to design as well, so you can make...
+I don't know if it's...
+Yeah, sure.
+We've still got four buttons, but just...
+So, I think they've got not a bit of a bit on itself, but on the chip, yeah.
+Yeah, yeah, you've got still five more buttons.
+Yeah, but I think because we have those phones too.
+Yeah, but we can just cut this as one button.
+I think this right here is four buttons in here.
+Yes.
+Yeah.
+Maybe it's good.
+Then it seems to me that it's impossible to get 12-year-old.
+Also, I'll see this play.
+I think it's too expensive for this play.
+We use...
+I think that...
+So, if we leave out this play, we can also save money on the chip.
+That's right.
+What's the biggest bondage of our remote then?
+Only the documentation of this.
+Yeah.
+Which isn't...
+The docking station isn't even in this schematic.
+No, it's not even taken into the prize.
+Yeah.
+It's where...
+Maybe we should do a different spot.
+Yeah.
+It's an option.
+Follow it.
+Or something.
+Yeah.
+Or you should follow it.
+Yeah.
+Or you should follow it.
+Yeah.
+Don't you think we can...
+If we can cut this as one button and integrate these buttons in three?
+Yeah.
+Then we said about money as well.
+We could save money on it, but would it make the remote more usable for elderly people?
+No.
+You know?
+No.
+No.
+My motor can't even send and there's a message.
+So...
+Yeah.
+That's right.
+Are you going to buy a remote control when you can use it?
+Yeah.
+Are you...
+We missed...
+Stated loading...
+No...
+Self...
+50.
+All right.
+Can't...
+Or...
+No.
+Well, since the market research indicated that older people spend their money easily more
+easy, maybe it's feasible to just put the price of the remote up and down, especially
+since we have those nice features.
+Yeah.
+But we have to stick with itself and all of you.
+We don't have any more on budget.
+Yeah.
+It's possible to make one for $1.50.
+I don't think so.
+If you do have some serious pay, then if you use...
+Yeah.
+That's what it is.
+So...
+Too bad.
+Are you going to...
+I can't use a single chip.
+There it is.
+Yeah.
+What do you want?
+Yeah.
+What do you want?
+Yeah.
+So...
+Fancy and...
+Yeah.
+With...
+With...
+With...
+With...
+Yeah.
+With...
+With...
+With...
+With...
+With...
+Yeah.
+Attractive...
+Open.
+So...
+You can stay below 12.50.
+So...
+I think...
+I think it's difficult as well.
+The place for you becoming a choice between like...
+Are there a good...
+Remote and higher production costs are just...
+No.
+Any other remote control?
+Or...
+We can leave out the 10 buttons and take multiple wheel for the program information.
+Let's go to this one.
+Because that's not...
+We save 10 buttons.
+5.
+1.
+2.
+1.
+2.
+2.
+2.
+3.
+4.
+6.
+6.
+We're getting closer.
+Okay?
+I would just call you a worker.
+I would just call you a worker.
+3.
+And then you are all fine.
+Maybe you can scroll, if you scroll, you will see the number from the LCD display.
+Until you have the right number, then you push it.
+That would bring up the price of the screen also.
+All right, bring the scroll down.
+Okay, but then you can push some other buttons.
+You could just not scroll for a half a second.
+Yeah, that's right.
+You won't see the word number in your way, then half a second then it turns to the channel.
+I think that would be like the end of our usability.
+Yeah.
+It would definitely drop cost.
+That was a half a time.
+And it would be better.
+And the regular chip is not possible.
+It has to be as well.
+If you want to use an LCD screen, you need an attached chip here.
+However you can say, if you're on a flat design, that's an option you can...
+Yep.
+Then we're almost there.
+Yeah, if you just leave out one more button.
+Yeah.
+So if we have to skip the subtitle button.
+Yeah, that is a big one for me.
+Yeah, it's a big thank you.
+But can we integrate the data text and the subtitles in one button?
+Yeah.
+I think it's pretty much...
+The data text subtitles are right now.
+You just push the text button, go to page 888.
+Yeah.
+And the text disappears.
+But sometimes it's the same there.
+But if you push the...
+Yeah.
+... then it's right.
+What if you have to scroll to page 888?
+888.
+What?
+I could be...
+If you scroll to 8, click, scroll to 8, click.
+Right.
+Okay.
+But then again, there will be...
+That's just pretty much an option for older people.
+Don't even know what a scroll wheel is.
+Nah.
+Holding a remote with...
+With respect to have like ten buttons for the numbers 1, 2, 0.
+With only five buttons on it.
+And a scroll wheel.
+I think if you make a good advertisement,
+I'll tell a vision in the guide.
+You can explain to people how to use the scroll wheel.
+Just make a real simple.
+Because it saves a lot of money and we can keep our LCD screen,
+which can provide extra information how to use the scroll wheel.
+How to use the other buttons as subtitles.
+And it's good for the...
+You know, the design as well.
+And keeping the rest is...
+It's pretty good.
+It's pretty good.
+It's pretty good.
+It's pretty good.
+That's healthy.
+Well, there's a lot to store.
+Aren't they any other?
+Yes.
+That one is full of.
+No more.
+Also more next.
+Uh...
+Something like that.
+And...
+Okay.
+Let's go and try the wrong one too.
+You could wake two buttons out of that and just
+if you press the volume button you can control the volume with the scroll wheel
+so that would save two buttons if you do the same for the channel
+That's really good, good idea, I think.
+And then they'll make the use of the scroll wheel more obvious.
+More obvious than you.
+So we've got one, two, three.
+Yeah, we can use the delta X in if we want.
+Yep.
+Let's show it's better.
+So this is one of the...
+If we leave our builders buttons prefect you can go with the flat case.
+It would make it smaller overall.
+So if you put the volume and channel buttons on the same height as the enough button,
+you screen right under that, then the scroll button.
+Yeah.
+You'll get a much smaller remote.
+Yeah, that's good.
+And it's really good.
+It's really good.
+But we can make a quite big remote control for just the same price as a small one.
+Yeah, you have to pay for the little curve or single curve.
+Yeah.
+It's a bit...
+It's more the models in which they are being made.
+Single curves is really easy to just fill in.
+Then the case is going right out of the machine.
+Single curves.
+Yes, that's a different machine.
+I think this is a very easy one.
+How does everybody think about the flat or single curve design?
+Well, I still think we should cover the single curve design.
+Yeah.
+And again...
+Richard's argument...
+Oh, these changes are not really...
+Okay with me.
+But since...
+We have to cut...
+Just have to...
+Yeah.
+Yeah.
+I'd rather just go to the board and...
+Let's get us to...
+18 dollars a year.
+Yeah.
+No more.
+Yeah, I'm going to do some more research and see what the options are.
+Yeah.
+But I think we can then take the single curve as well.
+Just to express our LCD screen a bit more.
+Yeah.
+Some people will use it more and especially for the health issues.
+It will be good if we have a scroll button.
+It will be necessary if we have a good amount of finishing as well.
+I think it was better to have this process a bit earlier.
+Yeah.
+So, it wasn't good.
+Yeah.
+So, it wasn't good.
+You know, it was...
+Yeah.
+Yeah.
+Yeah, it could make a bit...
+Yeah.
+That's pretty different.
+It's pretty different.
+It's pretty different.
+It's pretty different.
+Yeah.
+This is not really like...
+For the group you were making them...
+Uh huh.
+It's all really required.
+A lot of marketing.
+Yeah.
+Just to get this to sell.
+Yeah.
+All the people like familiar forms of familiar stuff.
+This is not familiar form.
+No, I was never going to have to do without a convention.
+I think the most.
+But then I know the scroll buttons from already.
+It was very cool also.
+But it's like that's for changing a change.
+So, who can...
+Maybe it's...
+You can stick it out.
+Yeah.
+But...
+Yeah.
+Yeah.
+Maybe that's nice enough for that as well.
+Yeah.
+It's a good one.
+So...
+Yeah.
+It's very interesting as well.
+And it's...
+It's less frightening I think.
+I think it is designed to think of...
+There are five buttons.
+Yeah.
+It might be confusing too.
+Yeah.
+I think there are five buttons.
+Yeah.
+That's very special.
+I would like.
+Yeah.
+But you're on the 16th.
+That's right.
+I would like the 16th.
+I would like the 16th.
+I would like the 16th.
+I would like the 16th.
+Right.
+Right.
+And then it's all my viewers.
+No.
+Yes, they are.
+No.
+No.
+But we can go with the treasury...
+The treasury...
+The treasury...
+Hmm.
+Hmm.
+That's it.
+Okay.
+So...
+We still have 15 minutes left.
+So...
+Nice.
+Can I jump?
+Okay.
+The project process.
+So, um...
+I like...
+So, the police criteria.
+Uh...
+You're reaching the way of the...
+You're reaching the way of the...
+That's right.
+That's the thingy point that I forgot.
+I appreciate it.
+There you go.
+There you go.
+There you go.
+Thank you.
+Thank you for that.
+You've got five minutes.
+Five minutes.
+I think.
+That's good.
+Five minutes.
+Five minutes.
+No.
+We've got 15 minutes.
+Okay.
+Yes.
+Yes.
+Okay.
+So, there's some literature student study.
+Uh...
+Analysis of the requirements.
+You set up there here.
+Okay.
+So, there's some literature student study.
+Uh...
+Analysis of the requirements.
+You set up there here.
+Yeah.
+Translate it into a criteria.
+Which would be these.
+Uh...
+This is a remote fantasy.
+I'm sure you're looking through.
+You know what the...
+What new functions are on there?
+Uh...
+Uh...
+Easy to use.
+Uh...
+Uh...
+Learnability is a very important factor here.
+Uh...
+Uh...
+Is it functional?
+Are there not too many functions?
+Uh...
+Among the functions.
+And...
+Uh...
+Those functions are there.
+Are they useful?
+Uh...
+Because...
+The target group is the remote media for the group we're making it for.
+Uh...
+And...
+Recruitmentability.
+If...
+If...
+Our...
+Company is...
+It's a season you recognize both.
+They are completely related.
+Uh...
+Um...
+So, we're supposed to evaluate it right now.
+Okay.
+Okay.
+Let's see it.
+Uh...
+Uh...
+Oh, I have to say this was doing hard because the minutes over last meeting...
+Uh...
+Yeah.
+That's because my pen failed to upload his data.
+Okay.
+I tried to, but it's...
+It's giving errors.
+I've done it.
+It's not so far.
+Okay.
+I see these aren't fancy.
+I'm scared of one to seven.
+I think it's fancy.
+Six.
+Yeah.
+Yeah.
+Zero bill, ten, six.
+Yeah.
+Um...
+Yes, it's design and novelty.
+Very.
+Yes, OK.
+Yes, sir.
+Yeah.
+So, what we were saying?
+Seven.
+Seven.
+Seven.
+Seven.
+Yeah.
+So we've got 20 cents for our docking station.
+Yeah.
+Yeah.
+So, it's just a design easy to use.
+or it's a bit too far.
+It would be for us for, I'll say, for the R5.
+For R5, for between four.
+I go to four to the back.
+Please, it's a country.
+Is it a design function?
+Do we have more functions that we want to talk to?
+Yes, yes.
+Do we have two main functions?
+Yes, yes.
+I think it's seven.
+Do we take care of the biggest frustrations on that remote control?
+Like it's getting lost.
+It was a lot of thought about the analysis.
+I have been worked out.
+Okay, very functional and getting lost.
+Are the production costs within the crease of limits?
+Well, they are now.
+Just a design factor group of focus?
+I think that's a free idea.
+I think that our new radio button, I think it's better.
+I think it's better.
+I still think it's too fancy to think that.
+I think that's not exactly what old people expect of remote control.
+Yeah, sure.
+How would you give it to four?
+I don't know, sure.
+I think it's really hard to make up for a tree.
+But then we have to do it in three.
+Let's see.
+Is this a concrete copyright gospel?
+Yes, it is.
+Is it the load of it?
+Yes.
+So.
+And they want to put fashion in their products.
+In the slogan of the company, we have the removable phone cases.
+Yeah.
+So I think it's very recognizable.
+Yeah.
+I was also supposed to calculate the score.
+We've got the company right to this.
+Is this site after this?
+Are we done?
+We've got the utility.
+These are seven factors.
+Seven.
+Seven.
+Four.
+Five.
+Four.
+Three.
+Four.
+Four.
+Four.
+Two.
+Four.
+Four.
+Four.
+Four.
+Four.
+Four.
+That's 84% I think that's a pretty nice score.
+Okay.
+Okay.
+Okay.
+Thank you.
+So, the brings is through the project evaluation.
+Thank you.
+Project process, did we move through the right faces?
+Do you think along the process?
+Yes.
+Yeah.
+I think we should have, we should have the finance figure, what are you?
+Yeah.
+That's right.
+In design phase.
+So, lack of information about prices.
+Yeah.
+Yeah.
+That's true.
+Okay.
+Okay.
+So, this picture, was the room for creativity?
+No.
+Not too much.
+Yeah.
+Okay.
+It's because of the finance.
+Yeah.
+Yeah.
+Yeah.
+It wasn't enough room.
+Yeah.
+Yeah.
+And I would have like to go for the younger users also.
+And just to be able to access it to another, get something of your own.
+Yeah.
+So, three chains.
+And then it access.
+Okay.
+Leadership.
+Was it clear what everybody had to do?
+Going through the roles and functions.
+Yeah.
+Yeah.
+Team work.
+This is work out.
+Working together.
+Also, you two of you with the.
+Yeah.
+That was okay.
+Nice.
+Nice.
+The tasks are very strict.
+So, you can just do step by step.
+It's very easy.
+It's actually the tasks.
+Okay.
+We're the main sufficient for the tasks that we had to do.
+We're already too much.
+Well, the smart board.
+The drawing is just a pain in the aspect.
+Yeah.
+So, I didn't do the digital palace very much.
+Yeah.
+If it don't download this.
+Yeah.
+Data.
+So, you want to have a flip over.
+Some flip over or more.
+Two size.
+Yeah.
+Fast and smooth.
+Yeah.
+Yeah.
+But if you want to share of when you make a picture like this
+presentation, it's easier to share it with other people.
+So, you can save it and put it on the internet or share it for
+or not share it.
+Yeah.
+Try to open the file.
+No.
+No.
+No.
+No.
+You need the smart board.
+Yeah.
+The location, I think.
+Yeah.
+You can export it.
+Yeah.
+Yeah.
+You can export it as image.
+Yeah.
+Yeah.
+So, the sharing of information was OK.
+Yeah.
+Lao.
+Yeah.
+Yeah.
+Yeah.
+Yeah.
+Yeah.
+Yeah.
+Big.
+Yeah.
+It's nice. We found new ideas for having this kind of meeting.
+Yeah, maybe.
+Just like if the numbers of
+one of us have.
+Yeah.
+It's easier to do things that I get on the computer.
+Yeah.
+Just like the university.
+Yeah.
+So everybody puts his own score.
+Yeah.
+If media is the score.
+Yeah.
+You can get one.
+Yeah.
+That's better.
+So it's, how do we call it?
+Okay.
+Okay.
+Any more ideas or questions about the project or about the product?
+Yeah.
+I think.
+Let's see.
+You've got the whole last two.
+Part of cost of innovation?
+Yeah.
+Yeah.
+Yeah.
+Yeah.
+Yeah.
+Yeah.
+Yeah.
+Yeah.
+Considering we are not going to make a talking station.
+Yeah.
+Yeah.
+Yeah.
+Yeah.
+Yeah.
+Right.
+Yeah.
+Yeah.
+So.
+Yeah.
+Yeah.
+Yeah.
+You think we're going to get the 12 point all over.
+15.
+I think.
+Yeah.
+Yeah.
+Right.
+Fine.
+So.
+Yeah.
+Yeah.
+in America, people are, they could have, sometimes.
+Yeah, I still don't think, I mean, if we're going to make a scroll button anyway,
+we're going to need more for the younger people or for the older people.
+Yeah, so maybe it's just brief focus.
+It's put it on the water, I think.
+You can specifically change markets where by changing the flow of government.
+And it's one thing, you can change it.
+So you can also try to reach the older people there,
+putting fancy copies on the water, just as a test.
+See how it works.
+That's, I think, a good spot.
+Yeah, I think that it would be way more poker with younger people around this.
+It won't be with older people.
+Yeah, even if it weren't their cover.
+Then I think we can have our little separation.
+Yeah, I'm not kidding.
+That's it already.
+Okay.
+I think we still have something that I want more.
+Okay, so she may.
+Okay.
+I don't know.
+I didn't get a message.
+From the ending of the admin.
+You do have one.
+Five more minutes.
+Oh, it's good.
+Then we still have some questions.
+Somebody asked some questions.
+I can ask them now.
+So you can put these for the projects for those.
+Uh-huh.
+Mm-hmm.
+Mm-hmm.
+Okay.
+Okay.
+Okay.
+That's good.
+It's good for this.
+Here comes.
+Yeah, that's good for this.
+Good for this.
+Good for this.
+Good for this.
+A little bit.
+Okay.
+Okay.
+Yeah.
+Right.
+Yeah.
+Good.
+Okay.
+That was good.
+Wait.
+Hello.
+Thank you.
+So what do you see in the project folder?
+I don't.
+I'm going to be here at the angle safely.
+Yeah.
+I'm going to do whatever it means.
+That's good.
+OK.
+I think I'm going to make our final presentation now.
+I'm just posting it.
+I'll be back in about 10 minutes to show you the final presentation.
+OK.
+Summary of the project.
+Are we supposed to go into a room to get?
+Yeah, maybe you have to fill a notification address here.
+I think you'll get the first in your room.
+And then I'll meet you and take a look at the meetings.
+OK.
+OK.
+Thank you.
+I'm going to go down to this software.
+OK.
+OK.
+OK.
+OK.
+OK.
+OK.
+OK.
+OK.
+OK.
+I'm going to turn a little bit, I'll put a second of traffic.
+Let's go to the standard.
+Start to clear.
+Yeah.
+Let me see our forward and lost meeting.
+There it is.
+Yes.
+Okay.
+These are lost meeting.
+This meeting we will discuss our final design.
+And we will do some innovation about not only the product, but also the project.
+And then we're going to close the project today as well.
+So, after this, you'll be feeling pretty good.
+And this design, detailed design meeting.
+We will discuss the look, the field, the design, the usability interface design.
+And we will do the product evaluation.
+In order to go to this agenda, we will have the prototype presentation first.
+Then we will set up some evaluation card criteria.
+Then we will look at the finance.
+We will have to see if everything we want to do is also possible within our budget.
+That's everything costs money.
+And more frankly, if you want to have the more money, it will cost.
+So we will see if it fits within the 12 and a half euro per month.
+We will see that later.
+Then we will do the project evaluation and the closing after that.
+We've got 40 minutes.
+So we will be finished at all of those three.
+But first, we will do the prototype presentation.
+Some asking for it.
+And this one, me and Richard came up with.
+The default spot for the other button.
+The new button just below that.
+Then there's the volume and channel selector.
+Simple plus, minus button.
+We fought off the help button.
+If you hold it and you press another button, the help goes to the LCD screen.
+Then there's the 0 to 1 to 0 buttons.
+A button for the sub titles and the company logo.
+So it's sort of a simple prototype.
+We will have to see from testing how the user stated.
+Okay.
+Assistant moment where we ask.
+We can ask questions about the question of it.
+Sure.
+Just pop it at the same time.
+When you're in 10 of the text, you're using your buttons where you just press it and
+you go to the next 10 of the text page.
+That's just the normal remote controls.
+So you push it.
+I mean, page 100.
+You can use normal 1 to 0 buttons.
+But you can also use the button for changing the channel.
+So shifting button.
+Yeah, shifting up in the data text and shifting it out.
+Okay.
+Okay.
+But I thought in a few meetings earlier, we tried to give it
+a simple, just a few buttons and large buttons.
+But I think these are all together.
+Quite a few buttons.
+I'm wondering if we really need all of those buttons.
+Thank you.
+If you look at most controls, they've got more buttons than this.
+That's right.
+Yeah.
+The other button, it's a necessity.
+Yeah.
+I'm proud of that one.
+If only you had channel buttons with me, you obviously need to have those.
+Yeah.
+The mute button could be replaced by pressing the volume down to the twice.
+So we could cancel that one.
+I think the help button really is necessary because there's no other way to know when
+someone wants to know what a button does.
+Or you can build it when you press one button.
+Yeah.
+Yeah.
+But we just discussed that already.
+But we think all people don't know that option.
+So they just put in the button.
+Yeah.
+Okay.
+Yeah.
+Yeah.
+Yeah.
+Yeah.
+Yeah.
+Yeah.
+That's the subtitles.
+Yeah.
+Yeah.
+Yeah.
+Okay.
+It's rather basic already.
+Yeah.
+That's what they pointed out earlier.
+You should just make a control for just a TV.
+There's just not much to gain.
+Yeah.
+Yeah.
+Okay.
+Yeah.
+It's somebody but something about the design of the buttons there.
+Yeah.
+Yeah.
+Yeah.
+And then all the white ones were supposed to be equal sized with a little logo on it for the
+volume.
+Yeah.
+Just to recognize the installation.
+Yeah.
+And we don't need that.
+Or not.
+Some remote controls.
+That's because we use the little display.
+We don't have to use it.
+Yeah.
+Yeah.
+for the materials we've just chosen for rubber buttons.
+We have a different color than the case, so they jump on.
+OK.
+Let's spot it.
+Let's see.
+And I think we're going to have 30 minutes left.
+I don't move on to the finance part, which is pretty exciting to see if it's not possible
+what we want to do.
+And I can tell you that we're going to have a pretty hard time producing this for
+12 and a half euros.
+If we see, I don't know if I've filled in correct, so just correct me if you see something
+wrong.
+I can't do batteries, but maybe you can also use one.
+I don't know.
+Since it's rechargeable, it's where we can use your power.
+OK.
+Let's tell you what's up.
+OK.
+We need the health funds to set up much to save there.
+Here we have the single curve.
+We can see the difference between the end curve and the single curve as well in the
+end curve.
+I don't know, but I think the single curve is good for the design and also for the display
+to have a problem in place on the remote control.
+Yes.
+I think we have to keep that.
+Then we have the case material circumstance.
+It's plastic.
+It's the cheapest one we need.
+So that's not necessarily safe either.
+But then the biggest cost part of the buttons.
+So maybe we really should try to discard some buttons to keep our cost though.
+Because we have to get the 12 and all of your rows at the end.
+So if we, let's first count the buttons we have now.
+60.
+60.
+I'll give them more of them.
+18 euros.
+So 15 euros.
+Yeah.
+We'll tell you a little bit.
+OK.
+Including the health?
+Yeah.
+I'll say anything.
+We can discard the health and the mute button by pressing down volume wrong or pressing
+down a number.
+Yeah.
+Alone.
+It's just about a year old already.
+Is that enough?
+15?
+Yeah.
+Who wouldn't?
+No.
+It's useful.
+And this is, I assume you'd count the volume and channel things for two buttons each, right?
+So one.
+I think.
+I think I should do two buttons.
+It's just one bit of a bit.
+Two, one big bit.
+But they are more expensive than the small ones right here.
+Yeah.
+But it's not the standard thing.
+So maybe you have a wrench.
+You can even make longer than the volume and the channel.
+Well, I think maybe you could just integrate three of those numbers to one button.
+That's what stability is.
+No.
+Cut the cost.
+So.
+And it's going to design as well.
+So you can make.
+But I don't know if it's still got four buttons, but just.
+So.
+Yeah.
+I think they can do the material.
+We've got not a better button itself.
+But.
+On the.
+Yeah.
+Yeah.
+Yeah.
+Yeah.
+If you've got still five four.
+That's right.
+Or better.
+So.
+Yeah.
+Yeah.
+But you can just count this as one button.
+Yeah.
+Yeah.
+But you can just count this as one button.
+Yeah.
+Yeah.
+Yeah.
+Yeah.
+Yeah.
+Maybe it is.
+Yeah.
+Maybe it is.
+Yeah.
+It seems to me that it's impossible.
+Yeah.
+Well, you're.
+Also, I'll see this.
+Yeah.
+I think it's.
+I think it's too expensive for this way we use.
+I think they.
+Yeah.
+So if we leave out to display we can also save money on the chip.
+That's right.
+What's the big advantage of our remote.
+On the documentation?
+Yeah.
+Which isn't the.
+Do docking stations, isn't even in this.
+Schematic.
+No.
+It's not even taken into the price.
+That's it. That's where maybe we should do to a different spot.
+That's an option.
+Following something.
+Don't you think you can...
+If we can...
+God, this is what is one button and integrate these buttons in three.
+That's not money as well.
+We could save money on it, but we would make the remote more usable for elderly people.
+My water can't even send in as a mess message.
+So yeah.
+Are you going to buy a remote control when you can use it?
+Yeah.
+I mean, he missed...
+Stated low to...
+low...
+1250, alright.
+Can't...
+Well, since the market research indicates that older people spend their money easier,
+more easy, maybe it's feasible to just put the price of the remote up a little,
+especially since we have those nice features.
+Yeah, but we have to stick to the top and all of you.
+We don't have any more in budget.
+The market has to store.
+Yeah.
+It's possible to make one for our 1250.
+I don't think so.
+If you beat up some serious play.
+Yeah.
+That's good things.
+Two, but are you going to...
+Can't use a signature.
+There it is.
+Yeah.
+Maybe you want.
+I've been done.
+Yeah.
+Yeah.
+Do you want to...
+Do you want to...
+Do you want to...
+Yeah, attractive options.
+So, you can stay below where the 1250.
+I think it's difficult.
+Basically, you become a choice between, like,
+either a good remote and higher production costs are just...
+No.
+No.
+Any other remote control?
+Or we can leave out the 10 buttons and take one scroll wheel for the program information.
+Scroll is one.
+Because that's not...
+We save 10 buttons.
+I have five.
+And one.
+Yeah.
+Let's see.
+Okay.
+Let's see.
+Let's see.
+Are we getting closer?
+Okay.
+Let's see.
+So, do you have a couple of slides?
+I would just scroll the wheel work here.
+Maybe you can scroll.
+If you scroll, you will see the number on the LCD display.
+Until you have the right number and you push it.
+That would bring up the price of the scroll wheel.
+You could just not scroll for a half a second.
+Yeah.
+That's right.
+You don't want to remember in a new way to half a second then it turns to the channel.
+I think it would be like the end of our usability.
+Yeah.
+It would definitely drop cost as a half a second.
+And it would be better.
+And the regular chip is not possible.
+It has to be advanced.
+If you want to use an LCD screen, you will need an advanced chip pin.
+How do you say if you're on my flat design?
+That's an option.
+Yep.
+Then we're almost there.
+Yeah.
+If you could just leave out one more button.
+Yeah.
+So if we already have to skip the subtitle button.
+Yeah.
+Yeah.
+Yeah.
+It's a big transition.
+But can we integrate the data text and the subtitles in one button?
+Yeah.
+Yeah.
+I think it's pretty much the data text subtitles are right now.
+You just push the text button, go to page 888.
+Yeah.
+And the text disappears.
+But sometimes it's right there.
+But if you push the playlist on the slides.
+What if you have to scroll to page 88?
+Well, that could be a scroll to 8.
+Scroll to 8.
+Scroll to 8.
+Scroll to 8.
+Click.
+Right.
+But then again, there would be just pretty much an option for all their people who don't
+even know what a scroll wheel is.
+Holding a remote with a respect to have like 10 buttons for the numbers 1 to 0.
+But only 5 buttons on it.
+And a scroll wheel.
+I think if you make a good advertisement, I'll tell a vision in the guide.
+We can explain to the people out of the US to scroll wheel.
+Just make it real simple.
+Because it saves a lot of money and we can keep our LCD screen, which can provide extra information
+how to use the scroll wheel, how to use the other buttons as subtitles.
+And it's good for the, you know, the design as well.
+If you want to erase, please.
+It's a pretty big scroll wheel.
+And it's a pretty big scroll wheel.
+It's a pretty big scroll wheel.
+It's something like that.
+And it's a scroll wheel.
+And it's a pretty big scroll wheel.
+It's a pretty big scroll wheel.
+You could wait two buttons out of there and just, if you press the volume button, you can control the volume with scroll wheel.
+So that would save two buttons if you do the same for the channel.
+That's really good idea.
+Thank you.
+And I don't like the use of the scroll wheel more of it.
+One of these in me.
+So, like one, four, two, three channels.
+So, it reads right.
+So, we've got four, two, three.
+Yeah.
+We can use that text in if you want.
+So, it's fine.
+If we leave our buildings buttons, perhaps you can go with the flat case and make it smaller overall.
+So, if you put the volume and channel buttons on the same height, that's the enough button.
+The screen right under that, then the scroll button.
+You'll get a much smaller remote.
+That's right.
+So, you can.
+You can make a quite big remote control for just the same price as a small one.
+Yeah.
+You only have to pay for the little curve or single curve.
+Yeah.
+It's a bit as it's more the models in which they are being made, I think.
+Single curves is pretty easy to just fill in and the case is going right out of the machine.
+Single curves.
+You have to have a different machine.
+Then a flat line.
+I think this is really easy one.
+Because everybody think about a flat or a single curve, these are I.
+Well, I still think we should cut for the single curve design.
+Let me get them.
+I mean, Richard's argument.
+All these changes are not really okay with me, but since.
+Yeah.
+Just have to.
+Yeah.
+Yeah.
+I'd rather just go to the board and.
+Yeah.
+Yeah.
+Yeah.
+Yeah.
+Yeah.
+I'm going to do some work research and see what the options are.
+Yeah.
+But I think we can keep the single curve one just to express our LCD screen a bit more.
+Yeah.
+Some people will use it more and especially for the health functions.
+That would be good if we have scroll, but.
+Will be necessary if we have a good.
+I don't appreciate as well.
+Yeah.
+I think it's always better to have this point.
+Yeah.
+Yeah.
+Yeah.
+Yeah.
+Yeah.
+I think it's always better to have this point.
+It was better to have this price this day, early, because it was a little bit different.
+That's pretty different.
+This is not really like, for the group you were making here in London,
+this old really required a lot of marketing to get this to sell.
+Other people, like, familiar forms of familiar stuff.
+This is much familiar for them.
+Is there going to have to do about a convention?
+I think they must.
+But they know the scroll buttons from old radios that they could also,
+but it's like that's for changing.
+We can maybe.
+We can stick it out.
+The old buttons.
+Maybe that's very nice.
+Yeah, it's a group of them.
+So, let's write the next move on.
+And it's less frightening, I think,
+because it is designed to think of only five buttons.
+It might be confusion too.
+Yeah.
+I think they like one, only five buttons.
+Yeah.
+That's very special.
+So, I would buy it.
+Yeah, but you're not 60.
+I would buy it if I was 60.
+I would buy it if I was 60.
+I would buy it in a hard case, and it's out in all the roads.
+No.
+Yes, they are.
+No.
+No.
+But we can go with the project piece of iteration.
+That's it.
+Okay.
+So, we still have 15 minutes left.
+So, nice and scheduled.
+Yeah.
+The project process.
+So, I'd like to set up all these criteria.
+Uh-huh, you're reaching the way through.
+You're reaching the way through.
+That's right.
+It's just thingy.
+I'm the point that I forgot.
+If you should.
+There you go.
+There you go.
+There you go.
+Thank you.
+You go ahead.
+You've got five minutes.
+That's good.
+Five minutes?
+No.
+We've got 15 minutes.
+No.
+We've got 15 minutes.
+Okay.
+Okay.
+So, I guess some literature student study.
+Another set of requirements you set up earlier.
+Yeah.
+Translated into criteria.
+Which would be these.
+Okay.
+This is a remote fantasy.
+A shade looking food.
+A know of the type.
+What new functions are there?
+Uh, easy to use.
+Uh, the learnability is a very important factor here.
+Uh, is it functional?
+Or are there not too many functions?
+Uh, among the functions.
+And those functions are very useful.
+Uh, the cost.
+The target group is, uh, the remote media for the group we're making it for.
+And the recovery ability.
+If our company is, it's easy to do a recognizable.
+They are completely weighted.
+Uh, so we're supposed to evaluate it right now.
+Okay.
+Let's see.
+Oh, I have to say this was a little hard because the minutes over last meeting.
+Uh, yeah.
+That's because my pen failed to upload his data.
+Okay.
+I tried to, but it's, uh, it's giving errors.
+I've done a software.
+Okay.
+Is the design of the fantasy?
+I think it's fancy.
+Six.
+Yeah.
+You're building the same six.
+Okay.
+Uh, this is the design of the novelty.
+Very.
+I think so.
+So that goes.
+I'm going to go through seven.
+Seven.
+Seven.
+Seven.
+Yeah.
+So we've got 20 cents for our docking station.
+Okay.
+Should we do that?
+Yeah.
+This is the design easy to use.
+There it's a bit.
+Two.
+One.
+It would be for us.
+Well, I would say four.
+Four or five.
+Four.
+Four.
+Four.
+Four.
+Four.
+Four.
+Four.
+Four.
+Four.
+Four.
+Four.
+Four.
+Four.
+Four.
+Four.
+Four.
+Four.
+Four.
+Four.
+Two four.
+Six.
+Four.
+Four.
+Four.
+Four.
+Four.
+Four.
+Five.
+Six.
+Four.
+Three.
+Four.
+Five.
+Four.
+Four.
+Four.
+Four.
+Four.
+Four.
+Four.
+I'm a production of costs within the pre-sendemics for there and out.
+Those are the desired 50 group of focus.
+I think that's a 3D.
+I think that our new radio button, I think it's better.
+We have to test it.
+I still think it's too fancy to...
+I think that's not exactly what people expect over remote control.
+Yeah, sure.
+That would give us a 4.
+I'm not sure.
+We have to do a 4.3.
+Then we have to do a 3D.
+It's called the copyright license.
+Yes, it is.
+Is it the logo there?
+Yes.
+So...
+And they want to put fashion in their products.
+In the slogan of the company,
+we have the removable phone cases.
+Right.
+So...
+I think it's very recognizable.
+Yeah.
+I was also supposed to calculate the score,
+but...
+What do you have to buy?
+Probably...
+We've got the cut.
+Do you need to do this?
+Hmm.
+Is this...
+Is this...
+After this or each other?
+We've got the utility.
+Well, I know.
+These are seven factors.
+Seven.
+Seven.
+Seven.
+Two.
+Nine.
+Nine.
+Ten.
+Ten.
+Ten.
+Ten.
+Ten.
+Ten.
+Ten.
+Ten.
+Ten.
+Ten.
+Ten.
+Ten.
+Ten.
+Forty-one.
+forty-one.
+forty-one.
+31.
+Thirty-one.
+eighty percent.
+That's eighty-four percent.
+four percent. I think it's a pretty nice score.
+So, that brings us to the project evaluation.
+Thank you. Project process, did we move through the right faces?
+You think along the process?
+Yes. Yeah.
+I think we should have, should have had the final thing in the hot area.
+Yeah. That's right.
+In the design phase.
+So, a lack of information about prices.
+That's true. Okay.
+Okay.
+Okay.
+So, this picture, what's the room for creativity?
+No.
+Not too much.
+It's because of the finance.
+Yeah.
+Yeah.
+It wasn't a real true finance in the room.
+Yeah.
+And I would have like to go for the younger users.
+Oh, sorry.
+And just to be able to access each other.
+Get something out here.
+Okay.
+Okay.
+Leadership.
+Was it there?
+Was everybody had to do?
+According to their roles in functions?
+Yeah.
+Teamwork.
+It did work out.
+Working together.
+Also, you do view with the...
+Yeah.
+Yeah.
+That's what it got.
+Nice.
+Nice.
+The tasks are very strict.
+So, you can just do step by step.
+It was very easy.
+So, it's actually the tasks.
+Okay.
+We're the main sufficient for the tasks that we had to do.
+The smart board, the drawing, it's just a pain in the atmosphere.
+I have a small difference.
+The discipline is very nice.
+Yeah.
+If it longs the download this, you know.
+Yeah.
+Data.
+Yeah.
+It's more moist.
+Very good.
+So you don't want to have flip over, or
+something like that.
+It's a little bit more precise, faster as well, I think.
+But if you want to share a feeling, make a picture like this on the presentation, it's easier to share it with other people.
+So you can save it and put it on the internet, or share it for a folder.
+Try to open the file from my laptop.
+You need the smart board application, I think.
+You can export it.
+Yeah, you can export it to this image.
+So the sharing of the information was okay.
+Yeah, plenty to run the thing.
+Yeah, it's possible.
+It's possible.
+It's nice.
+I hope we found new ideas for, I think, this kind of meeting.
+Yeah, maybe.
+Just like if the numbers are of,
+you can get one.
+Yeah.
+It's easier to do the things that I get on the computer.
+Yeah.
+It's like the university.
+Yeah.
+So everybody puts his own score.
+Yeah.
+It mediates the score and you can get one.
+Yeah.
+That's better.
+It's pretty cool.
+Okay.
+Hmm.
+Any more ideas or questions about the project or about the product?
+Because I think.
+Let's see.
+You get to our last few articles of the information?
+Yeah.
+Yeah.
+Yeah.
+Considering we are not going to make a talking station.
+Boy.
+Maybe because of the talking station, the price of the remote must be
+another time.
+Yeah.
+And I think we can consider as well.
+So I think that shouldn't be the biggest problem.
+It's really cheap to make as well.
+Yeah.
+Do we think we're going to get the talking of building?
+What was it?
+15.
+Crazy.
+I think we will.
+I think we're going to export this product.
+Yeah.
+You know, if it's in America, people are really.
+Take a debt.
+Sometimes.
+Yeah.
+It's still a thing.
+Only if we're going to make a scroll button anyway.
+You need more for the other people and for the other people.
+Yeah.
+So I think we should just refocus.
+Let's put it on the market, everybody.
+You can specifically change markets where by changing the flow.
+Covering.
+It's one thing.
+You can change it.
+So you can also try to reach the other people.
+Yeah.
+We can see covers on the market.
+Just as a test.
+See how it works.
+That's, I think.
+It's thought.
+Yeah.
+I think that it would be way more.
+Hope here.
+We're here where people run this.
+It would be with.
+All the people.
+Yeah.
+Even if we were in their cover.
+And then I think we can have a little separation.
+Yeah.
+I'm not kidding.
+That's already perfect.
+I think we still have to fit in more.
+Yeah.
+I think it's more.
+Yeah.
+I think.
+I didn't get a message.
+I didn't get a message.
+From the.
+I think it was the happening.
+Yeah.
+Are you doing any more?
+Five more minutes.
+Oh, it's good.
+Then we still have some questions.
+Somebody asked me questions.
+They can ask them now.
+You can put these.
+Put the projects for those.
+Yeah.
+Yeah.
+Go for those now.
+Mm hmm.
+Mm hmm.
+Mm hmm.
+Mm hmm.
+Mm hmm.
+Uh hmm.
+Let's go to those.
+Fix your anything.
+Yeah.
+Yeah.
+Yeah.
+Yeah.
+Yeah.
+This is another.
+You see?
+Is it frozen?
+Yes.
+I don't know.
+Yeah.
+It's the way you see the frozen floor.
+Hahaha.
+I don't know.
+Hahaha.
+Right.
+Hahaha.
+Right.
+Hahaha.
+That's right.
+It's the way you see the frozen floor.
+Hahaha.
+It's the way you see the frozen floor.
+It's good.
+That's good.
+Good.
+I think I'm going to make our final presentation now.
+I know you're supposed to make it.
+I will be back in about ten minutes to show you the final presentation.
+Okay.
+I'm going to be having a video of the project.
+Are you supposed to go into a room again?
+Yeah.
+Maybe you have to file a question and a question.
+I think you will get the question in your room.
+Yep.
+And then I'll meet you and thank you for ten minutes.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+So I'll clean my pen on the down door.
+It's softener.
+Yeah.
+I'm sorry I'm a little late, I've got a second of traffic.
+I'm supposed to stay on the day, start to trip up.
+Yeah.
+The next thing are for the last meeting.
+There it is.
+These are last meeting.
+This meeting we will discuss our final design.
+And we will do some evaluation about not only the product,
+but also the project.
+And there we go, to close the project today as well.
+So, after this you will be free to go.
+It's a better memory.
+And this design, detailed design meeting,
+we will discuss the look, the field, the design,
+the usability interface design, and we will do the product evaluation.
+In order to do the Dizzy agenda, we will have the prototype presentation first,
+then we will set up some evaluation criteria.
+Then we will look at the finance.
+We will have to see if everything we want to do is also possible within our budget.
+That's everything costs money.
+And more things you want to have, the more money it will cost.
+So, we will see if it fits within the top and half euro per month.
+We will see that later.
+Then we will do the project evaluation and the closing after that.
+It puts 40 minutes.
+So, you will be finished at all of those three.
+But first, people do the prototype presentation.
+So, you can see that there are some aspects for it.
+Well, this is what the enriches came up with.
+The default spot for the on-off button.
+The mute button just below that.
+Then there is the volume and channel selector.
+Simple plus, minus button.
+We fold up a health button if you hold it.
+And you press another button.
+The health goes to the SD screen.
+Then there is the 0 to 1 to 0 buttons.
+A button for teletext.
+A button for subtitles and the company logo.
+So, it's sort of a simple prototype.
+And we will have to see from testing how the user stated.
+Okay.
+Assistant moment where we ask.
+We can ask questions about the functionality.
+Sure.
+Just pop it at any time.
+When you're in teletext or using your buttons,
+where you just press it and you go to the next teletext page.
+That's just the normal remote controls.
+So, you press it.
+You can page 100.
+You can use the normal 1 to 0 buttons.
+But you can also use the button for changing the channel.
+So, the shifting button.
+The shifting button.
+The shifting button.
+Okay.
+But I thought in a few meetings earlier we tried to give it simple.
+Just a few buttons and large buttons.
+But I think these are all together.
+Quite a few buttons.
+I'm wondering if we really need all of those buttons.
+If you look at most controls, they've got more buttons than this.
+That's right.
+So, the amount of buttons it's in necessity.
+The volume and channel buttons you need.
+You obviously need those.
+The mute button could be replaced by pressing the volume down button twice.
+So, we could cancel that one.
+I think the amount of button really is necessary.
+There's no other way to know when someone wants to know what a button does.
+Or you can build it when you press one button.
+Yeah.
+But we just discussed that already.
+But we think all people don't know that option.
+So, it just put in the button.
+Yeah.
+Okay.
+So, the power of the number of buttons, I guess.
+Yeah.
+Okay.
+That's the subtitles.
+Yeah.
+That's, yeah.
+Okay.
+So, it's a lot of basic already.
+Yeah.
+Excellent.
+That's what I pointed out earlier.
+You should just make a control for just a TV.
+There's just not much to game in.
+Yeah.
+Yeah.
+Okay.
+So, yeah, it's somebody but something about the design of the buttons there.
+Yeah.
+There's more, more, more, more edge.
+And then all the white one would.
+There should be equal size run with a little logo only for the volume ...
+Try it.
+...or just to recognize consumer recognition.
+Yeah.
+And we don't need to, let's, or, not,
+some remote control.
+So, that's what ...
+Yeah.
+That's because we use the little display.
+Maybe we don't have to do it, so it's good.
+So for the materials, we've just chosen for rubber buttons.
+We have a different color than the case, so the jump on.
+OK.
+Let's put it.
+It's nice.
+Then I think we're going to have 30 minutes there.
+I want to move on to the finance part, which is pretty exciting to see this all possible
+if we want to do it.
+And I can tell you that you're going to have a pretty hard time producing this for
+30 and a half euros.
+If we see...
+I don't know if I've filled in correcting, so I'm just correcting it if you see something
+wrong.
+I can't do batteries, but maybe you can also use one.
+I don't know.
+Since it's rechargeable.
+It's rechargeable.
+It's very efficient.
+OK.
+Let's tell you what's up.
+OK.
+We need the health funds to get started on much sooner.
+To save there.
+There we have the single curve.
+We can see the difference between end curves and single curves as well in Europe.
+I don't know, but I think the single curve is good for the design and also for the display
+to have a prominent place on the remote control.
+I think we have to keep it.
+Then we have the case material circumvent.
+It's plastic.
+It's the cheapest one we need.
+So that's not much to save either.
+But then the biggest cost for the buttons.
+So maybe we really should try to discard some buttons to keep our cost, though.
+Because we have to get the 12 and all of Europe at the end.
+So if we, let's first count the buttons we have now.
+Go ahead.
+16.
+That will be even more evident.
+18 euros.
+So 15.
+Yeah.
+With the help.
+OK.
+Including the help?
+Yeah.
+I think we can discard the help in a new button by pressing down volume or pressing down a number.
+Yeah.
+Alone.
+Let's say it says 1-0 already.
+Is that any of those 15?
+Yeah.
+Wouldn't.
+Yeah.
+Yeah.
+It's useful.
+Yeah.
+And this is, I assume you'd count the volume and channel things for two buttons each.
+Right?
+Those are one.
+Yeah.
+Well, I think actually there are two buttons.
+It's just one better bit.
+Two.
+One big bit.
+But they are more expensive than the small ones I hear.
+Yeah.
+But it's not stated in this.
+So maybe a bunch of.
+We can even make one bit of the volume and the channel.
+It won.
+Well, I think maybe you can just integrate through those numbers to one button.
+That's the ability to help.
+Help.
+Help the cost.
+So, and it's good for design as well.
+So you can make.
+And like this.
+And still right here.
+Cross.
+Yeah, but I don't know if it's still got four buttons, but just so I think they can
+go on the material. Not a bit bad on itself, but on the chip, yeah, yeah, you've got still
+back four buttons. Yeah, but I think because we have those phones too. Yeah, but we can just kind of
+this as one button. But now we're there. I think this right here is four buttons on you.
+Yes. Yeah. Anyways, but then it seems to me that it's a possible thing. So I'm not here. Also, I'll see this play.
+I think it's too expensive for this play we use. I think that if we leave out this play, we can also save money on the chip.
+That's right. But what's the biggest bondage of our remote then? Only the docking station I guess. Yeah.
+Which isn't the docking station isn't even in this schematic. No, it's not even taken into the prize.
+That's where we should do to a different start. Don't you think you can, if we can go, this is one button and integrate these buttons in three.
+You could save money on it, but would it make the remote more usable for elderly people? Yeah, that's right.
+But what I can't even send in as a message.
+Are we going to buy a remote control when you can use it?
+Yeah.
+You missed the state of belonging.
+1250.
+Can't go.
+Well, since the market research indicated that older people spend their money easier, more easy.
+Maybe it's feasible to just put the price of the remote up a little, especially since we have those nice features.
+Yeah, but we have to stick to the top and all of you. We don't have any more in which.
+The more it gets built.
+Yeah.
+But it's possible to make one for our 1250.
+I don't think it was.
+If you're a leader, there's some release play.
+And if you're a leader, that's better than us.
+So, too.
+But are you going to...
+Can't use a signature.
+There it is.
+Yeah.
+Do you want?
+Yeah.
+So, fancy.
+Good.
+Yeah.
+With the.
+Yeah.
+Attractive options.
+So, you can stay below 1250.
+So, I think.
+So, basically, you become a choice between, like, either a good remote and higher production.
+So, the higher production costs are just, you know, any other remote controlled.
+Well, we can leave out the 10 buttons and take non scroll wheel for the program information.
+Scroll is one.
+Because that's not.
+We save 10 buttons and have a 5 and a 1.
+So, let's see if we can see what we need.
+Let's see if we can see what we need.
+Let's see if we can see what we need but what it's going to do.
+We're getting closer.
+Again?
+Yes.
+Okay.
+But how would a scroll wheel work here?
+No.
+No.
+Well.
+Maybe I can.
+Scroll.
+If you scroll, if you scroll, you will see the number on the LCD display.
+Until you have the right number and you push it.
+That would bring up the price of the scroll wheel.
+All right.
+Go on.
+Push button.
+Okay.
+But then you can push it.
+It's not a bit.
+You could just not scroll for a half a second.
+Yeah.
+Yeah.
+That's why it's going to go in the moment.
+You wait a half a second.
+And then it turns to the channel.
+I think that would be like the end of our useability.
+Yeah.
+That would definitely drop cost.
+Yeah.
+But.
+And.
+You need better.
+Yeah.
+And the regular chip is not possible.
+It has to be advanced.
+If you want to use an LCD screen, you need an advanced chip pin.
+Yeah.
+How do you say that you're on the flat design?
+That's an option.
+Yeah.
+Then we're almost there.
+Yeah.
+If you could just leave out one more button.
+Yeah.
+So if we already have to skip the subtitle button.
+Yeah.
+Yeah.
+Yeah.
+That isn't big on phone.
+Yeah.
+It's a big package.
+Yeah.
+But can we integrate the text and the subtitles in one button?
+Yeah.
+Yeah.
+I think it's pretty much.
+So the text subtitles are right now.
+You just push the tablet text button.
+Go to page 888.
+Yeah.
+And the text disappears.
+But the subtitles say there.
+Yeah.
+But if you push the...
+Yeah.
+Okay.
+So it's not a spot.
+What if you have to scroll to page 888888?
+Well, that could be...
+I can scroll to 8.
+Scroll to 8.
+Scroll to 8.
+Scroll to 8.
+Click.
+Right.
+Okay.
+But then again, there will be just pretty much an option for all their people who don't
+even know what a scroll wheel is.
+Not.
+Holding a remote.
+With respect to have like ten buttons for the numbers one to zero.
+But only five buttons on it.
+And a scroll wheel.
+I think if you make a good advertisement and observation in the guide, we can explain to the people
+about the use of the scroll wheel.
+Just make a real simple.
+Because it saves a lot of money and we can keep our LCD screen which can provide extra information
+how to use the scroll wheel.
+Not to use the other buttons as subtitles.
+And it's good for the note design as well.
+If you want to erase, please.
+It's pretty big school.
+It's good for five buttons for three buttons.
+You could wait two buttons out of that and just if you press the volume button, you can
+control the volume with scroll wheel so that would save two buttons if you do the same
+for the channel.
+That's really a good idea.
+Thank you.
+So we'll make the use of the scroll wheel more of it.
+One, two, one, two, three, several.
+So we've got one, two, three.
+Yeah, we can use the index in if you want.
+So it's fine.
+If we leave our buildings buttons, we can go with the flat case and make it smaller overall.
+So if you put the volume and channel buttons on the same height, that's the enough button.
+Screen right under that, then the scroll button.
+You get a much smaller remote.
+You can make a quite big remote control for just the same price.
+It's a small one.
+You have to pay for the biblical curve or single curve.
+It's a bit as more of the models in which they are being made and a single curve.
+It's pretty easy to just fill in when the case is going right out of the machine.
+Single curve here, seven, two, three, two, three, ten, three.
+I think this is really easy one.
+I think about the flat or single curve design.
+Well, I still think we should cover the single curve design.
+Rich, it's argument.
+All these changes are not really okay with me, but since I just have to...
+Yeah.
+I'd rather just go to the board and get us a $18 a year.
+Yeah.
+I agree with some more research and see what the options are.
+I think we can keep the single curve as well, just to express our LCD screen a bit more.
+Yeah.
+And people will use it more and especially for the health issues.
+It will be good if we had a scroll button.
+It will be necessary if we had a good health function as well.
+I think it was better to have this process a bit earlier.
+It will be good.
+It will be good.
+It will be good.
+It will be good.
+It will be good.
+Yeah.
+That's pretty different.
+It's pretty different.
+This is not really like, for the group you were making here in Milan, this will really
+require a lot of marketing to get this to sell.
+Other people like familiar forms of familiar stuff, this is not familiar for them.
+Is there going to have to do a lot of confusion?
+I think the most.
+But I know the scroll buttons from all three videos, but it's like that's for changing
+a channel.
+Maybe it's a sticky tab.
+Maybe that's a nice little thing.
+Yeah.
+It's a good one.
+It's right behind some of them.
+And it's less frightening I think.
+It's the easiest design.
+It might be confusing too.
+Yeah.
+I think they like one.
+Only five buttons.
+Yeah.
+That's very special.
+I would like.
+Yeah.
+But you're not 60.
+That's it.
+I would buy the boxes.
+Do I request an entire non-heroes?
+No.
+Yes.
+No.
+No.
+But we can go with the project detail duration.
+That's it.
+Okay.
+So there's still a 15 minutes left.
+Nice and scheduled.
+It's the project process.
+So I like sort of all these criteria.
+The duration of the thingy point that I forgot.
+Thank you.
+You've got five minutes.
+No.
+We've got 15 minutes.
+No.
+We've got 15 minutes.
+No.
+We've got 15 minutes.
+Okay.
+So there's some literature student study analysis of the requirements you set up here.
+Yeah.
+So I want to mention criteria.
+Which would be these.
+Is a remote fancy shape looking few.
+Inoperative.
+What new functions are there?
+Easy to use.
+Learnability is a very important factor here.
+Is frictional.
+Are there not too many functions or amount of functions or those functions that are there?
+useful and the cost. The target group is the remote
+ready for the group we're making it for and
+recurability. Our company is it's easy to do a
+recognizable that are company-related so we're
+supposed to evaluate it right now.
+Oh, I have to say this was a building hard because the
+minutes over last meeting. Yeah, that's because my pen
+failed to upload his data. I tried to, but it's giving
+hard. I don't know what to say. I think it's fancy.
+It's very simple, but it's seven. So we've got 20 cents for our
+do we have all functions that we want to do? Do we have too many
+functions? I think it's seven and do we take care of the biggest
+frustrations of that remote control?
+I have been worked out. They're actually very
+functional and getting lost.
+I think it's better. I think it's too fancy to think of
+it's not exactly what all the people expect over the remote control.
+That would get us forward.
+And they want to put fashion in their products in the slogan of the company.
+We have the removable front cases, so I think it's very
+recognizable.
+I was also supposed to calculate the score, but we've got the
+company.
+Is this so after this or we don't?
+We've got to evaluate.
+These are seven factors.
+What do you want?
+I don't have 80 percent.
+Does 84 percent?
+I think that's a pretty nice score.
+That brings us to the project evaluation.
+Project process, did we move through the right faces?
+I think we should have the final thing here.
+That's right.
+In the design phase.
+Lack of information about prices.
+What's the room for creativity?
+Not too much.
+Because of the finance.
+And I would like to go for the younger users.
+And just to be able to access internet and get something over here.
+Internet access.
+Leadership.
+Was it clear what everybody had to do?
+Going through their roles and functions.
+Teamwork.
+Working together.
+That's what it was.
+Nice.
+Dasks are very strict.
+You can just do step by step.
+It means sufficient for the tasks that we had to do.
+The smart board is just paid in the atmosphere.
+If it wants to download this data.
+Smart board was pretty exciting.
+Do you want to have a flip over or something like that?
+Faster.
+If you want to make a picture like this on the presentation.
+It's easier to share it with other people.
+You can save it and put it on the internet.
+You need the smart board application, I think.
+I was sharing other information.
+Can I see that one there.
+Yeah, I think it's possible.
+It's nice.
+We found new ideas for, I think, this kind of meetings.
+Yeah, maybe.
+Just the numbers of
+one of our services.
+Yeah.
+It's easier to produce things that I get on the computer.
+Yeah.
+It's like the university.
+Yeah.
+So everybody puts his own score.
+If media is the score, you can get one.
+Yeah.
+That's better.
+So it's, how do we call it?
+Yeah.
+Okay.
+Any more ideas or questions about the
+project or about the product?
+Yeah.
+Yeah.
+Yeah.
+Yeah.
+Yeah.
+Considering we are not going to make a
+successful project.
+I think you know, are you going to ask for this product?
+Yeah.
+You know, if it's in America, people are taking it.
+Sometimes.
+Yeah, it's still a thing.
+I mean, if we're going to make a scroll button anyway,
+we're going to need more for the younger people and for the older people.
+Yeah.
+So let me just just refocus.
+Let's put it in the market for everybody.
+Specifically for the younger people.
+You can change markets where they're changing the flow of the government.
+That's one thing that you can change it with.
+So you can also try to reach the younger people.
+Yeah.
+You can see covers on the market.
+Just as a test.
+See how it works.
+That's, I think, a good spot.
+Yeah.
+I think that it would be way more.
+Hope here with younger people than it is.
+It would be with older people.
+Yeah.
+Even if it were their cover.
+Well, then I think we can have our little separation.
+No.
+Not any.
+That's it already.
+I think we still have to put in one more position.
+I don't know.
+I didn't get a message from the ending of the habit.
+Five more minutes.
+Oh, it's good.
+Then we still have some questions.
+Somebody asked me questions.
+They can ask them now.
+You can put these in the projects forward as well.
+Thank you.
+Late to your own thing.
+Yeah.
+Yeah.
+I don't know, maybe they will say if it's for me.
+Yeah.
+It's for me.
+It's for me.
+It's for me.
+I think I'm going to make our final presentation now.
+Yeah, you're supposed to make it.
+I will be back in about 10 minutes to show you the final presentation.
+It's a summary of the project.
+Are we supposed to go into our rooms again?
+Maybe if the field...
+Yeah.
+Question and question.
+I think you will get the question in your room.
+Yes.
+And then I'll meet you in, I think, about 10 minutes.
+Okay.
+Okay.
+Okay.
+Okay.
+Hopefully my pendulum down there is software.
+Yeah.
+Thank you guys.
+Okay.
+Okay.
+Okay.
+Okay.
+I'm sorry, I'm a little bit late, I've got a second of traffic.
+So, this is what's going on in the standard day.
+It starts at three, it starts at three, it starts at three.
+Yeah.
+And these are four and a last meeting.
+There it is.
+Yes.
+Okay, this is our last meeting.
+This meeting we will discuss our final design.
+And we will do some evaluation about not only the product,
+but also the project.
+And then we're going to close the project today as well.
+So, after this, you'll be feeling good.
+It's better in mind.
+And this design, detailed design meeting.
+We will discuss the look and feel of the design.
+It will be the interface design.
+And we will do the product evaluation.
+In order to do this agenda, we will have the prototype presentation first.
+Then we will set up some evaluation curve criteria.
+Then we will look at the finance.
+We will have to see if everything we want to do is also possible within our budget.
+Because everything goes money.
+And more finishes you want to have.
+The more money is of course.
+So, we'll see if it fits within the 12 and a half euro per month.
+We will see that later.
+Then we will do the project evaluation and the closing after that.
+We've got 40 minutes.
+So, we will be finished at all of those three.
+The first people do the prototype presentation.
+So, some asking for it.
+Well, this is what me and Richard came up with.
+The default spot for the on-off button.
+The new button just below that.
+Then there's the volume and channel selector.
+Same for plus minus button.
+We fold up a help button.
+If you hold it and you press another button.
+The help goes to the LCD screen.
+Then there's the 0 to 1 to 0 buttons.
+A button for teletext.
+A button for the subtitles.
+And the company logo.
+So, it's our simple prototype.
+We'll have to see from testing.
+How do you just take it?
+Okay.
+Is this moment where we ask?
+We're going to ask a question about the functionality.
+Sure.
+Just pop it at any time.
+When you're in teletext or usually your buttons,
+where you just press it and you go to the next teletext page.
+That's just the normal remote controls.
+So, you push it.
+You pin in page 100.
+You can use the normal 1 to 0 buttons.
+But you can also use the button for changing the channel.
+So, the shifting button.
+Okay.
+For the shifting button.
+I'll take the extra shifting down.
+Okay.
+Okay.
+But I thought in a few meetings earlier,
+we tried to keep it simple.
+Just a few buttons and large buttons.
+But I think these are all together.
+Quite a few buttons.
+I'm wondering if we really need all of those buttons.
+I think if you look at most controls,
+they've got more buttons than this.
+That's right.
+And, well, the amount button it's in necessity.
+Yeah.
+From that one.
+The volume and channel buttons, you will obviously use those.
+Yeah.
+The mute button could be replaced by pressing the volume down button twice.
+So, we could cancel that one.
+I think the help button really is necessary.
+Yes.
+There's no other way to know what someone wants to know what a button does.
+Or you can build it when you press one button.
+Yeah.
+Yeah.
+But, yeah.
+We just discussed that already.
+But we think all people don't know that option.
+So, they just put it in there.
+Put it for the better.
+Yeah.
+Okay.
+No.
+You can't leave out the number buttons, I guess.
+Yeah.
+And then they set titles.
+Yeah.
+That's, yeah.
+Okay.
+So, it's rather basic already.
+Yeah.
+That's what I pointed out earlier.
+You should just make a control for just a TV.
+There's just not much to game in.
+Yeah.
+Yeah.
+Yeah.
+Okay.
+So, yeah, it's so many.
+But it's just something about the design of the buttons there.
+Yeah.
+Yeah.
+Yeah.
+No, I'm not planning to roll the white one.
+There should be equal sized run with a little logo only for the volume.
+Try and go on.
+Just to recognize the installation.
+Yeah.
+And we don't need that or not.
+So, we have some remote controls.
+Yeah.
+Yeah.
+So, because we use the little display, we don't have to use it.
+Yeah.
+Yeah.
+So, okay.
+So, for the materials, we've just chosen for rubber buttons.
+Yeah.
+We have a different color than the case.
+So, the jump on.
+Okay.
+That's fine.
+It's not.
+Yeah.
+I think that's why we have very many steps.
+I want to move on to the finance part.
+Which is pretty exciting to see if it's all possible.
+What we want to do.
+And I can tell you.
+Let's take a look.
+We have a pretty hard time producing this for ten and a half euros.
+If we see a...
+I don't know about filming correctly.
+So, just grab me if you see something wrong.
+I can't do batteries.
+Maybe we can also use one.
+I don't know.
+Since it's rechargeable.
+That's rechargeable.
+That's where I can use one now.
+Okay.
+Let's tell you what that's all.
+Okay.
+We need the offense to it.
+So, there's not much to it.
+Let's say it there.
+Here we have the single curve.
+We can see the difference between end curves and single curves as one euro.
+I don't know.
+But I think the single curve is good for design.
+And also for the display to have a prominent place on the remote control.
+I think we have to keep it.
+Then we have the case material supplements.
+It's plastic.
+It's the cheapest one we need.
+So, that's not what you should save either.
+But then the biggest cost are the buttons.
+So, maybe we really should try to discard some buttons to keep our cost out.
+Because we have to get the total of euros at the end.
+So, let's first count the buttons we have now.
+16.
+That'll be even more than 18 euros.
+So, I think we can discard the help and the new button.
+By pressing down volume on or pressing down a number.
+Yeah.
+Hello.
+Let's say it's about 0 or 8.
+Does that mean I've got 15 I think?
+Yeah.
+What do you mean?
+Yeah.
+No.
+That's it.
+Yeah.
+And this is...
+I assume you'd count the volume and channel things for two buttons each, right?
+No, that's a lot.
+No.
+I think.
+I think actually there are two buttons.
+It's just a long bit of it.
+Two, one big bit.
+But they are more expensive than the small ones.
+Yeah.
+But it's not the state.
+It's just...
+So, maybe...
+That's a range of...
+We can even make one button.
+But the volume and the channel...
+Well, maybe you can just integrate through those numbers to one button.
+That's the stability as well.
+No.
+Couple of costs.
+So, I think it's going to design as well so you can make...
+I don't know if this...
+It's good like that.
+Cross.
+Okay.
+But I don't know if it's...
+Yeah.
+It still got four buttons, but just...
+So, I think they count the material.
+Not a bit better in itself, but on the...
+Yeah.
+Yeah.
+Yeah.
+You've got still a four.
+That's right.
+All the buttons.
+Yeah.
+But I think because we have the other phones too.
+Yeah.
+But we can just count this as one button.
+But now they're there.
+I think this right here is four buttons on you.
+Yes.
+Yeah.
+Maybe it is.
+But then it seems to me that it's impossible to look at itself now here.
+Also, I'll see this play.
+I think it's too expensive for this play we use.
+I think that...
+So, if we leave out this play, we can also save money on the chip.
+That's right.
+What's the big advantage of our remote thing?
+Only the documentation, I guess.
+Yeah.
+It's not even taking the price.
+That's it.
+That's right.
+Maybe we should do a different score.
+That's not sure.
+All in.
+Yeah.
+Don't you think you can...
+If we can count this as one button and integrate these buttons in a three?
+No, it's not money as well.
+You could save money on it, but would it make the remote more usable for elderly people?
+Yeah, that's right.
+But what I can't even send and there's a message.
+Yeah.
+Yeah.
+Are you going to buy a remote control when you can use it?
+Yeah.
+Yeah.
+Are you...
+I missed...
+Stay below the...
+No...
+Self...
+50.
+All right.
+Yeah.
+Can't...
+Can't...
+Go.
+Yeah.
+Well, since the market research indicated that older people spend their money easier, more
+and easier, maybe it's feasible to just put the price of the remote up a little, especially
+since we have those nice features.
+Yeah, but we have to stick with itself and all of it.
+We don't have any more on the budget.
+It's a budget tool.
+It's a budget tool.
+Yeah.
+It's possible to make one for our 1250.
+I don't think so.
+If you have a video of some movies, but...
+Yeah.
+...and if you use less buttons.
+So...
+Two...
+Two...
+But...
+Are you going to...
+Can't use a...
+So much...
+Yeah.
+There it is.
+Yeah.
+Hmm.
+There you are.
+Yeah.
+Good.
+Good.
+And then...
+So...
+Fancy and...
+Good.
+Yeah.
+Yeah.
+Yeah.
+Yeah.
+That's a good idea.
+It's a...
+Yeah.
+Yeah.
+Attractive option.
+So...
+You can stay below where I tell 15.
+So...
+I think it's...
+Yeah.
+So...
+Basically becoming a choice between like...
+Either a good remote and higher production costs are just...
+No.
+Any other remote controlled...
+Or...
+We can leave out the 10 buttons and take long scroll wheel for the program.
+The scroll wheel is one.
+That's not...
+We save 10 buttons and...
+Five...
+And one.
+Yeah.
+Yeah.
+Yeah.
+See?
+Yeah.
+See?
+That's it.
+That's it.
+That's it.
+Yeah.
+We're getting closer.
+Okay.
+That's it.
+Okay.
+But how would a scroll wheel work here?
+You know...
+Maybe you can...
+scroll.
+If you scroll, you will see the numbers on the LCD display.
+You can tell you're not the right number.
+And you push it.
+That would bring up the price of the scroll wheel also.
+All right.
+Go to the scroll wheel.
+Push button.
+Okay.
+But then you can push some other buttons.
+You could just not scroll for a half a second.
+Yeah.
+That's right.
+You want to go to a number and then you wait a half a second then instead of...
+I think that would be like the end of our usability.
+Yeah.
+That would definitely drop costs.
+Yeah.
+And you need a battery.
+And the regular chip is not possible.
+It has to be advanced.
+If you want to use an LCD screen, you will need an advanced chip pin.
+Okay.
+Now you can save a euro by a flat design.
+That's an option.
+Then we're almost there.
+Yeah.
+If you could just leave out one more button.
+Yeah.
+So if we have to skip the subtitle button.
+Yeah.
+Yeah.
+But I think that's...
+Yeah.
+That is a big problem.
+Yeah.
+It's a big thank you.
+But can we integrate the data text and the subtitles in one button?
+Yeah.
+Yeah.
+Yeah.
+Yeah.
+I think it's pretty much...
+Yeah.
+It's a little text.
+Subtitles are right now.
+You just push the text button.
+Go to page 888.
+Yeah.
+And it's a little text disappears.
+But the subtitles stay there.
+But if you push the...
+Yeah.
+Okay.
+So that's right.
+Yeah.
+What if you have to scroll to page 88?
+88.
+88.
+88.
+That could be almost...
+Yeah.
+Scroll to 8.
+Scroll to 8.
+Scroll to 8.
+Click.
+Yeah.
+But then again,
+it's just pretty much an option for all their people.
+Don't even know what a scroll wheel is.
+Not.
+Holding it.
+Remote.
+Remote.
+With today's spec to have like ten buttons for the numbers one to zero.
+With only five buttons on it.
+And a scroll wheel.
+I think if you make a good advertisement...
+...on television and in the...
+...in the car.
+You can explain to the people how they use the scroll wheel.
+Just make it real simple.
+Because it says...
+It says a lot of money and we can keep our LCD screen which can provide extra information
+how to use the scroll wheel.
+How to use the other buttons as subtitles.
+And it's good for the...
+...in of the design as well.
+If you were to erase, please.
+Thanks for that.
+Thanks for that.
+Oh, hey.
+It's pretty big school.
+You know.
+It's pretty big school.
+Yeah.
+It's...
+...in the design as well.
+It looks like it's a little bit...
+...and...
+...yeah.
+You can scroll in one, two, three, four, five buttons to three.
+You can erase this one.
+You could wait two buttons out of that.
+And just...
+...if you press the volume button, you can control the volume with the scroll wheel.
+So that would save two buttons.
+If you do the same for the channel.
+That's really good.
+Good idea.
+Thanks.
+And that will make the use of the scroll wheel more obvious.
+My audio is in here.
+Sorry.
+Right?
+One.
+One.
+One.
+One.
+One.
+One.
+One.
+One.
+One.
+One.
+One.
+Two.
+Two.
+Two.
+Three.
+Two.
+Two.
+Two.
+Two.
+Two.
+Two.
+Two.
+Two.
+Yeah.
+One.
+One.
+One.
+One.
+Two.
+Two.
+Two.
+Three.
+There is two.
+Four.
+One.
+Three.
+Two.
+One.
+One.
+Two.
+Two.
+Four.
+One.
+Two.
+Two.
+You can make a big romance control for just the same price as a small one.
+You have to pay for the biblical curve or single curve.
+Yeah, it's a bit, as more the walls in which they are being made.
+Single curve is really easy to just fill in and the case is going right out of the machine.
+Single curve here is a different machine than a certain.
+I think this is a really easy one.
+What does everybody think about a flat or a single curve?
+No, I still think we should cover a single curve design.
+Let me get on.
+Rich, it's argument.
+All these changes are not really okay with me, but since I just have to...
+Yeah, I'd rather just go to the board and get us to $18 a year.
+Yeah, I agree.
+I'm going to do some research and see what the options are.
+I think we can keep the single curve going just to express our LCD screen a bit more.
+Some people will use it more, especially for the health issues.
+It will be good if we had a scroll button.
+It will be necessary if we had a good health function as well.
+I think it was better to have this process a bit earlier.
+Yes, it will be good.
+Yeah, that's pretty different.
+This is not really like, for the group you were making in a run-on.
+This will really require a lot of marketing to get this to sell.
+Because there are other people like familiar forms of familiar stuff.
+This is not familiar for them.
+So we're going to have to do a lot of convincing them.
+Think the most?
+But they know the scroll buttons from all three videos.
+But it's like that's for changing a channel.
+We can maybe stick it out.
+Maybe that's right.
+Maybe that's right.
+That's a good one.
+If we had to move on.
+It's less frightening, I think.
+See, there's this angle.
+There are only five buttons.
+It might be confusing too.
+Yeah.
+It could be like one.
+Only five buttons.
+Yeah.
+That's very special.
+I would buy it.
+Yeah, but you're not 60.
+That's it.
+I would buy it if I was 60.
+I don't know.
+Why does it cost an entire non-heroes?
+No.
+Yes, they are.
+No.
+No.
+But we can go with the project evaluation.
+That's it.
+Okay, so we still have 15 minutes left.
+Nice and scheduled.
+Okay.
+That's the project process.
+So I'd like to set up all these criteria.
+Yeah.
+The original evaluation of the thingy point that I forgot.
+Thank you.
+Thank you.
+You've got five minutes, I think.
+Five minutes.
+No, we've got 15 minutes.
+Okay, so there's some literature student study.
+Another set of the requirements you'd set up right here.
+Yeah.
+Translated, we're going to criteria, which would be these.
+These are remote fancy.
+I shade it looking through.
+And ultimately, what new functions are there?
+Easy to use.
+Learnability is a very important factor here.
+It's functional.
+There are not too many functions.
+A amount of functions.
+Those functions are there, are they useful?
+And the cost.
+The other group is the remote really for the group we're making it for, and
+the record mobility is, our company is, it's easy to do recognizable and our company-weighted.
+So we're supposed to evaluate it right now.
+Okay.
+Let's see.
+Oh, I have to say, this was a bit hard, because the man is over the last meeting.
+Yeah, that's because my pen failed to upload his data.
+Okay.
+I tried to, but it's giving errors, but I don't think it was so far.
+Okay.
+Is the design fancy on a scale of one to seven?
+Yeah.
+I think it's fancy.
+6.
+Yeah.
+There we go, 6.
+6.
+One and two.
+Very.
+Okay.
+So what's the most unique step in the middle of your system?
+7.
+7.
+So we've got 20 cents for our docking station.
+I would say four, four, five, four, five, four, three, four, four, three, four, three, four.
+Do we have more functions that we want to include?
+Yes, yes.
+Do we have too many functions?
+No, I don't think so.
+I think it's seven.
+Seven.
+And do we take care of the biggest frustrations about remote control?
+I don't know if it's getting lost.
+And as you are, four, five, four, five, six, eight, four, three, four, three, four, three, four, three, four, three, four, three, four, three, four, three, four, three, four, three, four, three.
+I have been working out.
+They're okay, not very functional in getting lost.
+Are the production costs within the present limits?
+Well, they are now.
+I think it's better.
+I think it's better.
+I still think it's, I think, too fancy to think that.
+I think that's not exactly what all the people expect of remote control.
+Yeah.
+That would give us four.
+And then we have to do it in three.
+Yeah.
+And they want to put fashion in their products in the slogan of the company.
+We have the removable phone cases.
+So, I think it's very recognizable.
+I was also supposed to calculate the score, but probably we've got a couple of minutes.
+So, I have to do this every time we're done.
+We've got to evaluate why we have.
+These are sub-effectors.
+I'm 49.
+What do you want?
+I don't have 80%.
+That's 84%.
+I think that's a pretty nice score.
+So, that brings us to the project evaluation.
+The project process, did we move through the right faces, you think, along the process?
+Yes.
+Yeah.
+I think we should have, should have the finance thing here or earlier?
+Yeah.
+That's right.
+In the design phase.
+So, a lack of information about prices.
+That's right.
+Okay.
+Okay.
+So, this is fiction.
+What's the room for creativity?
+No.
+Not too much.
+No.
+Okay.
+Because of the finance.
+Yeah.
+Yeah.
+It wasn't a true financing.
+The room was, yeah.
+And I would have like to go for the younger users or so.
+And just to be able to access internet and get something over here.
+Okay.
+Okay.
+Leadership.
+Was it clear what everybody had to do?
+Going through their roles and functions.
+Yeah.
+Teamwork.
+This is workup.
+Working together.
+Also, you do view with the most stage.
+Nice.
+Docks are very strict.
+So, you can just do step by step.
+You do do it's very easy.
+It's actually a doc.
+Okay.
+What a main sufficient for the tasks that we had to do.
+The smartboard.
+The drawing is just a pain in the atmosphere.
+I have some money.
+I think the data is very nice.
+Yeah.
+If it don't download this.
+Yeah.
+Data.
+Smartboard was irritating.
+So, you rather wanted to have a flip over or something like that.
+Or some more precise faster smell.
+Yeah.
+But if you want to share a picture like this on the presentation.
+It's easier to share it with other people.
+So, you can save it and put it on the internet.
+Or share it for a folder.
+And I'll share it here.
+Try to open the file.
+No, not at work.
+No.
+You need the smartboard.
+Yeah.
+The location.
+I think.
+Okay.
+Very important.
+Yeah.
+Should be possible.
+Yeah.
+You can actually do this image.
+Yeah.
+Yeah.
+So, sharing of information was okay.
+Yeah.
+Yeah.
+Yeah.
+Yeah.
+Yeah.
+Yeah.
+Yeah.
+Yeah.
+Yeah.
+Yeah.
+It's possible.
+Yeah.
+Yeah.
+Yeah.
+It's nice.
+Yeah.
+We found new ideas for.
+I think this kind of meeting.
+Sure.
+Yeah.
+Yeah.
+Maybe.
+Yeah.
+Maybe.
+Yeah.
+Maybe.
+Just like if the number.
+So, if.
+I don't want.
+I was.
+Yeah.
+Yeah.
+It's easier to.
+To do the things that I get on the computer.
+Yeah.
+Yeah.
+Just like.
+Like.
+University.
+Yeah.
+Yeah.
+So, everybody puts his own score.
+Yeah.
+Yeah.
+It mediates the score.
+Yeah.
+I can get one.
+Yeah.
+That's better.
+So, it's.
+How do we call it?
+Yeah.
+Yeah.
+That's better.
+So, it's.
+How do we call it?
+Yeah.
+Yeah.
+That's better.
+Yeah.
+That's better.
+Yeah.
+That's better.
+Yeah.
+Yeah.
+Okay.
+Hmm.
+Any more ideas or questions about the project or about the product?
+Yeah.
+Yeah.
+That goes.
+I think.
+We have to ask you, articles within the budget, considering we are not going to make a
+token station, but maybe because of the token station, the price of the remote can also be
+able to make a scope button anyway, more for the younger people and for the older people, so maybe it's just brief focus.
+So you can also try to reach the only people that are getting fancy covers on the mark, just as a test, see how it works, that's a good thought.
+I think that it would be way more popular with younger people than it would be with older people, even if it weren't their cover.
+I think we still have to put in one more position, I don't know, I didn't get a message from the ending of the update.
+Five more minutes.
+Oh, that's good.
+Then we still have some questions.
+Somebody asked me questions, they can ask them now.
+I don't know.
+I don't know.
+I think I'm going to make a final presentation now.
+I'll be back in about ten minutes to show you the final presentation.
+Thank you very much.
+Thank you.
+Thank you.
+I'm sorry I'm a little late, I've got a second of traffic.
+I'm going to start the traffic up here.
+Yeah.
+Let me see.
+Are for it and lost meeting?
+There it is.
+There it is.
+Okay, this is our lost meeting.
+This meeting we will discuss our final design.
+And we will do some evaluation about modern data products.
+We will also do a project.
+And there we go.
+We will close the project today as well.
+So after this, you'll be feeling pretty good.
+And this design, detailed design meeting.
+We will discuss the look and field design.
+It has been the interface design and we will do the project evaluation.
+In order to do this in general, we will have the prototype presentation first.
+Then we will set up some evaluation card criteria.
+Then we will look at the finance.
+We will have to see if everything we want to do is also possible within our budget.
+Because everything goes money and more functions you want to have.
+The more money it will cost.
+So we will see if it fits within the 12 and a half year per remote.
+We will see that later.
+Then we will do the project evaluation and the closing after that.
+It has 40 minutes.
+So we will finish at all of those three.
+The first people do the prototype presentation.
+So we will have some asking for it.
+So this is what Indian Ridge has came up with.
+The default spot for the on-off button.
+The new button just below that.
+Then there is the volume and channel selector.
+Simple plus minus button.
+We fought off the help button.
+If you hold it and you press another button, the help goes to the LCD screen.
+Then there is the zero to one to zero buttons.
+A button for teletext.
+The button for subtitles and the company logo.
+So it is our simple prototype.
+We will have to see from testing how the user stated.
+Okay.
+We can ask questions about the functionality.
+When you are in teletext or using your buttons where you just press it and you go to the next teletext page.
+It is just the normal remote controls.
+So you push it.
+You came in page 100.
+You can use normal one to zero buttons.
+But you can also use the button for changing the channel.
+So the shifting button.
+The shifting button.
+Okay.
+But I thought in a few meetings earlier we just give it a simple,
+and just a few buttons and large buttons.
+But I think these are all together.
+Quite a few buttons.
+I am wondering if we really need all of those buttons.
+Thank you.
+If you look at most controls, they have more buttons than this.
+That is my hand.
+Well, the enough button it is in necessity.
+The volume and channel buttons, you will obviously use those.
+The mute button could be replaced by pressing the volume down button twice.
+So it could cancel that one.
+I think the help button really is necessary to use.
+There is no other way to know when someone wants to know what a button does.
+Or you can build it when you press one button.
+Yeah.
+But we just discussed that already.
+But we think all people don't know that option.
+So they just put it in the button.
+Yeah.
+Okay.
+Well, you can't leave out the number buttons, I guess.
+Yeah.
+Okay.
+That is the subtitles.
+Yeah.
+Yeah.
+Okay.
+It is rather basic already.
+Yeah.
+I think so.
+That is what I pointed out earlier.
+You should just make a control for just a TV.
+There is just not much to gain.
+Yeah.
+Yeah.
+Okay.
+Yeah.
+Somebody bought something about the design of the buttons there.
+Yeah.
+Yeah.
+Yeah.
+Yeah.
+Yeah.
+Yeah.
+No.
+Yeah.
+Yeah.
+Yeah.
+I really don't need that.
+Yeah.
+Yeah.
+Yeah.
+Yeah.
+That's some.
+Yeah, that's a.
+Yeah.
+Yeah.
+Yeah.
+Okay.
+We use the little display.
+We don't have to use it.
+Yeah.
+we've just chosen for rubber buttons. We have a different color than the case, so we'll do a jump out.
+Okay, let's find it.
+Let's see if we can cross mine. We have plenty of links to that.
+I want to move on to the finance part, which is pretty exciting to see if it's not possible what we want to do.
+And I can tell you that we're going to have a pretty hard time producing this for seven or a half years.
+If we see, I don't know if I've felt it correctly, so just correct me if you see something wrong.
+I can't do batteries, but maybe we can also use one. I don't know.
+Since it would be charitable.
+That's what you're talking about.
+You should know.
+Okay, let's tell you what's up.
+Okay, we need the health funds to it, so there's not much for that.
+Let's just say it there.
+Here we have the single curve.
+We can see the difference between end curves and the single curve is 1 euro.
+I don't know, but I think the single curve is good for design.
+And also for the display to have a prominent place on the remote control.
+I think we have to keep it.
+Then we have the case material supplements. It's plastic. It's the cheapest one we need.
+So that's not much to save either.
+But then the biggest cost are the buttons.
+So maybe we really should try to discard some buttons to keep our cost though.
+Because we have to get the 12 and 12 euros at the end.
+So if we let's first cut the buttons we have now.
+16 euros.
+So I think we can discard the health and the health.
+By pressing down volume long or pressing down a number.
+Long.
+Let's say it says 1 euro already.
+Does that mean it cuts 15?
+Yeah.
+Wouldn't.
+Yeah.
+Yeah.
+This is.
+And this is.
+I sure you'd count the volume and channel things for two buttons each.
+There's a lot.
+I think I think there are two buttons.
+It's just one bit of a bit.
+Two.
+One big bit.
+But they are more expensive than the small ones.
+Yeah.
+But it's not the state.
+It's just.
+So maybe we have a range of.
+We can even make one bit of the volume of the channel.
+It won.
+But I think maybe you can just integrate three of those numbers to one button.
+That's the ability as well.
+No.
+Couple of costs.
+So.
+And it's good for design as well.
+So you can make.
+it's.
+So.
+I know this.
+But I don't know if it's.
+Yeah.
+So.
+Yeah.
+There's still got four buttons.
+But just.
+So.
+I think they can.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+Yeah.
+The.
+The.
+The.
+The.
+The.
+I think it's a.
+The.
+The.
+That's it.
+The.
+Then.
+That seems to me that it's impossible.
+Of yours.
+Also I'll see.
+This.
+The.
+I think it's.
+I think it's still expensive for this way.
+We use.
+I think that if we leave out this play, we can also save money on the chip.
+That's right. What's the big advantage of our remote?
+Only the documentation, I guess.
+Which isn't the docking station, isn't even in this schematic.
+No, it's not even taking the price.
+That's right.
+That's right. Maybe we should do a different score.
+That's an option.
+Following something.
+Don't you think we can...
+If we can cut this as one button and integrate these buttons in three?
+If we could save money on it,
+we would make the remote more usable for elderly people now.
+Yeah, that's right.
+What I can't even send and there's a message.
+Yeah.
+Are we going to buy a remote control when you can use it?
+Yeah.
+Are you missed?
+Stay below the 1250, all right?
+Can't...
+Well, since the market research indicated that older people spend their money easier,
+more easy, maybe it's feasible to just put the price of the remote up a little,
+especially since we have those U.S. features.
+Yeah, but we have to stick to the telephone out here.
+We don't have any more in which.
+The market has to stop.
+Yeah.
+It's possible to make one for our 1250.
+I don't think so.
+Yes.
+Where it is?
+with the effective options so you can stay, you know, 1250 so basically become a choice
+between like either a good remote and higher production costs are just any other remote
+control for, we can leave out the 10 buttons and take multiple wheel for the program
+in this one, because that's not, we save 10 buttons and then buy one, let's see if it's
+going to work here, or maybe you can scroll, if you scroll you will see the numbers on the
+LCD display, click on the right number and then you push it, that would bring up the price of the
+screw, all right, go to the screw, push button, okay, but then you can push some other buttons or just not scroll
+for half a second, yeah, that's right, you don't see it all at the right number and then you wait a half a second then it tends to
+be like the end of our use, but yeah, definitely, drop cost, yeah, and the regular chip is not possible, has to be at first, if you want to use an LCD screen
+you need a thumbs chip in that, how you can save a euro by a flat, these are, that's an option again, yeah, then we're almost there,
+yeah, if we just leave out one more button, yeah, so if we have to skip the subtitle button, yeah,
+yeah, that is a big problem, yeah, it's a big advantage, but can we integrate the data text and the subtitles in one button?
+Yeah, I think it's pretty much, the teletext subtitles are right now, you just push the teletext button, go to page 888, yeah, and the teletext disappears, but the subtitles say there,
+but if you push the device, what if you have to scroll to page 888888?
+That could be a scroll to 8, click, scroll to 8, click, scroll to 8, click, but then again, there would be just pretty much an option for older people who don't even know what a scroll wheel is,
+holding a remote, which they expect to have like 10 buttons for the numbers one to zero,
+it only five buttons on it, and a scroll wheel.
+I think if you make a good advertisement on television and in the guide, we can explain to people how they use the scroll wheel,
+just make it real simple, because it saves a lot of money and we can keep our LCD screen, which can provide extra information how to use the scroll wheel,
+to use the other buttons as subtitles, and it's good for the, you know, the design as well.
+It's pretty, it's pretty big school.
+Something like that.
+I could wait two buttons out of that and just, if you press the volume button, you can control the volume with the scroll wheel,
+so that would save two buttons if you do the same for the channel.
+That's really a good idea, thank you.
+And that will make, that it uses the scroll wheel more of this.
+So if we try, so we've got one to two, yeah, we can use the text in, if we want, yeah, so it's fine.
+If we leave out all those buttons, we can go with the flat case, and make it smaller overall.
+So if you put the volume and channel buttons on the same height, that's the enough button, the screen right under that, then the scroll button,
+if you get a much more remote, that's right.
+Right now we can make a quite big remote control for just the same price as the small one.
+Yeah, you only have to pay for the little curve or single curve.
+Yeah, it's a bit, as it's more the walls in which they are being made, I think, single curve is pretty easy.
+And then the case is going right out of the machine, single curve, yes, that's a different machine.
+I think this is a really easy one.
+But does everybody think about the flat or single curve design?
+No, I still think we should cover a single curve design.
+Let me get on.
+Rich, it's argument.
+All these changes are not really okay with me, but since we have to go to the board.
+I think we can keep the single curve on just to express our LCD screen a bit more.
+Some people will use it more, especially for the health functions.
+It will be good if we have a scroll button.
+It will be necessary if we have a good health function.
+I think it was better to have this price this little bit earlier.
+That's pretty different.
+This is not really like for the group you were making.
+It's all really required, a lot of marketing to get this to sell.
+But other people like familiar stuff, this is not familiar for me.
+So we're going to have to do a lot of confusion.
+Think the most.
+But they know the scroll buttons from the old radio.
+But it's like that's for changing.
+Maybe that's a nice roll for them.
+Yeah.
+It's a good one.
+So if we're able to move on.
+And it's less frightening, I think.
+It might be confusing too.
+Yeah.
+It's a good like one.
+Only five buttons.
+Yeah.
+That's very special.
+I would like.
+Yeah.
+But you're not 60.
+That's it.
+Yeah.
+I was by the balance.
+I didn't.
+But if I was in the top of my videos, no.
+Yes, yeah.
+No.
+No.
+No.
+But we can go with the project visualization.
+That's it.
+Okay.
+So you still have 15 minutes left, so.
+Nice and scheduled.
+And the project process.
+So I like to set up all these criteria.
+And the evaluation of the thingy point that I forgot.
+Thank you.
+Thank you.
+You've got five minutes, I think.
+Five minutes.
+No.
+We've got 15 minutes.
+Okay.
+Yes.
+Okay.
+So there's some literature student.
+Seven.
+Now this is the requirement.
+You can set up right here.
+Yeah.
+Translate.
+Which would be these.
+This would be more fancy.
+I should look and feel.
+I know what new functions are there.
+Easy to use.
+The learnability is a very important factor here.
+It's functional.
+Not too many functions.
+And those functions are there.
+Are they useful?
+And the cost.
+The target group is remote really for the group we're making it for.
+The current ability.
+If our company is easily recognizable, they're completely rated.
+So we're supposed to evaluate it right now.
+Okay.
+Let's see.
+All right.
+I have to say this was a new part because the man is over the last meeting.
+Yeah.
+That's because my pen failed to upload his data.
+Okay.
+I tried to, but it's giving errors.
+I don't think so.
+Okay.
+I think it's fancy.
+Six.
+Yeah.
+There we go.
+Six.
+Six.
+Seven, seven.
+Yeah.
+So we've got 20 cents for our docking station.
+Should we do okay?
+Yeah.
+I would say four, four, five, four, five, four, four, four, four, four, four, four, four,
+two, three, four, four, four, two, three.
+That's crucial.
+Does it design function? Do we have all functions that we want to include?
+Do we have to do any functions? No, no, no.
+Seven. Seven.
+Oh, and do we take care of the biggest frustrations about remote control?
+Like it's getting lost.
+There's a lot of thought about the analysis.
+I had been worked out.
+They're okay, not very functional in getting lost.
+Are the production costs when the police are damaged?
+Well, they are now.
+Does it design a 50-group of focus?
+I think that's a 3D.
+No, I think that I knew radio, but I think it's better.
+I don't know.
+I still think it's too fancy.
+Do you think actually your focus is not exactly what people expect of remote control?
+Yeah, sure.
+I would give it four.
+I'm not sure.
+I think I can do four, two, four, three.
+Then we have to do it in three.
+That's not true.
+Is it concrete?
+Yeah.
+And they want to put fashion in their products in the slogan of the company.
+We have the removable phone cases.
+So I think it's very recognizable.
+I was also supposed to calculate the score.
+But we have the project.
+We've got the company after this.
+Is this site after this?
+Are we done?
+We're going to evaluate.
+These are seven factors.
+That's something to do.
+I can do.
+I'm 49.
+I'm 49.
+I'm 49.
+I'm 49.
+I'm 49.
+I'm 49.
+I'm 49.
+I'm 80.
+That's 84%.
+I think that's a pretty nice score.
+So that brings us to the project evaluation.
+Thank you.
+Project process.
+Did we move through the right faces?
+You think a long process?
+Yes.
+I think we should have the finance figure.
+That's right.
+In design phase.
+So a lack of information about prices.
+That's right.
+Okay.
+Satisfaction.
+What's the room for creativity?
+Not too much.
+Because of the finance.
+And the room is there.
+And I would like to go for the younger users also.
+And just to be able to access internet.
+Get something here.
+Okay.
+Leadership.
+Was it clear what everybody had to do?
+According to the roles and functions.
+Teamwork.
+Is it work out?
+Working together.
+So you do here with a little bit on stage.
+Nice.
+Docks are very strict.
+So you can just do step by step.
+You can do it very easily.
+What it means sufficient for the tasks that we have to do.
+The smart board is just to pay in the hospital.
+The dental plan is very nice.
+If it wants to download this data.
+The smart board was very dating.
+So you want to have a flip over?
+Or something like that.
+It's your two size.
+Foster the smell.
+But if you want to make a picture like this on the presentation.
+It's easier to share it with other people.
+So you can save it and put it on the internet.
+Or share it for a follower.
+You need the smart board application.
+You can export it as an image.
+So the sharing of the information was okay.
+Yeah.
+Finishing on the table.
+Yeah.
+It's possible.
+It's nice.
+We found new ideas for this kind of meeting.
+Yeah.
+Maybe just a couple of numbers.
+I would say it's easier to do the things that I get on the computer.
+It puts its own score.
+It mediates the score.
+Yeah.
+That's better.
+How do you call it?
+Okay.
+Okay.
+Any more ideas or questions about the project or about the project?
+Okay.
+Okay.
+Let's see.
+Yeah.
+Yeah.
+Yeah.
+Yeah.
+Yeah.
+Yeah.
+Yeah.
+Yeah.
+Yeah.
+Yeah.
+Yeah.
+Yeah.
+Yeah.
+That's all.
+Yeah.
+All right.
+Alright.
+Okay.
+Thanks.
+Yeah.
+Yeah.
+Okay.
+Yeah.
+Yeah.
+Okay.
+Yeah.
+Yeah.
+It was okay.
+Let's see.
+Yeah, I still don't think, I mean if we're going to make a scroll button anyway,
+we're going to be doing a little bit more.
+Yeah, so maybe we should just refocus.
+Let's put it on the mark for everybody.
+Specifically for the G-market.
+We're changing the foot, covering.
+It's one thing you can change it with.
+So you can also try to reach the other people that are putting fancy covers on the mark.
+Just as a test.
+See how it works.
+That's, I think, if it's possible.
+Yeah, I think then it would be way more popular with younger people than just,
+it would be with older people.
+Yeah.
+Even if it were their covers.
+Yeah, I think we can provide a separation.
+I'm not kidding.
+It's already put.
+I think we still have to put in one more position.
+I think.
+I don't know.
+I didn't get a message from the ending of the happening.
+I didn't have one.
+Five more minutes.
+Oh, it's good.
+Then we still have some questions.
+Somebody asked some questions.
+They can ask them that.
+They can put these in the projects for their job.
+Mm-hmm.
+Mm-hmm.
+Yeah.
+Thanks for the question.
+I think.
+Yeah.
+Yeah.
+Yeah.
+Yeah.
+Yeah.
+Okay.
+So let me see.
+Pressing forward.
+I don't.
+Hmm.
+I'm gonna be your dangosephate study.
+Yeah.
+I'm gonna be your dangosephate study.
+Yeah.
+Just one more time.
+I don't know.
+I don't know.
+I don't know.
+I'm gonna be your dangosephate study.
+Yeah.
+I think I'm going to make our final presentation now.
+Right now you're supposed to make the mail be back in about 10 minutes to show you the
+final presentation.
+Okay.
+Okay.
+Summary of the project.
+Are we supposed to go into a room to get?
+Yeah.
+Maybe you have to feel a little bit of a question.
+Yeah.
+I think you will get the question.
+Yeah.
+In your room.
+Yeah.
+And then I'll meet you in a good 10 minutes.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+You might bend no boundaries.
+Software.
+Yeah.
+Right.
+Okay.
+Thank you.
+Thank you.
+Okay.
+Alright.
+Thank you.
+Good.
+Thank you.
+Good.
+Good.
+Good.
+Good.
+Good.
+Good.
+Good.
+Good.
+Good.
+Good.

@@ -1,0 +1,4117 @@
+Okay, good afternoon.
+Okay, everybody, you found this place again.
+Okay, so this is our second meeting.
+Now we're going into the fictional design.
+The important thing of this phase is that we're going to try to get a agreement about the user requirements technical function design and the working museum.
+So that we can move on to the second phase.
+The first is phase.
+First announcement, there's a little adaptation in the air conditioning system.
+So, there's our ghost mouse again.
+That means that you can have a little strong of the devil's fault with air conditioning.
+That's because of this.
+Okay, that's in way C and E.
+So it should be off in a couple of days.
+It's going to be cold anyway, so I don't think it's going to be.
+Then our agenda, first the opening.
+This time I will take the minutes.
+You're going to have a presentation all of you.
+And we've got 40 minutes for the whole presentation.
+So I suggest we take about seven minutes of presentation, and then we can have a little discussion about the new project requirements.
+Which have me sent to me.
+And then the decision on the control functions, which you want to include.
+Those, which we have to include.
+So we've got 40 minutes for all of it.
+So I suggest that it starts in the first presentation.
+Who wants to do first?
+I think I'll go first.
+Okay.
+So that'd be easy if you...
+Yeah, I think you'll tell me your presentation is all.
+Which fiction you have.
+Are you going to talk about it?
+Okay.
+My name is Frank Capone.
+I'm the work expert.
+You'll let him do that.
+I've done some research.
+We have...
+We're doing research, and I use a video now where we observe users operating remote controls.
+We don't even feel out of questionnaire.
+We have 100 of these tests subject.
+In addition, we did some market research.
+See what the market consists of.
+What ages are involved?
+Well, these are three quite astonishing results, I thought.
+And remote are being considered ugly.
+75% of the people question indicated that they thought they were remote.
+It was ugly.
+And an additional 80% indicated that it would spend more money on a fancy-looking remote control.
+So, in addition, remote were not very functional.
+50% of the people indicated that they only use about 10% of the buttons on a remote control.
+And 50% of the people indicated that they were remote tended to get lost in their room.
+So, some things.
+Then we did some research to do most relevant functions.
+Channel selection and volume selection.
+Both got a scale of one to ten for relevancy.
+The power button got a nine.
+And ten of the text got a six and a half.
+So, these are the most important functions of a remote control.
+Then there are some multi-use functions.
+That's what I'd like to call them.
+There are audio settings, video settings, and channel settings buttons.
+Which are not really used very frequently.
+But I still consider it to be of some importance.
+Channel selection was also indicated to be used very frequently.
+168 times per hour.
+And this is the market.
+60% of the market consists of users between the ages 16 and 46.
+The main characteristic of this group is that they're very critical in the remote control.
+They'd like to use new functions.
+But they also are very critical.
+They don't spend their money very easily.
+So, the users of 46 to 65 years, they make up 40% of the market.
+They're not really very interested in features.
+But they do tend to spend their money a lot easier.
+Well, I think this in case for our design,
+I think we should make a remote for a future.
+And this means we have to focus on the ages 16 to 45.
+This also makes the most big part of the market.
+So, they'll also be where our main profit will be.
+Kevin Moore.
+This will be where we would have to make a fancy design.
+The results also indicated that about one corner of the people
+question thought that the remote control caused areas high.
+This is certainly something to take into account.
+And 34% thought that it was hard to learn and to operate a new control remote control.
+So, these are two factors that I think should be included in that design.
+Besides, of course, the remote must look very nice.
+The functionality, as a lot of people indicated,
+they only use about 10% of the buttons.
+I think we should make very few buttons.
+This will also be beneficial to the design of the remote.
+I think the most frequently used buttons should be emphasized,
+especially the child selection of audio selection buttons,
+because they're used most.
+So, they should be reduced.
+They shouldn't break down easily.
+Then, as a lot of people indicated,
+that their remote got lost in the room.
+It might be, and I'd say it might be because it would,
+certainly boost the production costs a lot,
+but it might be a good idea to make a talking station.
+This would get a button in it,
+which would send the signal to the remote,
+which would then be, so you know where it is in the room.
+And in addition to this, it could recharge the batteries in the remote,
+if you put it in.
+Then, surprisingly,
+a great deal of people who indicated that a massive E-screen
+in the remote control would be preferred.
+This was mostly people in the age of 16 to 25,
+but up to 45, it remains feasible.
+This would also really increase in production costs,
+but I think these are just some small factors we could consider.
+Okay.
+That would be all.
+Thank you.
+Anybody have any questions?
+Any questions?
+Any questions?
+Okay, that's good.
+I'll do the second.
+Okay.
+I don't know if I can get that.
+Usually interface.
+Yeah.
+For other technologies.
+Perfect.
+Yeah.
+You can take your time.
+Let me show you.
+Let me show you.
+Let me show you.
+Let me show you.
+Okay.
+Yeah.
+I think we must use the general function as the remote control.
+Actually, I've known a little research on the internet.
+I'm not much information about it,
+but I'm about interface with that.
+Yeah.
+I've been thinking about a simple manner to put a lot of functions
+in one remote control,
+so we've got a lot of devices like the
+derivation in the stereo,
+but it must be used friendly.
+So you can put a lot of functions in one.
+Yeah.
+Yeah.
+In one remote control,
+but yeah.
+Yeah.
+Got a main function in one remote control,
+but you can see this is quite simple every remote control.
+A few better things,
+but this very remote control got a lot of
+the buttons.
+Yeah.
+People I don't like it.
+Well, I was thinking about what's
+keeping the general functions,
+like the yards, like on offer button.
+Keep it like a red button,
+everybody knows it,
+so you don't have to change that.
+Personal preferences.
+You also display for a special function of the difference,
+in fact.
+Well, I was thinking about what you've got.
+This is a remote control.
+You've got the area general functions,
+like on offer button.
+So I don't know.
+Here you've got a kind of display.
+It's a touch screen.
+You've got the general function,
+software device for a DVD player.
+So,
+for a meeting,
+refer to it.
+You've got the real buttons
+for selecting a device.
+So, a little balance for a DVD or
+for every device you've got a part of this
+flavor of a part of the buttons.
+So, you've never got all the buttons on one DVD.
+So, this is my idea about it.
+Yeah.
+And let's see.
+So, touch screen.
+And the buttons,
+the real buttons we have to use.
+We better use quite a large
+presence for everybody after you use it.
+So, all people,
+young people.
+So, let's keep the buttons quite
+simple and quite large.
+Yeah.
+Yeah.
+It was my part.
+I mean, there's questions about the technical functions.
+Well, I think if we're going to use a touch screen,
+we're going to go way above the 12th of Europe.
+Yeah.
+I don't think so.
+Okay.
+You've got quite a cheap touch screen.
+It's not a quarter or something.
+So, just one call.
+Yeah.
+I've seen something on the internet,
+not today, but a few weeks ago.
+You've got quite a kind of touch screen.
+It's 20 euros or less.
+Right.
+So, it's possible.
+It's nice.
+Well, we certainly make a fancy design.
+Yeah.
+So, it wouldn't be very robust.
+It's very fragile,
+and you can get scratches on it.
+Not a stream.
+Yes.
+We can do it.
+Maybe you can first listen to your presentation.
+Yes.
+And then we have a little discussion about the requirements.
+Okay.
+So,
+Okay.
+I've got a presentation about the working side.
+First about how it works.
+It's really simple.
+Of course, everybody knows how it works.
+The user presses the button.
+The remote determines what button it is.
+Use the infrared to send a signal to the TV switches to the frequency,
+or a function it is.
+So, we've got a plate.
+It's got conductive disks for every button.
+On the user presses the button.
+You know what I'm going to say.
+It goes to the left,
+and transmit it.
+It's a very simple device, technically.
+So, this is a schematic overview.
+You've got the buttons, the power source.
+And when a button gets pressed, it goes to the chip.
+The chip controls the infrared bulb,
+and perhaps a normal bulb.
+When you press button, you can actually see your pressed button.
+Well, my finger should use default materials.
+Simple plastics.
+Keep it in the working simple.
+So, it's robust.
+I think we should focus on aesthetics and design in the user interface,
+because if you're going to use high-tech materials,
+the price is going to be on the sky.
+You only have to design a remote once,
+and if you use high-tech materials,
+it will come back in every product.
+So, it's in my idea.
+It's going to be smart to invest in design,
+but not in the product itself.
+That's it.
+Okay. Thank you.
+Okay. Now, I hope everybody has a little bit more insight
+in the functions we all have,
+and what we're doing right now.
+I'm the project manager.
+So, I'm going to invest in things.
+I'm going to apply some of the requirements.
+That's, we've got the design remote,
+which is only suitable for TV.
+That's because it will be too complex,
+and the time to market will be too big,
+if we want to have it for more functions.
+So, it has to be simple.
+Another point is we have to skip the data text,
+because in the world of coming internet,
+we think the data text is going to be a thing with the past,
+and it's a function we don't need.
+Now, remote control, infinite is also mentioned,
+just to go in a function we can use.
+Maybe also on televisions it will be available as well.
+Another one is the customer is 40 plus.
+That's the market we have to target,
+because we are going to develop a new product,
+which is specially designed for the younger customers.
+This is a bit pretty for the marketing expert,
+because it was aiming on the younger persons.
+So, we have to find a market which is above 40 plus,
+which will suit our remote control and the other way around.
+We have to be very then putting the carbon image in our product.
+It has to be visible in our design,
+in the way our device works.
+We have to be very clear on this point as well.
+So, as you just, let's have a discussion on the control functions.
+So, is there any discussion possible about any product requirements?
+We can see if we can find a way between the functions we want to use,
+and the market we want to reach with our product.
+Yeah, because you're saying that teletext is going to be an old feature,
+and it's not going to be used any more anyway,
+pretty soon, and new TVs will have internet access on them.
+But I think if you're targeting people of 40 plus,
+the chance that they will have a TV with internet access within the next like 20 years is very slim.
+In addition, people indicated that teletext simply was an important feature for the remote control.
+So, I think it's pretty dumb to put no teletext feature on it.
+I'm pretty much against it.
+Against the no teletext.
+Yes.
+Besides that, I think the market for 40 plus is pretty small.
+But, if I see this, I think we're just going to go for another step.
+Pretty.
+I think we can do a little bit of design and the simple buttons,
+which are also mentioned.
+If we put a lot of effort in those, we can make a remote control with just two or three buttons,
+or just three modes, which is suitable for the market we want to reach,
+because it is 40% of the market.
+And if you look in Holland at the whole generation of 40 plus 50 plus,
+it's the biggest share of the whole population now.
+Yes, but it's not the biggest part of the market.
+Besides that, they're not very critical.
+So, I mean, they don't really care what the remote control is like.
+They'll just pretty much take the first thing they see, which looks acceptable.
+But don't you think that if we make a remote, which is typically made for this market,
+the people think from the people think that's the device I've looked for,
+although I didn't realize it.
+So, let's try it.
+No.
+I think there would be the case in 16 to 45 H category,
+because they are critical, and they want to have a fancy remote control.
+People are 40 plus.
+I mean, they wanted to work, but as soon as it works, it's okay with them.
+I think that if we put our marketing right,
+we can sell this just like, I don't know if you've heard about it in the news,
+the elderly mobile phone.
+Yeah, it's a big success.
+If we make a remote control, with that idea in mind, we could make tons of money.
+We don't have to focus on the design then, but on functionality.
+We can just change our focus on the project,
+kind of thing.
+We can sell this.
+Yeah, I simply think that the new products we're going to make,
+especially the design, our design for younger people.
+So maybe we can focus ourselves on the elderly people,
+and I think we have to see what requirements we need
+for those remote controls.
+Those are your tools.
+The channel selection is important.
+Your volume selection, power, and data text.
+Yes.
+Obviously, the board goes to disagree.
+Now, we haven't voted yet.
+I think data text can be a function as well,
+but only if we don't hire the cost.
+Because I don't know if it will be a lot more money to implement data text as well.
+I don't think it will be a problem.
+Where is data text?
+I don't think that people need data text for a subtitle.
+So it's...
+Yeah.
+So I should just...
+I think I'm definitely the entire idea not to include data text.
+Is there anybody really against data text?
+No.
+Is that...
+Let me just keep the data text.
+It's good to use that, especially for the subtitles.
+Maybe we can make that another point of advantage in our remote control.
+We make a better mix, for example, for big subtitles,
+which is instantly on the remote control for elderly people that they can think of.
+So I think data text can be very useful in our sponsors.
+Functionality should be a few buttons, you said.
+Yes.
+I don't think that's very important.
+We have a few buttons.
+Mm-hmm.
+So to keep it simple.
+I don't think it's really an issue anymore, because...
+Well, it might be.
+I mean, for TV, you're not going to need a lot of buttons in a way.
+Not one to zero button.
+Next channel, previous channel.
+I'm pulling down.
+And some teletext buttons.
+Yeah.
+I mean, you can't skip this way, so you don't need it.
+No.
+Do you need the buttons for a button to zero?
+Thank you.
+You're going to include teletext you do.
+I think many people like to use that.
+Maybe there's a...
+If you want to switch from channel one to like three to five,
+you don't want to push the next channel button three or five times.
+Maybe you can implement the scroll button or a joystick like...
+There are other ways to...
+If you look at telephones, the Sony telephones scroll button,
+which is very useful in searching names or...
+That is true, but...
+I don't think there are many TVs that can switch channels that fast.
+And so you would need like...
+The TV would need a function where you can actually view all channels and scroll through it.
+I don't know if many channels would...
+Do you have many TVs on the...
+And besides that, it's...
+If you're going to focus on elderly people, they'll have to adapt.
+They're not used to using scroll buttons.
+Perhaps we should stick to the basic layout.
+This is the numbers.
+They can see how much buttons they are going to be on the display.
+And if it's too much, we can reconsider it.
+I think they're going to be very much buttons or they're done.
+But I think if you're going to make remote control only to operate a TV,
+there's not much you can gain on having a few buttons as possible.
+Because I think there are pretty many remote controls that can only operate a TV,
+which already only have the minimum number of buttons.
+I don't think there's much to be gained in that area.
+In the number of buttons.
+I think it's very important in the design.
+You can make a very fancy design with putting the buttons on the right place.
+If you have less buttons, you can do a lot more of it.
+That is true, but I think there's simply not much to gain on the competition when you're making a remote control only for to operate only the TV.
+If you have a remote control only to operate a TV,
+there's simply not a lot of buttons required.
+There's not a lot of functions required.
+So most existing remote controls simply don't have a lot of buttons either.
+So I think it would be very hard to actually gain on the competition here.
+So I think it would cost a big marketing expedition,
+which was one of the arguments to make it only for the TV,
+because we didn't have the time to market a lot.
+So you should just think, could better focus on, for example, the docking station,
+like other functions instead of less buttons.
+Well, yeah, I think, I mean, we obviously need a good way to position all the buttons.
+But I don't think we should spend very much time in that.
+Do you think the docking station will, is allowed in the budget we have?
+It should be possible, yes.
+It's not too fancy.
+And if the remote stays rather small, it should be possible.
+Yeah.
+I think that's a good advantage point as well.
+If we have a guaranteed-looking docking station, or...
+That's a nice requirement.
+Take the station.
+So we're just going to focus on the extras.
+I think so.
+Yeah, I think maybe we should do some research into what other people like to have,
+like to have extra in the remote control.
+That's a good point.
+You said they easily get lost as well?
+Yes, well, 50% of the people indicated that remote control tended to get lost.
+So maybe we should implement the audio side.
+Yeah, that was what I suggested.
+Yeah.
+We can have an E-chain if you'd like to solve it.
+Yeah.
+It makes it.
+Yeah, but some phones too.
+And you have a docking station.
+And you just press a button and it goes ring.
+Yeah.
+So you know where it is.
+How do you get a signal?
+It would be possible as well.
+I think it's not too expensive.
+Yeah.
+It's not too expensive.
+Another...
+Or the LCD screen.
+I don't know if that will rise to cost too much here.
+I think we'll have to choose between the docking station or the screen.
+Yeah.
+So it will be too much.
+I think since a lot of people indicated a new remote control was hard to learn.
+And we're focusing on elderly people here, which tend to have a hard time understanding
+new devices.
+It might be a good idea to have just a little screen on it, which will explain a button
+if you press it, which would tell you what it does.
+Yeah.
+And it wouldn't have to be touch screen or very expensive screen, but at least the LCD, just
+the screen would be too...
+Some extra info.
+Yeah.
+Yeah.
+I think that's a good idea as well.
+But I don't know if that will be...
+Is this small to fit into the...
+Cost.
+I think it should be possible as well.
+Let's see what did we say more.
+It should be fancy.
+Fancy design.
+Easy to learn.
+Few buttons.
+You talk about that docking station LCD.
+The general functions.
+Yeah.
+Okay.
+And default materials.
+I think that's a good idea as well, because all the people don't mind if it's tightening
+the cover or just a plastic one.
+So it doesn't really matter.
+So I think probably the elderly people would be a little bit careful with their remote
+controls and the demonstration.
+And let's specify the target group that I've been talking about.
+elderly elderly people or people from 48 to 80.
+Because I think what we're going to design is for people above 60.
+Maybe.
+Yeah.
+What do we want to...
+I think if we want to pro-flight as, for example, the telephone for elderly people, we can target
+a real elderly people.
+I think I would be...
+If we should do something like that, it would be...
+I think it would be really good for the image of the company.
+Yeah.
+And I think there would be good market for it.
+So I would still be able to really bring an innovative product.
+And you're talking about 62, 80, for example.
+Yeah.
+Do it really.
+Yeah.
+So I have to look into that a little more.
+Okay.
+And different cultures.
+I don't think I have different television sets in any every country.
+No.
+It's got five minutes left.
+And with the little screen in which explains the buttons,
+I think it would be a lot easier to adapt to different cultures.
+Yeah.
+And different languages.
+Yeah.
+Okay.
+Or you have to put a language better than the bit in this channel.
+Yeah.
+It's better to put it on different markets.
+Yeah.
+Okay.
+So that's the target.
+And then a few small things.
+Okay.
+I will put the minutes in the project document folder.
+What we're going to do for the next meeting is the initial design.
+It will be a component concept.
+It brings in space design and you're using the Facebook set and the trend watching.
+So just keep in mind the things we've said about the target group.
+I don't know.
+Okay.
+That's good, man, I said it's good, thanks.
+Now we're not allowed to talk about it.
+Oh my god, that's going to be very interesting.
+Thank you.
+Thank you.
+Okay, good to see you.
+Okay, everybody, you find this place again.
+Yeah, this is nice.
+Okay, so this is our second meeting, and still fading.
+Now we're going into the fictional design.
+The important thing of this phase is that we're going to
+to get an agreement about the user requirements, technical
+function design, and the working design.
+So we can move on to the second phase.
+The first is phase.
+First announcement.
+There's a little adaptation in the air conditioning system.
+So there's our ghost mouse again.
+But that means that you can have a little strong
+with air conditioning that's because of this.
+Okay, that's in way CME.
+So it should be often a couple of days.
+It's going to be cold anyway.
+So I don't think you're going to do it.
+Then our agenda.
+Now first the opening.
+This time I will take a minute.
+You're going to have a presentation.
+And we've got 40 minutes for the whole presentation.
+So I suggest we take about seven minutes of presentation,
+and then we can have a little discussion about the new project requirements,
+which have been sent to me.
+And then the decision on the control functions,
+which you want to include,
+which would be perfectly good.
+But 40 minutes for all of it.
+So I suggest that it starts at the first presentation.
+Move on to the first.
+I think I'll go first.
+Okay.
+So that is easy for you.
+Yeah.
+I think you'll tell me your presentation is all,
+which fiction you have.
+And are you going to talk about it?
+Okay.
+My name is Frank Comphone.
+I'm a New York expert.
+You know anything else?
+I've done some research.
+We have a new research.
+And I'm going to do that when we observe users operating remote controls.
+We don't want to fill out a questionnaire.
+We have 100 of these tests subject.
+In addition, we get some market research.
+See what the market consists of.
+What ages are involved?
+Well, these are three quotes.
+Don't issue results, I thought.
+Yeah.
+Remote are being considered ugly.
+75% of the people question indicated that they thought their remote work was ugly.
+And an additional 80% indicated that it would spend more money on a fancy looking remote control.
+So.
+In addition, we're not very functional.
+50% of the people indicated they only use about 10% of the buttons on that remote control.
+And 50% of the people indicated that their remote tended to get lost in their room.
+So.
+So it's things.
+Then we did some research to do most relevant functions.
+General selection and volume selection both got a 10 on a scale of 1 to 10 for redundancy.
+The power button got a 9.
+And the other text got a 6 and a half.
+So these are the most most important functions of a remote control.
+Then there are some multi use function.
+That's what I like to call them.
+There are audio settings, video settings, and channel settings buttons.
+Which you're not really used very frequently.
+But are still considered to be of some importance.
+Channel selection was also indicated to be used fairly frequently.
+168 times per hour.
+And these are this is the market.
+60% of the market consists of users between the ages 16 and 46.
+The main characteristic of this group is that they're very critical on the remote control.
+They like to use new functions.
+But they also are very critical.
+They won't spend their money very easily.
+So.
+The users of 46 is 65 years.
+They make up 40% of the market.
+They're not really very interested in features.
+But they do tend to spend their money a lot easier.
+Well, I think this indicates for design.
+I think we should make a remote for the future.
+And this means we have to focus on the ages 16 to 45.
+This also makes the most big part of the market.
+So there will also be where our main profit will be.
+This will be where we would have to make a fancy design.
+The results also indicated that about one corner of the people
+questioning thought that the remote control caused areas high.
+This is certainly something to take into account.
+And 34% thought that it was hard to learn and operate a new control.
+So these are two factors that I think should be included in that design.
+Besides, of course, the remote must look very nice.
+The functionality.
+As a lot of people indicated, they would use about 10% of the buttons.
+I think we should make very few buttons.
+And this will also be beneficial to the design of the remote.
+I think the most frequently used buttons should be emphasized, especially the child selection of audio selection buttons.
+Because they are used most.
+And so they should be reduced.
+They shouldn't break down easily.
+Then as a lot of people indicated that their remote got lost in the room, it might be,
+because it would certainly boost the production costs a lot.
+But it might be a good idea to make a docking station.
+And this would get a button in it, which would send a signal to the remote, which would then be.
+So you know where it is in the room.
+And in addition to this, it could recharge the batteries in the remote if you put it in.
+Then, surprisingly, great deal of people indicated that an LCD screen in the remote control would be preferred.
+This was mostly people in the age of 16 to 25.
+But up till 45 is remains feasible.
+This would also really increase in production costs.
+So I think these are just some small factories we could consider.
+Okay.
+That would be all.
+Thank you.
+Anybody have any questions?
+Questions?
+No.
+I'm going to finish the requirements.
+Okay.
+That's good.
+Yeah.
+That's in a second.
+Okay.
+Okay.
+I don't know if I can go ahead.
+Yeah.
+Usually interface.
+Yeah.
+Yeah.
+Yeah.
+For the technical friction of it.
+Yeah.
+You can take your time.
+You can take your time.
+Let me finish that.
+Let me finish that.
+No.
+It's been a slideshow.
+Yeah.
+Yeah.
+I think we must use general functions for remote control.
+Actually, I've known a little research on the internet.
+Not much information about it.
+About the interface with that.
+Yeah.
+I've been thinking about a simple manner to put a lot of functions in one remote control.
+So you've got a lot of effects like if the derivation is stereo.
+But it must be used friendly.
+So you can put a lot of functions in one.
+Yeah.
+Yeah.
+Yeah.
+Yeah.
+In one remote control.
+But yeah.
+Yeah.
+Got many functions in one remote control.
+But yeah, you can see this is quite simple.
+Every remote control, fewer buttons.
+But this very remote control got a lot of buttons.
+Yeah.
+People I don't like it.
+So I was thinking about what's going to keep the general functions
+like on our button, keep it like a redbird and everybody knows it, so you don't have to change that.
+Personal reference, it was a display for a special function of the difference, in fact.
+So, what I was thinking about was, you've got, this is the remote controller, you've got the error function,
+it's like, I don't have a button, so I don't know, here you've got a kind of display, it's a touch screen.
+So, you've got the, you know, the proper function of the device for a DVD player.
+So, yeah, for making a reverse data, you've got the real buttons for selecting a device.
+So, this button is already VR.
+So, for every device, you've got a part of a display, a part of a buttons.
+So, you've never got all the buttons on one device, so this is my idea about it.
+Yeah, and let's see, yeah, so touch screen.
+And the buttons, the real buttons we have to use, we better use a large buttons for everybody after you say it.
+So, for all people, young people, so, we must keep buttons quite simple and quite large.
+It was my part of it.
+I mean, there's questions about the technical functions.
+Well, I think if we're going to use a touch screen, we're going to go way above 12 of yours.
+Yeah, I don't think so.
+Yeah, you've got quite a cheap touch screen.
+It's not a corner or something.
+Yeah, just one corner.
+Yeah.
+I've seen something on the internet, not today, but a few reach go.
+You've got quite a kind of touch screen for 20 euros or so.
+Yeah, euros or less.
+So, it's possible.
+Well, certainly you make a fancy design.
+Yeah.
+So, it wouldn't be very robust.
+It's very fragile and you can get scratches on it.
+Not as true as you can do.
+Yeah, maybe you can first listen to your presentation.
+Yeah, it's good.
+Then we have a little discussion about the requirements.
+Okay.
+So, I think it's going to do it.
+Okay, I've got a presentation about the work inside.
+So, first about how it works.
+It's really simple.
+Of course, everybody knows how to remove works.
+The usual presses button.
+If you remove it, there's what button it is.
+Use the infrared to send a signal to the TV switch to the frequency or a function it is.
+So, we've got a play.
+It's got conductive disks for every button.
+When the usual presses button, the signal got sent.
+It goes to the left and transmit it, transmit it to the TV.
+It's a very simple device thing to see.
+So, this is a schematic overview.
+We've got the buttons, the power source.
+And when a button gets pressed, it goes to the chip.
+The chip controls the infrared bow.
+And perhaps a normal bow.
+When you press button, you can actually see your pressed button.
+Well, my finger should use default materials.
+Simple plastics.
+Keep it in the work.
+Simple.
+So, it's robust.
+I think we should focus on aesthetics in the design and the user interface.
+Because if you're going to use high-tech materials, the price is going to be the sky.
+You only have to design the remote ones.
+And if you use high-tech materials, come back in every product.
+So, it's, in my idea, it's going to be smart to invest in design,
+not in the product itself.
+That's it.
+Okay, thank you.
+Okay, now everybody has a little bit more insight in the functions we all have.
+And what we're doing right now.
+I'm the project manager.
+So, I'm here to mess things up.
+There's some new requirements.
+And that's, we've got the design remote, which is only suitable for TV.
+And that's because it will be too complex.
+The time to mark will be too big.
+If we want to have it for more functions.
+So, that's to be simple.
+Another point is we have to skip the data text,
+because in the world of coming internet,
+we think data text is going to be a thing with the past.
+And it's, actually, you don't need to know remote control.
+The internet is also mentioned just to go in the function you can use.
+Maybe also on televisions it will be available.
+So, another one is the customer is 40 plus.
+That's the market we have to target,
+because we are going to develop a new product,
+which is specially designed for the younger customers.
+This is a bit pity for the market.
+Because it was aiming on the younger persons.
+So, we have to find the market, which is about 40 plus,
+but which will suit our remote control and the other way around.
+And we have to be very,
+then putting the carbon image in our product.
+That has to be visible in our design,
+in the way our device works.
+And we have to be very careful in this point as well.
+So, as you just, let's have a discussion on the control functions.
+So, is there any discussion possible about the requirements?
+We can see if we can find a way between the functions we want to use,
+and the market we want to reach with our product.
+You're saying that the text is going to be an old feature,
+and it's not going to be used any more anyway.
+Pretty soon, and new TVs will have internet hexa helmet.
+But I think if you're targeting people of 40 plus,
+the chancellor, they will have a TV with internet hexas within the next like 20 years,
+it's very slim.
+In addition, people indicated that teletext simply was an important feature for the remote control.
+So, I think it's pretty dumb to put no teletext feature on it.
+I'm pretty much against it.
+Yes.
+Besides that, I think the market for 40 plus is pretty small.
+But, if I see this, I think we're just going to go for another step.
+I think we can do a little bit of design,
+and the simple buttons, which are also mentioned.
+If we put a lot of effort in those, we can make a remote control with just two or three buttons,
+or just three modes, which is suitable for the market we want to reach,
+because it is 40% of the market.
+And if you look in Holland at the whole generation of 40 plus 50 plus,
+it's the biggest share of the whole population now.
+Yes, but it's not the biggest part of the market.
+Besides that, they're not very critical.
+I mean, they don't really care what the remote control is like.
+They'll just pretty much take the first thing they see, which looks acceptable.
+But don't you think that if we make a remote, which is typically made for this market,
+the people think from the people think that's the device I've looked for,
+although I didn't realize it.
+So let's try it.
+No.
+I think that would be the case in 16 to 45 H category.
+Because they are critical, and they want to have a fancy remote control.
+People are 40 plus.
+I mean, they want it to work, but as soon as it works, it's okay with them.
+Yeah.
+I think that if we put our marketing right,
+we can sell this just like, I don't know if you've heard about it in the news,
+the elderly mobile phone.
+Yeah.
+It's a big success.
+Yeah, if we make a remote control, just with that idea in mind,
+we could make tons of them.
+We don't have to focus on the design then, but on functionality.
+We can just change our focus on the project,
+but I think we can sell this.
+Right.
+I simply think that the new products we're going to make,
+specifically design our designs for younger people.
+So maybe we can focus ourselves on the elderly people.
+And I think we have to see what requirements we need for those remote controls.
+Those are two tools.
+The channel selection is important.
+The volume selection power and the data test.
+Okay.
+Obviously the board tends to disagree.
+Now we haven't voted yet.
+I think data test can be,
+can be a function as well.
+But only if we don't hire the cost.
+Because I don't know if it will be a lot more money to implement data
+text as well.
+But I don't think that it will be a problem.
+Where is the data test?
+I don't think that people need a data test for a subtype.
+So it's, yeah.
+Yeah.
+So I should just think of it.
+Definitely the entire idea not to implement data text.
+Is there anybody really against data text?
+Right.
+It's still.
+Let me just keep the data text.
+It's pretty easy.
+Especially for the subtitles.
+Maybe we can make that another point of advantage in our remote control.
+We make a better mix, for example, for big subtitles,
+which is instantly on the remote control for elderly people that they can think
+of subtypes and push the button and they get the big subtitles.
+Right.
+That's good.
+So I think that text can be very useful in our advantages.
+Functionality should be a few buttons, you said.
+Yes.
+I think that's very important.
+We have a few buttons.
+Mm-hmm.
+So it's a given button, simple.
+I don't think that's really an issue anymore.
+It might be.
+I mean, for TV, you're not going to need a lot of buttons.
+Not one to zero button.
+The next channel, previous channel.
+Well, I'm actually not.
+I've got some teletics buttons, but ...
+Yeah.
+I mean, you only can't skip this day, so we don't need it.
+No.
+Do you need the buttons for one to zero?
+Maybe you think you're going to include teletics should do.
+I think many people like to use that.
+Maybe there's a little switch from the channel one to like 35.
+you don't want to push the next channel button five times. Maybe you can implement
+the scroll button or a joystick like there are other ways too. If you look at
+telephone, the Sony telephone is a scroll button which is very useful in
+searching names or it's true but I don't think there are many TVs that can
+switch channels that fast and so you would need like the TV would need a
+function where you can actually view all channels and scroll through it. I don't
+know if many channels do have many TVs on there and besides that it's if we're
+going to focus on elderly people they'll have to adapt they're not used to using
+scroll buttons. Perhaps we should stick to the basic layout.
+They can see how much buttons they are going to be on on the display and if
+it's too much we can reconsider it. I think that one means very much buttons
+or they're done. But I think if you're going to make a remote control only to
+operate a TV there's not much you can gain on having a few buttons as
+possible because I think there are pretty many remote controls that can only
+operate a TV but you already only have the minimum number of buttons. I don't
+think there's much to be gaining that area in the middle of the buttons. I think
+it's very important in the in the design can make a very fancy design with
+putting the buttons on the right place if you have less buttons you can do a
+lot more of it. That is true but I think there's simply not much to gain on the
+competition when you're making a remote control only for to operate only
+the TV. If you have a remote control only to operate a TV there's simply not a
+lot of buttons required. There's not a lot of functions required so most
+existing remote controls simply don't have a lot of buttons either. So I think it
+will be very hard to actually gain on the competition here. So I think it would
+cost a big marketing expedition which was one of the arguments to make it
+only for the TV because we didn't have the time to market a lot. So you should
+just be good better focus on for example the docking station like other
+functions instead of less buttons. Well yeah I think I mean we obviously need a
+good way to position all the buttons on but I don't think we should spend
+pretty much time in that. Do you think the docking station is allowed in the
+budget we had? It should be possible yes because it's not too fancy and if the
+remote stays rather small it should be possible. I think that's a good advantage
+point as well. If we have a guarantee looking docking station or so we're
+just going to focus on the extras. I think so yeah I think maybe we should do
+some research to what other people like to have you know yeah like to
+x-ray in the remote control. You said they easily get lost as well. Yes well
+50% of the people indicated that remote control tended to get lost so maybe we
+should implement the audio side. Yeah that was what I suggested. Like we've
+have a key chain if you like so it goes. It makes it. You have some phones to jump
+docking station. You just press a button and it goes right in. Yeah say it already is
+audio signal. It would be possible as well I think it's not too expensive.
+Another the LCD screen. I don't know if that will rise to cost too much. I think we'll
+have to choose between the docking station or the screen because yeah I think
+since a lot of people indicated a new remote control was hard to learn and
+we're focusing on all the people here which tend to have a hard time
+understanding new devices. It might be a good idea to have just a little screen on
+it which we explain a button if you press it which would tell you what it
+does. Yeah and it wouldn't have to be touchscreen or very expensive screen but
+just the LCD just the normal screen just the screen would be too some extra
+info. Yeah I think that's a good idea as well but I don't know if that will be
+the small screen to the cost of a button info. I think that you'll be possible as well.
+Let's see what did we say more. It should be fancy to fancy design easy to learn.
+few buttons you talk about that docking station LCD. General
+functions. And default materials. I think that's a good idea as well because all the
+people don't mind if it's titanium cover or just a plastic one so it doesn't
+really matter so I think probably only people would be a little bit careful with
+their remote control. And that's specified a target group that I've been talking about
+elderly elderly people or people from 40 to 80 because I think what we're going to
+design is for people above 60 maybe. What do we learn if we want to
+profulate us with for example the telephone for elderly people we can target the real elderly people.
+I think that would be if we should do something like that it would be I think it would be really good for
+for the image of the company. Yeah and I think I think there would be good market for it so it's
+to really bring in an innovative product. You're talking about 62 to 80 for example. Yeah I have to look into it a little more.
+Okay and different cultures. I don't think they have different television sets in an every country.
+We've got five minutes left and with the little screening which explains buttons you could I think it would be a lot easier to adapt to
+different cultures. Yeah in different languages or you have to put a language that will be embedded in this area.
+It's better to put it in different markets. Okay so that's the target.
+Okay I will put the minutes in the project document folder.
+What we're going to do for the next meeting is the industrial designer with a component set.
+So I'm just going to keep in mind the things we've said about the target group and the requirements and the trends which are going to go.
+And specific instructions you'll be sent to you by the personal coach.
+Thank you for this meeting. I think we have an inch break now. That's good.
+That's a good thing.
+Now I'm not allowed to talk about it.
+Let's call you for anything.
+Thank you.
+Thank you.
+If you wanted to go my way, I am not going to feel it out of there, it isn't
+out of line, you know, out of line, you just need to stretch this foot.
+In that case, here we go.
+That's a special thing.
+Thank you.
+Everybody, you find this place, you can get this, that's nice.
+And so, this is our second meeting, and instead of failing, you know, now we're going
+into the functional design.
+The important thing of this phase is that we're going through trying to get an agreement
+about the user requirements, technical function design, and the working design, so that we can move on to the second phase.
+The first is phase.
+First, I can answer them.
+There's a little adaptation in the air conditioning system.
+So, as there are, it goes mass again.
+But that means that you can have a little strong, a little strong of air conditioning, that's because of this.
+Okay.
+That's in way C and E, so it should be open in a couple of days.
+It's going to be cold anyway, so I don't think you can do it.
+Then our agenda, now first the opening.
+This time, I will take a minute.
+You're going to have a presentation of it, and we've got 40 minutes for the whole presentation.
+So, I suggest we take about seven minutes per presentation, and then we can add a little discussion about the new project requirements, which have me sent to me.
+And then the decision on the control functions, which you want to include.
+That's 40 minutes for all of it.
+So, I suggest that it starts at the first presentation.
+Who wants to leave first?
+I think I'll go first.
+Okay.
+That is easy if you, yeah, I think you'll tell me your presentation is all, which fiction you have, and where you're going to talk about it.
+Okay.
+My name is Frank Chopon.
+I'm the work expert.
+I'm going to let you do that.
+I've done some research.
+We have been doing research in usability.
+We observed users operating remote controls.
+We let them tell out a questionnaire.
+We had 100 of these test subjects.
+In addition, we did some market research.
+See what the market consists of.
+What ages are involved?
+Well, these are three code, don't issue results, I thought.
+Remote are being considered ugly.
+A 75% of the people pushing indicated that they thought they were remote workers ugly.
+An additional 80% indicated that it would spend more money on a fancy looking remote control.
+In addition, we're not very functional.
+50% of the people indicated that they only use about 10% of the buttons on that are not controlled.
+And 50% of the people indicated that they're remote tend to get lost in their room.
+So, things.
+Then we did some research to do most relevant functions.
+General selection and volume selection, both got a 10 on a scale of 1 to 10 for relevancy.
+The power button got a 9 and that the text got a 6 and a half.
+So, these are the most important functions of a remote control.
+Then there are some multi-use functions.
+That's what I'd like to call them.
+There are audio settings, video settings, channel settings, buttons.
+Which you're not really used very frequently.
+But are still considered to be of some importance.
+Channel selection was also indicated to be used fairly frequently.
+168 times per hour.
+And this is the market.
+16% of the market consists of users between the ages 16 and 46.
+The main characteristic of this group is that they're very critical on the remote control.
+They'd like to use new functions.
+But they also are very critical.
+They won't spend their money very easily.
+So, the users of 46 to 65 years, they make up 40% of the market.
+They're not really very interested in features.
+But they do tend to spend their money a lot easier.
+Well, I think this in case for design.
+I think we should make a remote for the future.
+And this means we would have to focus on the ages 16 to 45.
+This also makes up the most big part of the market.
+So, it will also be where our main profit will be capable.
+This will be where we would have to make a fancy design.
+The results also indicated that about one quarter of the people
+questioned thought that the remote control caused Paris, Paris-I.
+This is certainly something to take into account.
+And 34% thought that it was hard to learn and to operate a new control remote control.
+So, these are two factors that I think should be included in that design.
+Besides, of course, the remote must look very nice.
+The functionality has a lot of people indicated that they only use about 10% of the buttons.
+I think we should make very few buttons.
+This will also be beneficial to the design of the remote.
+I think the most frequently used buttons should be emphasized,
+especially the child selection and audio selection buttons,
+because they are used most.
+So, they should be reduced.
+They shouldn't break down easily.
+Then, as a lot of people indicated that their remote got lost in the room,
+it might be because they would certainly boost the production costs a lot.
+But it might be a good idea to make a docking station.
+And this would get a button in it,
+which would send a signal to the remote, which would then beat,
+so you'd know where it is in the room.
+And in addition to this, it could recharge the batteries in the remote if you put it in.
+Then, surprisingly, a great deal of people indicated
+that a mouse CD screen in the remote control would be preferred.
+This was mostly people in the age of 16 to 25,
+but up till 45 is remains feasible.
+This would also really increase in production costs,
+but I think these are just some small factors we could consider.
+Okay.
+Don't be all in queue.
+Anybody have any questions?
+Questions?
+No.
+Let's go ahead.
+Okay.
+Let's clear.
+Yeah.
+That's it.
+Second.
+Okay.
+I can go ahead.
+You should interface for the technical functions of the cockpit.
+Yeah.
+You can take your time.
+Let me have a second.
+Let's see.
+Slide share.
+Yeah.
+Yeah.
+I think my skills, the general functions, the remote control.
+Actually, I've known a little research on the internet,
+or not much information about it,
+about the interface with that.
+Yeah.
+I've been thinking about a simple manner of putting a lot of
+functions in one remote control.
+So you've got a lot of advice like if the derivation
+is stereo.
+So, but it must be useful, frankly.
+So, you can put a lot of functions in one.
+Yeah.
+Yeah.
+Yeah.
+Yeah.
+In one remote control.
+But yeah.
+Yeah.
+Got a main function in one remote control.
+But yeah, you can see this is quite simple every remote control.
+Few were buttons, but this very remote control.
+Got a lot of buttons.
+Yeah.
+People don't like it.
+So, I was thinking about what's keeping the general
+like VR, like on our button.
+Keep it, yeah.
+Like a record and everybody knows it.
+So, you don't have to change that.
+Personal preferences.
+You also have this paper, a specific function of the
+reference interface.
+So, well, I was thinking about, you've got,
+this is a remote control.
+You've got the error function.
+So, I don't know if button sounds.
+I don't know.
+Here, you've got a kind of display.
+It's a touchscreen.
+So, you've got the general profile function,
+software device for a different player.
+Okay.
+So, yeah.
+For playing reverse data.
+You've got the real buttons for selecting a device.
+So, this button is already VR.
+So, for every device, you've got a part,
+a display of a part of the buttons.
+So, you've never got all the buttons on one device.
+So, this is my idea about it.
+Yeah, and let's see.
+Yeah.
+So, touchscreen.
+And the buttons, the real buttons we have to use.
+We better use quite an art presence for everybody after you see it.
+Well, if all people, young people,
+so we must keep a button quite simple and quite large.
+So, yeah.
+Yeah.
+It was my part of it.
+Any other questions about technical functions?
+Well, I think if we're going to use a touch screen,
+we're going to go way above the 12th of Europe.
+Yeah.
+I don't think so.
+You've got quite a deep touch screen.
+It's not a corner or something.
+It's just one corner.
+Yeah.
+I said something on the internet, not today,
+but a few weeks ago.
+You've got, yeah, quite.
+And the kind of touch screen,
+it's for 20 euros or less.
+So, it's possible.
+Well, we certainly make a fancy design.
+Yeah.
+So, it wouldn't be very robust.
+It's very fragile and you can get scratches on it.
+That's true.
+It's true.
+Yeah.
+You can do it.
+Maybe you can first listen to your presentation.
+Okay.
+I'll have a little discussion about the requirements.
+Okay.
+See how I mean.
+I think it's going to do.
+Okay.
+I've got a presentation about the work.
+The first about how it works.
+It's really simple.
+Of course, everybody knows how to remote works.
+The usual presses button.
+If you remote determines what button it is,
+use the infrared to send a signal to the TV switch
+to the frequency or the function it is.
+So, we've got play.
+It's got conductive disks for every button.
+When the usual presses button,
+the signal gets sent, goes to the left,
+and transmit it.
+It's a very simple device.
+This is a schematic overview.
+We've got the buttons, power source.
+And when a button gets pressed,
+it goes to the chip, the chip controls the infrared bow.
+And perhaps a normal bow.
+When you press button, you can actually see your pressed button.
+Well, my finger should use default materials,
+simple plastics, keep it in the working simple,
+so it's robust.
+I think we should focus on aesthetics and design in the user interface
+because if you go in to use high-tech materials,
+the price is going to go to the sky.
+You only have to design a remote once.
+And if you use high-tech materials,
+it comes back in every product.
+So, it's in my idea,
+it's going to be smart to invest in design in the product itself.
+That's it.
+Okay, thank you.
+Okay.
+Okay, now everybody has a little bit more insight
+in the functions we all have
+and what they're doing right now.
+I'm a project manager, so I'm here to invest things in.
+So, the requirements,
+we've got to design a remote,
+which is only suitable for TV.
+And that's because it will be too complex.
+At the time to mark, it will be too big.
+We want to have it for more functions.
+So, it has to be simple.
+Another point is we have to skip the data text
+because in the world of coming internet,
+we think data text is going to be, I think, fast.
+And it's a function you've got to mean,
+you know, remote control.
+Internet is also mentioned.
+Just go in the function you can use.
+Maybe also on televisions it will be available.
+Another one is the customer.
+It's 40 plus.
+It's the market here to target because we're going to develop a new product,
+which is specially designed for the younger customers.
+This is a bit pretty for the marketer.
+It's an expert because he was aiming on the younger persons.
+So, we have to find the market, which is about 40 plus,
+but which will suit our remote control and the other way around.
+And we have to be very at that,
+in putting a carbon image in our product.
+It has to be visible in our design in the way our device works.
+And we have to be very clear on this point as well.
+So, I suggest.
+Let's have a discussion on control functions.
+So, is there any discussion possible about any kind of requirements?
+We can see if we can find a way between the functions we want to use.
+The marketer we want to reach with our product.
+You're saying that the text is going to be an old feature,
+and it's not going to be used any more anyway.
+Pretty soon and new TVs will have internet access on them.
+But I think if you're targeting people of 40 plus,
+the chance that they will have a TV with internet access within the next,
+like 20 years, is very slim.
+In addition, people indicated that teletext simply was an important feature for the remote control.
+So, I think it's pretty dumb to put no teletext feature on it.
+I'm pretty much against it.
+Against the not dead text.
+Yes.
+Besides that, I think the market for 40 plus is pretty small.
+I think we're just going to go for another step.
+I think we can do a little bit of design and the simple buttons which are also mentioned.
+If we put all of everything down, we can make a remote control with just two or three buttons.
+It's just a remote which is suitable for the market to be on the reach because it is 40% of the market.
+And if you look in Holland at the whole generation of 40 plus 50 plus,
+it's the biggest share of the whole population now.
+Yes, but it's not the biggest part of the market.
+Besides that, they're not very critical.
+So, I mean, they don't really care what the remote control is like.
+They'll just pretty much take the first thing they see and which looks acceptable.
+But don't you think that if we make a remote which is typically made for this market,
+the people think from the people think that's the device I've looked for, although I didn't realize it.
+So, let's try it.
+No.
+I think there would be the case in 16 to 45 H's category.
+Because they are critical and they want to have a fancy remote control.
+People are 40 plus.
+I mean, they wanted to work, but as soon as it works, it's okay with them.
+I think that if we put our marketing right, we can sell this just like,
+I don't know if you've heard about it in the news, the elderly mobile phone.
+Yeah.
+It's a big success.
+Yeah.
+If we make a remote control, just with that idea in mind, we could make tons of money.
+We don't have to focus on the design then, but on functionality.
+We just change our focus on the project, but I think we can sell this.
+I simply think that the new products we're going to make are designed for younger people.
+So, maybe we can focus ourselves on the elderly people.
+And I think we have to see what requirements we need for those remote controls.
+I thought you would tell that the channel selection is important.
+The volume selection power and the data text.
+Obviously, the board tends to disagree.
+Now, we haven't voted it.
+I think data text can be a function as well, but only if the higher the cost.
+Because I don't know if it will be a lot more money to implement data text as well, but I don't think it will be a problem.
+Where is the data text?
+I don't know if people need a data text for sub-dities.
+So, it's...
+Yeah.
+So, I should just...
+I think it's definitely the entire idea not to implement data text.
+Is there anybody really against data text?
+Right.
+Just let me just keep the data text.
+It's good as well, especially for the subtitles.
+Maybe we can make that another point of advantage in our remote control.
+We make a better mix, for example, for big subtitles, which is instantly on the remote control for elderly people that they can think of.
+I want to sub-dice and push the button and get the big subtitles.
+That's good idea.
+So, I think data text can be very useful in our advantage.
+Functionality should be a few buttons, you said.
+Yes.
+I don't care.
+That's very important.
+We have a few buttons.
+Mm-hmm.
+So, to keep it simple.
+I don't think that's really an issue anymore because...
+Well, it might be.
+If it's only for TV, you're not going to need a lot of buttons anyway.
+Not the one to zero button.
+The next channel, previous channel.
+I'll pull him down.
+And some data text buttons.
+Yeah.
+I mean, you can't skip this way, so we don't need it.
+Do you need the buttons for one to zero?
+Maybe.
+Thank you.
+I think many people like to use that.
+Maybe there's a...
+If you want to switch from channel one to like 35, you don't want to push the next channel
+button 25 times.
+Maybe you can implement the scroll button or a joystick like...
+There are other ways to...
+If you look at telephone, the Sony telephone is scroll button, which is very useful in searching
+names or...
+It's true, but...
+I don't think there are many TVs that can switch channels that fast.
+And so you would need like...
+The TV would need a function where you can actually view all channels and scroll through it.
+I don't know if many channels would do have the many TVs on it.
+And besides that, it's...
+If we're going to focus on elderly people, they'll have to adapt.
+They're not used to using scroll buttons.
+Or perhaps we should stick to the basic layout.
+Yes.
+The numbers.
+Yeah.
+They can see how much buttons they're going to be on the display.
+And if it's too much, we can reconsider it.
+I think they're going to be very much buttons.
+Or they're done.
+I think if you're going to make remote control only to operate a TV,
+there's not much you can gain on having a few buttons as possible.
+Because I think there are pretty many remote controls that can only operate a TV,
+which already only have the minimum number of buttons.
+I think there's much to be gaining that area in the middle of the moment.
+Yeah.
+I think it's very important in the design.
+You can make a very fancy design with putting the buttons on the right place.
+If you have less buttons, you can do a lot more.
+That is true.
+But I think there's simply not much to gain on the competition when you're making a remote control only for it to operate only the TV.
+To operate on the TV.
+If you have a remote control only to operate a TV,
+there's simply not a lot of buttons required.
+There's not a lot of functions required.
+So most existing remote controls simply don't have a lot of buttons either.
+So I think it would be very hard to actually gain on the competition here.
+Okay.
+So I think it would cost a big marketing expedition,
+which was one of the arguments to make it only for the TV
+because we didn't have the time to market a lot.
+Yeah.
+So you should just be good better focus on, for example, the docking station.
+Like other functions.
+Instead of less buttons.
+Well, yeah.
+I think, I mean, we obviously need a good way to position all the buttons.
+But I don't think we should spend very much time on that.
+Yeah.
+Do you think the docking station will,
+is allowed in the budget we have?
+It should be possible, yes.
+It's not too fancy.
+And if the remote stays rather small, it should be possible.
+Yeah.
+Because I think that's,
+it's a good advantage point as well.
+If we have a, we're still looking at the docking station.
+Right.
+So we're just going to focus on the extras.
+I think so.
+Yeah.
+I think maybe we should do some research into what other people like to have,
+you know,
+yeah,
+like to have extra in the remote control.
+Let's see the point.
+You said they easily get lost as well.
+Yes, well, 50% of the people indicated that the remote control tend to get lost.
+So maybe we should implement the audio side.
+Yeah.
+That was what I suggested.
+Yeah.
+Like we have a new chain if you like saw it.
+Yeah.
+It makes it.
+Yeah.
+So some phones to the docking station.
+And you just press a button and it goes right.
+Yeah.
+So it is highly a signal.
+It would be possible as well.
+I think it's not too expensive.
+Yeah.
+So it's,
+uh,
+another,
+or the LCD screen.
+Um,
+I don't know if that will rise to cost too much.
+Yeah.
+Um,
+I think we'll have to choose between the docking station or the screen.
+Yeah.
+Yeah.
+Absolutely too much.
+Yeah.
+I think since a lot of people indicate that a new remote control is hard to learn.
+And we're focusing on elderly people here, which tend to have a hard time understanding
+the new devices.
+It might be a good idea to have just a little screen on it, which we're explaining a
+button if you press it, which would tell you what it does.
+Yeah.
+And it wouldn't have to be touch screen or very expensive screen.
+Yeah.
+Just the LCD or just a normal screen.
+Just a little screen.
+Maybe two.
+Some extra info.
+Yeah.
+Yeah.
+I think that's the ability as well.
+Good.
+I don't know if that will be.
+Is this small screen fit into the.
+Cost.
+I think it should be as well.
+Um, let's see what did we say more should be fancy to fancy design, easy to learn, few
+professions.
+Yeah.
+Okay.
+And default materials.
+I think that's a good idea as well, because, uh, all the people don't mind it's, uh,
+titanium cover or just a plastic one.
+It doesn't really matter.
+So.
+I think probably only people would be a little bit careful with their remote controls.
+Yeah.
+And that's, um, specified a target group.
+Are we talking about elderly people or people from 40 to 80?
+Because I think what we're going to design now is for people above 60.
+Maybe.
+Yeah.
+What do we want?
+I think we want to, uh, uh, uh, prof lead us.
+But, uh, for example, the telephone for elderly people, we can target the real elderly
+people.
+I think that would be, uh, if you should do something like that, it would be, I think
+you're really good for, uh, for the image of the company.
+Yeah.
+And I think, I think there would be good market for it.
+So that's the way I go to really bringing enough different product.
+Yeah.
+You're talking about 62.
+80.
+For example.
+Yeah.
+Yeah.
+But 60.
+I have to look into a little more.
+Okay.
+And different cultures.
+I don't think they have different television sets, uh, in every country.
+No.
+Hmm.
+It's got five minutes left.
+And with, uh, the little screening, which explains buttons, you could, I think it would
+be a lot easier to adapt to different cultures.
+Yeah.
+Yeah.
+Yeah.
+Yeah.
+Yeah.
+Yeah.
+Yeah.
+Yeah.
+Yeah.
+Yeah.
+Yeah.
+Yeah.
+Yeah.
+Yeah.
+Yeah.
+Okay.
+So that's, uh, the target.
+Uh, then a few, you know, slow things.
+Okay.
+Okay.
+I will put the minutes in a project, uh, project document folder.
+Um, what we're going to do for the next meeting is the initial design of the components
+and set.
+Here's the instance.
+So I'm going to use the instance set and the trend branching.
+So I just keep in mind the things we've said about the target group and the requirements
+and the trends, which are, uh, growing.
+And, uh, specific instructions, you'll be sent to you by, uh, the personal coach.
+So, uh, I think it was meeting.
+Uh, I think it was an interest rate now.
+That's good.
+No.
+That's a good thing.
+Yeah.
+Yeah.
+And I'm not allowed to talk about it.
+So this is our second meeting and now we're going into the Fictional Design.
+The important thing of this phase is that we're going to get an agreement about the
+user requirements technical Fictional Design and the working design so that we can move on to the second phase.
+But first it is phase. First it is an answer. There is an adaptation in the air conditioning system.
+So as our goes mouse again, that means that you can have a little trouble with air conditioning that's because of this.
+Okay, let's see when it's CME so it should be often in a couple of days.
+It's going to be cold anyway so I don't think it will be cold enough.
+Then our agenda, first the opening. This time I will take a minute.
+You're going to have a presentation of you and we've got 40 minutes for the whole presentation.
+So I suggest we take about 7 minutes per presentation and then we can have a little discussion about the new project requirements which have been sent to me.
+And then the decision on the control functions which we want to include and post which we have done included.
+So we've got 40 minutes for all of it so I suggest that starts at the first presentation.
+So maybe it's easy if you think you will tell me your presentation is all which fiction you have.
+Are you going to talk about it?
+Okay, my name is Rick and I'm a marketing expert.
+I've done some research.
+We have a new research in the usability that when we observe users operating remote controls.
+We don't think it's a lot of question here.
+We have 100 of these test subjects.
+In addition, we did some market research, see what the market consists of, what ages are involved.
+Well, these are three quite astonishing results, I thought.
+And remote are being considered ugly.
+75% of the people posting indicated that they thought their remote were ugly.
+And an additional 80% indicated that it would spend more money on a fancy looking remote control.
+And in addition, remote were not very functional.
+50% of the people indicated that they only use about 10% of the buttons on a remote control.
+And 50% of the people indicated that the remote tend to get lost in their room.
+So it's big.
+Then we did some research today on most relevant functions.
+The channel selection and void selection both got a 10 on a scale of 1 to 10 for relevancy.
+The power button got a line and 10 of the text got a 6 and a half.
+So these are the most most important functions of the remote control.
+Then there are some multi-use function, that's what I'd like to call them.
+There are audio settings, video settings, channel settings, buttons, which you're not really used very frequently.
+But are still considered to be of some importance.
+The channel selection was also indicated to be used fairly frequently, 168 times per hour.
+Then this is the market.
+16% of the market consists of users between the ages 16 and 46.
+The main characteristic of this group is that they're very critical on the remote control.
+They like to use new functions, but they also are very critical.
+They won't spend their money very easily.
+So the users of 46 to 65 years, they make up 40% of the market.
+They're not really very interested in features, but they do tend to spend their money a lot easier.
+Well, I think this in the case for our design, I think we should make a remote for the future.
+And this means we would have to focus on the ages 16 to 45.
+This also makes up most the biggest part of the market.
+So there will also be where the main profit will be Kevin.
+This will be where we would have to make a fancy design.
+The results also indicated that about one quarter of the people questioned thought that the remote control caused areas high.
+This is certainly something to take into account.
+And 34% thought that it was hard to learn and operate a new control remote control.
+So these are two factors that I think should be included in design.
+Besides, of course, the remote must look very nice.
+Functionality has a lot of people indicated they only use about 10% of the buttons.
+I think we should make very few buttons.
+And this will also be beneficial to the design of the remote.
+I think the most frequently used buttons should be emphasized, especially the child selection and audio selection buttons.
+Because they are used most and so they should be reduced.
+They shouldn't break down easily.
+Then, as a lot of people indicated that the remote got lost in the room, it might be because it would certainly boost the production costs a lot.
+But it might be a good idea to make a docking station.
+This would get a button in it, which would send a signal to the remote, which would then beep, so you know where it is in the room.
+And in addition to this, it could recharge the batteries in the remote if you put it in.
+Then, surprisingly, a great deal of people indicated that a LCD screen in the remote control would be preferred.
+This was mostly people in the age of 16 to 25.
+But, up till 45, the remains feasible.
+This would also really increase the production costs.
+But, I think these are just some small factors we could consider.
+Okay.
+That would be all.
+Thank you.
+Anybody have any questions?
+Questions?
+Anybody.
+Questions or comments?
+Okay.
+Let's get it.
+That's it a second.
+Okay.
+I can move ahead.
+Yeah, usually interface, for the technical friction of it.
+Yeah, you can take your time, you can take your time to do it.
+That's been a slideshow.
+Yeah, I think we must use the general functions remote control.
+Actually, I've learned a little research on the internet,
+not much information about it, but I'm about the interface with that.
+Yeah, I've been thinking about a simple manner of it,
+but there are other functions that you want in the remote control.
+So you've got a lot of effects like the derivation in the stereo.
+But it must be useful for any.
+So you can put a lot of functions in one.
+Yeah, you can put a lot of functions in one.
+In one, remote control, but yeah.
+Yeah, got many functions in one remote control.
+But you can see this is quite simple, every remote control.
+Few are better, but this very remote control got a lot of better.
+Yeah, people don't like it.
+So I was thinking about the general functions like the yards,
+like on offer button.
+Keep it like a redbird and everybody knows it.
+So you don't have to change that.
+Personal preferences.
+You also display for the specific functions of the different types.
+So what I was thinking about was you've got
+this the remote control.
+So you've got the error functions like that on offer button.
+So I don't know.
+Here you've got a kind of display.
+It's a touchscreen.
+So you've got the general fingerprint function,
+for the DPD player.
+So for making a reverse data,
+you've got the real buttons for selecting a device.
+So this button is for IDPR.
+For every device, you've got a part,
+a part display of a part button.
+So you never got all the buttons on one device.
+So this is my idea about it.
+Let's see.
+So touchscreen.
+And the buttons, the real buttons we have to use.
+We better use a large presence for everybody,
+as they use it.
+So if all people, young people,
+so we must keep the buttons quite simple and quite large.
+Yeah.
+Yeah.
+It was my question about technical functions.
+Well, I think if we're going to use a touchscreen,
+we're going to go way above the 12 and a half euros.
+Yeah.
+I don't think so.
+You've got quite a cheap touchscreen.
+It's not a quarter or something.
+It's just one call.
+Yeah.
+I see something on the internet,
+not today, but a few weeks ago.
+You've got quite a kind of touchscreen
+for 20 euros or less.
+So it's possible.
+Well, we certainly make a fancy design.
+Yeah.
+So it wouldn't be very robust.
+It's very fragile, and you can get scratches on it.
+Not a stream, that's right.
+Maybe you can first listen to your presentation.
+Yeah.
+And then we have a little discussion about the requirements.
+So.
+I think it's going to do.
+OK.
+I've got a presentation about the working design.
+First about how it works.
+It's really simple.
+Because everybody knows how it works.
+The usual process is button.
+The remote determines what button it is.
+Use the end for red to send signal to the TV switches
+to the frequency or the function it is.
+So we've got a plate that's conductive disks for everybody.
+When the usual process is button, the signal got sent.
+Goes to the left and transmit it.
+It's a very simple device.
+This is a schematic overview.
+We've got the buttons, the power source.
+And when a button got pressed, it goes to the chip.
+The chip controls the infrared bulb.
+Perfect.
+Perhaps a normal bulb when you press button.
+You can actually see your press button.
+Well, I think we should use default materials,
+simple plastics, keep the inner working simple.
+So it's robust.
+I think we should focus on aesthetics and design in the user interface
+because if you're going to use high-tech materials,
+the price is going to be on the sky.
+You only have to design a remote once.
+And if you use high-tech materials, come back in every product.
+So in my idea, it's going to be smart to invest in design
+in the product itself.
+That's it.
+OK, thank you.
+OK, now I hope everybody has a little bit more insight
+in the functions we all have in what they're doing right now.
+I'm the project manager, so I'm here to invest in.
+There are some real requirements.
+That's we've got to design a remote,
+which is only suitable for TV.
+And that's because it will be too complex.
+The time to market will be too big if we want to have it
+for more functions.
+So it has to be simple.
+Another point is we have to skip the data text
+because in the world of coming internet,
+we think data text is going to be, I think, fast.
+And it's a function you don't need to know,
+remote control.
+The internet is also mentioned.
+Just go in the function you can use.
+Maybe also on televisions it will be available as well.
+Another one is the customer.
+It's 40 plus.
+That's the market we have to talk about.
+Because we're going to develop a new product,
+which is specially designed for the younger customer.
+This is a bit pretty for the marketing expert
+because he was aiming on the younger person.
+So we have to find a market which is about 40 plus,
+but which they'll serve our remote control
+and the other way around.
+And we have to be very
+attending, putting a corporate image in our product.
+So it has to be visible in our design
+in the way our device works.
+And we have to be very clear on this point as well.
+So I suggest.
+Let's have a discussion on control functions.
+So is there any discussion possible about any kind of requirements?
+We can see if we can find a way between the functions we want to use.
+The market we want to reach with our product.
+You're saying that the text is going to be an old feature
+and it's not going to be used any more anyway.
+Pretty soon and new divus will have internet access on them.
+But I think if you're targeting people of 40 plus,
+the chance that they will have a div with internet access
+within the next like 20 years is very slim.
+In addition, people indicated that teletext simply was an important feature
+for the remote control.
+So I think it's pretty dumb to put no teletext feature on it.
+I'm pretty much against it.
+I think the market for 40 plus is pretty small.
+But I think we're just going to go for another step.
+I think we can do a little bit of design
+and the simple buttons which are also mentioned.
+If we put a lot of effort in those, we can make a remote control
+with just two or three buttons.
+Just a remote which is suitable for the market we want to reach
+because it is 40% of the market.
+And if you look in Holland,
+the whole generation of 40 plus 50 plus,
+it's the biggest share of the whole population now.
+Yes, but it's not the biggest part of the market.
+Besides that, they're not very critical.
+So I mean, they don't really care what the remote control is like.
+They'll just pretty much take the first thing they see
+and looks acceptable.
+So the only thing that we make a remote which is typically made
+for this market, the people think from the people thing,
+that's the device I've looked for although I didn't realize it.
+So let's try it.
+No.
+I think there will be the case in 16 to 45 H category.
+Because they are critical and they want to have a fancy remote control.
+People are 40 plus.
+I mean, they want it to work, but as soon as it works, it's okay with them.
+Yeah.
+I think that if we put our marketing right,
+we can sell this just like I don't know if you've heard about it in the news,
+the elderly mobile phone.
+Yeah.
+Yeah.
+If we make a remote control, just with that idea in mind,
+we could make tons of money, I think.
+Yeah.
+We don't have to focus on the design then, but on functionality.
+We just change our focus on the project and I think we can sell this.
+Yeah.
+I simply think that the new products we're going to make,
+specifically inside our design for younger people.
+So maybe we can focus ourselves on the elderly people.
+And I think we have to see what requirements we need.
+For those remote controls.
+Because what you told is the channel selection is important.
+The volume selection power and the data text.
+Yes.
+Okay.
+Obviously the board tends to disagree.
+No, we haven't voted yet.
+I think data text can be, can be a function as well.
+But only if they don't hire the cost.
+Because I don't know if it will be a lot more money to implement data text as well.
+But I don't think it will be a problem.
+Where is the text?
+That people need a data text for a subtype.
+Yeah.
+Yeah.
+So I should just think.
+Definitely the entire idea of what we can do with data text.
+Is there anybody really against data text?
+Right.
+Yeah.
+It's just keep the data text.
+It's good to use it.
+Especially for the subtitles.
+Maybe we can make that.
+Another point of advantage in our remote control.
+We make a button for example for big sub titles.
+Which is instantly on the remote control for elderly people.
+They can think I want to sub that and push the button and get the big sub titles.
+That's a good idea.
+I think data text can be very useful in our advantage.
+Functionality should be a few buttons.
+You said?
+Yes.
+I don't do that.
+It's very important.
+We have a few buttons.
+Mm-hmm.
+So let's keep it.
+It's simple.
+I don't think it's really an issue anymore.
+It might be.
+If it's only for TV, you're not going to need a lot of buttons in your way.
+No.
+One to zero button.
+Next channel.
+Previews channel.
+Pulling up.
+Pulling down.
+And some teletext buttons.
+Yeah.
+I mean, we can't skip this way.
+So we don't need it.
+The buttons for one to zero.
+Maybe you're going to include teletext.
+I think many people like to use that.
+Maybe you're going to switch from channel one to like 35.
+You don't want to push the next channel button 25 times.
+Maybe you can implement the scroll button.
+Or a joystick.
+There are other ways to look.
+If you look at telephones, the Sony telephones are a scroll button, which is very useful in searching the names.
+That is true.
+But I don't think there are many TVs that can switch channels that fast.
+And so you would need like a TV, you need a function where you can actually view all channels and scroll through it.
+I don't know if many channels would do have the 20 TVs on there.
+And besides that, if we're going to focus on elderly people, they'll have to adapt.
+They're not used to using scroll buttons.
+Perhaps we should stick to the basic layout.
+This is the numbers.
+Yeah.
+You can see how much buttons there are going to be on the display.
+It's too much.
+We can reconsider it.
+I think that one means very much buttons are there.
+But I think if you're going to make remote control only to operate a TV, there's not much you can gain on having a few buttons as possible.
+Because I think there are pretty many remote controls that can only operate a TV, which already only have the minimum number of buttons.
+I think there's much to be gaining that area.
+A number of buttons.
+Yeah.
+I think it's very important in the design.
+You can make a very fancy design with putting the buttons in the right places.
+If you have less buttons, you can do a lot more of it.
+That is true.
+But I think there should be not much to gain on the competition when you're making a remote control only for it to operate only to the TV.
+If you have a remote control only to operate a TV, there's simply not a lot of buttons required.
+There's not a lot of functions required.
+So most existing remote controls simply don't have a lot of buttons either.
+So I think it would be very hard to actually gain on the competition here.
+So I think it would cost a big marketing expedition, which was one of the arguments to make it only for the TV because we didn't have the time to market a lot.
+Yeah.
+So you should just be good better focus on, for example, the docking station.
+Like other functions instead of less buttons.
+Well, yeah.
+I mean, we obviously need a good way to position all the buttons.
+But I don't think we should spend very much time on that.
+Do you think the docking station is allowed in the budget we have?
+It should be possible, yes.
+It's not too fancy.
+And if the remote stays rather small, it should be possible.
+Yeah.
+Because I think that's a good advantage point as well.
+If we have an interesting looking docking station.
+So we're just going to focus on the extras.
+I think maybe we should do some research into what other people like to have in the remote control.
+And you said they easily get lost as well?
+Yes, well, 50% of the people indicated that the remote control tended to get lost.
+So maybe we should implement the audio side.
+I said, yeah, that was what I suggested.
+Yeah.
+We have a little change if you want to.
+Yeah, so it goes.
+Yeah.
+It makes sense.
+Yeah.
+But some films to the docking station.
+And you just press a button from the ring.
+Yeah.
+So you already have audio signal.
+It could be possible as well.
+I think it's not too expensive.
+Yeah.
+So it's not.
+Another.
+Or the LCD screen.
+I don't know if that will rise to cost too much.
+I think we'll have to choose between the docking station or the screen.
+Yeah.
+Absolutely too much.
+I think since a lot of people indicated a new remote control was hard to learn.
+And we're focusing on elderly people here, which tend to have a hard time understanding new devices.
+It might be a good idea to have just a little screen on it,
+which we explain a button if you press it, which would tell you what it does.
+Yeah.
+And it wouldn't have to be touch screen or a very expensive screen.
+Yeah.
+Just the LCD.
+Just the normal screen.
+Just the screen.
+Maybe two.
+Some extra info.
+Yeah.
+Yeah.
+I think that's the ability as well.
+But I don't know if that will be.
+Is this small screen fit into the.
+Cause.
+I swear button info.
+I think it should be as well.
+Let's see what did we say.
+More.
+You fancy to fancy design easy to learn.
+Few buttons.
+You talk like that.
+Talking station LCD.
+And general functions.
+Yeah.
+Okay.
+And default materials.
+I think that's a good idea as well.
+All the people don't mind it.
+It's a titanium cover or just a plastic one.
+So it doesn't really matter.
+So.
+I think probably.
+Only people will be a little bit more careful with their remote control.
+So.
+No storage.
+And let's specify the target group.
+Are we talking about elderly elderly people or people from 40 to 80?
+Cause.
+I think what we're going to design now is for people above 60.
+Maybe.
+What do we want if we want to.
+For example, the telephone for elderly people, we can target the real elderly people.
+I think that would be.
+If you should do something like that, it would be.
+I think it would be really good for.
+For the image of the company.
+Yeah.
+And I think.
+I think there would be good market for it.
+So that's the way to.
+Really bring enough to product.
+And you're talking about 62 80.
+Yeah.
+Really.
+Yeah.
+Full of 60.
+I have to look into that a little more.
+Okay.
+And different cultures.
+Are we?
+Well, I don't think they have different television sets.
+Okay, maybe every country.
+No.
+It's got five minutes left.
+With the little screen in it, which explains buttons.
+You could.
+I think it would be a lot easier to adapt to different cultures.
+Yeah.
+In different languages.
+Yeah.
+Yeah.
+Or you have to put a language button in it.
+That will be a bit in this.
+Yeah.
+It's better to put it in different markets.
+Yeah.
+Okay.
+So that's the target.
+And then a few.
+So big.
+Okay.
+I will put the minutes in a project document following.
+And what we're going to do for the next meeting is the initial design.
+You have a little components on set.
+Here's the inside.
+Here's the inside.
+Here's the inside.
+Here's the inside.
+Here's the inside.
+Here's the inside.
+That's what we said about the target group.
+cages.
+They're not even turns.
+And the specific restrictions.
+Of course, to you, by a personal coach.
+So, I think you put this meeting.
+I think you're too Upsgood.
+That's good.
+Let's see.
+That's good.
+Thank you for your time.
+Now I'm not allowed to talk about it.
+Oh my god, that's coming to be very different.
+I'm not allowed to talk about it.
+Okay, good afternoon.
+Okay, good afternoon.
+Everybody, you found this place?
+Okay.
+Yeah.
+That's nice.
+Okay, so this is our second meeting.
+And, uh, still fading.
+Yeah.
+Now we're going into the fictional design.
+Uh, the important thing of this phase is that we're going to, uh,
+try to get an agreement about the user requirements, technical function design,
+and the working museum.
+So that we can move on to the second phase.
+But first, this phase.
+First, an announcement.
+There is a little adaptation in the air conditioning system.
+So, as our ghost mouse again,
+that means that you can have a little trouble with air conditioning.
+Because of this, uh, okay.
+That same way, C and E.
+So, uh, it should be out for a couple of days.
+It's going to be cold anyway, so...
+I don't think it's going to move.
+Then our agenda.
+Now, first, the opening.
+And this time, I will take a minute.
+Uh, you're going to, uh, a presentation.
+All of you.
+Uh, and we've got 40 minutes for the whole, uh, presentation.
+So, uh, I suggest we take about seven minutes of presentation,
+and then we can have a little discussion about the new project requirements,
+which have me sent to me.
+And then the decision on the control functions,
+which you want to include.
+So, we've got 40 minutes for all of it.
+So, I suggest, um, that starts in the first presentation.
+Um, once the first.
+Think I'll go first.
+Okay.
+So, it may be easy if you, um,
+yeah, I think you'll tell me your presentation is your,
+which function you have.
+And you're going to talk about it.
+Okay.
+Okay.
+My name is Rick.
+I'm a large expert.
+You know, I mean that.
+Um, I've done some research.
+We have, we have a new research.
+And I'm going to do that when we observe, um,
+users operating remote controls.
+Uh, we don't think it's a lot of questionnaire.
+We have 100 of these test subjects.
+In addition, we did some market research, uh,
+see what the market consists of.
+What ages are involved?
+Well, these are three quite astonishing results, I thought.
+And remote are being considered ugly.
+Uh, 75% of the, uh, people
+have questions, uh, indicated that they thought they were remote
+were ugly.
+Um, and an additional 80% indicated that it would spend more money
+on a fancy looking remote control.
+So, um, in addition remote,
+we're not very functional.
+50% of the people indicated they only use about 10% of the buttons
+on that remote control.
+And 50% of the people indicated that the remote
+tenders get lost in their room.
+So, so it's things.
+Maybe there's a research to do in most relevant functions.
+General selection and voice selection, uh,
+both got a 10 on a scale of one to 10 for residency.
+The power button got a nine.
+And teletext got a six and a half.
+So these are the most, uh, most important functions on a
+remote control.
+And then there are some one time used function.
+That's what I'd like to call them.
+There are audio settings, video settings, and channel settings,
+buttons, which are not really used very frequently,
+but are still considered to be of some importance.
+Um, channel selection was also indicated to be reduced fairly
+frequently, 168 times per hour.
+And these are, uh, this is the market.
+Um, 60% of the market consists of users between the ages 16 and
+46, uh,
+main characteristic of this group is that they're very critical
+on the remote control.
+Um, they like to use new functions, but they also are very
+critical.
+They won't spend their money very easily.
+So, um, the users of 46, 65 years,
+consider they make up 40% of the market.
+They're not really very interested in features, but they do tend
+to spend their money a lot easier.
+Um,
+what I think this indicates for our, um, design.
+I think we should make a remote for the future.
+And this means we would, uh, have to focus on the ages 16 to
+45.
+Uh, this also makes up the most, the biggest part of the market.
+So there will also be where our main profit will be, uh,
+capable.
+Um, this would be, we would have to make a fancy design.
+Um, the results also indicated that, um, about one quarter of the
+people questioned thought that, uh, remote control caused
+areas, areas high.
+Um, this is certainly something to take into account.
+And 34% thought that it was hard to learn and able to operate
+the new control remote control.
+So these are two factors that I think should be included in that
+design.
+Besides, of course, the remote must look very nice.
+Um, functionality.
+As a lot of people indicated, they only use about 10% of the
+buttons.
+I think we should make very few buttons.
+And this will also be beneficial to the design of the remote.
+Uh, I think the most frequently used buttons should be emphasized,
+especially the child selection and audio, uh, selection buttons,
+because they're used most.
+So they should be reduced.
+They shouldn't break down easily.
+Um, then as a lot of people indicated that there, um,
+remote got lost in the room.
+It might be, and I say it might be because it would, um,
+certainly boost the, uh, production costs a lot.
+But it might be a good idea to make a document station.
+And this could get a button in it, which would send a signal
+to the remote, which would then be.
+So you know where it is in the room.
+And in addition to this, it could recharge the batteries in the
+remote if you put it in.
+Then, um, surprisingly, great deal of people indicated that, um,
+unless if you screen in the remote control would be preferred,
+this was, um, mostly people in the age of 16 to 25,
+but up to 45 with the remains feasible.
+This would also really increase the production costs,
+but I think these are just some small factors we could consider.
+Okay.
+That would be all.
+Thank you.
+Anybody have any questions?
+Questions?
+No.
+I'm not going to show it.
+Okay.
+That's good.
+Yeah.
+That's it a second.
+Uh, okay.
+Um, I don't know if I can add that.
+Yeah.
+Usually it's, yeah, uh, for, uh, the technical,
+uh, function of it.
+Um, yeah, you can take your time and be a couple of, uh,
+plenty of slides.
+Yeah.
+That's been a slideshow.
+Yeah.
+Good.
+Um, yeah.
+I think, uh, we, uh, must use the general functions, uh,
+remote control.
+Uh, actually, I've, uh,
+uh, done a little research on the internet, um,
+uh, not much information about it.
+Um, about, uh, interface with that.
+Uh, yeah.
+Yeah.
+I've been thinking about, uh,
+simple manner, uh, to put a lot of functions, uh, uh,
+one, uh, one, no remote control, uh,
+so, uh, you've got a lot of, uh,
+if I just like, uh, if the, uh, uh, uh,
+uh, notification, uh, stereo, so, uh, but, uh,
+it must be, uh, user friendly.
+So, uh, you can put a lot of, uh,
+functions in one, uh, yeah.
+Yeah.
+Yeah.
+Yeah.
+One, uh, remote control, but, uh, yeah.
+Yeah.
+Um, yeah.
+Got, uh, many functions in one, uh, remote control, uh,
+but, uh, yeah, you can see this is, uh,
+quite simple every remote control.
+Um, few, uh, buttons, but, uh, this very remote control,
+got a lot of, uh, buttons, uh, yeah.
+People don't like it, uh, so, uh, well,
+I was, uh, thinking about, uh, uh,
+uh, keep the general functions, uh, like the yards,
+like, uh, on offer a button, uh,
+keep it, uh, yeah, like a red button, uh,
+everybody knows it.
+So, uh, uh, you don't have to change that.
+Um, my personal preference is, uh,
+use a display for a, uh, special, uh,
+functions, uh, of the difference, uh,
+so, uh, well, I was thinking about, um,
+you've got, um,
+uh, this is the remote control, uh,
+uh, you've got the error, uh, general functions, uh,
+like, uh, on offer button, uh, so I want, uh, I don't know, um, um,
+um, here you've got, uh, kind of, uh, display.
+It's a touchscreen.
+So, uh, uh, now you've got, uh, the general function
+of the device, uh, for a DVD player.
+Uh, so, uh, uh,
+uh, uh, for, uh, making, uh, refer, uh, say something.
+Uh, um, got their, uh, real buttons for, uh, selecting, uh,
+a device.
+So, uh, um, this button is for ID VR.
+So, uh, for every, um,
+if I should go, uh, uh, uh, apart, apart, uh,
+uh, this flavor of, uh, part buttons.
+So, uh, you've never got, uh, all the buttons from,
+one device.
+So, uh, that's, uh, my idea about it.
+Um, yeah.
+And, uh, uh, let's see, uh, yeah.
+So, touchscreen.
+Uh, and I'm the, the buttons, uh,
+the real buttons, uh, we have to use, uh,
+um, we better, um, uh, use, uh, quite, uh,
+an arts presence, uh, for, uh, everybody, uh,
+if they use it.
+So, uh, if, uh, all people, uh, young people,
+so, um, you must keep, uh,
+buttons, uh, quite, uh, simple and quite large.
+So, uh, um, yeah.
+Uh, yeah.
+Uh, yeah.
+Also, uh, mine, uh, questions about, uh, technical functions.
+Well, I think if we're going to use a touchscreen, uh,
+we're going to go way above the 12th of euros.
+Yeah.
+I don't think so.
+Okay.
+You've got, uh, quite, uh, a cheap, uh, touchscreen.
+Uh, it's, uh, not, uh, in, uh, corridor or something.
+Yeah.
+Just, uh, uh, uh, one called, uh, yeah.
+Uh, I've seen something on the internet, uh, not today, but, uh,
+a few, uh, which go.
+Uh, you've got, uh, quite, and, uh, kind of, uh, touchscreen, uh,
+for, uh, 20, uh, euros or less.
+All right.
+So, it's possible.
+Well, we certainly make a fancy design.
+Yeah.
+Uh, so, uh, it wouldn't be very robust.
+It's very fragile and you can get scratches on it.
+That's true.
+Yeah.
+Maybe it can first, uh, listen to your presentation.
+Yes.
+And then we have a little discussion about the requirements.
+Okay.
+Okay.
+Okay.
+I've got a presentation about the working design.
+Uh, first about how it works.
+It's really simple.
+Of course everybody knows how it works.
+The usual process is button.
+It remote determines what button it is.
+Use the infrared to send signal from TV,
+the TV switches to the frequency or a function it is.
+So, we've got, uh, the, uh, plate.
+It's got conductive disks for everybody.
+When the usual process is button,
+the signal got sent, goes to the lab,
+and transmit it, transmit it to the TV.
+It's a very simple device that goes to the screen.
+So, this is schematic overview.
+You've got the buttons, the power source.
+And, uh, when a button gets pressed,
+it goes to the chip.
+The chip, uh, controls the infrared bow.
+And, perfect.
+Perhaps a normal bow when you press button.
+You can actually see your pressed button.
+Well, uh, my finger shoots.
+Use default materials, simple plastics.
+Keep the inner working simple.
+So, it's robust.
+Uh, my finger shoots folks on aesthetics
+in the user interface.
+Because if you go in to use high-tech materials,
+the price is going to go sky.
+You only have to design a remote once.
+And if you use high-tech materials,
+it comes back in every product.
+So, it's, in my idea, it's, uh,
+it's going to be smart to invest in, in design,
+and not, in the product itself.
+That's it.
+Okay.
+Thank you.
+Okay.
+Okay.
+Okay.
+Now, everybody has a little bit more inside
+in the finishing wheel.
+And what we're doing right now.
+Um, I'm the project manager.
+So, I'm here to miss the things that I've done.
+And I'm going to play a similar requirements.
+Um, because we've, uh, got to design, uh,
+remote which is only suitable for TV.
+Um, that's because, uh,
+it will be too complex and the time to mark it will be too big.
+If we want to have it, uh, for more functions.
+So, it has to be simple.
+Uh, another point is we have to skip.
+get the data text because in the world of coming internet we think data text is going to be
+things passed and it's actually you don't need to know remote control, internet is also
+mentioned just to go in a function you can use maybe also on television so it will be available
+another one is the customer is 40 plus that's the market we have to target because we are going to
+develop a new product which is specially designed for the younger customers this is a bit
+pretty for the marketing expert because it was aiming on the younger person so we have to find
+a market which is above 40 plus but which will suit our remote control and the other way around and
+we have to be very then putting a carpet image in our product that has to be feasible in our
+design in the way our device works and we have to be prepared on this point as well so I suggest
+let's have a discussion on the control finishes so is there any discussion possible requirements
+we can see if we can find a way between the functions we want to use and the market we want to
+reach with our product you're saying that the text is going to be an old feature and it's up
+going to be used any more anyway pretty soon and new TVs will have internet access on them but I
+think if you're targeting people of 40 plus the chance that they will have a DV with internet
+access within the next like 20 years it's very slim in addition people indicated that
+teletext simply was an important feature for the remote control so I think it's pretty dumb to
+put no teletext feature on it I'm pretty much against it against the no dead text yes
+besides that I think the market for 40 plus is like pretty small
+but yeah I think we're just going to go for another step pretty
+I think we can do a lot with the design and the simple buttons which are also mentioned
+if we put a lot of effort in those we can make a remote control with just two or three buttons
+or just a remote which is suitable for the market you want to reach because it is 40% of the market
+and if you look in Holland at the whole generation of 40 plus 50 plus it's the biggest
+share of the population now yes but it's not the biggest part of the market no besides that
+they're not very critical so I mean they don't really care what the remote control is like
+they'll just pretty much take the first thing they see and which looks acceptable
+but don't you think that the remake and remote which is typically made for this market
+the people think from the people think that's the the device I've looked for although I didn't
+realize it so let's try it no I think there will be the case in 16 to 45 H category
+because they are critical and they they want to have a fancy remote control people of 40 plus
+I mean they wanted to work but as soon as it works it's okay with them
+yeah I think that if we put our marketing right we can sell this just like I don't know if
+you've heard about it in the news the elderly mobile phone yeah it's a big success yeah if we
+make a remote control just with that idea in mind we could make tons of money we don't have to focus
+on the design then but on functionality we just change our focus on the project and I think
+we can sell this yeah I simply think that the new products we're going to make
+specifically design our design for younger people so many we can focus ourselves on the elderly
+people and I think we have to see what requirements we need for those remote controls
+those what you told the channel selection is important the volume selection power and
+tailored text yes okay obviously no we haven't voted yet so I think tailored text can be
+can be a function as well but only if it's going higher the cost because I don't know if it
+there'll be a lot more money to implement data text as well but I don't think that will be a problem
+or is there a text and deaf people need a data text for a subtype so it's yeah yeah so I should
+just think definitely see a pair idea what to include in the text there's anybody really against
+data text but just keep the data text it's good to use well especially for the subtitles
+maybe we can make that another point of advantage in our remote control
+if we make a button for example for big subtitles which is instantly on the remote control for
+elderly people that they can think I want to set that push the button and they get the big
+subtitles that's good so I think that text can be very useful in our advantage
+um functionality should be a few buttons you said
+that's very important we have a few buttons so let's give it a simple
+I don't think that's really an issue anymore because
+well it might be
+but only for TV you're not going to need a lot of buttons anyway
+not the one to zero button the next channel previews channel
+pulling up volume down and some teletext buttons but
+yeah
+I mean you can't skip this way so you don't need it
+do you need the buttons for one to zero maybe you're going to include teletext you do
+I think many people like to use that maybe you can use you want to switch from channel one to like
+35 you don't want to push the next channel button 35 times maybe you can implement the scroll button
+or joystick like there are other ways to just look if you look at telephones the Sony telephone
+scroll button which is very useful in searching names or it's true but
+I don't think there are many TVs that can switch channels that fast
+and so you would need like the TV would need a function where you can actually view
+all channels and scroll through it I don't know if many channels would
+do have the
+pretty TVs and besides that it's if we're going to focus on elderly people they'll have to
+adapt they're not used to using scroll buttons
+perhaps we should stick to the basic layout
+yeah we can see how much buttons they are going to be on on the display and if it's too much we can
+I'll be considered that I think that one means very much buttons or they're done but I think I think if you're
+gonna make remote control only to operate a TV there's not much you can gain on
+having a few buttons as possible because I think there are pretty many remote controls that can only
+operate a TV which already only have the minimum number of buttons I don't think there's much to be
+gain in that area the number of buttons yeah I think it's very important in the in the design
+you can make a very fancy design that putting the buttons on the right places
+if you have less buttons you can do a lot more I would
+that is true but I think there should be no much to gain on the competition when you
+when you're making a remote control only for to operate only the TV
+if you have a remote control only to operate a TV there's simply not a lot of buttons required
+there's not a lot of functions required so most existing remote controls simply don't have a lot of buttons either
+so I think it will be very hard to actually gain on the competition here
+okay so I think and it would cost a big marketing
+expedition which was one of the arguments to make it only for the TV because we didn't
+have the time to market a lot yeah so you should just be good better focus on for example the
+docking station like other functions instead of less buttons well yeah I think I mean we
+obviously need a good way to position all the buttons and but I don't think we should spend
+pretty much time in that you know do you think the docking station will
+is allowed in the budget we had it should be possible because it's not too fancy
+and now if the remote stays rather small it should be possible yeah because I think that's
+that's a good advantage point as well if we have a very stupid docking station or
+it's a nicer grinder station so we're just going to focus on the extras
+I think so yeah I think maybe we should do some research into what other people like to have
+you know yeah like to have extra in the remote control that's a good point
+you said they easily get lost as well yes we're 52% of the people indicated that
+the control tend to get lost so maybe we should implement the audio side yeah there was more
+suggested yeah like we have it on chain if you guys saw it yeah it makes it yeah it's on some
+films to jump in docking station and you just press a button and the phone goes ring yeah
+say earlier it is audio signal it should be possible as well I think it's not too expensive
+another point is the LCD screen I don't know if that will rise the cost too much here
+I think we'll have to choose between the docking station or the screen because
+yeah absolutely too much you know I think since a lot of people indicated a new remote control is
+hard to learn and we're focusing on elderly people here which tend to have a hard time
+understanding new devices it might be a good idea to have just a little screen on it which we
+explain a button if you press it which would tell you what it does yeah and it wouldn't have to
+be touch screen or a very expensive screen but just the LCD just the normal screen just a
+screen to some extra info yeah I think that's a good idea as well but I love that
+it's the smallest screen to the cost it's a little bit info
+I think that should be possible as well
+let's see what did we say more should be fancy to fancy design easy to learn
+few buttons we talked about that docking station LCD
+general functions
+default materials I think that's a good idea as well because all the people don't mind if it's
+titanium cover or just a plastic one so it doesn't really matter so
+I think probably elderly people would be a little bit more careful with their remote controls and
+the
+let's
+specify the target group are we talking about elderly elderly people or people from 40 to 80 because
+I think what they're going to design now is for people above 60 maybe
+what do we want if we were on the prophlate as with for example the telephone for
+elderly people we can target the real elderly people I think that would be if we should do
+something like that it would be I think it would be really good for for image of the company
+yeah and I think I think there would be good market for it so that's the way to really bring
+an innovative product and you're talking about 62 80 for example yeah
+I have to look into it a little more okay and different cultures I don't think they have
+different television sets in every country
+it's got five minutes left and with the little screen in it which explains buttons
+you could I think it would be a lot easier to adapt to two different cultures yeah in different
+languages or you have to put a language button in it but it will be better in this area yeah
+it's better to put it on different markets okay so that's the target
+what we're going to do for the next meeting is the industrial design of a little component
+set using space design and using the physical set and the trend watching so I'll just keep in mind
+things we've said about the target group and the requirements and the trends for sure you know
+and the specific restrictions you'll be sent to you by a personal coach
+so thank you for this meeting and I think we have a little straight now that's good
+Thank you.
+Okay, good to move.
+Okay, everybody, you found this place again?
+Yeah.
+That's nice.
+So, this is our second meeting.
+And, instead of dating.
+Now we're going into the fictional design.
+The important thing of this phase is that we're going to
+try together the agreement about the user requirements, technical
+finishing design and the working design so that we can move
+on to the second phase.
+But first, this phase.
+First, an answer.
+There is a little adaptation in air conditioning system.
+So, as our ghost mouse again.
+But that means that you can have a little struggle.
+That's what they are conditioning.
+That's because of this.
+Okay.
+That's in where you see and eat.
+So, it should be open in a couple of days.
+It's going to be cool anyway.
+So, I don't think you can move.
+Then our agenda.
+Now, first, the opening.
+And at this time, I will take the minutes.
+You're going to have a presentation.
+And we've got 40 minutes for the whole presentation.
+So, I suggest we take about seven minutes of presentation.
+And then we can add a little discussion about the new project requirements,
+which have been sent to me.
+And then the decision on the control functions,
+which you want to include.
+And those, which we've got to include.
+So, we've got 40 minutes for all of it.
+So, I suggest that it starts in the first presentation.
+Who wants to be first?
+I think I'll go first.
+Okay.
+So, that is easy for you.
+Yeah, I think you will tell me your presentation job.
+Which function you have.
+Are you going to talk about it?
+Okay.
+I've done some research.
+We have a new research.
+And then there's a little bit of that when we observe users
+operating remote controls.
+We let them fill out a questionnaire.
+We have 100 of these tests.
+In addition, we get some market research.
+See what the market consists of.
+What ages are involved?
+Well, these are three quite astonishing results, I thought.
+And remote are being considered ugly.
+75% of the people question indicated that they thought
+their remote work was ugly.
+And an additional 80% indicated that it would spend more money
+on a fancy-looking remote control center.
+And additional amounts were not very functional.
+50% of the people indicated they only use about 10% of the buttons
+on that remote control.
+And 50% of the people indicated that their remote
+tended to get lost in their room.
+So, so it's been.
+Now, we did some research to do most relevant functions.
+Channel selection and void selection.
+Both got a 10 on a scale of 110 for redundancy.
+The power of Biden got a nine.
+And 10 of the text got a six on that.
+So, these are the most important functions on the remote control.
+And then there are some one-time use function.
+That's what I'd like to call them.
+They're audio settings, video settings, channel settings, buttons.
+Which are not really used very frequently.
+But are still considered to be of some important.
+Channel selection was also indicated to be used very frequently.
+168 times per hour.
+And these are, this is the market.
+60% of the market consists of users between the ages 16 and 46.
+The main characteristic of this group is that they're very critical
+on the remote control.
+They'd like to use new functions.
+But they also are very critical.
+They won't spend their money very easily.
+So, the users of 46 to 65 years,
+they make up 40% of the market.
+They are not really very interested in features.
+But they do tend to spend their money a lot easier.
+Well, I think this indicates for our design.
+I think we should make a remote for a future.
+And this means we'll have to focus on the ages 16 to 45.
+This also makes up the biggest part of the market.
+So, it will also be where our main profit would be capable.
+This would be where we would have to make a fancy design.
+The results also indicated that about one quarter of the people
+questioned, thought that the remote control caused
+errors high.
+This is certainly something to take into account.
+And 34% thought that it was hard to learn
+and to operate a new control remote control.
+So, these are two factors that I think should be included in the design.
+Besides, of course, the remote must look pretty nice.
+The functionality, as a lot of people indicated,
+they only use about 10% of the buttons.
+I think we should make very few buttons.
+This will also be beneficial to the design of the remote.
+I think the most frequently used buttons should be emphasized,
+especially the channel selection and audio selection buttons,
+because they are used most.
+So, they should be robust.
+They shouldn't break down easily.
+Then, as a lot of people indicated,
+that the remote got lost in the room.
+It might be, as I said, it might be because it would certainly
+produce the production costs a lot.
+But it might be a good idea to make a docking station.
+This would get a button in it,
+which would send a signal to the remote,
+which would then be, so you know where it is in the room.
+And in addition to this, it could recharge the batteries
+in the remote if you put it in.
+Then, surprisingly,
+a great deal of people indicated that,
+unless you'd be screened in the remote control,
+it would be preferred.
+This was mostly people in the age of 16 to 25,
+but up till 45, the remote's feasible.
+This would also really increase in production costs,
+but I think these are just some small factors we could consider.
+Okay.
+That would be all.
+Thank you.
+Anybody have any questions?
+Questions?
+No.
+I'm not going to show the questions.
+Okay.
+That's clear.
+Yeah.
+That's in a second.
+Okay.
+I'm going to go ahead.
+Yeah.
+Usually interface.
+So, yeah.
+Yeah.
+You can take your time.
+Let me have a slide.
+Yeah.
+I think we must use the general functions for the remote control.
+I'm going to let all our research on the internet,
+or not much information about it.
+So, about the interface with that.
+Yeah.
+I've been thinking about a simple manner,
+to put a lot of functions in one remote control.
+So, you've got a lot of, if I just like,
+if the derivation is stereo.
+But it must be useful, frankly.
+So, you can put a lot of functions in one.
+Yeah.
+Yeah.
+Yeah.
+In one remote control.
+Yeah.
+Yeah.
+Yeah.
+Got many functions in one remote control.
+But, yeah.
+You can see this is quite simple.
+Every remote control.
+Few bit ones.
+But this very remote control.
+Got a lot of buttons.
+Yeah.
+People don't like it.
+So, you can see this is quite simple.
+Every remote control.
+Few bit ones.
+Few bit ones.
+Yeah.
+People don't like it.
+So, well, I was thinking about,
+I'll keep the general functions like VR,
+like on alpha and button.
+I'll keep it, yeah.
+Like a redbird and everybody knows it.
+So, you don't have to change that.
+My personal preference is,
+you also display for a special functions of the different files.
+So, what I was thinking about was,
+you've got,
+this is the remote control.
+You've got the general functions,
+like a lot of buttons.
+So, I don't know.
+Here you've got a kind of display.
+It's a touch screen.
+So, you've got the general function,
+the functions of the device for the DVD player.
+So,
+you've got the real buttons for selecting a device.
+So, this button is already VR.
+So, for every device,
+you've got a part display of a part button.
+So, you've never got all the buttons on one device.
+So, that's my idea about it.
+Yeah, and let's see, yeah.
+So, touch screen.
+And the buttons, the real buttons we have to use,
+we better use a quite large presence
+for everybody after you use it.
+So, if all people,
+young people,
+so, you must keep the buttons quite simple and quite large.
+So, yeah.
+Yeah.
+It was mine card.
+There's questions about the technical functions.
+Well, I think if we're going to use a touch screen,
+we're going to go way above the 12th of Europe.
+Yeah.
+I don't think so.
+You've got quite a cheap touch screen.
+It's not in a corner or something.
+Yes, it's just one corner.
+Yeah.
+I've seen something on the internet,
+not today, but a few weeks ago.
+You've got quite a kind of a touch screen.
+It's for 20 euros or less.
+So, it's possible.
+Well, we certainly make a fancy design.
+Yeah.
+So, it wouldn't be very robust.
+It's very fragile and you can get scratches on it.
+Not a stream, that's right.
+Yeah.
+Maybe it can first listen to your presentation.
+Yes.
+And then we have a little discussion about the requirements.
+See how you...
+I think it's going to do.
+Okay.
+I've got a presentation about the working design.
+First, about how it works.
+It's very simple.
+Of course, everybody knows how remote works.
+The user presses the button.
+The remote determines what button it is.
+Use the infrared to send a signal to the TV switch to the frequency
+or the function it is.
+So, we've got a plate.
+It's got conductive disks for every button.
+When the user presses the button, the signal got sent.
+It goes to the left and transmits it to the TV.
+It's a very simple device, technically.
+So, this is a schematic overview.
+We've got the buttons, the power source.
+And when a button gets pressed, it goes to the chip.
+The chip controls the infrared mode.
+Perfect.
+Perhaps a normal bulb when you press button.
+You can actually see your pressed button.
+Well, my finger shoots.
+Use default materials.
+Simple plastics.
+Keep the inner working simple.
+So, it's robust.
+I think we should focus on aesthetics to design in the user interface
+because if you're going to use high-tech materials,
+the price is going to go sky.
+You only have to design remote ones.
+And if you use high-tech materials, it comes back in every product.
+So, it's in my idea.
+It's going to be smart to invest in design.
+And not in any product itself.
+That's it.
+Okay. Thank you.
+Okay.
+Okay, now everybody has a little bit more insight
+into the functions we all have.
+And what we're doing right now.
+I'm a project manager.
+So, I'm going to invest things up.
+I'm going to tell you some of the requirements.
+And we've got to design remote,
+which is only suitable for TV.
+And that's because it will be too complex.
+And the time to market will be too big.
+If we want to have it for more functions.
+So, it has to be simple.
+Another point is we have to skip the data text.
+Because in the world of coming internet,
+we think data text is going to be a thing with the post.
+And it's, actually, you don't need to know remote control.
+Internet is also mentioned.
+Just go in the function you can use.
+And maybe also on televisions it will be available as well.
+Another one is the customer.
+It's 40 plus.
+That's the market we have to target.
+Because we are going to develop a new product,
+which is specially designed for the younger customers.
+This is a bit pretty for the marketing expert.
+Because it was aiming on the younger persons.
+So, we have to find a market which is above 40 plus,
+but which goes through our remote control and the other way around.
+And we have to be very, then putting a carbon image in our product.
+So, it has to be visible in our design in the way our device works.
+And we have to be very careful at this point as well.
+So, I suggest, let's have a discussion on the control functions.
+So, is there any discussion possible about any drug requirements?
+We can see if we can find a way between the functions we want to use.
+And the market we want to reach with our product.
+Yeah, because you're saying that 10 of the price is going to be an old feature.
+And it's not going to be used any more anyway.
+Pretty soon and new TVs will have internet access home.
+But I think if you're targeting people of 40 plus,
+the chance that they will have a TV with internet access within the next like 20 years is very slim.
+In addition, people indicated that 10 of the text simply was an important feature for the remote control.
+So, I think it's pretty dumb to put notes on the text feature on it.
+I'm pretty much against it.
+Against the no data text. Yes.
+Besides that, I think the market for 40 plus is pretty small.
+But if I see this, I think we're just going to go for another step.
+Pretty.
+I think we can do a lot with the design and the simple buttons which are also mentioned.
+If we put a lot of effort in those, we can make a remote control with these two or three buttons.
+Just a remote which is suitable for the market you want to reach because it is 40% of the market.
+And if you look in Holland at the whole generation of 40 plus 50 plus,
+it's the biggest share of the whole population now.
+Yes, but it's not the biggest part of the market.
+No.
+Besides that, they're not very critical.
+So, I mean, they don't really care what the remote control is like.
+They'll just pretty much take the first thing they see and which looks acceptable.
+But don't you think that if we make a remote which is typically made for this market?
+The people think from the people think that's the device I've looked for, although I didn't realize it.
+So, let's try it.
+No.
+I think there would be the case in 16 to 45 H's category.
+Because they are critical and they want to have a fancy remote control.
+People of 40 plus, I mean, they want it to work, but as soon as it works, it's okay with them.
+I think that if we put our marketing right, we can sell this just like, I don't know if you've heard about it in the news, the elderly mobile phone.
+It's a big success.
+If we make a remote control, just with that idea in mind, we could make tons of money.
+We don't have to focus on the design then, but on functionality.
+We just change our focus on the project and I think we can sell this.
+I simply think that the new products we're going to make are designed for younger people.
+So, maybe we can focus ourselves on the elderly people.
+And I think we have to see what requirements we need for those remote controls.
+Because I told the channel selection is important.
+The volume selection power and the title text.
+Okay, obviously the board goes to disagree.
+Now we haven't voted yet.
+I think that the data text can be a function as well.
+But only if we don't hire the cost.
+Because I don't know if it will be a lot more money to implement data text as well.
+But I don't think that will be a problem.
+Where is data text?
+The deaf people need data text for support.
+Yeah, so I should definitely see a higher idea of looking at data text.
+Is there anybody really against data text?
+No.
+Is there...
+Did they just keep the data text?
+It's good as well, especially for the subtitles.
+Maybe we can make that another point of advantage in our remote control.
+If we make a button, for example, for big subtitles.
+Which is instantly on the remote control for elderly people that they can think,
+I want to set that and push the button and get the big subtitles.
+That's a good idea.
+So I think that data text can be very useful in our advantage.
+Functionality should be a few buttons, you said.
+Yes.
+I think that's very important.
+We have a few buttons.
+So to keep it simple.
+I don't think that's really an issue anymore.
+Well, it might be.
+If it's early for TV, you're not going to need a lot of buttons anyway.
+You need one to zero button.
+Next channel, previous channel.
+I'll tell you, I'll tell you down.
+And some teletext buttons.
+Yeah.
+I mean, we can't skip this place, so we don't need it.
+Do you need the buttons for one to zero?
+Maybe you're going to include teletext you do.
+I think many people like to use that.
+Maybe you can use it.
+If you want to switch from channel one to like 35,
+you don't want to push the next channel button 25 times.
+Maybe you can implement the scroll button.
+Or joystick, like.
+There are other ways to look.
+If you look at telephones, the Sony telephone and the scroll button,
+which is very useful in searching names.
+That is true.
+But I don't think there are many TVs that can switch channels that fast.
+And so you would need like the TV,
+any function where you can actually view all channels and scroll through it.
+I don't know if many channels would do have the 20 TVs.
+And besides that, it's if we're going to focus on labeling people,
+then I have to adapt.
+They're not used to using scroll buttons.
+Perhaps we should stick to the basic layout.
+This is the numbers.
+They can see how much buttons they are going to be on the display.
+And if it's too much, we can reconsider it.
+I think that one means very much buttons.
+Or they're done.
+But I think if you're going to make remote control only to operate a TV,
+there's not much you can gain on having a few buttons as possible.
+Because I think there are pretty many remote controls that can only operate a TV,
+which already only have the minimum number of buttons.
+I think there's much to be gaining that area.
+The number of buttons.
+I think it's very important in the design.
+You can make a very fancy design with putting the buttons on the right places.
+If you have less buttons, you can do a lot more.
+That is true.
+But I think there should be not much to gain on the competition when you're
+making a remote control only for to operate only the TV.
+If you have a remote control only to operate a TV,
+there's simply not a lot of buttons required.
+There's not a lot of functions required.
+So most existing remote controls simply don't have a lot of buttons either.
+So I think it would be very hard to actually gain on the competition here.
+So I think it would cost a big marketing expedition,
+which was one of the arguments to make it only for the TV,
+because we didn't have the time to market a lot.
+So you should just make a better focus on, for example, the docking station.
+Like other functions instead of less buttons.
+I think the obviously needed a good way to position all the buttons.
+But I don't think we should spend very much time in there.
+Do you think the docking station is allowed in the budget we have?
+It should be possible, because it's not too fancy.
+And now if the remote stays around us more, it should be possible.
+Yeah.
+I think that's a good advantage point as well.
+If we have a, you're still looking at the docking station.
+So it's a nice requirement for the station.
+So we're just going to focus on the extras.
+I think maybe we should do some research into what other people like to have,
+like to have extra in the remote control.
+Let's see the point.
+You said they easily get lost as well?
+Yes, well, 50% of the people indicated that remote control tended to get lost.
+So maybe we should implement the audio side.
+Yeah.
+That was what I suggested.
+Yeah.
+Like we've got a little change.
+Yeah.
+Yeah.
+It makes it.
+Yeah.
+It's on some phones to the docking station.
+And you just press a button and the phone goes ringing.
+Yeah.
+So you know where it is.
+Audio signal.
+It should be possible as well.
+I think it's not too expensive.
+No.
+So it's there.
+Uh, another, or the LCD screen.
+Um, I don't know if that will rise to cost too much.
+Yeah.
+Um, I think we'll have to choose between the docking station or the screen.
+Yeah.
+Absolutely too much.
+I think since all people indicated a new remote control is hard to learn.
+And we're focusing on elderly people here, which tend to have a hard time understanding
+new devices.
+It might be a good idea to have just a little screen on it, which we'll explain a button
+if you press it, which would tell you what it does.
+Yeah.
+And it wouldn't have to be touch screen or a very expensive screen.
+Yeah.
+Just the LCD.
+Uh, just a normal screen.
+Just a little screen and two.
+Some extra info.
+The Eric.
+Yeah.
+I think that's the ability as well.
+But I don't know if that will be.
+Is this small screen fit into the.
+Cause.
+I swear button info.
+I think that should be possible as well.
+Um, let's see what did we say more.
+Should be fancy to fancy design.
+Easy to learn.
+Few buttons.
+We talked about that talking station LCD.
+Uh, the general functions.
+Yeah.
+Okay.
+And default materials.
+I think that's a good idea as well because.
+All the people don't mind if it's.
+Titanium.
+Cover or just a plastic one.
+Yeah.
+Doesn't really matter.
+So.
+I think probably.
+Only people will be a little bit more careful with their remote controls.
+And.
+Yeah.
+Yeah.
+And let's.
+So I think we have specified a target group that I've been talking about.
+Elderly elderly people or people from 40 to 80 because.
+I think what they're going to design.
+No.
+It's for people about 60.
+Maybe.
+What do we want if we want.
+Uh, prophlate as with.
+For example, the telephone for LED people, we can target a real LED people.
+I think that would be, if we should do something like that, it would be, I think it would
+be really good for the image of the company.
+Yeah.
+And I think there would be good market for it.
+So that's the way to really bring an innovative product.
+And you're talking about 6280, for example.
+I have to look into a little more.
+Okay.
+And different cultures.
+I don't think they have different television sets in any of the country.
+No.
+They've got five minutes left.
+And with the little screen in it, which explains buttons, I think it would be a lot easier
+to adapt to different cultures.
+Yeah.
+In different languages.
+Yeah.
+Or you have to put a language button in it.
+That will be a bit in this center.
+Yeah.
+It's better to put it in different markets.
+Yeah.
+Okay.
+So that's the target.
+And then a few small things.
+Okay.
+I will put the minutes in the project talking volume.
+What we're going to do for the next meeting is the industrial designer of the components
+concept.
+Here's the inside of the user interface concept and the trend working.
+So I'll just give the mind the things we've said about the target group and the requirements
+and the trends, for sure.
+And the specific restrictions you'll be sent to you by the personal coach.
+So I think it is meeting.
+And I think we have an interest right now.
+That's great.
+That's a good thing.
+Now we're not allowed to talk about it.
+Oh, my God.
+That's going to be very interesting.
+There you go.
+Okay, everybody in front of this place, again, yeah, that's nice, it's nice, and so this
+is our second meeting, and step failing, yeah, now we're going into the fictional design,
+and the important thing of this phase is that we're going to try to get an agreement
+about the user requirements, technical finishing design, and the working design, so that we can move
+onto the second phase, but first this phase, first an announcement, there's a little adaptation
+in the air conditioning system, so there's our ghost mouse again, but that means that you can have a little
+strong, a little strong with air conditioning, that's because of this, okay, that's in way C and E, so it should be
+going to be cold anyway, so then our agenda, first the opening, and this time I will take a minute, you're going
+into the presentation, and we've got 40 minutes for the whole presentation, so I suggest we take about seven minutes
+of presentation, and then we can have a little description about the new project's requirements, which I think sends to me, and then the decision of the control functions, which you
+want to do, and that's what you need to do, but 40 minutes for all of it, so I suggest that it starts at the first
+presentation, once the first, I think I'll go first, okay, so that'd be easy if you think you will tell me your
+presentation is all, which function you have, and where you're going to talk about it.
+We let them fill out a questionnaire, we had 100 of these tests. In addition, we did some market research, see what the market consists of, what ages are involved.
+Well, these are three quite astonishing results, I thought.
+Remote are being considered ugly, 75% of the people questioning indicated that they thought their remote work was ugly,
+and an additional 80% indicated that it would spend more money on a fancy-looking remote control.
+In addition, remote were not very functional, 50% of the people indicated they only use about 10% of the buttons on a remote control,
+and 50% of the people indicated that their remote tend to get lost in their room, so it's things.
+Then we did some research to do most relevant functions.
+Channel selection and volume selection both got a scale of one to ten for relevancy, the power button got a nine,
+and ten effects got a six and a half.
+So these are the most important functions of a remote control.
+Then there are some one-time views function, that's what I like to call them.
+The audio settings, video settings, and channel settings buttons, which are not really used very frequently,
+but are still considered to be of some important.
+Channel selection was also indicated to be used very frequently, 168 times per hour.
+And this is the market.
+16% of the market consists of users between the ages 16 and 46.
+The main characteristic of this group is that they're very critical on the remote control.
+They like to use new functions, but they also are very critical.
+They won't spend their money very easily.
+The users of 46 to 65 years consider they make up 40% of the market.
+They are not really very interested in features, but they do tend to spend their money a lot easier.
+What I think this indicates for our design, I think we should make a remote for the future.
+And this means we have to focus on the ages 16 to 45.
+This also makes the biggest part of the market, so there will also be where our main profit will be capable.
+This will be we have to make fancy design.
+The results also indicated that about one corner of the people questioning thought that the remote control caused air is high.
+This is certainly something to take into account.
+And 34% thought that it was hard to learn and to operate a new control remote control.
+So these are two factors that I think should be included in the design.
+Besides, of course, the remote must look pretty nice.
+Functionality has a lot of people indicated they only use about 10% of the buttons.
+I think we should make very few buttons.
+This will also be beneficial to the design of the remote.
+I think the most frequently used buttons should be emphasized, especially the child selection of audio selection buttons.
+Because they are used most and so they should be robust.
+They shouldn't break down easily.
+Then, as a lot of people indicated that their remote got lost in the room, it might be because it would certainly produce the production costs a lot.
+But it might be a good idea to make a document station.
+This would get a button in it, which would send a signal to the remote, which would then be.
+So you know where it is in the room.
+And in addition to this, it could recharge the batteries in the remote if you put it in.
+Then, surprisingly, the great deal of people indicated that unless the E-screen in the remote control would be preferred,
+this was mostly people in the age of 16 to 25.
+But up to 45, it would also be increased in production costs.
+But I think these are just some small factors we could consider.
+Okay.
+That would be all.
+Thank you.
+Anybody have any questions?
+Questions?
+I'm not going to show the questions.
+Okay.
+That's good.
+Yeah.
+That's it.
+Second.
+Okay.
+I don't know if I'm going to go ahead.
+I don't know if I'm going to go ahead.
+Yeah.
+Usually interface.
+Yeah.
+For the technical function.
+Perfect.
+Yeah.
+You can take your time.
+You can take your time.
+Let me show you.
+Let's bring you a slideshow.
+Okay.
+Okay.
+Yeah.
+I think we must use general functions for remote control.
+Actually, I don't know.
+Little research on the internet.
+Not much information about it.
+So, about the interface with that.
+Yeah.
+I've been thinking about a simple manner to put a lot of functions in one remote control.
+So, you've got a lot of the effects like the derivation stereo.
+But it must be useful, frankly.
+So, you can put a lot of functions in one.
+Yeah.
+Yeah.
+Yeah.
+In one remote control.
+Yeah.
+Yeah.
+Yeah.
+Got many functions in one remote control.
+But you can see this is quite simple, every remote control.
+Few better things.
+But this very remote control got a lot of better than people I don't like.
+So, what I was thinking about was, keep the general functions like the yards.
+Like on alpha button.
+Keep it.
+Yeah.
+Like a red button, everybody knows it.
+So, you don't have to change that.
+My personal preference is, use a display for the specific functions of the difference.
+So, what I was thinking about was, you've got, this is a remote control.
+You've got the general functions like that on alpha button.
+So, I don't know.
+Here, you've got a kind of display.
+There's a touch screen.
+So, you've got the general function softy device for it to be played.
+So, you've got a real buttons for selecting a device.
+So, this button is already VR.
+So, for every device, you've got a part display of a part buttons.
+So, you've never got all the buttons on one device.
+So, this is my idea about it.
+Yeah.
+So, touch screen.
+And the buttons, the real buttons we use, we better use a quite large presence for everybody
+after you use it.
+So, if all people, young people.
+So, you must keep buttons quite simple and quite large.
+Yeah.
+Yeah.
+It was a minor part of it.
+I mean, there's questions about the technical functions.
+Well, I think if we're going to use a touch screen, we're going to go way above the 12th
+of Europe.
+Yeah.
+I don't think so.
+You've got quite a cheap touch screen.
+It's not a color or something.
+It's just one color.
+Yeah.
+I see it.
+Well, something on the internet, not today, but a few weeks ago.
+Yeah, quite.
+Kind of a touch screen.
+It's for 20 euros or less.
+All right.
+So, it's possible.
+Well, we certainly make a fancy design.
+Yeah.
+So, it wouldn't be very robust.
+It's very fragile and you can get scratches on it.
+Not a stream, that's right.
+Yeah.
+Maybe you can first listen to your presentation.
+Yeah.
+And then we have a little discussion about the requirements.
+Okay.
+See you.
+I think it's going to do.
+Okay.
+I've got a presentation about the work on the design.
+First, about how it works.
+It's really simple.
+Of course, everybody knows how remote works.
+The usual press is a button.
+If remote determines what button it is, use the infrared to send a signal to the TV
+switch to the frequency or the function it is.
+So, we've got a plate that's conductive disks for every button.
+When the usual press is a button, the signal got set.
+It goes to the left and transmitted transmit it to the TV.
+It's a very simple device that you can see.
+So, this is a schematic overview.
+We've got the buttons, the power source.
+And when a button gets pressed, it goes to the chip.
+The chip controls the infrared bow.
+Perfect.
+Perhaps a normal bow.
+When you press button, you can actually see a press button.
+Well, my finger should use default materials.
+Simple plastics.
+Keep the inner working simple.
+So, it's robust.
+I think we should focus on aesthetics and design in the user interface.
+Because if you're going to use high-tech materials, the price is going to go sky.
+You only have to design a remote once.
+And if you use high-tech materials, it comes back in Africa.
+So, it's, in my idea, it's going to be smart to invest in design,
+not in the product itself.
+That's it.
+Okay, thank you.
+Okay.
+I hope everybody has a little bit more insight into the friction wheel.
+I have what we're doing right now.
+I have a project manager.
+So, I'm going to miss things.
+I'm going to play some new requirements.
+That's, we've got a design remote, which is only suitable for TV.
+That's because it will be too complex.
+And the time to market will be too big if we want to have it for more reflections.
+So, it has to be simple.
+Another point is we have to skip the data text because in the world of coming internet,
+we think data text is going to be a thing that's fast.
+And it's, actually, we don't need, you know, a remote control.
+Internet is also mentioned.
+Just go in the function you can use.
+And maybe also on televisions it will be available.
+So, another one is the customer is 40 plus.
+And it's the market he has to target because we are going to develop a new product,
+which is specially designed for the younger customers.
+This is a bit pity for the marketing expert because he was aiming on the younger persons.
+So, we have to find a market which is above 40 plus,
+but which will suit our remote control and the other way around.
+And we have to be very dependent on putting a carbon image in our product.
+So, it has to be visible in our design in the way our device works.
+And we have to be very clear on this point as well.
+So, I suggest, let's have a discussion on the control functions.
+So, is there any discussion possible about any current requirements?
+We can see if we can find a way between the functions we want to use.
+And the market we want to reach with our product.
+Yeah, because you're saying that 10 of the text is going to be an old feature.
+And it's not going to be used any more anyway.
+Pretty soon and new TVs will have internet access home.
+But I think if you're targeting people of 40 plus,
+the chance that they will have a TV with internet access within the next like 20 years is very slim.
+In addition, people indicated that 10 of text simply was an important feature for the remote control.
+So, I think it's pretty dumb to put no text feature on it.
+I'm pretty much against it.
+Against the no data text. Yes.
+Besides that, I think the market for 40 plus is pretty small.
+But if I see this, I think we're just going to go for another step.
+I think we can do a little bit of design and the simple buttons which are also mentioned.
+If we put a lot of effort in those, we can make a remote control with just two or three buttons.
+Just a remote which is suitable for the market we want to reach because it is 40% of the market.
+And if you look in Holland at the whole generation of 40 plus 50 plus,
+it's the biggest share of the whole population now.
+Yes, but it's not the biggest part of the market.
+No.
+So it's that they're not very critical.
+So, I mean, they don't really care what the remote control is like.
+They'll just pretty much take the first thing they see and which looks acceptable.
+But don't you think that if we make a remote which is typically made for this market,
+that people think from the people think that's the device I've looked for,
+although I didn't realize it.
+So, let's try it.
+No.
+I think there would be the case in 16 to 45 H category.
+Because they are critical and they want to have a fancy remote control.
+People are 40 plus.
+I mean, they wanted to work, but as soon as it works, it's okay with them.
+Yeah.
+I think that if we put our marketing right, we can sell this just like,
+I don't know if you've heard about it in the news, the elderly mobile phone.
+Yeah.
+It's a big success.
+Yeah.
+If we make a remote control, just with that idea in mind, we could make tons of money.
+We don't have the focus on the design then, but on functionality.
+We just change our focus on the project and I think we can sell this.
+But I simply think that the new products we're going to make,
+specifically, design our design for younger people.
+So maybe we can focus ourselves on the elderly people.
+And I think we have to see what requirements we need for those remote controls.
+Because what you told is the channel selection is important.
+The volume selection power and the title text.
+Yes.
+Okay.
+But obviously the board goes to disagree.
+Now we haven't voted yet.
+I think teletext can be, can be a function as well.
+But only if they don't hire the cost.
+Because I don't know if it will be a lot more money to implement teletext as well.
+But I don't think that will be a problem.
+Or is there a text?
+Yeah.
+So I should just think it's definitely a fair idea not to include teletext.
+Is there anybody really against teletext?
+Just keep the teletext.
+It's good as well, especially for the subtitles.
+Maybe we can make that another point of advantage in our remote control.
+We make a better mix, for example, for big subtitles.
+Which is instantly on the remote control for elderly people that they can think of.
+I want to sometimes push the button and they get the big subtitles.
+That's going to be.
+That text can be very useful in our advantage.
+Functionality should be a few buttons, you said.
+Yes.
+I think that's very important.
+We have a few buttons.
+So to keep it simple.
+I don't think that's really an issue anymore.
+It might be.
+It's only for TV.
+You're not going to need a lot of buttons anyway.
+You need one to zero button.
+Next channel, previous channel.
+Follow him up for him down.
+And some teletext buttons.
+Yeah.
+I think we can't skip this place or we don't need it.
+Buttons for one to zero.
+Maybe we can include teletext should do.
+I think many people like to use that.
+Maybe you need to switch from channel one to like 35.
+You don't want to push the next channel button 25 times.
+Maybe you can implement the scroll button.
+Or joystick like there are other ways to.
+If you look at telephones, the Sony telephones scroll button,
+which is very useful in searching names.
+That is true.
+But I don't think there are many TVs that can switch channels
+that fast.
+And so you would need like the TV,
+you would need a function where you can actually view all channels
+and scroll through it.
+I don't know if many channels would do have the 20 TVs.
+And besides that, it's if we're going to focus on the elderly people,
+they'll have to adapt.
+They're not used to using scroll buttons.
+Perhaps we should stick to the basic layer.
+This is the numbers.
+Yeah.
+We can see how much buttons there are going to be on the display.
+And if it's too much, we can reconsider it.
+I think that button means very much buttons.
+But I think if you're going to make remote control only to operate a TV,
+there's not much you can gain on having a few buttons as possible.
+Because I think there are pretty many remote controls that can only operate a TV,
+which already only have the minimum number of buttons.
+I think there's much to be gaining that area.
+The number of buttons.
+I think it's very important in the design.
+You can make a very fancy design with putting the buttons on the right place.
+If you have less buttons, you can do a lot more.
+That is true.
+But I think there's simply not much to gain on the competition when you're making a remote control only for to operate only the TV.
+If you have a remote control only to operate a TV,
+there's simply not a lot of buttons required.
+There's not a lot of functions required.
+So most existing remote controls simply don't have a lot of buttons either.
+So I think it would be very hard to actually gain on the competition here.
+So I think it would cost a big marketing explanation,
+which was one of the arguments to make it only for the TV,
+because we didn't have the time to market a lot.
+So you should just be good better focus on, for example, the docking station.
+Like other functions instead of less buttons.
+Well, yeah.
+I mean, we obviously need a good way to position all the buttons.
+But I don't think we should spend very much time in that.
+Do you think the docking station is allowed in the budget we have?
+It should be possible.
+Because it's not too fancy.
+And if the remote stays rather small, it should be possible.
+Yeah.
+Because I think that's a good advantage point as well.
+If we have a guaranteed-looking docking station or any.
+Sorry.
+It's a nice requirement.
+The new station.
+So we're just going to focus on the extras.
+I think so.
+Yeah.
+I think maybe we should do some research into what other people like to have.
+Yeah.
+Like to have extra in the remote control.
+Let's see the point.
+You said they easily get lost as well?
+Yes.
+Well, 50% of the people indicated that remote control tended to get lost.
+So maybe we should implement the audio side or something.
+Yeah.
+That was what I suggested.
+Yeah.
+We have it on the chain if you want to.
+Yeah.
+It makes it.
+Yeah.
+It's on some phones too.
+And you have a docking station.
+And you just press a button and the phone goes ring.
+Yeah.
+So you know where it is.
+How do you get the signal?
+It should be possible as well.
+I think it's not too expensive.
+Yeah.
+So it's there.
+Yeah.
+Another point.
+The LCD screen.
+I don't know if that will rise to cost too much here.
+I think we'll have to choose between the docking station or the screen.
+Yeah.
+Totally too much.
+I think since all people indicated a new remote control is hard to learn.
+And we're focusing on elderly people here which tend to have a hard time understanding
+new devices.
+It might be a good idea to have just a little screen on it.
+Which we'll explain a button if you press it.
+Which would tell you what it does.
+Yeah.
+And it wouldn't have to be touchscreen or very expensive screen.
+Yeah.
+Just the LCD.
+Just the normal screen.
+Just the screen.
+Just the screen too.
+Some extra info.
+Yeah.
+I think that's the good idea.
+But I don't know if that will be.
+Is this small screen fit into the cost?
+I think it should be possible as well.
+Let's see what did we say more.
+It should be fancy.
+Fancy design.
+Easy to learn.
+Few buttons.
+We talked about that docking station LCD.
+The general functions.
+Yeah.
+Okay.
+And default materials.
+I think that's a good idea as well.
+Because elderly people don't mind if it's titanium cover or just a plastic one.
+Yeah.
+It doesn't really matter.
+So I think probably elderly people would be a little bit more careful with their remote
+controls and the demonstration.
+And let's specify the target group.
+Are we talking about elderly elderly people or people from 40 to 80?
+Yes.
+I think what we're going to design now is for people above 60.
+Maybe.
+Yeah.
+What do we want?
+I think we want to profulate as for example the telephone for elderly people we can target
+a real elderly people.
+I think that would be if we should do something like that.
+I think it would be really good for the image of the company.
+Yeah.
+And I think there would be a good market for it.
+So let's still be able to really bring an innovative product.
+Are you talking about 60 to 80 for example?
+Yeah.
+Do you really?
+Yeah.
+I thought 60.
+I'd have to look into that a little more.
+Okay.
+Do you have different cultures?
+Are we?
+I don't think they have different television sets in every country.
+Yeah.
+I've got five minutes left.
+And with the little screen in it, which explains buttons, I think it would be a lot easier
+to adapt to two different cultures.
+Yeah.
+In different languages.
+Yeah.
+Or you have to put a language better than it would be.
+Better in this area.
+Yeah.
+It's better to put it in different markets.
+Yeah.
+Yeah.
+Okay.
+So that's the target.
+And then a few.
+So things.
+Okay.
+I will put the minutes in the project document folder.
+What we're going to do for the next meeting is the industrial design.
+You have a little bit of components on set.
+Here's the interface design.
+Here's the interface concept.
+And the transport chain.
+So I'll just keep in mind the things we've set about the target group.
+And the requirements and the trends which are, you know.
+And the specific instructions will be sent to you by the personal coach.
+So I think it is meeting.
+And I think it's an inch break now.
+That's good.
+That's a good thing.
+Now we're not allowed to talk about it.
+Oh my god.
+That's going to be very interesting.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+We're going to get it.
+Okay.
+Okay.
+ok.
+Good afternoon.
+Everybody in front is placed.
+Okay, everybody in front is placed.
+Okay, so this is our second meeting.
+And, you know, now we're going into the functional design.
+The important thing of this phase is that we're going to try to get an agreement about the user requirements, technical,
+finishing design and the working design.
+So, if we can move on to the second phase.
+The first is phase.
+First announcement.
+So, there's a little adaptation in the air conditioning system.
+So, there was a mouse again.
+But, that means that you can have a little strong, a little strong with air conditioning.
+That's because of this.
+Okay.
+That's the way you see me.
+So, it should be out on the left.
+A couple of days.
+It's going to be called anyway, sir.
+I don't think it's going to be, you know.
+Then our agenda.
+First the opening.
+This time, I will take a minute.
+You're going to have a presentation.
+And we've got 40 minutes for the whole presentation.
+So, I suggest we take about seven minutes for presentation.
+And then we can have a little discussion about the new project requirements, which have been sent to me.
+And then the decision on the control functions, which you want to include.
+Those.
+Which you can do.
+So, we've got 40 minutes for all of it.
+So, I suggest that it starts in the first presentation.
+Who wants to be first?
+I think I'll go first.
+Okay.
+So, that is easy for you.
+Yeah.
+I think you will tell me your presentation is all.
+Which function you have.
+And are you going to talk about it?
+Okay.
+My name is Franklin.
+I'm the Mark expert.
+You know what I mean.
+I've done some research.
+We have the new research.
+And it's really not where we observe users operating remote controls.
+We don't think a lot of questionnaire.
+We have 100 of these tests.
+In addition, we get some market research.
+See what the market consists of.
+What ages are involved?
+Well, these are three quite astonishing results.
+I thought.
+Remote are being considered ugly.
+75% of the people pushing indicated that they thought their remote work was ugly.
+And an additional 80% indicated that it would spend more money on a fancy-looking remote control.
+In addition, remote will not be very functional.
+50% of the people indicated that they only use about 10% of the buttons on a remote control.
+And 50% of the people indicated that the remote turned it to get lost in their room.
+So, it's been.
+Then we did some research to do most relevant functions.
+The general selection and volume selection, both got a 10 on a scale of 1 to 10 for relevancy.
+The power button got a 9, and the text got a 6 and a half.
+So, these are the most important functions of a remote control.
+And then there are some multi-end use function.
+That's what I'd like to call them.
+There are audio settings, video settings, and channel settings buttons.
+Which you're not really used very frequently.
+But are still considered to be of some importance.
+Channel selection was also indicated to be used very frequently.
+168 times per hour.
+And this is the market.
+60% of the market consists of users between the ages 16 and 46.
+Make a drastic of this group is that they're very critical on the remote control.
+They'd like to use new functions, but they also are very critical.
+They won't spend their money very easily.
+The users of 46 to 65 years consider that they make up 40% of the market.
+They're not really very interested in features, but they do tend to spend their money a lot easier.
+What I think this indicates for our design, I think we should make a remote for a future.
+And this means we would have to focus on the ages 16 to 45.
+This also makes the most big part of the market.
+So they'll also be where our main profit will be capable.
+This will be where we make fancy design.
+The results also indicated that about one quarter of the people questioned thought that the remote control caused areas high.
+This is certainly something to take into account.
+And 34% thought that it was hard to learn and to operate a new control remote control.
+So these are two factors that I think should be included in the design.
+Besides, of course, the remote must look very nice.
+The functionality, as a lot of people indicated, they only use about 10% of the buttons.
+I think we should make very few buttons.
+This will also be beneficial to the design of the remote.
+I think the most frequently used buttons should be emphasized, especially the child selection and audio selection buttons.
+Because they're used most and so they should be reduced.
+They shouldn't break down easily.
+Then as a lot of people indicated that their remote got lost in the room, it might be,
+and I say it might be because it would certainly boost the production costs a lot.
+But it might be a good idea to make a talking station.
+And this would get a button in it, which would send a signal to the remote, which would then be.
+So you know where it is in the room.
+And in addition to this, it could recharge the batteries in the remote if you put it in.
+Then, surprisingly, the great deal of people indicated that a massive e-screen in the remote control would be preferred.
+This was mostly people in the age of 16 to 25.
+But up to 45 is remains feasible.
+This would also greatly increase the production costs.
+But I think these are just some small factors we could consider.
+Okay. That would be all.
+Thank you. Anybody have any questions?
+Questions?
+Okay. That's good.
+I'll do the second.
+Okay.
+I don't know if I'm good at it.
+Usually interface for the technical function of it.
+Yeah, you can take your time.
+Let me show you.
+That's been a slight shot.
+Yeah.
+I think we must use general functions for remote control.
+Actually, I've known a little research on the internet.
+Not much information about it.
+About the interface.
+Yeah. I've been thinking about a simple manner to put a lot of functions in one remote control.
+So, you've got a lot of devices like if the derivation is stereo.
+But it must be useful, frankly.
+So, you can put a lot of functions in one.
+Yeah.
+Yeah.
+In one remote control.
+Yeah.
+Yeah.
+Got many functions in one remote control.
+Yeah.
+You can see this is quite simple.
+Every remote control.
+A few are buttons.
+But this is a remote control.
+Got a lot of buttons.
+Yeah.
+People I don't like.
+Well, I was thinking about what's keeping general functions like the yards, like on offer button.
+Yeah.
+Like a redbird and everybody knows it.
+So, you don't have to change that.
+Personal preferences.
+It was a display for a specific function of the difference in the face.
+What I was thinking about was you've got this remote control.
+You've got the error functions like that on offer button.
+So, I don't know.
+Here you've got this display.
+It's a touch screen.
+So, you've got the general type of function software device for a DVD player.
+Yeah.
+Yeah.
+For playing reverse.
+Yeah.
+Got the real buttons.
+For selecting a device.
+So, this button is for the VR.
+So, for every device you've got a part display of a part button.
+So, you've never got all the buttons on one device.
+So, this is my idea about it.
+Yeah.
+And let's see.
+So, touch screen.
+And the buttons.
+The real buttons we have to use.
+You've got a large presence for everybody after you use it.
+So, if all people don't need people.
+So, let's keep the buttons quite simple and quite large.
+Yeah.
+Yeah.
+That was my question about technical functions.
+Well, I think if we're going to use a touch screen, we're going to go way above the 12th
+of Europe.
+Yeah.
+I don't think so.
+You've got quite a deep touch screen.
+It's not a corridor or something.
+It's just one corner.
+Yeah.
+I've seen something on the internet, not today, but a few weeks ago.
+You've got quite a kind of touch screen for 20 euros or less.
+So, it's possible.
+Well, we certainly make a fancy design.
+Yeah.
+So, it wouldn't be very robust.
+It's very fragile and you can get scratches on it.
+Not a stream.
+That's right.
+Yeah.
+Maybe you can first listen to your presentation.
+Yeah.
+So, we have a little discussion about the requirements for the setting.
+I think it's going to do.
+Okay.
+I've got a presentation about the work that he's at.
+First, about how it works.
+It's very simple.
+Of course, everybody knows how remote works.
+The usual process is button.
+The remote determines what button it is.
+Use the infrared to send a signal to the TV switch to the frequency or the function it is.
+So, we've got a plate that's conductive disks for every button.
+And the usual process is button.
+So, the signal got set.
+It goes to the left and transmitted transmit it to the TV.
+It's a very simple device technically.
+So, this is a schematic overview.
+We've got the buttons, the power source.
+And when a button gets pressed, it goes to the chip.
+The chip controls the infrared bulb.
+And perhaps a normal bulb.
+When you press button, you can actually see your pressed button.
+Well, my finger should use default materials.
+Simple plastics.
+Keep it in the working simple.
+So, it's robust.
+I think we should focus on aesthetics and design in the user interface.
+Because if you're going to use high-tech materials, the price is going to go to the sky.
+You only have to design a remote once.
+And if you use high-tech materials, it comes back in every product.
+So, it's, in my idea, it's going to be smart to invest in design in the product itself.
+That's it.
+Okay.
+Thank you.
+Okay.
+Okay.
+Now, I hope everybody has a little bit more insight in the functions we all have.
+And what we're doing right now.
+I'm a project manager.
+So, I'm here to miss things up.
+There is some requirements.
+And that's, we have got to design a remote, which is only suitable for TV.
+And that's because it will be too complex.
+And the time to market will be too big.
+If we want to have it for more functions.
+So, it has to be simple.
+Another point is we have to skip the data text.
+Because in the world of coming internet, we think data text is going to be things fast.
+And it's, actually, we don't need a remote control.
+Internet is also mentioned just to go in a function you can use.
+And maybe also on televisions it will be available as well.
+And other ones, the customer is 40 plus.
+That's the market.
+If they were to target, because we are going to develop a new product, which is especially
+designed for the younger customers.
+This is a bit pretty for the marketing expert.
+Because it was aiming on the younger persons.
+So, we have to find a market which is above 40 plus.
+But which will suit our remote control and the other way around.
+And we have to be very, then putting a carbon image in our product.
+So, it has to be visible in our design, in the way our device works.
+And we have to be very careful at this point as well.
+So, I suggest, let's have a discussion on the control functions.
+So, is there any discussion possible about any of the requirements?
+We can see if we can find a way between the functions we want to use.
+Mark, we want to reach with our product.
+Yeah, because you're saying that teletexas is going to be an old feature.
+And it's not going to be used any more anyway.
+Pretty soon and new TVs will have internet access on them.
+But I think if you're targeting people of 40 plus, the chance that they will have a
+TV with internet access within the next like 20 years is very slim.
+In addition, people indicated that teletexa simply was an important feature for the remote control.
+So, I think it's pretty dumb to put no teletexa feature on it.
+I'm pretty much against it.
+Against another data text.
+Yes.
+Besides that, I think the market for 40 plus is pretty small.
+But if I see this, I think we're just going to go for another step.
+I think we can do a little bit of design and the simple buttons which are also mentioned.
+If we put a lot of effort in those, we can make a remote control with just two or three buttons.
+Just a remote which is suitable for the market we want to reach because it is 40% of the market.
+And if you're looking at the whole generation of 40 plus 50 plus, it's the biggest share of the whole population now.
+Yes, but it's not the biggest part of the market.
+No.
+Besides that, they're not very critical.
+So, I mean, they don't really care what the remote control is like.
+They'll just pretty much take the first thing they see and which looks acceptable.
+But don't you think that if we make a remote which is typically made for this market,
+the people think from the people think that's the device I've looked for, although I didn't realize it.
+So, let's try it.
+No.
+I think there would be the case in 16 to 45 pages category.
+Because they are critical and they want to have a fancy remote control.
+People have 40 plus.
+I mean, they wanted to work, but as soon as it works, it's okay with them.
+Yeah.
+If we put our marketing right, we can sell this just like, I don't know if you've heard about it in the news.
+The elderly mobile phone.
+Yeah.
+It's a big success.
+Yeah.
+If we make a remote control, just with that idea in mind, we could make tons of money.
+We don't have to focus on the design then, but on functionality.
+We change our focus on the project.
+Nothing.
+We can sell this.
+I simply think that the new products we're going to make,
+specifically these are in our design for younger people.
+So maybe we can focus ourselves on the elderly people.
+And I think we have to see what requirements we need for those remote controls.
+Those are two tools.
+The channel selection is important.
+The volume selection power and the title text.
+Obviously, the board goes to disability.
+Now, we haven't voted yet.
+I think data text can be a function as well.
+But only if they don't hire the cost.
+Because I don't know if it will be a lot more money to implement data text as well.
+But I don't think that it will be a problem.
+Where is data text?
+And that people need data text for a subtype.
+So, yeah.
+So, I should just think, definitely the entire idea not to include data text.
+Is there anybody really against data text?
+Yeah.
+Is that...
+Let me just keep the data text.
+I think it's good to use that, especially for the subtitles.
+Maybe we can make that another point of advantage in our remote control.
+We make a better mix, for example, for big subtitles.
+Which is instantly on the remote control for elderly people that they can think,
+I want to subtype and push the button and they get the big subtitles.
+That's good.
+So, I think that data text can be very useful in our advantage.
+Functionality should be a few buttons.
+You said?
+Yes.
+I think that's very important.
+We have a few buttons.
+So, to keep it simple.
+I don't think it's really an issue anymore.
+It might be.
+It's only for TV.
+You're not going to need a lot of buttons anyway.
+Neither one to zero button.
+The next channel, previous channel.
+I'm pulling up, pulling down.
+And some teletext buttons.
+Yeah.
+I think we can't skip this way, so we don't need it.
+Do you need the buttons for one to zero?
+Maybe we're going to include teletext.
+I think many people like to use that.
+If you want to switch from channel one to like 35,
+you don't want to push the next channel button 25 times.
+Maybe you can implement the scroll button.
+Or joystick, like.
+There are other ways to look.
+If you look at telephones, the Sony telephones have a scroll button,
+which is very useful in searching names.
+That is true, but I don't think there are many TVs.
+It can switch channels that fast.
+And so you would need a function where you can actually view
+all channels and scroll through it.
+And I don't know if many channels would do have that.
+Many TVs are there.
+And besides that, if we're going to focus on elderly people,
+they'll have to adapt.
+They're not used to using scroll buttons.
+Perhaps we should stick to the basic layout.
+This is the numbers.
+Yeah.
+They can see how much buttons they are going to be on the display.
+And if it's too much, we can reconsider it.
+Yeah.
+I think they're bonding very much buttons.
+Or they're done.
+But I think if you're going to make remote control only to operate a TV,
+there's not much you can gain on having a few buttons as possible.
+Because I think there are pretty many remote controls that can only operate a TV,
+which already only have the minimum number of buttons.
+I think there's much to be gaining that area in the number of buttons.
+Yeah.
+I think it's very important in the design.
+You can make a very fancy design with putting the buttons in the right place.
+If you have less buttons, you can do a lot more of it.
+That is true.
+But I think there's simply not much to gain on the competition when you're
+making a remote control only for to operate only the TV.
+If you have a remote control only to operate a TV,
+there's simply not a lot of buttons required.
+There's not a lot of functions required.
+So most existing remote controls simply don't have a lot of buttons either.
+So I think it would be very hard to actually gain on the competition here.
+So I think it would cost a big marketing explanation,
+which was one of the arguments to make it only for the TV,
+because we didn't have the time to market a lot.
+Yeah.
+So you should just make a better focus on, for example, the docking station,
+like other functions instead of less buttons.
+Well, yeah.
+I think, I mean, we obviously need a good way to position all the buttons.
+But I don't think we should spend very much time in that.
+Yeah.
+Do you think the docking station will, is allowed in the budget we have?
+It should be possible, because it's not too fancy.
+And if the remote stays rather small, it should be possible.
+Yeah.
+Because I think that's a good advantage point as well.
+If we have a guaranteed-looking docking station, or...
+So that's a nice requirement.
+So we're just going to focus on the extras.
+I think so.
+Yeah.
+I think maybe we should do some research into what other people like to have in a...
+Yeah.
+Like to have extra in the remote control.
+That's a great point.
+You said they easily get lost as well?
+Yes.
+Well, 50% of the people indicated that remote control tended to get lost.
+So maybe we should implement the audio side.
+Yeah.
+That was more suggested.
+Yeah.
+We have a little change if you guys saw it.
+Yeah.
+It makes it.
+Yeah.
+It's some phones too.
+And you have a docking station.
+And you just press a button from the good ring.
+Yeah.
+So you have a radius.
+The idea is signal.
+It should be possible as well.
+I think it's not too expensive.
+Yeah.
+It's not too expensive.
+Another...
+The LCD screen.
+I don't know if that will rise to cost too much here.
+I think we'll have to choose between the docking station or the screen.
+Yeah.
+So it'll be too much.
+I think since all the people indicated a new remote control was hard to learn.
+And we're focusing on all the people here, which tend to have a hard time understanding
+new devices.
+It might be a good idea to have just a little screen on it, which will explain a button if you
+press it, which would tell you what it does.
+Yeah.
+And it wouldn't have to be touch screen or very expensive screen.
+Yeah.
+Just the LCD.
+Just the normal screen.
+So it's really too...
+Some extra info.
+If you hear it.
+Yeah.
+I think that's the good idea as well.
+But I don't know if that will be...
+Is this small to fit into the...
+Cost.
+I think that should be possible as well.
+Let's see what did we say more.
+Should be fancy design.
+Is it to learn?
+A few buttons.
+We talked about that docking station LCD.
+The general functions.
+Yeah.
+Okay.
+And default materials.
+I think that's the good idea as well.
+Because all the people don't mind if it's titanium cover or just a plastic one.
+No.
+It doesn't really matter.
+So I think probably all the people will be a little bit careful with their remote controls.
+And let's specify the target group.
+Are we talking about elderly, elderly people or people from 40 to 80?
+Yes.
+I think what we're going to design is for people above 60.
+Maybe.
+What do we want?
+I think we want to profulate as the...
+For example, the telephone for elderly people, we can target the real elderly people.
+I think that would be...
+If we should do something like that, it would be...
+I think it would be really good for image of the company.
+Yeah.
+And I think there would be good market for it.
+So that's still able to really bring an innovative product.
+Are you talking about 62, 80, for example?
+Yeah.
+Do you really?
+Yeah.
+I thought it was 60.
+I'd have to look into that a little more.
+Okay.
+There are different cultures.
+Are we...
+I don't think they have different television sets in every country.
+No.
+They've got five minutes left.
+And with the little screening, which explains buttons,
+I think it would be a lot easier to adapt to different cultures.
+Yeah.
+In different languages, you have...
+Or you have to put a language button in it.
+That will be a bit in the standard.
+Yeah.
+It's better too.
+Put it in different markets.
+Yeah.
+Okay.
+So that's the target.
+And then a few small things.
+Okay.
+I'll put the minutes in the project talking folder.
+And what we're going to do for the next leading is the industrial design.
+It will be a components concept.
+It brings in space design and we're using the Facebook set and the fundraising.
+So just keep in mind the things we've said about the target group,
+and the requirements, and the trends, which are, you know.
+And the specific restrictions will be sent to you by a personal coach.
+So thank you for this meeting.
+And I think for that's great.
+That's good.
+That's a good thing.
+Now we're not allowed to talk about it.
+Oh my god.
+That's going to be very interesting.
+Thank you.
+All right.

@@ -1,3 +1,5 @@
+wget
 openai-whisper
 nltk
 datasets
+pandas

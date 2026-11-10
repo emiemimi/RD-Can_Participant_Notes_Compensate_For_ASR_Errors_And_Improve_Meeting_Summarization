@@ -1,0 +1,4701 @@
+I didn't get it.
+I didn't get it.
+I didn't get it.
+I just
+didn't get it.
+I didn't get it.
+I didn't get it.
+I didn't get it.
+I didn't get it.
+I did not get it.
+I didn't get it.
+This is how it works.
+I'm not ready to go against the Navy.
+Yes.
+You're off.
+I'm made this time.
+So we are on the battlefield.
+Shall I start off?
+I'm in the battlefield.
+So we stop in the battlefield.
+Okay, you all are on the battlefield.
+Let's do it.
+Here we go.
+OK
+There we go.
+No it doesn't work there.
+What's the agenda for this meeting?
+The I will present the agenda with slides.
+Two, as you can see here.
+So first, just to mention, I will pick notes of this meeting.
+And I will try to work them out and get them to use.
+So the previous meeting, and I was about to send a mute.
+Then I had to go to this meeting, so you will get them to...
+You are the secretary.
+Yes.
+Indeed.
+Then I helped you all have worked out some presentations about the task given to you in the previous meeting.
+We will, in a minute, we will start with them.
+We will see which order will handle them.
+Then I will bring in some new requirements.
+I got from the company here.
+I tried to work them out.
+They worked quite abstract.
+And we can have maybe some discussion about it.
+About the functions.
+In this meeting, we should really try to reach a decision about the target group.
+And the functionality of the...
+You mean the social target group?
+Yes, I mean the target.
+Yes.
+Who are we going to do that?
+Well, the customers.
+Okay.
+Customer.
+Indeed.
+Yes.
+Think that's important matter.
+And then we will close this meeting.
+And after this meeting, we will have a look.
+Good.
+Maybe.
+Why?
+Anna, can you...
+Do you have a presentation?
+No, I don't.
+You're going to have a presentation.
+How is it?
+Yeah.
+You want to table to...
+I can talk about it.
+Yes.
+Yes, maybe.
+Maybe you can just talk about it.
+Or maybe you can use the whiteboard if necessary.
+Well, I've just been presenting with some research we've done at a small focus group.
+So I have your people discussing about their remote control usage habits.
+And what they're wanting to know about control.
+It's probably can't be known as to me.
+I've just got a webpage for some data on it.
+Basically it's saying that users generally dislike the look and feel of their remote controls.
+75% of users find most remote controls ugly.
+8% of users would spend more money when a remote control would look fancy.
+Current remote controls do not match well.
+The operating behavior up to user.
+75% of users said there's a lot.
+So they use the remote control quite frequently while they're watching television.
+50% of users say that they only use 10% of the buttons.
+So they've got a remote control with a lot of functionality.
+But it really works the time that only use a small part of that.
+Do you have this information on the webpage?
+I have a web page, yes.
+Maybe you can send an email to me later.
+Yep, sure.
+About it.
+So basically there's a breakdown of how much the different functions of the remote control.
+Power and volume selection are only used a few times within this per hour.
+Child selection is used hundreds of six to eight times.
+And then there's things like channel settings, audio settings which are only used very
+frequently.
+Kelly Tech is used 14 times in the hour.
+So I've been used but not nearly as much as the channel selection is used.
+I'm actually thinking that this report is brought up is that 50% of users,
+the remote control gets lost a lot of the time in the room.
+Yes, I have that too.
+Somewhere of location in the remote control would be very useful to a lot of users.
+34% that it takes too long to learn to use the remote control.
+And the one thing is easier to use straight away, more intuitive perhaps.
+It's easier to learn.
+34% said it took too much time to learn.
+Okay, too much time to learn.
+And 26% said remote controls are bad for RSI.
+I don't know how we just go about formatting that.
+What do you mean?
+Well, RSI is the best to straighten injury.
+Okay.
+Yeah.
+But I think that or do the doctorate.
+Doctorate.
+But it's the opinion of the year.
+Yeah.
+That's what the report says here.
+And then it's got a demographic breakdown.
+Maybe you kind of put this web page online on the...
+I should be able to actually be about you now.
+You can just connect it.
+You can maybe just...
+Oh, yeah.
+Okay.
+It's a web page on the scene.
+Yeah.
+It's a file.
+Okay.
+Otherwise you, yeah.
+No, you can connect this one.
+You can connect this one.
+Yeah.
+Oh, what do I have to do?
+Okay.
+Okay.
+So these are important numbers that Matthew and I need to take into account for our professional
+It's probably easier if you put it on your last day now, actually.
+This is a web link.
+Okay.
+Yeah.
+These numbers have to be...
+have to be taken into account for both user interface and functional design.
+One thing you guys want to talk about, which is interesting, is the...
+Okay.
+Because if there are many numbers and we need to select to...
+to constrain our design based on what is more important.
+Yeah.
+Yeah.
+One thing is interesting is talking about speech recognition and remote control.
+Speech recognition.
+And who would pay more for that and whether people would probably use that.
+Do you have numbers on that?
+Yes.
+So that we don't need any button on the remote control to be in our based on speech.
+Okay.
+I think even for...
+Interesting idea.
+Yeah.
+I think that would not work so well.
+You wouldn't have both options.
+Okay.
+Well, it would be a solution for...
+When your remote control is lost.
+I mean, when it has feature recognition, then...
+Yeah.
+It doesn't matter where it is.
+Well, it should be in range.
+Maybe it can respond and produce sound.
+So say where it is.
+Yeah.
+But these are all quite fancy future time.
+Not sure whether...
+Right.
+We will...
+We can make this for 12 euro of 50 cents.
+Yeah.
+And we don't know where the state-of-the-art of speech recognition is.
+Maybe, you know...
+Oh.
+Well, it depends, you know.
+Like, there is...
+It's a very small vocabulary.
+And you want to do the question.
+Like, you want to say on and off.
+One.
+But it's quite noisy.
+There is the TV.
+Yeah.
+Yeah.
+And it's not going to be...
+It's so easy.
+Usually, it's going to be more of an isolated...
+It doesn't have some words.
+But in fact, it's hard.
+But I don't know...
+So, I get to summarize maybe then.
+This is now talking about who would pay the speech recognition in a remote control.
+Who would pay more for it.
+90% of the 15 to 25-year-old market said that they would pay more.
+It goes down from there.
+6% for 25 to 35, 35% for 35 to 45.
+22% for 45 to 55.
+And then, 8% for 55 to 25.
+Yeah.
+It really depends where we're going to be targeting this product.
+Which we will be talking about later, I think.
+Yes.
+We will talk about this later.
+Did you get the email?
+Yeah, no.
+Just phone that.
+Okay.
+That's...
+You're going down with it?
+Yes.
+You're going down with it?
+Yes.
+What?
+Okay.
+Okay.
+I'm sorry.
+Okay.
+I'm sorry.
+Okay.
+So, that's the thing I was just talking about there.
+It's the different benefits.
+The other thing that's talking about there is the LCD screen, but there's no bigger
+than hardly on that.
+Okay.
+Okay.
+Okay.
+Okay.
+Maybe, Ma, can you give your presentation now?
+Okay.
+Okay.
+Okay.
+Stay.
+No, you can move it.
+You can move as far on.
+Maybe I take your chair?
+Yes.
+You can take my chair.
+So, I think everybody knows, I'm the industrial designer.
+designer. And in this presentation, this quick presentation is going to focus on the working
+design of the remote control. And I'd like first to give a simple introduction on how does
+it work so that everybody knows, even if you don't have a very technical background or
+what is it, I think, in the product is important. So basically, the basic function of
+remote control is to send messages to another system that is fixed. And so on energy source
+feeds an integrated circuit, the chip that can compose messages usually through infrared
+bits. And the user interface controls the chip and according the messages, right? So my
+method for designing the work design, yeah, first the main point is that I would wish to make
+a really functional product. I would prefer to have very functional capabilities, whether
+then fancy stuff that, in fact, is not used and doesn't work. So for that, yeah, as it's important
+to take into account the user requirements from the marketing. And we should do what
+all the functions for this remote control. And I'll show you the working design. So basically,
+here is a really large view of what we wanted. We want a button. It can be simple, but it's
+important. And so enabling the to browse channels as well as other buttons that come after,
+right? So the components I quickly draw here is that in this part, you have the remote control
+center and another part to receiver. So that's my method is, would be to, when I aim, would be to
+design and choose the chips and the infrared components to build the remote control line. So of
+course, we need energy sources and to receive a receiver. This is a really quick design. I used
+up me on it. And so what I found, and after a lot of work actually, I draw for you, this schema,
+can be maybe too technical for you, but it's really important for me.
+And so I won't go into details about that, but these are my preferences to use the kind of
+components. And why do we want this kind of component? I mean, are they cheap or are they reliable,
+or are you are? So the main components you see here are the cheapest I found. And you have always
+a compromise with readability and if it's expensive, but this one is also really reliable.
+So yeah, that's it for the working design. I hope you get a clear view on what the remote control
+is in terms of technical components, but maybe, yeah,
+it's more clear now I think. But is it getting just by the market or you want to do that?
+No, no, no, we will, this is a preference, but we can always change.
+What I was thinking about is the schema about the center and the receiver,
+can you get back to it? Yeah, the receiver is already in the television and we are not
+able to change it. We must adapt to the receiver. I suppose there is a standard way of communicating
+this. Yeah, we will use infrared protocol using infrared and of course we need to add up
+to that protocol that already exists. But what we can do is adapting the chips inside
+just the best chips on infrared boards.
+Yes, okay. Thank you.
+What is that? It actually has to in the frequencies.
+The frequencies? Yeah, of course you're in the chip.
+But you should be careful people or something. You can follow like a guy,
+as we said, they define remote, because it's of any other TV.
+So basically, it goes through all the things. So maybe we should think of
+just the TV in the next time that you're there.
+Yeah, so you can just turn on the seat and then switch up everyone's TV and then you can just
+open it. You don't have to be near the TV at all.
+I think my will will consider this. Maybe maybe we can go to your presentation as well.
+I think we'll be right next to you. Yes.
+All right. Yeah, we're there.
+It's on the desktop. It's a technical feature.
+So I'm going to talk a little bit about the technical thing. So what
+economics about? What is the user going to do?
+I'm smiling as well. What is going inside? Yeah.
+So what's the user is going to say from the outside that he's going to use it.
+So other thought is that basically the idea is to send a message to the TV set
+as the might of them. It will be the quality of the TV. And usually it is easier to have
+keys or buttons with which people can press and then changing a button will basically
+change the message, which is the example of the TV. And basically it says it's another thing
+that I'm because of whether it's either so plus and I have said that because your people are
+interested in things which are you don't need to because the keys people can have a key
+machine that is the set. It's a question which we have to see later, but in the presence scenario
+if that you have certain keys and it lets it like a platform and it sends them message to the TV.
+And so generally I don't have some figures for it, but there are two kinds of remote
+which is popularly in the household. Actually so you have a standard TV remote where you have
+let's say on of what I meant that volume change and keys for the number and more than one big
+adoption. And if you see for example right now, even the one, more than one digit option is for two
+digit and it is like 99. But tomorrow we might have 150 channels, you know, to close or two from the
+channels to close or two notes. But then there is a standard one without any fancy thing,
+you know, like there's a red light option you can without any. It's a very simple thing which you can
+go. And then you have what the video remote with it like, usually it has almost all the keys over
+there and but then it has other options like store and then you play the movie or for far
+follow the movie or something like that. So it has those, so these are the standard comments being
+found remote controls and market. And then it is generally used for the people and then
+but first of all, for instance, I could basically think of having a kind of a end for the next
+generation thing where we could have both the TV and the remote video remote control. Because
+some of the keys in the videos remote control and the TV, it could be integrated together so that
+we could aim for the like in the coming future type of application. How would that work? So
+it got so many VCR into your separate. So I might want at home, I've got a VCR in my which then
+changes the channel on the VCR and I'm going here on the TV. So is it going to be like a switch on
+the remote that says the user TV or user VCR or is it no which one you want to use?
+Actually, you could think of having the, we can have a key, we could go to the video thing. But
+you still find in the case when you do that the function should be able to take up the VCR option
+and you can also think about having like in a few days you would be in a few weeks, coming years,
+you might even have a system where you have a separate sitting set up box and you have
+something like you don't, you suppose you're not able to watch some program and actually
+if downloading all the time for you and you can just, you know, when you come back you can just
+switch on that thing and watch the program in that case you want to browse faster, browse through,
+you want to have those kind of functionalities. This is our kind of next generation.
+It's an exhibition thing, but it is going to come in probably as well. I don't think it's
+if there's already there and the artist recorded or I've seen it in a show.
+Yeah, okay. So it's going to record your things and you need basically the functionality
+what you need in both the reviews as well as the standard TV. But I don't think we're trying to
+make a universe, we're right here. We are just looking at giving us an aerial, I have a TV and
+tomorrow I'm going to have a set up box and put a sit there and look at some for me. We need to do
+side-on on how far we go to in this, we can go pretty far I think with functions and possible future.
+But it's good to keep in mind. Okay, so that's an implementation.
+So we can always discuss about it. For example, the present video market actually
+this demand or what we call it is presently booming up actually. So it is like people are providing
+like these things like movies, you can select actually. So you want to watch a movie and
+your provider gives a list of movies and then you select those lists. And it basically you go
+out with downloads and movie keys for you. And then when you come you want to watch it on your TV.
+Or even you don't need to download it's streamed online.
+Yeah, it can be streamed online for you. And you can say what can I want to do?
+So I have received some points of thinking over of my account manager and
+I would like to share them with you. The first thing is teletext is a well-known feature of
+telefishes but it's getting duped less and less. That's especially because of the internet of course.
+So we should think about it. Do we include it? And do we give it a prominent place on the
+well on the remote control itself. And in any case it's not used well very much but it is still used.
+Earlier we must think do we stay to telefishing normally? The telefishing has been
+we all know it with broadcasting signals and you can't go back. Or do we go further as
+Matthew indicated by supporting recording devices. So David is based on this? Indeed, indeed.
+And in the hottest record for the more. We need really need to interest
+younger customers and then with your customers I mean people below the age of 40.
+And how current customers are mainly 40 plus. Which is 40. So this is a market but
+they will grow all the world older and all they need to have to the future with younger people.
+And therefore younger people like friendly, trendy designs. So we should
+make our food as friendly as possible but it should also have a reliable image. So when it looks
+too spicy or too fancy people will think well does it work at all? Well you can follow the ideas
+how you want to keep the keys you know like now if you take it you have like
+do you want to do like keys separately but suppose if you take the
+doesn't end up mobile phones. They're like big, thick keys you press on the top it takes one number
+it's just on the bottom it takes another number and basically so there's space covered so that
+you don't see two separate keys there actually. So it is like it is like maybe you can draw it
+on the board. I think taking the idea of getting inspiration from my law funds is interesting
+especially for going after younger market. The new and the banking thing. There's lots of
+very kitty mobile clients not too many pretty remote controls. And they're skilled by using it.
+One thing like this actually and four clients and ten times that you can have key like in this form
+like you can like that. How much time will it up for the nation? Because it does like
+demogapt it on. So you can have a key like a digital line. So basically you don't change
+the quality of your order but then the keys are more spacious they don't look so that there is a
+very nice thing. So if you press on the top it takes a while and we take the three out of four
+over here five and three. So the keys can be it looks you know it's not very much cluttered but it
+looks nice. You don't have too many keys but you can have a lot of options. I think now the
+the idea is clear. Yeah. We should now try to decide on how to start a group. Which I think is
+quite true. Basically we're trying to get through the volume of control. Wouldn't they already
+have a remote control with the television when they're balanced? Or if they have already one. So
+how are we most of the lives to be better? There's nothing to have more functionality. There's
+any low market as a cheap end or a control. We can't be at my much naughty. We might
+we'll be able to beat them on the look of the designer that that's not a big salary. They're not
+going to just go and buy a new remote control just because it looks pretty. That's actually made it
+as well. So I'm not sure how they can get through the divide of the thing. Well I think many people
+set in your research the appearance of the RCS. It's important when they're buying one. But
+why they're buying one the best place? Indeed. So that will be about some functionality.
+But if people are buying a new remote control for much naughty, they'll buy a universal remote. I've
+got friends who've got so many things. I need a universal remote otherwise they're using five
+different roads for their older things. In that case, they wouldn't buy a product because it doesn't
+give them what they need in terms of functionality. So you think we should go for a more universal
+well we can't with the price range. We're not building a universal remote. We're not building a high
+bandwidth. Yeah, we have 12.5 euros for us, Posse. And I think with this, now you know that chips
+are very cheap and we can include it and now we're going through some new features. But yeah,
+if we're getting to university remote territory, we're getting to LCD screens and things like that,
+which would try to cost us a lot. I don't know whether that's necessary. I don't think a city is not
+necessary. I think this could be a market because universal remote controls tend to be quite expensive.
+And quite complicated. So we can try to go in between and offer a product which is not as expensive
+as possible. But still, but still, people have the idea that this is more functional than a normal
+universal RC because it has four, if it's no kind universal.
+But if we're going to say 15 to 25, I've scraped them. Not many of them would actually
+maintain days to use your medical trial on. Yes, we started in, I think, more on the 20 to 40
+group. Okay. So that people would just have or already have a job and have the money, but
+may not want to spend that much money on that. I don't know really what the price transfer
+controls is. Are we going to be at the very bottom of the price range or are we kind of middle to
+bottom? I don't know. Well, I think when we think over, I think we are trying to offer the kind of
+universal control for less money. Yeah. So do you agree? Well, it's fine with me like the place
+as long as it is not too expensive. Yeah, because we have to take into account that we're going to
+have a web and sell four, around four million. So when we speak about these numbers, the price of a
+cheap is a possible cheap is very cheap. So I'm okay for I'm signing a less, a kind of universal
+awesome. You think it's called 440 12 year old 50. Yeah. Okay. So then we decide on on going to this
+more universal kind of control. Yeah, that's that should be needed very quickly. Okay,
+I recognize it right now. Yeah, that's it. You can do the standard for to get the market.
+I guess what I like from a university or maybe choosing between three devices.
+Yes, between them and maybe stereo, BCR and TV. Exactly. And just because it's an
+often the same in life, but not the same, you know, close to all the standards, you know,
+yeah, that's limited standards for all of them. And you can go through them. Yeah. So given we are going
+for this universal type, maybe it's good when you try to find out which components you
+definitely need. And yes, you will try to get more specific user interface content. And maybe
+you can look on what trends are in this in this type of market. So anyone point you bring in or
+feel like I don't have anything right now? Oh, that's fine. Sure. We'll come up something.
+Good. Oh, yeah. Yeah. We have left now. So yeah, so let me tell you what the next meeting
+will, uh, off clearance, you have, uh, we have, uh, 30 minutes of work. And then we have the next
+meeting, but you will will, uh, inform fire. Okay. Cool. Okay. Perfect. See you then,
+Yes, this one.
+This one.
+This one.
+Here are my slides.
+Yeah.
+We'll participate.
+We can all.
+Yeah.
+In fact, we can.
+Here.
+Here.
+Here.
+Here.
+Here.
+I'm going to go to the next one.
+Here.
+I'm going to go to the next one.
+Here.
+I'm going to go to the next one.
+How to change the lens to the front.
+You should have increased the lens to the front.
+You should have delayed.
+Here.
+Here.
+Here.
+Here.
+Here.
+Here.
+Here.
+Here.
+Here.
+Here.
+Here.
+Here.
+I didn't get it.
+I should still have it.
+Here.
+Go for me.
+Here.
+Here's something.
+Here.
+There.
+Here.
+Here.
+Here.
+Here.
+Here.
+Here.
+Here.
+One.
+Two.
+One.
+One.
+Here.
+Here.
+There's a 30 story front.
+Here.
+Here.
+The front.
+Here.
+Here.
+I have to save my father.
+My father.
+I'm going to give you all I'm going to do.
+I'm going to give you all the time.
+I'm going to go ahead and run this here.
+What's the agenda for this meeting?
+I will present the agenda with slides to you as you can see here.
+Perfect.
+So, first, just to mention, I will pick notes of this meeting.
+I will try to work them out and get them to use.
+Also make notes of the previous meeting.
+I was about to send them to you.
+Then I had to go to this meeting, so you will get them to work.
+You are the secretary.
+Yes.
+Indeed.
+Then I helped you all have worked out.
+Perfect.
+So, some presentations about the task given to you in the previous meeting.
+We will, in a minute, we will start with them.
+We will see which order we will handle them off.
+Then I will bring in some new requirements.
+I got from the cabinet here.
+I tried to work them out.
+They worked quite abstract.
+I have come from the discussion about the functions.
+Well, in this meeting, we should try to reach a decision about the target group and the functionality of them.
+You mean the social target group?
+Yes, I mean the target.
+Yes.
+Who are we going to do that?
+Well, the customers.
+Okay.
+Customer entity.
+Yes.
+I think that's important.
+So, and then we will close this meeting.
+After this meeting, we will have a look.
+Good.
+Maybe.
+Can you, do you have a crisp picture?
+No, I don't.
+Do you want to have a crisp picture?
+No.
+Yeah.
+You want to table to.
+I can talk about it.
+Yes, yes.
+Maybe, maybe you can just talk about it.
+Maybe you can use the whiteboard if necessary.
+Well, I've just been presented with some research we've done in a small focus group.
+So, 100 people just asked them about their remote control usage habits and what they're
+wanting to know about control.
+It's probably can't email us to me.
+I've just got a web page for some data on it.
+Basically, it's saying that users generally dislike the look and feel of their remote controls.
+75, 75% of users find most remote controls ugly.
+I think some of users would spend more money when a remote control would look fancy.
+Current remote controls do not match well the operating behavior of the user.
+75% of users said there's a lot so they use the remote control quite frequently while they're
+watching television.
+50% of users say that they only use 10% of the buttons.
+So, they've got a remote control with a lot of functionality but really works with time that
+only use a small part of that.
+Do you have this information on the web page?
+How many web pages?
+Maybe you can send an email to me later.
+Yep, sure.
+So, basically, there's a breakdown of how much the different functions of remote control,
+power and volume selection are only used a few times within this hotel.
+And then there's things like channel settings, audio settings which are only used very
+frequently.
+Teletext is used 14 times in the hour.
+So, it is used but not nearly as much as the channel selection is used.
+So, an interesting thing that this robot has brought up is that 50% of users report that
+the remote control gets lost a lot of the time in the room.
+So, some might have that too.
+Some might have located in the remote control would be very useful to a lot of users.
+34% said it takes too long to learn to use the remote control.
+That was not easy to use straight away, more intuitive perhaps.
+It's easy to learn on the user.
+34% said it took too much time to learn.
+Okay, too much time to learn.
+Okay.
+And maybe 26% said remote controls are bad by RSI.
+I don't know how we just go back to commenting that what do you think?
+Well, RSI is the best to straight injury.
+Okay.
+But I think that our new doctor said that it's the opinion of the user.
+That's what the report says here.
+And then it's got a demographic breakdown.
+Maybe you kind of put this web page online on the...
+I should be able to actually find out to you now.
+You can just connect it then.
+You can maybe just...
+Oh, yeah.
+Okay.
+It's a web page on the C.
+Yeah.
+It's a file.
+Okay.
+Otherwise, you...
+No, you can connect this one.
+Yeah.
+All right.
+All right.
+So these are important numbers that Matthew and I need to take into account for our professional.
+It's probably easier if you put it on yours and now it's staying out to you.
+This is a web link.
+Okay.
+Yeah.
+These numbers are to be...
+That will be taken into account for both user interface and functional design.
+One thing you guys want to talk about, which is interesting, is the...
+Yeah.
+Because if there are many numbers and we need to select to constrain our design based on what
+is more important.
+Yeah.
+Yeah.
+One thing that stays talking about...
+Yeah.
+Um, speech recognition in any right control.
+Speech recognition.
+And who would pay more for that and whether people would buy it useful.
+Did you do anything wrong on that?
+Yes.
+I'll just get this back.
+So we don't need any button on the remote control to be for a based on speech.
+Okay.
+I didn't even follow.
+Interesting idea.
+Yeah.
+I think that would not work so well.
+You would have both options.
+Okay.
+Okay.
+Well, it would be a solution for when your remote control is lost.
+I mean, whether it has feature recognition then.
+Yeah.
+It doesn't matter where it is.
+Well, it's who should be in range.
+Hmm.
+Maybe it can respond and produce sounds.
+So say where it is.
+Yeah.
+But these are all quite fancy future time.
+Not sure whether.
+Go ahead.
+We will...
+We can make this for...
+For a fell of Euro of 15 cents.
+Yeah.
+And we don't know where the state of the art of speech recognition is.
+Maybe you know...
+Oh.
+Well, it depends.
+You know, like, there is a very small vocabulary.
+You know, you want to do that version of like...
+You want to say on or off.
+Hmm.
+But it's quite noisy.
+You know, there is the TV.
+Yeah.
+Yeah.
+It's not going to be...
+It's so easy.
+But...
+Usually it's going to be more of an isolated...
+Do you have some more important facts or...?
+But I don't know.
+I don't know.
+So you had to summarize maybe then.
+This is now talking about who would paint the state recognition in a direct control.
+Who would paint more for it.
+90% of the 15 to 25 year old market said that there would paint more.
+It goes down from there, 76% for 25 to 35 to 35, 35 to 45.
+22% for 45 to 55 and then 85 to 35.
+Yeah.
+Yeah.
+Yeah.
+It really depends where we're going to be targeting this product.
+Hmm.
+Um, which way would we do?
+I don't think.
+Yes.
+We'll talk about this later.
+Did you get the email?
+Yeah.
+No.
+Is that right?
+Okay.
+That's right.
+Okay.
+Perfect.
+And so that's the thing that I was just talking about there, it would be different.
+And the other thing that's talking about there is the LCD screen, but there's no big amount
+there on that.
+Maybe a mile, can you give your presentation now?
+Hi, okay, I stay.
+No, you can move it.
+You can move it as far.
+Maybe I can take your chair.
+Yes, you can take my chair.
+So I think, as everybody knows, I'm the industrial designer.
+And in this presentation, this quick presentation is going to focus on the working design of the remote control.
+And I'd like first to give a simple introduction of how does it work so that everybody knows, even if you don't have a very technical background,
+or is it, I think, in the product, it's important.
+So basically, the basic function of remote control is to send messages to another system that is fixed.
+And so an energy source fits an integrated circuit, the chip that can compose messages usually through infrared bits.
+And the user interface controls the chip and according the messages.
+So my method for designing the remote design, first, the main point is that I would wish to make a really functional product.
+I would prefer to have very functional capabilities, whether then fancy stuff that, in fact, is not used and doesn't work.
+So for that, yeah, it's important to take into of the user requirements from the marketing expert, Anna.
+And we should do what I think functions for this remote control.
+And I'll show you the working design.
+So basically, here is a really large view of what we want.
+One of the buttons can be simple, but it's important.
+And also, any willing to boost channels as well as other buttons that come after.
+So the components I quickly draw here is that, in this part, you have the remote control center.
+And another part to receiver.
+So that's my method is, would be to, when I'm aiming, would be to design the and choose the chips under infrared components to build the remote control line.
+So, of course, the energy sources and other receiver will receive a receiver.
+Quickly, yeah.
+Design, you stop me onto of me, you know, really on that.
+And so what I found, and after a lot of work actually, I draw this.
+I draw for you this schema that can be maybe too technical for you, but it's really important for me.
+You know, you do a long time.
+Oh, well.
+And it's it.
+So I won't go into details about that.
+But these are my preferences to use the kind of components.
+And why do we want this kind of component?
+I mean, I'll achieve or I'll rely on what's where you are.
+So, the main components you see here are the cheapest I found.
+And you have always a compromise with readability and if it's expensive.
+But, you know, this one is also really reliable.
+So, yeah, that's it for the working design.
+I hope you'll get a clear view on what whatever we would control is in terms of technical components.
+But maybe, yeah.
+Small play in our thing.
+What is it?
+Can you just buy it or market?
+Like it in?
+No, no, no, no.
+This is a preference, but we can always change.
+What I was thinking about is the schema about the generator receiver.
+Can you get back to it?
+Yeah.
+The receiver is, of course, already in the television.
+And we are not able to change it.
+So, we must adapt to the receiver.
+I suppose there is a standard way of communicating with communications.
+Yeah.
+Yeah.
+We will use infrared protocol using infrared.
+And, of course, we need to add up to that protocol that already exists.
+But, what we can do is add up the chips inside to the best chips.
+Yeah.
+And, for both.
+Yes.
+Okay.
+Thank you.
+It is just going to change the frequencies.
+The frequencies?
+Yeah.
+Of course, in the chip.
+You know, yeah.
+But, you should be careful people or something.
+We can follow.
+Like, a guy has recently decided remote with you such as any other TV.
+Yeah.
+So, basically, it is not a through-hother thing.
+So, maybe you should think of.
+Of course, yeah.
+We should think of it.
+So, we should think of it.
+Just the TV and the next time that you're there.
+Yeah.
+So, you can just tell us the data and then to jump everyone's TV and you can just walk
+away.
+You don't have to be near the TV at all.
+I think my will will consider this so that things may be.
+Maybe we can go to your presentation.
+Well, I think we will be right next to you.
+Yes.
+Okay.
+So, I can take a bit of my hand.
+Okay.
+I'm standing.
+Okay.
+I'm standing.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+No way.
+It's another desktop.
+It's technical.
+Okay.
+Okay.
+Actually.
+Okay.
+Okay.
+Okay.
+Okay.
+Now, you can see here, okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+I know where it is.
+Okay.
+is going to say from the outside that I was going to use it. So, other thought is that
+basically the idea is sent a message to the team and said that is a message from the
+that it will be the callability. And, you see it is easier to have keys or buttons,
+which people can press and then changing a button will basically change the message which
+is being sent to the TV. And, basically it is something for the signal and because of
+the receiver. So, as I have said that this people are interested in things which are we
+don't need to, because the keys people can have this picture. But, it is the same question
+which we have to say later. But, in the present scenario is that you have certain keys
+things and you can see it like a platform. And, it sends their message to the TV.
+And, so, generally I don't have some figures, sorry, but there are two kinds of
+remote, which is popularly in the household. Actually, so, here has a standard TV remote, where
+one of the buttons are left. Volume change and keys for the number and more than one
+digit option. And, if you see, for example, right now, even the one, more than one digit
+option is for 2 digit. And, which is like 99. But, tomorrow you may tell 150 cameras,
+you know, to close or 2 to the 10 or 2 close. But, then there is a, this is a standard
+one without any fancy thing, you know, like, it doesn't have to be a type of thing
+without any, it is a very simple thing which you can go. And, then you have a, what the
+video remote file, which is like, usually it has almost all the keys over there. And,
+but, it then it has other options like store. And, then you play the movie or for far
+the movie or something like that. So, it has those. So, these are the standard common
+made from remote compose and market. And, then, it pretty generally used for the people.
+And, then, for personal preferences, I could, for basically, think of having a kind of
+thing for the next generation thing where we could have both the app, TV and the remote,
+video remote control. Because, some of the keys in the videos remote control and the TV,
+it could be integrated together so that we could aim for the, like, in the coming
+future. So, I've got, I've got that work. So, I've got, so maybe a VCR into separate.
+So, on my one home, I've got a VCR in my, which then changes the channel on the VCR,
+and then I'm going to read the other TV. So, is it going to be like a switch on the remote
+that says, use the TV or use the VCR or is it no which one you want to use?
+Actually, you could, you could think of having, you can have a key, we could tell, you could go to the video thing.
+But, you still can, in the case, when you do that, the function should be able to take up the VCR option and you could play it.
+Or, you can also think about having, like, in a few days, you would be, in a few years, you might even have a system where,
+you have a separate sitting set up box and you have something like, you don't, you suppose you're not able to watch some program.
+And, actually, if downloading all the time for you and you can just, you know, when you come back, you could just switch on that
+thing and watch the program, in that case, you want to browse faster, browse slow, you want to have those kind of functionalities.
+This is a kind of next generation thing, finally.
+It is going to come in about the years.
+I think it's, it is already there.
+The largest recorders, I've seen it in the show.
+So, it's going to refer to your things and you need, basically, the functionalities, what you need,
+about the review, as well as the standard TV.
+But, I don't think we're trying to make a university room right here.
+No, we're not making an university room, but we are just looking at giving us an aerial, I have a TV and tomorrow, I'm going to have a set up box with the sitter.
+Look at some for me.
+We need to do sides on, on, on, and how far we go to, in this, we can go pretty far, I think, with, with functions.
+And possible future.
+Yeah, so, but it's good to keep in mind.
+Okay, so that ends my presentation.
+Well, so, we can always discuss about it.
+For example, the present is a video market, actually, this demand, video over demand of what we call it.
+It's, it's, presently, booming up, actually.
+So, it is, like, people are providing, like, these things, like, movies, you can select, actually.
+So, you want to watch a movie, and you're provided, give us a list of movies, and then you select those lists.
+Yeah.
+And it, basically, you go out, you download the movie, it gives for you.
+Yeah.
+And then when you come, you want to watch it on your TV.
+Or even you don't need to download, it's streamed online.
+Yeah, it can be streamed online for you.
+And you can see what time I want to watch.
+Yeah.
+Yeah.
+Yeah.
+So, I have received some, some, some, some points of thinking over of my account manager.
+And I would like to share them with you.
+And the first thing is, teletext is a well-known feature of televisions, but it's getting
+duped less and less.
+That's, that's, especially in the course of the internet, of course.
+So, we should think about it.
+Do we include it?
+And do we give it a prominent, prominent place on, on the, on the, well, on the,
+remove multiple for all self.
+And, and I indicated it's, it's not used.
+Well, very much, but it's, it is still used.
+Um,
+further, yes, we must think, do we stay, uh, to, to television now me?
+The television has been, we all know it with, it's broadcasting signals.
+And you can't go back, uh, or do we, uh, go further as Matthew indicated.
+By supporting, uh, uh, recording, uh, the highs is.
+So David is in Bayzias.
+Indeed, indeed.
+And, and, and, and the hardest record is, uh, for the more, uh, work.
+We need, really need to interest, uh, you, you know more customers.
+And then with your own customers, I mean, people, uh, below the age of three.
+Oh, the age of 40.
+And I, I'll current customers are mainly 40 plus, uh, which 14, 40.
+So it's to this, it is a market, but, uh, they will grow all the world older.
+And all, all I need to have a bit of future with young people.
+And therefore, young people like friendie, trendy designs.
+So that we should make our, our, our, our, our, our friendie as possible.
+But it should also be, uh, have a reliable image.
+So when it looks to, to space here, to fancy, people will think, well,
+does it work at all?
+Yeah, it's, uh, rather, you can,
+more of the ideas how you want to keep the keys.
+You know, like now, if you take it,
+you have like, you want to see like key separately.
+But suppose if you take this, uh, present kind of mobile phones,
+there are like big, thick keys.
+You press on the top.
+It takes my number.
+You press on the bottom.
+You take kind of the number.
+And basically, yeah.
+Yeah.
+So there's space forward so that you don't take two separate keys, actually.
+So it is like, uh, it, it is like, uh, maybe,
+maybe you can draw it on the board.
+Yeah.
+So I think taking the idea of getting inspiration from mobile phones is interesting.
+Yeah.
+Especially for going after a younger market.
+Yeah.
+Yes.
+Also really useful.
+The new and the funky things.
+Correct.
+Nice.
+Yeah.
+There's lots of very pretty mobile phones.
+Not too many pretty remote controls.
+And, and they're skilled, uh, by using it.
+So for example, uh,
+I don't know.
+I don't know.
+I don't know.
+I don't know.
+I don't know.
+I don't know.
+I don't know.
+I don't know.
+I don't know.
+So for example, you have a machine like,
+like, one.
+So, for example, you have a machine like, one.
+One.
+And, you have this, actually.
+And, uh, of course, I have time there.
+You can have P in like, in this form like.
+Okay.
+I don't like that.
+How much time will it look for the machine?
+I don't know.
+Because it doesn't look out good on.
+It's a bad solution.
+Mm-hmm.
+So, you can have a P like, uh,
+it's a little like.
+So,
+uh,
+I'm sorry.
+Basically don't change the,
+quality of order of them.
+But then the keys are more spacious.
+Mm-hmm.
+They don't look.
+So, there is a very nice thing.
+So, if you press on the top,
+you take the wire,
+you take the three,
+uh, four,
+sorry.
+Over here,
+five and six.
+So,
+the keys can be,
+it looks, you know,
+it's not very much cluttered.
+Mm-hmm.
+But it looks nice.
+Uh,
+you don't have too many keys,
+but you can have that option.
+Yeah.
+I think now that the idea is clear.
+Yeah.
+Uh,
+we should now,
+uh,
+try to decide, um,
+on how dark it will.
+Yeah.
+Which I think is quite true.
+Um,
+um,
+basically we're trying to get you a divine by control.
+Wouldn't they already have our own by control with the television
+and the balance?
+Or they have already gone.
+So,
+how are we most of the lives to be better?
+It's not going to have more functionality.
+You can see any of the low marketers,
+the cheap ends of our control.
+We can't be at much,
+no,
+we might,
+we'll be able to beat them on the,
+the look of the design of it.
+But that's not a big salary.
+They're not going to just go and buy a new and like control.
+Just cool.
+It looks pretty.
+That actually made it as well.
+So,
+I'm not sure how they can get them to buy the same.
+Mm-hmm.
+Well,
+I think
+many people
+said in your, in your research,
+uh,
+uh,
+uh,
+the appearance of the RTS.
+It's important when they're buying one.
+Yeah.
+But why they buy one the best place?
+Indeed.
+So,
+that will be about
+functionality.
+Mm.
+But if people are buying a year of control for functionality,
+they'll buy a university or most.
+I've got friends who've got so many things.
+I need a university or otherwise,
+they're using five different, right?
+They're all the things.
+And that guy said they wouldn't buy a product
+because it doesn't give them what they need,
+in terms of functionality.
+So,
+you're,
+you think we should go for a more universal type?
+Well,
+we can't,
+with the price range.
+Well,
+you're not building a university,
+we're not building a high-end product.
+I do think,
+you're right.
+Yeah,
+we have,
+we have,
+yeah,
+twelve,
+from five years.
+Um,
+for us,
+bossy.
+Now,
+you know,
+the chips are very,
+uh,
+chips.
+And, uh,
+we can include the,
+I know,
+come through some new,
+new features.
+Yeah.
+Um,
+but,
+yeah.
+If we're getting,
+to get a best remote territory,
+we'll be getting to LCD screens and things like that,
+which would drive the cost of a lot.
+I don't know,
+I don't know what that says.
+He said,
+I don't think the city is not necessary.
+Yeah.
+Mm.
+I think that,
+this could be,
+this could be a market
+universal remote control,
+tend to be quite expensive.
+And quite complicated.
+So,
+we can try to go in between
+and offer a product,
+which is not as expensive,
+and not as.
+Okay.
+Okay.
+But,
+but still,
+but still,
+people have the idea,
+this is more functional than a normal,
+uh,
+you know,
+so,
+are seen,
+because it has for,
+uh,
+it is not right in the virtual.
+Mm-hmm.
+But,
+if we're going for them,
+say,
+15 to 25,
+I had to grip them,
+not maybe,
+then we're actually on TVs
+to either remote control on.
+No,
+we started in,
+I think,
+more on the,
+20 to 40 group.
+Okay.
+So,
+people,
+yeah.
+We just have,
+or,
+already have the job
+and have the money,
+but,
+many not want to spend,
+that much money
+or not,
+I don't know,
+really,
+what the,
+the price range of our controls is,
+are we going to be at the very bottom of the price range,
+or are we kind of,
+middle to bottom?
+I don't know.
+Uh,
+well,
+I think,
+when we think over,
+I think we are trying to offer
+the kind of universal control for,
+for,
+less money.
+Mm-hmm.
+Yeah.
+So,
+do you agree?
+Well,
+I,
+it's fine with me,
+like the place,
+as long as it is not worth,
+thank you.
+Yeah,
+because we have to take,
+into account that,
+well,
+we're going to,
+we're going to sell,
+for,
+for a million.
+So,
+when we speak about this numbers,
+uh,
+the price of a chip is,
+or possible chip is very cheap.
+Mm-hmm.
+So,
+I'm okay for,
+I'm signing,
+uh,
+oh,
+less,
+yeah,
+a kind of universal,
+uh,
+asking,
+you think it's possible for your,
+your 50.
+Yeah.
+Okay.
+Um,
+so,
+then,
+we,
+we decide on,
+on,
+on,
+going to this more universal kind of control.
+Yeah,
+that's,
+that's what we need,
+and basically,
+okay.
+Yeah,
+that's,
+you can do,
+to get the market.
+Yeah,
+so,
+I guess,
+but I like,
+in between,
+through your devices,
+yes,
+between them,
+and maybe stereo,
+VCR and TV.
+Exactly.
+And just,
+use them all from the same,
+like,
+but all at the same time.
+Yeah,
+you know,
+through all the standards,
+you know,
+yeah,
+the limited standards for all of them,
+and you can go through them.
+Yeah.
+So,
+given we are going for this,
+uh,
+uh,
+universal type,
+uh,
+maybe it's good
+when you try to find out
+which components
+you will try to get more specific,
+uh,
+user interface,
+uh,
+and maybe you can look on,
+on what trends are in this,
+uh,
+in this type of market.
+What about that?
+Hmm.
+So,
+so,
+anyone,
+uh,
+point to bring it
+or feel it?
+Well,
+I don't have anything right now.
+Oh,
+that's,
+that's,
+uh,
+sure.
+We'll come up something good.
+Oh,
+yeah.
+Yeah.
+So,
+uh,
+yeah.
+So,
+let me,
+uh,
+what,
+the next meeting will,
+uh,
+uh,
+we have,
+uh,
+pretty many
+work and then we have the next meeting.
+But you will will,
+uh,
+inform fire.
+Okay.
+Okay.
+Cool.
+Okay.
+Perfect.
+Yeah.
+Thank you.
+Thanks.
+Yeah.
+Okay.
+Okay.
+Thank you.
+Okay.
+Okay.
+Okay.
+Okay.
+Yeah.
+Can I,
+you know,
+uh,
+uh,
+uh,
+uh,
+uh,
+uh,
+uh,
+uh,
+uh,
+uh,
+uh,
+uh,
+Yes.
+Yes, this one.
+Just like here are my slides.
+We'll participate.
+We'll participate.
+Yeah.
+Good.
+Good.
+Good.
+Good.
+Good.
+Good.
+Good.
+Good.
+I just, seriously, just playing a lot more than you put it back.
+Yeah.
+Because it's one of the radius.
+Oh, just go.
+I'm going to lay the leavin' time between me.
+You have to save my...
+Oh, that sent you.
+Maybe maybe.
+Oh, yeah.
+So I'll just open it, or save it.
+And then you have to switch it in and set.
+And then you need to get to the radius.
+Yes.
+You're off.
+And then you need to start it.
+Yeah.
+So we have...
+Should I start one?
+We start...
+Okay.
+You...
+That's the leavin' time?
+Yeah.
+That's the leavin' time.
+That's the leavin' time.
+That's the leavin' time.
+You can switch it in.
+Yeah.
+Can you switch it in?
+Yeah.
+You can switch it in.
+Yeah.
+You can switch it in.
+Yeah.
+Okay.
+That's it.
+Perfect.
+Perfect.
+Thank you.
+Perfect.
+Very good.
+Perfect.
+Perfect.
+Perfect.
+Perfect.
+Perfect.
+Perfect.
+That was it around the wrong way?
+Yes, it's good.
+So I think everybody's here, okay?
+What's the agenda for this meeting?
+Well, we sent the agenda with slides.
+Okay.
+Two.
+As you can see here.
+Perfect.
+So first, just to mention, I will pick notes of this meeting,
+and I will try to work them out and get them to use.
+Also make notes of the previous meeting,
+and I was about to send them to you.
+But then I had to go to this meeting,
+so you will get them to...
+You are the secretary.
+Yes.
+Indeed.
+Then I helped you all have worked out.
+Perfect.
+So some presentations about...
+Well, it has given to you in the previous meeting.
+We will...
+In a minute, we will start with them.
+We will see which order we will handle them off.
+Then I will bring in some new requirements.
+Because from the campaign here, I try to work them out.
+They work quite abstract, and you can have maybe some discussion about it.
+About the functions.
+Well, in this meeting, we should try to reach a decision about the target group,
+and the functionality of them.
+You mean the social target group?
+Yes, I mean the target.
+Who are we going to do that?
+Well, we're going to tell you.
+Okay, customer entities.
+Yes.
+I think that's important matter.
+So, and then we will close this meeting,
+and after this meeting, we will have a look.
+Good.
+Maybe...
+Why...
+Anna, can you... Do you have a question?
+No, you're going to have a question.
+How is it?
+Yeah.
+You are not able to...
+I can talk about it.
+Yes, maybe.
+Maybe you can just talk about it,
+or maybe you can use the whiteboard if necessary.
+Well, I've just been presented with some research.
+We've done it in a small focus group.
+And people disaster them without their remote control usage habits,
+and what they want in their remote control.
+It's probably kind of emails to you.
+I've just got a webpage that's inside right here.
+Basically, it's saying that users generally dislike the look and feel of their remote controls.
+75% of users find most remote controls ugly.
+8% of users would spend more money when their remote control would look fancy.
+Current remote controls do not match well.
+The operating behaviour of the user.
+75% of users said they'd have a lot,
+so they use their remote control quite frequently while they're watching television.
+50% of users say that they only use 10% of the buttons.
+So, they've got a remote control with a lot of functionality,
+and they've actually found that only use a small part of that.
+Do you have to say information on the webpage?
+I have a web page, yes.
+Maybe you can send an email to me later.
+Yep, sure.
+Basically, there's a breakdown of how much the different functions are remote control.
+How and volume selection are only used a few times within this part of the hour.
+Channel selection is used for hundreds of day-to-day times.
+And then there's things like channel settings, audio settings which are only used very frequently.
+Teletext is used 14 times in the hour.
+Third is used, but not nearly as much as the channel selection is used.
+An interesting thing that this robot has brought up is that 50% of users report that the remote control gets lost a lot of the time in their own.
+Yes, that's on my head, too.
+Some I have located in the remote control would be very useful to a lot of users.
+34% so it takes too long to learn to use the remote control.
+It's easier to use straight away, more intuitive perhaps.
+It's easy to learn how.
+34% said it took too much time to learn.
+Okay, too much time to learn.
+26% said remote controls are bad for RSI.
+I don't know how we've got that.
+What do you think?
+Well, RSI is the best to straight injury.
+Okay.
+Okay.
+I think that.
+Do a doctor says that.
+But it's the opinion of the ear.
+Yeah.
+That's what the report says.
+And then it's got a demographic breakdown.
+Maybe you can put this web page online on the...
+I should be able to actually find it out to you now.
+You can just connect it now.
+You can maybe just...
+Oh, yeah.
+Okay.
+It's a web page on the C.
+Yeah.
+It's a file.
+Okay.
+Otherwise you...
+No, you can connect this one.
+You can connect this one.
+Yeah.
+All right.
+All right.
+All right.
+All right.
+All right.
+All right.
+All right.
+All right.
+All right.
+All right.
+So these are important numbers that Matthew and I need to take into account for...
+It's probably easier if you put on yours and there is data out to you.
+This is a web link.
+Okay.
+Yeah.
+These numbers have to be...
+have to be taken into account for both user interface and professional design.
+One thing it goes on to talk about, which is interesting, is the...
+Because if there are many numbers and we need to select to...
+to constrain our design based on what is more important.
+Yeah.
+Yeah.
+One thing that stays talking about...
+speech recognition and right control.
+Speech recognition.
+And who would pay more for that and whether people would buy it useful.
+Did we have a number of people on that?
+Yes.
+I think it's not.
+So we don't need any button under...
+Oh, yeah.
+...one of those should be for based on speech.
+Okay.
+I think even for...
+Interesting idea.
+Yeah.
+I think that would not work so well.
+You wouldn't have buy options.
+Okay.
+Well, it would be a solution for...
+When your remote control is lost.
+I mean, when it has feature recognition then.
+Yeah.
+It doesn't matter where it is.
+Well, it should be in range.
+Maybe it can respond to some say where it is.
+Yeah.
+But these are all quite fancy future time.
+Not sure whether...
+Go ahead.
+...we can make this for a fell of your 15 cents.
+No.
+And we don't know where the state of the other speech recognition is.
+Maybe you know...
+Oh.
+Well, it depends.
+You know, like, there is a very small vocabulary.
+You know, you want to do the question blank.
+You want to say on and off.
+But it's quite noisy.
+There is the TV.
+Yeah.
+It's not going to be so easy.
+Usually it's going to be more of a nice idea.
+Do you have some points?
+I don't know.
+But I don't know.
+So you had to summarize me.
+This is now talking about who would pay the state recognition in a remote control.
+Who would pay more for it.
+90% of the 15 to 25 year old market said that they would pay more.
+It goes down from there, 76% for 25 to 35, 35% for 35 to 45.
+22% for 45 to 55.
+And then 85%.
+The blank.
+Yeah.
+Yeah.
+It really depends where we're going to be targeting this product.
+Which we will be talking about later, I think.
+Yes.
+We will talk about this later.
+Did you get the email?
+Yeah.
+No.
+Okay.
+That's good.
+Yeah.
+That's good.
+Yeah.
+That's good.
+That's good.
+Yeah.
+That's good.
+Yeah.
+That's good.
+That's good.
+That's good.
+That's good.
+Yeah.
+Okay.
+Perfect.
+So that's the thing that I was just talking about there.
+It was different.
+Okay.
+Perfect.
+Another thing that's talking about there is the LCD screen.
+But there's no big of a copy on that.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Um, maybe Maal, can you give a, yeah, your presentation now?
+Hi.
+Okay.
+Okay.
+Okay.
+I stay.
+No, you can avoid.
+Yeah.
+Okay.
+move as far. Maybe I can take your chair. Yes, you can take my chair.
+So I think as everybody knows, I'm the industrial designer.
+And in this presentation, this quick presentation is going to focus on the working design of the remote control.
+And I'd like first to give a simple introduction of how does it work so that everybody knows even if you don't have a very technical background.
+So basically the basic function of remote control is to send messages to another system that is fixed.
+So an energy source fits an integrated circuit, the chip that can compose messages usually through infrared bits.
+And the user interface controls the chip and according the messages.
+So my method for designing the remote design, first the main point is that I would wish to make a really functional product.
+I would prefer to have very functional capabilities, whether then fancy stuff that in fact is not used in this work.
+So for that, yeah, it's important to take into account the user requirements from the marketing expert.
+And we should agree on what are the functions for this remote control.
+And I'll show you the working design.
+So basically, here is a large view of what we want.
+All of the buttons can be simple, but it's important.
+And so enabling the proposed channels as well as other buttons that come after.
+So the components I quickly draw here is that in this part you have to control the sender and another part to receiver.
+So that's, my method is, will be to, when I aim, it will be to design and choose the chips and the infrared components to build the remote control line.
+So, of course, we can add your sources and add the receiver or receiver.
+This is really a quick design. I used up me or into me, you know, really.
+And so what I found after a lot of work actually, I draw for you this schema.
+It can be maybe too technical for you, but it's really important for me, you know.
+You got a long time there.
+Oh, well.
+And I won't go into details about that, but these are my preferences to use the kind of components.
+And why do we want this kind of component?
+Are they cheap or are they reliable? What were you?
+So the main components you see here are the cheapest I found.
+You have always a compromise with reliability and if you're expensive.
+But this one is also really reliable.
+So, yeah, that's it for the working design.
+I hope you'll get clear of you on what the remote control is in terms of technical components.
+But maybe, yeah.
+Small plan now, I think.
+What is it? Can you just buy it or market?
+No, no, no. This is a preference, but we can always change.
+What I was thinking about is the schema about the center and receiver.
+Can you get it back to me?
+Yeah, the receiver is of course already in the television and we are not able to change it.
+We must adapt to the receiver.
+I suppose there is a standard way of communicating into locations.
+Yeah, we will use the infrared protocol using the infrared.
+And of course, we need to add up to that protocol that already exists.
+But we can do is adapting the chips inside to the best chips and the infrared board.
+Yes.
+Okay. Thank you.
+Thank you.
+It's just you have changes, you know, for consistency.
+Yeah. Of course, you're in the chip.
+You're in the chip.
+But you should be careful people are sometimes becoming forward.
+Like a guy has recently designed a remote,
+which is such of any other TV.
+Yeah.
+So basically, no, that's the other thing.
+So maybe you should think of.
+Oh, yeah, we should.
+The TV in the next time that you're there.
+So you can just go on the seat and then set up everyone's TV.
+And you can just walk away.
+You don't have to be near the TV at all.
+I think while we will consider this thing to me,
+maybe we can go to your presentation.
+Yes.
+Yes.
+Okay.
+So I can take it into my hand.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Yeah.
+Where is it?
+It's on the desktop.
+It's a desktop.
+It's a desktop.
+Okay.
+Okay.
+Okay.
+That's it.
+So I went to the top of the little bit of the technical point.
+So what exactly it's about.
+What is the user going to do?
+I think my last product I wanted on inside.
+Yeah.
+So what's the user is going to see from the outside that is going to be using.
+So other thought is that basically the idea is to set a message to the TV set.
+that's a minor thought that it will be recorded by the TV.
+And usually it is easier to have keys or buttons with which people can press and then changing
+a button will basically change the message which is being sent to the TV and basically it's
+being sent to the file signal and because it's better if you were so fast.
+And I have said that these people are interested in things which you don't need to.
+That's the key is people that can have a speech recognition.
+But this is a question which we have to say later.
+But in the present scenario is that you have certain keys and you press it like a platform
+and it sends them message to the TV.
+And so generally I don't have some figures, sorry.
+But there are two kinds of remodities.
+Hopefully in the household actually.
+So you have a standard TV remote where you have to test it on a button like that.
+Volume change and keys for the number and more than one big adoption.
+And if you see for example right now, even the one, one and one digit option is what
+you did and which is like 99.
+But tomorrow we might have 150 cameras you know to close or two for the tenors to close
+to those.
+But then there is a standard one without any fancy thing.
+It's a very simple thing which you can have those.
+And then you have what the video remote button is like.
+Usually it has almost all the keys over there.
+But then it has other options like staff.
+And then you play the movie here.
+So fast forward on the movie or something like that.
+So it has those.
+So these are the standard common leaf found remote samples and market.
+And then which is generally used by the people.
+And then first most references I could basically think of having a kind of aim for
+the next generation thing where we could have both the TV and the remote.
+Video remote control.
+Because some of the keys in the videos remote control and the TV it could be integrated
+together so that we could aim for the like in the coming feature type of applications.
+How does that work?
+So maybe your VCR and your separate.
+So on my work at home I've got a VCR in my which then changes the channel on the VCR.
+And then drag on the TV.
+So is it going to be like a switch on the remote that says the user TV or user VCR or is it no
+which one you want to use?
+Actually you could think of having to have a key which could go to the video thing.
+And you still can in the case when you use the function to be able to take up the VCR option
+and you could play it.
+Or you can also think about having like in the few days you will be in in few days coming
+years you might even have a system where you have a separate sitting set unbox.
+You have something like you don't you don't you suppose you are not able to watch some program
+and actually if downloading all the time for you and you can just you know when you come back you
+can just switch on that thing and want the program in that case you want to browse faster
+browse through you want to have those kind of personalities.
+This is our kind of next generation.
+It is an attribution thing finally.
+It is going to come in a lot of years.
+So it is going to refer to your things and you you need basically the functionalities
+what you need about the visual as well as the standard TV.
+But I don't think we are trying to make a universal right here.
+We are just looking at giving us a scenario I have a TV and tomorrow I am going to have a set of problems
+where the center and we need to do side on and how far we go to in this.
+We can go pretty far I think with with functions and possible future.
+So but it is good to keep in mind.
+Okay so that is my presentation.
+So we can always discuss about it.
+For example the present video market actually this demand will be a demand of what we call it.
+It is presently booming up actually.
+So if people are providing like these things like movies you can select actually.
+So you want to watch a movie and provide a user list of movies and then you select those lists.
+Yeah.
+And it basically you go off you download the movie it gives for you.
+Yeah.
+And then when you come you want to watch it on your TV.
+Why even you don't need to download it stream the online.
+Yeah it can stream the online for you and you can say what time I want to watch.
+Yeah.
+Yeah.
+So I have received some points of thinking over of my account manager.
+And I would like to share them with you.
+First thing is teletext is a well-known feature of television with it.
+It is getting youth less and less.
+That is especially because of the internet of course.
+So we should think about it.
+Do we include it?
+And do we give it a prominent place on the home?
+Well, on the remote market for all self.
+And an indicator it is not used.
+Well, very much but it is still used.
+So we must think do we stay to television now.
+The television has been we all know it with broadcasting signals and you can't go back.
+Or do we go further as Matthew indicated by supporting recording devices?
+Indeed.
+Indeed.
+Indeed.
+And the hardest we've called it.
+Furthermore, we need to really need to interest your customers.
+And then with your customers, I mean people below the age of 40.
+And our current customers are mainly 40 plus.
+Which is 40.
+So it is a market but they will grow all the war.
+All they will always need to have the future with young people.
+And therefore, young people like friendly, trendy designs.
+So we should make our feet as friendly as possible.
+But it should also have a reliable image.
+So when it looks too spacey or too fancy, people will think, well, doesn't work at all.
+And one of the ideas, how do you want to keep the keys?
+Well, if you take it, you have like 0, 1, 2, 3, like key separately.
+But suppose if you take this for the tens of mobile phones, they are like big, thick keys.
+You press on the top.
+It takes one number.
+You press on the bottom.
+You take another number.
+And basically, so there is space covered.
+So you don't see two separate keys there actually.
+So it is like, maybe you can draw it on the board.
+I think taking the idea of getting inspiration from mobile phones is interesting.
+Especially if we are going after a younger market.
+Yes, yes.
+It is already used.
+The new and the funky things.
+Correct.
+Not cool.
+Yeah.
+There are lots of very cute mobile phones.
+Not too many pretty remote controls.
+And they are skilled by using it.
+So for example, so for example, you have a key, like one, two, like this, actually, and
+one, two, three, four, four, five.
+And then you can have keys like this phone like that.
+Okay.
+And it is like that.
+How much time will it look for the 80 mm away?
+Because it doesn't look good on.
+It is a very important tool.
+So you can have a key like a little like.
+So basically you don't change the quality and order of them.
+But then the keys are more spacious.
+They don't look.
+So there is a very small thing.
+So if you press on the top, you make the one.
+You take the three, four, four here, five and six.
+So the keys can be, it looks, you know, not very much cluttered.
+But it looks nice.
+You don't have too many keys, but you can have that on options.
+Yeah.
+I think now that the idea is clear.
+Yeah.
+We should now try to resize on our target group.
+Yeah.
+Which I think is quite true.
+Um, basically we're trying to get through the fire in my control.
+Wouldn't they already have very much control with the television when they're violent?
+Or they have already gone.
+So how are we most of the lives to be better?
+It's not going to have more functionality.
+It's only a low market as a cheap end of our control.
+We can't be at my functionality.
+We might, we'll be able to beat them on the look of it, the design of it.
+But that's not a big salary.
+They're not going to just go and buy a new remote control.
+It looks pretty.
+They've actually made it as well.
+So I'm not sure how I can get through the design of the thing.
+Well, I think many people said in your research, the appearance of the RCS is important when they're buying one.
+Yeah.
+But why they're buying one the first place?
+Indeed.
+So that will be about functionality.
+But if people are buying your drop of functionality, they'll buy a universal remote.
+I've got friends who've got so many things.
+I need a universal remote, otherwise they're using five different rights available.
+They're things.
+In that case, they wouldn't buy that product because it doesn't give them what they need.
+It doesn't give them functionality.
+So you think we should go for it more universal?
+Well, we can't with the price range.
+Well, you were not building it.
+You guys were not building it in high end products.
+I don't think you're right.
+Yeah, we have 12.5 euros for us.
+And I think with this, you know, the chips are very cheap.
+And we can include it.
+And we're going to come through some new features.
+But yeah.
+If we're getting to get events through remote territory,
+are we getting to LCD screens and things like that,
+which would drive the cost of a lot?
+I don't know.
+I don't know whether that's necessary.
+I don't think a city is not necessary.
+Yeah.
+I think this could be a market because universal remote controls tend to be quite expensive.
+And quite complicated.
+So we can try to go in between and offer a product,
+which is not as expensive and not as complicated.
+But still people have the idea.
+This is more functional than a normal universal RC,
+because it has four, if it's not kind of universal.
+But if we're going for that, say, 15 to 25,
+I had to create them.
+Not many of them.
+We're actually on TVs to either make a try.
+We're starting, I think, more on the 20 to 40 group.
+Okay.
+So that people who just have already had to jump in and have the money,
+but they may not want to spend that much money on that.
+Yeah.
+I don't know really what the price range remote controls is.
+Are we going to be at the very bottom of the price range,
+or are we kind of middle to bottom?
+I don't know.
+Well, I think when we think about Rafi,
+I think we are trying to offer the kind of universal control for less money.
+Yeah.
+So do you agree?
+Well, I find it to me,
+like the place as long as it is not too expensive.
+Yeah, because we have to take into account
+that we're going to put a web and I sell four,
+around four million.
+So when we speak about these numbers,
+the price of a chip is,
+or possibly a chip is very cheap.
+So I'm okay for designing a less,
+a kind of universal Rafi.
+You think it's possible for the 12 year old 50?
+Yeah.
+Okay.
+So then we decide on going to a more universal kind of control.
+Yeah.
+That should be needed, basically.
+Okay.
+Now that's needed right now.
+Yeah, that's it.
+Basically, you can do through the standard.
+I mean, you want to get the market.
+Yeah.
+So I guess what I'll do from a universal remote
+is maybe choosing between three devices,
+which between them are going to be stereo,
+VCR and TV.
+Exactly.
+And just use them often the same, right?
+But all the same.
+Yeah.
+You don't have to close through all the standards, you know?
+Yeah, they're limited standards for all of them.
+And you can just go through them.
+Yeah.
+So given we are going for this universal type,
+maybe it's good when you try to find out which components
+you definitely need.
+Yes.
+You will try to get more specific user interface content.
+And maybe you can look on what trends are in this type of market.
+Well, no.
+So anyone have a point to bring in or show me?
+Well, I don't have anything right now.
+Oh, that's really cool.
+And we'll be sure we'll come up something good for you.
+Yes.
+Yeah.
+We have less now.
+So, yeah.
+So we're meeting what the next meeting will often be left.
+We have a pretty minute of work.
+And then we'll have the next meeting.
+But you will be informed for you.
+OK.
+OK.
+Cool.
+Perfect.
+Thank you.
+Yes, this one.
+Here are my slides.
+We have a participant.
+You should have received the link.
+You should have received the link.
+Okay, I didn't get access to that.
+Okay.
+You have to save my information for the SMG.
+Maybe maybe.
+Oh, yeah.
+Okay.
+So I'll just open it or change it.
+And then you need to get to the main.
+Yes.
+You're off.
+So I'll wait to get off.
+Should I stop?
+Okay, you...
+Oh, I will.
+Okay.
+I'm going to put this over here.
+I'm going to put this over here.
+I'm going to put this over here.
+Okay.
+Are you ready for the
+happening.
+Yes.
+Okay.
+How is it right here?
+It's okay.
+this meeting. I will present the agenda with slides to resume the agency here.
+So first just to mention I will pick notes of this meeting and I will try to work them out
+and give them to you. Also make notes of the previous meeting and I was about to send
+them to you but then I had to go to this meeting so you will get them to you.
+You are the secretary. Yes. Indeed. Then I helped you all have worked out some presentations
+about the task given to you in the previous meeting. We will, in a minute we will
+start with them. We will see which order we will handle them off. Then I will
+bring in some new requirements. I go from the campaign here. I try to work them out.
+They work quite abstract and you can have maybe a discussion about it. About it's
+well in this meeting we should really try to reach the decision about the target group
+and the functionality of them. You mean the social target group? Yes, I mean it's target.
+Yes. Who are we going to do that? Because the customer is going to do it. Yes.
+I think that's important. And then we will close this meeting and after this meeting we will
+have a look. Good. And I do have a question. I can talk about it. Can you just talk about it
+or maybe you can use the whiteboard if necessary? I have just been presented with some research
+we've done at a small focus group. So 100 people just ask them about their remote control usage
+habits and what they want in their remote control. It's probably can't email this to you. I've
+just got a webpage for some time right up. Basically it's saying that users generally dislike the
+look and feel of their remote controls. 75% of users find most remote controls ugly.
+8% of users would spend more money when a remote control would look fancy.
+Current remote controls do not match well the operating behaviour of the user.
+75% of users said there's Appleock so they use the remote control quite frequently while they're
+watching television. 50% of users say that they only use 10% of the buttons so they've got a
+remote control with a lot of functionality but really most of the time they only use a small part of
+that. Do you have this information on the webpage? I have a web page yes. Maybe you can send an
+email to me later. Yeah sure. So basically there's a breakdown of how much the different functions
+that are remote control, power and volume selection are only used a few times within this
+per hour. Channel selection is used 168 times. And then there's things like channel settings,
+audio settings which are only used very frequently. Kill indexes used 14 times in the hour,
+so I've been used but not nearly as much as the channel selection is used.
+An interesting thing that this report has brought up is that 50% of users report that the
+remote control gets lost a lot of the time in the room. So some might have had to. Some might have
+located in the remote control would be very useful to a lot of users. 34% said it takes too long
+to then to use a remote control that one thing is easier to use straight away, more intuitive
+perhaps. It's easy to learn. 34% said it took too much time to learn. Okay, too much time to learn, okay.
+And 26% said remote controls are bad for RSI. I don't know how we just go about
+what do you mean? Well, RSI is the best to straighten injury. Okay. I think that
+or do a doctor, doctor says that it's the opinion of the yeah. Yeah. That's what reports are
+here. And then it's got a demographic breakdown. Maybe you're going to put this web page
+online on the... I should be able to actually find it out to you now. You can just connect it
+and you can maybe just... Oh, yeah. Okay. It's a web page on the scene. Yeah. It's a fire, okay.
+Although I see you, yeah. You can connect this one. You can connect this one.
+How old do you want to do it?
+So these are important numbers that Matthew and I need to take into account for our
+it's probably easier if you put on those in the hours day now to you. It is a web link.
+Okay. Yeah. These numbers are to be... have to be taken into account for the both.
+Use interface. Yeah. For sure. I'll design. One thing it goes on to talk about, which is interesting,
+is the... Because there are many numbers and we need to select to concentrate
+our design based on what is more important. Yeah. One thing is interesting is talking about
+speech recognition and right control, speech recognition, and who would pay more for that and whether
+people would buy it useful. Do you do anything with all of that? Yes. I'll just get this done.
+So we don't need any button until we want to throw that to be for based on speech.
+Okay. I think even for trusting idea. Yeah. I think that would not work so well. You won't have
+five options. Okay. Well, it would be a solution for when your remote control is lost. I mean,
+it's a feature recognition that it doesn't matter where it is. Well, it's who should be in
+rate. Maybe it can respond to some say where it is. But these are all quite fancy future time,
+not sure whether. We can make this for 12 euro of 50 cents. No, we don't know where the state
+of the other speech recognition is. Maybe you know... Well, it depends. It's a very small vocabulary.
+You want to say on or off. But it's quite noisy. There is the TV. It's not going to be so easy,
+but usually it's going to be more of an isolated impact. But I don't know. It's only by
+yet to summarize maybe. This is now talking about who would pay the state recognition in a remote
+control. Who would pay more for it? 90% of the 15 to 25 year old market said that there
+would pay more. It goes down from there, 70 to 6% for 25 to 35 to 35 to 45. 22% for 45 to 55,
+and then 85 to 55. Yeah. It really depends where we're going to be targeting this product,
+which way would we talk about? I don't think. Yes. Did you get the email?
+Yeah, no.
+Okay. So that's the thing that I was talking about there. The other thing that's talking about
+there is the LCD screen, but there's no if you didn't have it on that. Maybe Mao can you
+give your presentation? I stay in. No, you can move as far as
+you can take my chair. So I think as everybody knows, I'm the industrial designer.
+And in this presentation, this quick presentation is going to focus on the working design of the
+remote control. And I'd like first to give a simple introduction on how does it work so that
+everybody knows, even if you don't have a technical background or what is it? I think in the
+product. So basically, the basic function of remote control is to send messages to another system
+that is fixed. And so an energy source fits an integrated circuit, the chip that can compose
+messages usually through infrared bits. And to use them to face comfort the chip and according
+the messages. So my method for designing the remote design, the main point is that I would wish
+to make a really functional product. I would prefer to have very functional capabilities,
+whether then fancy stuff that, in fact, is not used and doesn't work. So for that, yeah, as
+it's important to take into account the user requirements from the marketing expert, Anna.
+To, to, we should agree on what are the functions for this remote control. And I show you the
+working design. So basically, here is a large view of what we wanted. We want an odd
+of button. It can be simple, but it's important. And so enabling the to boost channels
+as well as other buttons that come after. So the components I quickly draw here is that
+in this part, you have the remote control with the sender and another part to receiver.
+So that's my method is we'll be to, when I'm aiming, we'll be to design and choose the chips
+under infrared components to build the remote control right. So, of course, we need energy sources
+and other receiver or receiver. This is really a quick design. You stop me or into of me.
+So what I found, and after a lot of work actually, I draw for you this schema,
+can be maybe too technical for you, but it's really important for me, you know.
+So I won't go into details about that, but these are my preferences to use
+the kind of components. And why do you want this kind of component? I mean, are they cheap or are they
+reliable? What were your? So the main components you see here are the cheapest I've found
+and you have always a compromise with reliability and if you're expensive. But
+this one is also really reliable. So yeah, that's it for the working design. I hope you'll get
+a clear review on what the remote control is in terms of the game build components, but maybe
+yeah, it's more clear now I think. But is it, can you just buy it on the market and
+like it in or you want to know? No, no, no. This is a preference, but we can always change.
+What I was thinking about is the schema about the center and receiver. Can you get back to it?
+Yeah, the receiver is of course already in the television and we are not able to change it
+of those. We must adapt to the receiver. I suppose there is a standard way of communicating
+there. Yeah, we will use infrared for the core using infrared and of course we need to
+add up to that protocol that already exists. But we can do is adapting the chips inside
+to the best chips on the infrared board.
+Okay, thank you. It's just you have to take a look at this.
+The frequency. Yeah, of course you're in the chip.
+But you should be careful people or something becoming forward like a guy has recently designed
+remote with your switch off any other TV. So basically through all the things. So maybe you
+should think of the TV in the next comments. So you can just go on the street and then switch
+up everyone's TV and you can just walk away. You don't have to be near the TV at all.
+I think while we will consider this thing to me, maybe we can go to your presentation.
+Yes. I think we're referring to it. Yes.
+Okay. So I'm going to talk a little bit about the technical
+what the actually it's about. What is the user going to do?
+So what's the user is going to see from the outside that is going to be using. So
+another approach is that basically the idea is to send a message to the TV set.
+that might have thought that it will be recorded by the TV. And usually it is easier to have
+keys or buttons with which people can press and then telling a button will basically
+change the message which is being sent to the TV. And basically it's an infinite
+thing when I'm recording whether it's even so. And I have said that these people are
+interested in things which are you don't need to tell the keys people can have a speech
+recognition. But this is a question which you will have to say later. But in the presence scenario
+is that you have certain keys and you press it like a platform. And it sends them message to the TV.
+And so generally I don't have some figures sorry but so there are two kinds of
+remote to do it properly in the household. Actually so you have a standard TV remote where you
+have faster on of what I meant like volume change and keys for the number and more than one
+digit option. And if you see for example right now even the one one and one digit option
+is for two digit channel which is like 99. But tomorrow you might have 150 channels you know
+to close or two from the channels to close to most. But then there is a this is a standard one without
+any fancy thing you know like you don't have to get taken off and you can without any it's a very
+simple thing which you can those. And then you have a what the reader remote bar which is like
+usually it has almost all the keys over there and but then it has other options like stuff
+and then you play the movie or for first word movie or something like that. So it has those
+these are the standard commonly found remote controls in the market. And then which is generally
+used by the people and then the personal preferences I will basically think of having a kind of
+thing for the next generation being where we could have both the TV and the remote video remote
+control because some of the keys in the videos remote control and the TV it could be integrated
+together so that we could aim for the like in the coming future type of applications.
+How would that work? So I've got say maybe a VCR into separate. So on my one home I've got a
+VCR in my which then changes the channel on the VCR and then drain the TV. So is it going to be
+like a switch on the remote that says the user TV or user VCR or does it know which one you want to use?
+Actually you could you could think of having to have you can have a key which could tell if you
+go to the video thing but you still can in the case when you use the function to be able to take
+of the VCR option and you could play it or you can also think about having like in the few days
+you would be in in few days coming years you might even have a system where you have a separate
+sitting set up box and you have something like you don't you suppose you're not able to watch
+some program and actually it downloading all the time for you and you can just you know when you
+come back you could just switch on that thing and watch the program in that case you want to
+browse faster browse through you want to have those kind of personalities. This is our kind of next
+generation thing. It is going to come in a couple of years it's going to be so already there
+and the artist recorded. So it's going to record your things and you if you need basically the
+functionality what you need before the review was for this in the standard TV. But I don't think
+we're trying to make a universal room right here. No we are just looking at giving us an
+aerial at every TV and tomorrow I'm going to have set up all this with the sitter and
+when you do it you can see from me we need to do side-on on and how far we go to in this
+and go pretty far I think with with which functions and possible future.
+Yeah so but it's good to keep in mind. Okay so that ends my presentation.
+So we can always discuss about it for example represents the video market actually this demand
+video or demand of what we call it is is presently booming up actually. So it is like people are
+providing like these things like movies you can select actually. So you want to watch a movie
+and you're provided here's a list of movies and then you select those lists. And it basically
+you go out with downloads a movie it gives for you and then when you come you want to watch it on
+a TV. Are you and you don't need to download this stream online? Yeah it can be streamed online
+for you and you can see what time I want to watch. Yeah. So I have received some some some
+well points of thinking over of my account manager and I would like to share them with you.
+The first thing is teletext is a well-known feature of television with its getting
+used less and less especially because of the internet of course. So we should think about it
+the way included and the way if it's a prominent place on the on well
+on the remote market for all sales and and indicate it's it's not used well very much but it's
+it is still used.
+Earlier we must think do we stay to television only the television has been we all know it with
+with broadcasting signals and you can't go back or do we go further as Matthew indicated by
+supporting recording devices. So DVDs and bestias. Indeed indeed and the hardest recorders.
+For the more we need to really need to interest you know more customers and then with your
+customers I mean people below the age of 40 and how current customers are mainly 40 plus
+which to 40. So it's this it is a market but they will grow all the water all the
+around you always need to have the future with young people and therefore young people like
+friendly trendy designs so that we should make our our see it's trendy as possible but it should also
+be have a reliable image so when it looks too too spicy or too fancy people will think well
+those that work at all. Yeah it's a well you can follow the ideas how you want to keep the keys you
+know like now if you take it you have like 0, 1, 2, 3 like keys separately but suppose if you take
+this present trend of mobile phones there are like big thick keys you press on the top it takes one
+if it's on the bottom it takes another number and basically so the space covered so that you
+don't see two separate keys there actually so it is like it is like maybe maybe you can draw
+it on the board yeah so I think taking the idea of getting inspiration from mobile phones is
+interesting especially for going after a younger market. Yes yes well already used the new
+and the banking things. Correct. Yeah there's lots of very key to mobile phones not too many
+pretty American Charles and they're skilled by using it. So for example
+so for example you have a key like one three like this actually and
+you can have keys like in this phone like
+how much time will they look for the maintain that they might?
+Because they look like they don't have to go on to the airport mission. So you can have a
+a key like which are like so basically don't change the original order of them but then the keys
+are more spacious they don't look so there is a very slight thing so if you press on the top
+it makes the one it takes a three or four or five or six so the keys can be it looks you know
+it's not very much cluttered but it looks nice you don't have too many keys but you can have
+no options. Yeah I think now that the idea is clear yeah we should now try to decide on our
+direct group. Yeah which I think is quite tricky basically we're trying to get people to fire in my
+control. Wouldn't they already have very much control with the television when they're balanced?
+They have already one so are we most of the lives to be better? It's not going to have more
+functionality than it's any low market as the cheap end or I control because we can't be at
+my functionality we might we'll be able to beat them on the look of it to the design of it but
+that's not a big salary they're not going to just go and buy a new amount of control just
+clear it looks pretty they've actually made it as well so I'm not sure how we can get through the
+the divide of the same. Well I think many people said in your research the appearance of the
+RCS it's important when they're buying one but why they're buying one the first place? Indeed
+so that will be about functionality. But people are buying your drop of functionality they'll buy
+at university remopes. I've got friends who've got so many things they need a university
+of mine otherwise they're using five different modes of their bullet things in that case they
+wouldn't buy a product because it doesn't give them what they need in terms of functionality.
+So you think we should go for it more universal? Well we can't with the past range where you
+you're not building a universal or you're not building a high end product. Yeah we have
+yeah 12.5 euros for for our capacity and I think with this now you know the chips are very
+chips and we can include they are now come through some new new features.
+But yeah. If we're getting to university remote territory are we getting to
+LCD screens and things like that which would drive the cost of a lot? I don't know I don't know
+whether that's necessary. I don't think the city is not necessary. I think that this could be
+this could be a market because universal remote control tend to be quite expensive. I'm quite
+confused. So we can try to go in between and offer a product which is not as expensive and not as
+quite as expensive. But still we're still happy idea. This is more functional than a normal
+universal Rc because it has four, it is don't kind of universal.
+But if we're going for this at 15 to 25 age group then not many that we're actually on TVs to
+either make control on. No we're targeting I think more on the 20 to 40 group.
+Okay. So that people you know would just have or already have a job and have the money but
+maybe not one step that much money or not. I don't know really what the price range of our
+controls is. Are we going to be at the very bottom of the price range or are we kind of middle to
+bottom? I don't know. Well I think when we think about Rf, I think we are trying to offer the
+kind of universal control for last morning. Yeah. So do you agree? Well I find with me like the
+price as long as it is not too expensive. Yeah because we have to take into account that we're
+going to know we're going to sell four around four million. So when we speak about these numbers
+the price of a chip is very cheap. So I'm okay for designing a less kind of universal
+RC. You think it's possible for 12 year or 15? Yeah. Okay. So then we decide on going to
+reach more universal kind of control. Yeah. That's what we need there, basically. Okay.
+I have that needed right now. Yeah, basically you can look through the standard and therefore
+to get the market. Yeah. So I guess what I'd like from a universal remote is maybe choosing between
+three devices, the switch between them and every stereo, VCR and TD. Exactly. And just use them
+often the same right but all at the same time. Yeah. You can also browse through all the standards,
+you know, the limited standards for all of them and you can just browse through them. Yeah. So
+given we are going for this universal type, maybe it's good when you try to find out which components
+you definitely attend. Yes. You will try to get more specific user interface concept and maybe you
+can look on what trends are in this type of market. So anyone point to bring in or feel like
+you don't have anything right now? Oh, that's really good. And we'll be sure we'll come up something
+good for the next meeting. Well, after the next meeting, we have pretty minutes of work and then
+we'll have the next meeting. But you will be informed for your computer. Okay. Cool. Perfect.
+Yes, this one.
+Here are my slides.
+We'll put this in three to hold.
+Here are my slides.
+Here are my slides.
+Here are my slides.
+Here are my slides.
+Here are my slides.
+Here are my slides.
+Here are my slides.
+Here are my slides.
+Here are my slides.
+Here are my slides.
+Here are my slides.
+Here are my slides.
+Here are my slides.
+Here are my slides.
+Here are my slides.
+Here are my slides.
+Here are my slides.
+Here are my slides.
+Here are my slides.
+Here are my slides.
+I was about to send a view, but then I had to go to this meeting, so you will get a tour.
+You are the secretary.
+Yes, indeed.
+Then I helped you all have worked out.
+So some presentations about, well, the task given to you in the previous meeting.
+We will, in a minute, we will start with them.
+We will see which order we will handle them off.
+Then I will bring in some new requirements.
+I go from the account manager.
+I try to work them out.
+They work quite abstract.
+You can have maybe some discussion about it.
+About it's interesting.
+Well, in this meeting, we should really try to reach a decision about target group and the functionality of them.
+You mean the social target group?
+Yes, I mean target.
+Yes.
+Who are we going to do that?
+The customer.
+The customer.
+The customer.
+Yes.
+That's important question here.
+So, and then we will close this meeting, and after this meeting, we will have a list.
+Good.
+Maybe.
+Why, Anna, can you, do you have a question?
+No, I don't.
+You're going to have a question.
+How is it?
+Yeah.
+You want to table two or two?
+I can talk about it.
+Yes, yes.
+Maybe you can just talk about it, or maybe you can do the whiteboard if necessary.
+Well, I've just been presented with some research.
+We've done it in a small focus group.
+So, 100 people just ask them about their remote control usage habits and what they want to know.
+And what they want to know about control.
+It's probably can't email us to you.
+I've just got a web page for some time right up.
+Basically, it's saying that users generally dislike the look and feel of their remote controls.
+75% of users find most remote controls ugly.
+80% of users would spend more money when a remote control would look fancy.
+Current remote controls do not match well.
+The operating behavior of the user.
+75% of users said there's Apple lock.
+So, they use the remote control quite frequently while they're watching television.
+50% of users say that they only use 10% of the buttons.
+So, they've got a remote control with a lot of functionality,
+but really, most of the time that only use a small part of that.
+Do you have this information on the web page?
+I have a web page, yes.
+Maybe you can send an email to me later.
+Yep, sure.
+So, basically, there's a breakdown of how much the different functions that are remote control.
+Power and volume selection are only used a few times within this per hour.
+Channel selection is used 160-8 times.
+And then there's things like channel settings, audio settings that are only used very frequently.
+Teletext is used 14 times in the hour.
+So, it is used, but not nearly as much as the channel selection is used.
+An interesting thing that this report has brought up is that 50% of users report that the remote control gets lost a lot of the time in the room.
+So, some might have that too.
+Some might have a location that a remote control would be very useful to a lot of users.
+So, 34% said it takes too long to learn to use the remote control.
+That's not as easy to use straightaway, more intuitive, perhaps.
+It's easy to learn how to do straight away.
+So, 34% said it took too much time to learn.
+Okay, it's too much time to learn.
+And 26% said remote controls are bad for RSI.
+I don't know how we've got that.
+So, I'm commenting that.
+What do you mean?
+Well, RSI is better to strain injury.
+Okay.
+Okay.
+I think that or do a doctor says that it's the opinion of the app.
+Yeah.
+That's what the report says here.
+And then it's got a demographic breakdown.
+Maybe you can put this web page online on the...
+I should be able to actually invite you out to you now.
+You can just connect it then.
+You can maybe just...
+All right.
+Yeah.
+Okay.
+It's a web page on the scene.
+Yeah.
+Otherwise, you...
+Yeah.
+You can connect this one.
+You can connect this one.
+Yeah.
+All right.
+How about you?
+How about you do it?
+All right.
+All right.
+So, these are important numbers that Matthew and I need to take into account for...
+Yeah.
+How about you?
+It's probably easier if you put it on yours and now I just came out to you.
+This is a web page.
+Okay.
+Okay.
+Yeah.
+These numbers are...
+are to be...
+have to be taken into account for the...
+both as user interface.
+Yeah.
+For sure.
+I design.
+One thing you guys want to talk about, which is interesting, is the...
+Yeah.
+Because there are many numbers and we need to select to...
+to constraint our design based on what is more important.
+Yeah.
+Yeah.
+One thing is interesting is talking about...
+speech recognition in a right control.
+Speech recognition.
+And who would pay more for that and whether people would buy it useful.
+Do you have numbers on that?
+Yes.
+I'll just...
+I think it's not.
+So we don't...
+We don't need any button on the web address.
+Oh, because it should be for based on speech.
+Okay.
+I think even for...
+Interesting idea.
+Yeah.
+I think that would not work so well.
+You wouldn't have both options.
+Okay.
+Well, it would...
+It would be a solution for...
+for your...
+remote control is lost.
+I mean, when it says feature recognition then.
+Yeah.
+It doesn't matter where it is.
+Well, it should be in range.
+Hmm.
+Maybe it can respond to...
+To do some.
+So say where it is.
+Yeah.
+But these are all quite fancy futures, I'm not sure whether.
+Go ahead.
+Do we...
+We can make this for...
+For...
+Yeah.
+No, it can.
+And we don't know where the state of the other speech recognition is.
+Maybe, you know...
+Oh.
+Well, it depends.
+You know, like...
+There is...
+It's a very small vocabulary.
+And then you want to do the question of like...
+You want to say on and off.
+You want to...
+But it's quite noisy.
+There is the TV.
+Yeah.
+Yeah.
+Yeah.
+It's not going to be...
+It's so easy.
+Usually it's going to be more often isolated.
+It doesn't have some points.
+But it's exactly.
+But I don't know.
+It's only for you to summarize, maybe.
+This is now talking about who would pay the state recognition in a remote control.
+Who would pay more for it.
+90% of the 15 to 25 year old market said that they would pay more.
+It goes down from there.
+76% for 25 to 35.
+35% for 35 to 45.
+22% for 45 to 55.
+And then 85% for 55.
+Okay.
+Because we're going to be playing.
+Yeah.
+Which really depends where we're going to be targeting this product.
+Which we'll be talking about later, I think.
+Yes.
+We will talk about this again.
+Did you get the email?
+Yeah.
+No.
+Is that right?
+True.
+That's...
+You're going to be in there?
+No.
+Yes.
+Yes.
+Yes.
+Yes.
+Okay.
+Okay.
+Okay.
+Okay.
+That's the thing that I was talking about there.
+Is it different?
+Fantastic.
+Another thing that's talking about there is the LCD screen.
+But there's no figures in handy on that.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Can you give...
+Yep.
+Your presentation.
+Yeah.
+Okay.
+Okay.
+Okay.
+I stay.
+Okay.
+I stay.
+Okay.
+Okay.
+Yeah.
+Okay.
+Okay.
+Yeah.
+Okay.
+I can move...
+Can you move us from?
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Yeah.
+Okay.
+Okay.
+Okay.
+Okay.
+So, I think everybody knows.
+I'm the industrial designer.
+And in this presentation, this quick presentation is going to focus on the working design
+of the remote control.
+And I'd like first to give a simple introduction on how does it work so that everybody
+knows, even if you don't have a technical background or a GZ-3, I think, in the product
+system.
+So basically, the basic function of remote control is to send messages to another system
+that is fixed.
+And so an energy source fits an integrated circuit, the chip, that can compose messages
+usually through infrared bits.
+And the user interface controls the chip and according the messages.
+So my method for designing the work design, yeah, first, the main point is that
+I would wish to make a really functional product.
+I would prefer to have very functional capabilities, whether then fancy stuff that, in
+fact, is not used and doesn't work.
+So for that, yeah, as it's important to take into account the user requirements from
+the marketing expert Ana, and we should agree on what other things can function for this
+remote control.
+And I'll show you the working design.
+So basically, here is a large view of what we want of the button, it can be simple, but
+it's important.
+And so enabling the tools channels as well as other buttons that come after.
+So the components I quickly draw here is that in this part you have the control, the
+sender, and another part to receiver.
+So that's my method is when I am able to design the and choose the chips and the
+infrared components to build the remote control right.
+So of course we can adjust sources and add a receiver, this is really a quick design.
+I used up me onto me if you don't really want that.
+So what I found, after a lot of work actually, I draw for you, this schema can be maybe
+too technical for you, but it's really important for me.
+And so I won't go into details about that, but these are my preferences to use the
+kind of components.
+And why do you want this kind of component, I mean RIT, or are you reliable, what were your?
+So the main components you see here are the cheapest I have found and you have always
+a compromise with RIT and if it's expensive, but this one is also really reliable.
+So yeah, that's it for the working design, I hope you get a clear review on what the
+remote control is in terms of the component, but maybe it's more clear now I think.
+But is it carried us by talking market and like it is, or you want to know, this is
+a preference, but we can always change what I was thinking about, the schema about the
+the sender and the receiver, can you get back to it?
+Yeah, the receiver is of course already in the television and we are not able to change
+it.
+So we must adapt to the receiver, I suppose there is a standard way of communicating
+there, we will use infrared for the core using infrared and of course we need to add up
+to that protocol that already exists, but we can do is adapting the chips inside to
+the best chips on the infrared board, okay, thank you, if you have any frequencies,
+the frequencies, yeah, of course you're in the chip, you know, yeah, but you should be careful
+people are sometimes becoming a fellow, like a guy has recently designed a remote
+chip such of any other TV, so basically no, through all the things, so maybe you should
+think of...
+Of course you are.
+Just the TV in the next comments really well, so you can just run the seat and then
+such of everyone's TV and you can just walk away, you don't have to be near the TV at all.
+I think my will will consider this so that it thinks we need, maybe we can go to your
+presentation.
+Yes.
+Well, I think we need to...
+Yes.
+Okay.
+So, I think I think it's mine.
+I think it's mine.
+I think mine.
+It's okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+I know where this is.
+It's on the desktop.
+Yes.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+So, I'm going to pop a little bit of one of the technical functions, so what...
+Actually, it's about what is the user going to do, right, from my best prototype, what
+is going inside?
+Yeah.
+So, what's the user is going to see from the outside that it's going to be using.
+So, other approach is that basically the idea is to send a message to the TV set, that's
+it might have prompted, and it will be decoder by the TV, and usually it is easier to have
+the keys or buttons, with which people can press, and then changing a button will basically
+change the message, which is being sent to the TV, and basically it's insulin, phthic, and
+the other thing was so, as Anna has said, that these people are interested in things which
+you don't need to tell the keys, people can have this piece of paper, but this is it.
+Question which you will have to say later, but in the present scenario is that you have
+certain keys, and you place it by phone, and it sends the message to the TV.
+And so, generally, I don't have some figures, sorry, but there are two kinds of remote
+there.
+Also, I mean the household.
+Actually, so, you have a standard TV remote, where you have a faster hour and a half, but
+I'm not right.
+Volume change and keys for the number, and more than one digit option.
+And if you see, for example, right now, even the one, more than one digit option is for
+two digits, which is like 99.
+But tomorrow, you might have 150 channels, 200 channels to close two notes, but then
+there is a standard one without any fancy thing.
+You know, like, you can tell the data option, you can, without any.
+It's a very simple thing, which you can do.
+And then you have a, what's their video remote bar, which is like, usually it has almost
+all the keys over there, but then it has other options, like staff, and then you play
+the movie video for, for the movie or something like that.
+It has those, these are the standard, commonly found remote controls in the market.
+And then, which is generally used for the people, and then, for personal preferences,
+I would basically think of having a kind of end for the next generation thing where
+we could have both the TV and the remote video remote control, because some of the keys
+in the videos remote control and the TV, it could be integrated together so that we could
+aim for the, like, in this coming feature type of application.
+How would that work?
+So I've got, say, maybe a VCR into you to separate.
+So on my one home, I've got a VCR in my, which then changes the channel on the VCR,
+and then drag the on the TV, so it's going to be like a switch on the remote that says
+the user TV or user VCR, or does it know which one you want to use?
+Actually, you could, you could think of having, you can have a key, which could, it could go to the video
+thing, but you still can, in the case, when you use the function to be able to take
+out the VCR option and you could play it.
+Or you can also think about having, like, in the few days you'll be in in few days,
+coming years, you might even have a system where you have a separate sitting set up box
+that you have something like, you don't, you suppose you're not able to watch some program
+and actually, if downloading all the time for you and you can just, you know,
+when you come back, you could just switch on that thing and go on the program.
+In that case, you want to browse faster, browse through, you want to have those kind of
+personalities.
+This is our kind of next generation.
+It's an next generation thing.
+It is going to come and come up here.
+It's going to come up here.
+I think it's, it's already there.
+Yeah.
+I'll just record this.
+Yeah.
+I've seen it in a show.
+Yeah.
+Okay.
+So it's good to record your things and you, you need basically the function activities,
+what you need before the review or as well as the standard TV.
+But I don't think we're trying to make a university room right here.
+No, not really.
+I'm making a university room.
+But we are just looking at giving us an ideal, I have a TV and tomorrow I'm going to have
+a computer and a computer.
+Because we need to decide on, on, on, on how far we go to in this.
+We can go pretty far.
+I think with, with, with functions and possible future.
+Yeah.
+So, but it's good to keep in mind.
+Okay.
+So that ends my presentation.
+So we can always discuss about it.
+For example, the, the, the video market actually, this demand will be a old demand or what
+we call it is, is presently booming up actually.
+So it, it, like people are providing like these things like movies, you can select actually.
+So you want to watch a movie and provide a, use a list of movies and then you select
+those lists.
+Yeah.
+And it basically, you go out with downloads and movie, it gives for you.
+Yeah.
+And then when you come, you want to watch it on your TV.
+Why, when you don't need to download it, it's streamed online.
+Yeah, it can be streamed online for you.
+And you can say what time I want to watch.
+Yeah.
+Yeah.
+Yeah.
+So, I have received some, some, some, some, well, points of thinking over of my account
+manager.
+And I would like to share them with you.
+First thing is teletext.
+It's a well-known feature of television, but it's, it's getting goofed less and less.
+That's this, especially because of the internet, of course.
+So, we should think about it.
+Do we include it?
+And do we give it a prominent, prominent place on, on the, on, well, on the, on the
+remote monitor for all self.
+And, and indicated it's, it's not used.
+Well, very much, but it's, it is still used.
+Yeah.
+We must think, do we stay to, to television now and leave the television as we,
+as we all know it with, it's broadcasting signals and you can't go back.
+Or do we go further as, as you indicated by supporting, uh, recording, uh, devices.
+So, DVDs and BCS.
+Indeed.
+Indeed.
+And, and, and the hardest recording.
+Um, for the more, uh, we need, we need to really need to interest, uh, younger customers.
+And then with your own customers, I mean, people, uh, below the age of 40.
+How current customers are mainly 40 plus, uh, which 14, 40.
+So it's, it's, it, it, it's a market, but, uh, they will grow all the, all the, all,
+all, all they need to have a bit, the future with, you know, the people.
+Um, therefore, you're only people like friendly, trendy designs.
+So that we should make our, our feet as trendy as possible, but it should also be, uh,
+has a reliable image.
+So when it looks too, too spicy or too fancy, people will think, well, does it work at all?
+Yeah, it's, uh, well, you, you can, more of the ideas, how you want to keep the keys.
+You know, like, now, if you take it, you have like, zero, one, two, three, like, key separately.
+But suppose if you take the present trend of mobile phones, there are like big, thick keys.
+You players on the top, it takes one number, you press on the bottom, you take another number.
+And basically, yeah, so there's space covered, so that you don't see two separate keys there, actually.
+So it is like, it is like, uh, maybe, maybe you can draw it on the board.
+Yeah, so.
+I think taking the idea of getting inspiration from mobile phones is interesting.
+Yeah.
+Especially for going after a younger market.
+It's more than already used.
+The new and the banking things.
+Correct.
+There's lots of very pretty mobile phones, not too many, prettier and rec controls.
+And, and they're skilled, uh, by using it.
+So five examples of, uh, what I think.
+Okay.
+Okay.
+Okay.
+Five.
+Thank you.
+So, for example, you have a key, like, one.
+Okay.
+Okay.
+So, you can have a key, like, this phone, like.
+Okay.
+You can have a key, like, this phone, like.
+Okay.
+You can have, like that.
+How much time we'll do that for the meeting, that the way?
+You'll see.
+Because you can have, like, a gap get on to the board, make sure.
+So, you can have a key, like, uh, which are like.
+So, basically don't change our quality and order of them.
+But then the keys are more spacious.
+They don't look, uh, so there's, there's, there's, there's things.
+So, if you press on the top, you make the one.
+You take the three, uh, four, sorry, four here or five and six.
+So, the keys can be, it looks, you know, not very much cluttered.
+But it looks nice, uh, you don't have too many keys, but you can have our options.
+Okay.
+I think now that the idea is clear.
+Yeah.
+Uh, we should now, uh, try to resize, um, on our third group.
+Yeah.
+Which I think is quite tricky.
+Um, basically we're trying to get people to buy and write control.
+Wouldn't they already have very much control with the television when they buy one?
+Well, it's, they have already one.
+So, are, are we muscularized to be better?
+It's not going to have more functionality.
+It's only, low market is the cheap end or I control.
+We can't be at my functionality.
+We might, we'll be able to beat them on the, the look of the, the design of it.
+But that's not a big salary.
+They're not going to just go and buy a year in my control.
+Which is cool.
+It looks pretty.
+That actually made it as well.
+So, I'm not sure how they can get them to buy the same.
+Well, I think many people said in your, in your research, uh, the appearance of the, uh,
+our series is important when they're buying one.
+Yeah.
+But why they're buying one of the first things.
+Indeed.
+So that will be about functionality.
+But if people are buying your drop of functionality, they'll buy a universal remote.
+I've got friends who have got so many things.
+They need a universal remote.
+Otherwise they're using five different modes.
+They're all their things.
+In that case, they wouldn't buy a product because it doesn't give them what they need in terms of functionality.
+So, you're, I think we should go for more universal.
+Well, we can't, with the price range.
+Well, you're not building a universal remote.
+We're not building a high end product.
+Yeah.
+Yeah.
+What do you think?
+Yeah.
+What do you think?
+Yeah.
+What do you think?
+Yeah.
+What do you think?
+What do you think?
+Yeah.
+Twelve, from five years.
+For, for us, possibly.
+And I think, uh, with this, no, you know, the chips are very, uh, chips.
+And, uh, we can include there.
+Now we're going to some new, new features.
+Yeah.
+But yeah.
+If we're getting to university remote territory, we're getting to LCD screens and things like that,
+we're going to try the cost of a lot.
+I don't know.
+I don't know whether that's necessary.
+I don't think that city is not necessary.
+Yeah.
+Yeah.
+I think that this could be, this could be a market because, uh, universal remote control
+tend to be, uh, quite expensive.
+And quite complicated.
+It is.
+Yeah.
+So we can try to go in between and offer a product, which is not as expensive and not as,
+not as expensive or maybe.
+Yeah.
+But still, but still, people have the idea that this is more functional than a normal, uh,
+universal R.C.
+Because it has for, uh, if it's some kind of reversal.
+Mm-hmm.
+But if we're going for this, I think, into 25 age group, then not many that we're actually
+on TV's to use your remote control on.
+No, we started in, I think, more on the 20 to 40 group.
+So then people, yeah.
+We just have, or already have to open and have the money.
+Mm-hmm.
+But may not want to step that much money or not.
+Yeah.
+I don't know really what the, the price range of our controls is.
+Are we going to be at the very bottom of the price range?
+Or are we kind of middle to bottom?
+I don't know.
+Uh, well.
+I think, when you think it's over, I think,
+we are trying to offer the kind of universal control for,
+for less money.
+Mm-hmm.
+Yeah.
+So, do you agree?
+Well, I find it may like a place as long as it is not too expensive.
+Yeah, because we have to take into account that we're going to,
+we're going to sell four, around four million.
+So, when we speak about these numbers, the price of a chip is,
+or possibly a chip is very cheap.
+Mm-hmm.
+So, I'm okay for designing a less,
+a kind of universal answer.
+Yeah.
+You think it's possible for 12, 0, 50?
+Yeah.
+Okay.
+So, then we decide on, on, on going to risk more universal kind of control.
+Yeah.
+That's, that's what we need there, basically.
+Okay.
+I have that major right now.
+Yeah, that's right.
+Basically, you can look through the standard.
+I'm going to get the market.
+Yeah.
+Yeah.
+So, I guess what I like from a universal remote is maybe choosing between,
+through devices.
+Yeah.
+Just switch between them.
+And maybe stereo.
+BCR and TV.
+Exactly.
+And just be able to use them often the same right, but all at the same time.
+Yeah, you can also browse through all the standards, you know.
+Yeah, that limited standards for all of them, and you can just go through them.
+Yeah.
+So, given we are going for this universal type,
+maybe it's good when you try to find out which components you definitely need.
+Yes.
+You will try to get more specific user interface concept.
+Right.
+Maybe you can look on what trends are in this.
+Yeah.
+Can you start from like it?
+Well, no.
+So, so, anyone point to bring in or so?
+Well, you don't have anything left now.
+Oh, that's good.
+Let's go and make sure we'll come up something good.
+Oh, yeah.
+Yeah.
+We have left now.
+Yeah.
+Yeah.
+So, we're meeting.
+Yeah.
+What are the next meeting?
+Well, off the left, we have pretty minutes of work,
+and then we'll have the next meeting.
+But you will be informed for you.
+Okay.
+Okay.
+Cool.
+Perfect.
+See you later.
+Yes, this one, just like here are my slides.
+We'll put this in three, check out, yeah.
+You can try.
+Good, good.
+Good.
+Good.
+Good.
+Good.
+Good.
+Good.
+Good.
+Good.
+Good.
+Good.
+Good.
+Good.
+Good, good.
+Good.
+Good.
+Good.
+Good, good.
+Good.
+Good.
+Good.
+Good.
+Good.
+Good.
+Good Keith.
+Good.
+Good.
+Good.
+Good.
+Good.
+Nice.
+Good.
+Good.
+Good puck.
+Good?
+Good.
+Yeah?
+Good, I was just playing the want board and putting at that.
+You have to save my other sentence, you have to save my other sentence, you have to save
+my other sentence, you have to save my other sentence, you have to save my other
+other sentence, you have to save my other sentence, you have to save my other sentence,
+and you have to save my other sentence.
+Okay, so I see everybody's here, okay?
+What's the agenda for this meeting?
+I will present the agenda with slides.
+Two, as you can see here.
+So first, just to mention, I will take notes of this meeting,
+and I will try to work them out and get them to use.
+Also make notes of the previous meeting,
+and I was about to send them to you, but then I had to go to this meeting,
+so you will get them to...
+you are the secretary.
+Yes. Indeed.
+Then I hope you all have worked out.
+Perfect.
+Some presentations about, well, the task given to you in the previous meeting.
+We will, in a minute, we will start with them.
+We will see which order we will handle them off.
+Then I will bring in some new requirements.
+I go from the account manager.
+I try to work them out to work quite abstract,
+and maybe I have come from the discussion about it.
+About the functions.
+Well, in this meeting, we should really try to reach a decision about the target group,
+and the functionality of them.
+You mean the social target group?
+Yes, I mean the target.
+Who are we going to do with the customers?
+Indeed. Yes.
+I think that's important.
+Wonderful.
+So, and then we will close this meeting,
+and after this meeting, we will have a look.
+Good.
+Maybe.
+And do you have a question?
+No, I don't.
+You are going to have a question.
+You are not able to.
+I can talk about it.
+Yes, maybe.
+Maybe you can talk about it.
+Maybe you can use the whiteboard if necessary.
+Well, I have just been presented with some research.
+We have done it in a small focus group.
+We have people discussing about their remote control usage habits,
+and what they want in their remote control.
+It's probably quite unanimous to me.
+I've just got a web page for some data on it.
+Basically it's saying that users generally dislike the look and feel of their remote controls.
+75% of users find most remote controls ugly.
+80% of users would spend more money when a remote control would look fancy.
+Current remote controls do not match well.
+The operating behaviour of the user.
+75% of users said there's Appleock.
+So they use the remote control quite frequently while they are watching television.
+50% of users say that they only use 10% of the buttons.
+So they have a remote control with a lot of functionality,
+but really most of the time they only use a small part of that.
+Do you have this information on the web page?
+I have an web page, yes.
+Maybe you can send an email to me later.
+Yep, sure.
+About this.
+So basically there's a breakdown of how much the different functions that are remote control,
+how are and volume selection are only used a few times within this per hour.
+Channel selection is used 168 times.
+And then there's things like channel settings, audio settings which are only used very frequently.
+Teletext is used 14 times in the hour, so it is used but not nearly as much as the channel selection is used.
+An interesting thing that this report has brought up is that 50% of users report that the remote control gets lost a lot of the time in the room.
+So somewhere in the right control would be very useful to a lot of users.
+34% said it takes too long to learn to use the remote control,
+that it's easier to use straight away, more intuitive perhaps.
+It's easier to learn how.
+34% said it took too much time to learn.
+Okay, it's too much time to learn.
+And 26% said remote controls are bad by RSI.
+I don't know how we just got that.
+Well, RSI or is it prepared to strain injury?
+Okay.
+I think that or do a doctor says it's the opinion of the user.
+That's what the report says here.
+And then it's got a demographic breakdown.
+Maybe you can put this web page online on the...
+I should be able to actually if I can answer you now.
+You can just connect it.
+All right.
+Okay.
+It's a web page and we'll see if it's a file.
+Okay.
+Although I see you.
+Yeah.
+You can connect this one.
+You can connect this one.
+Yeah.
+All right.
+You can connect this one.
+Yeah.
+All right.
+You can connect this one.
+Yeah.
+All right.
+All right.
+All right.
+All right.
+So these are important numbers that Matthew and I need to take into account for...
+Yeah.
+It's probably easier if you put it on yours and now I just came out to you.
+Yeah.
+It is a web page.
+Okay.
+Yeah.
+This number has to be...
+It has to be taken into account for the...
+Mm-hmm.
+For the...
+Both.
+And the user interface.
+Yeah.
+For sure.
+And design.
+Yeah.
+For sure.
+And design.
+One thing you guys want to talk about, which is interesting is...
+The...
+Yeah.
+Because if there are many numbers and we need to select to...
+to constrain our design based on what is more important.
+Yeah.
+Yeah.
+One thing is interesting is talking about...
+Speech recognition in a right control.
+Speech recognition.
+And who would pay more for that and whether people would find it useful.
+Do you have numbers on that?
+Yes.
+I'll just...
+That's not.
+So that we don't...
+Do we not need any button on the web address?
+Oh, so, yeah.
+It should be for based on speech.
+Okay.
+I think even for...
+Interesting idea.
+Yeah.
+I think that would not work so well.
+You wouldn't have both options.
+Okay.
+That would be a solution for...
+In your remote control is lost.
+I mean, if there is information that...
+It doesn't matter where it is.
+Well, it should be in range.
+Maybe it can respond and produce sounds.
+So, say where it is.
+Yeah.
+But these are all quite fancy future time.
+Not sure whether...
+Go ahead.
+We can make this for...
+For a fell of Euro of 15.
+Yeah.
+I don't know where the state of the art of speech recognition is.
+Maybe, you know.
+Oh.
+Well, it depends.
+You know, like, there is...
+It's a very small vocabulary.
+And then you want to do the question of, like...
+You want to say on, off.
+You want to do one.
+But it's quite noisy.
+You do the TV.
+Well, yeah.
+It's not going to be...
+It's so easy.
+But...
+I mean, usually it's going to be more often isolated.
+I'm going to have some questions.
+But I don't know.
+It's going to get to summarize, maybe.
+This is now talking about who would pay the speech recognition in a remote control.
+Who would pay more for it.
+90% of the 15 to 25-year-old market said that they would pay more.
+It goes down from there.
+76% for 25 to 35.
+35% for 35 to 45.
+22% for 45 to 55.
+And then 8% for 55 to 55.
+Yeah.
+Yeah.
+It really depends where we're going to be targeting this product.
+Which we'll be talking about later, I think.
+Yes.
+Did you get the email?
+Yeah.
+No.
+Sorry about that.
+Okay.
+Yeah.
+That's it.
+You're going to have an email?
+Yes.
+Yes.
+Yes.
+Yes.
+Yes.
+Yes.
+Yes.
+Yes.
+Okay.
+Thank you.
+Thank you.
+Thank you.
+So that's the thing that I was just talking about there.
+It was a different kind of graphics.
+Another thing that's talking about there is the LCD screen.
+But there's no figures of hardly on that.
+Okay.
+Okay.
+Okay.
+Maybe Maal, can you give your presentation?
+Okay.
+Okay.
+Stay in.
+No, you can move.
+Yeah.
+You can move.
+Yes.
+Yes.
+You can move.
+Yes.
+You can move.
+You can move as far as.
+Maybe I take your chair.
+Yes.
+You can take my chair.
+Yes.
+You can take my chair.
+Yes.
+You can take my chair.
+Yes.
+Thank you.
+Thank you.
+Bye.
+So I think as everybody knows, I'm the industrial design of the design of the design of the
+industrial designer.
+And in this presentation, this quick presentation is going to focus on the working design of the remote
+control.
+And I'd like first to give a simple introduction on how does it work so that everybody knows
+even if you don't have a very technical background or it's easy.
+I think in the product is important.
+So basically, the basic function of remote control is to send messages to another system that
+is fixed.
+And so an energy source fits an integrated circuit, the chip that can compose messages usually
+through infrared bits.
+And the user interface controls the chip and accordingly the messages.
+Right.
+So my method for designing the work design, yeah.
+First, the main point is that I would wish to make a really functional product.
+I would prefer to have very functional capabilities, whether then fancy stuff that, in
+fact, is not used and doesn't work.
+So for that, yeah, it's important to take into of the user requirements from the marketing
+expert, Anna.
+And we should agree on what other things can function for this remote control.
+And I'll show you the working design.
+So basically, here is a large view of what we want to, we want, of the button.
+It can be simple, but it's important.
+And so, any willing to browse channels as well as other buttons that come after.
+So the components I quickly draw here is that, in this part, you have to come from the
+sender.
+I mean, another part to receiver.
+So that's, my method is, when my aim would be to design the and choose the chips under
+infrared components to build the remote control right.
+So, of course, we cannot use sources and other receiver or receiver.
+This is a really quick design.
+I used up Mio into of me if you don't really want that.
+And so what I found, after a lot of work actually, I draw for you this schema that can be
+done.
+It may be too technical for you, but it's really important for me.
+You do it a long time ago.
+I don't know.
+I don't know.
+I don't know.
+I won't go into details about that.
+But these are my preferences to use the kind of components.
+And why do you want this kind of component?
+I mean, RIT, or are you reliable?
+What were your?
+So, the main components you see here are the cheapest I've found.
+And you have always a compromise with reliability and if it's expensive.
+But, you know, this one is also really reliable.
+So, yeah, that's it for the working design.
+I hope you'll get a clear view on what a remote control is in terms of the game's
+good components.
+But maybe, yeah.
+It's more clear now, I think.
+So, what is it?
+Can you just buy it off the market and plug it in or you want it?
+No, no, no.
+This is a preference, but we can always change.
+What I was thinking about is the schema about the sender and the receiver.
+Can you get that back to it?
+The receiver is, of course, already in the television and we are not able to change it.
+So, we must adapt to the receiver.
+I suppose there is a standard way of communicating with the communications.
+Yeah.
+We will use infrared for the core using infrared.
+And, of course, we need to add up to that protocol that already exists.
+But, what we can do is adapting the chips inside to the best chips and infrared bulbs.
+Okay.
+Thank you.
+We think that we have to change the frequencies.
+The frequencies?
+Yeah.
+Of course, in the chip, you know, yeah.
+But, if we care for people or something, we can follow, like, a guy has recently designed
+a remote with the usage of any other TV.
+So, basically, not through all the things.
+So, maybe you should think of...
+Of course, yeah, we should think of...
+Just the TV in the next time, it's really loud.
+So, you can just go on the seat and then switch up everyone's TV and you can just walk
+away.
+You don't have to be near the TV at all.
+I think my will will consider this thing to me.
+Maybe we can go to your presentation as well.
+Yeah.
+I should move over next to you.
+Yes.
+Okay.
+Good.
+Okay.
+So, I can take items for mine.
+No.
+Okay.
+I'm standing.
+I'm standing.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+So.
+Okay.
+sovereignty.
+Okay.
+Okay.
+You're there with this.
+Okay.
+Let me…
+Okay.
+Okay.
+Okay.
+Okay.
+So what's the user is going to see from the outside and it's going to be moving.
+So while the approach, basically the idea is to set the message to the TV set, it might
+be the correct TV and you see it is easier to have keys or buttons with which people
+can press and then changing a button will basically change the message which is being
+sent to the TV and basically it's an infinite thing and it's not a different entity
+thing or so and I have said that these people are interested in things which you don't
+need because the key is people can have this with the TV set but it's a question which
+we have to say later but in the present scenario is that you have certain keys and you
+see it like a platform and it sends message to the TV and so generally I don't have
+something else sorry but so there are two kinds of remote that you are talking about in the household
+actually so you have a standard TV remote where you have to test it on or off but I'm going to change
+and the key is for the number and more than one digit option and if you see for example right now even
+the one, more than one digit option is for two digit can which is like 99 but tomorrow you might have 150
+channels you know to close or two of the channels to close but then there is a, this is a standard one
+without any fancy thing you know like it doesn't like to get that option you can without any it's a very
+simple thing which you can browse and then you have what's the video remote bar which is like usually it has
+almost all the keys over there but then it has other options like store and then you play the movie
+or for far forward the movie or something like that so it has those, so these are the standard common
+we found remote controls and a market and then we generally use better people and then for
+first mode of analysis I will basically think of having kind of aim for the next generation being where we
+could have both the TV and the remote video remote control because some of the keys in the videos remote control
+and the TV it could be integrated together so that we could aim for the like in this coming feature
+So I've got say maybe a vcr into separate see on my one home I've got a vcr in my which then changes the channel on the vcr
+and then dragging on the TV so is it going to be like a switch on the remote that says use the TV or use the vcr or does it know which one you want to use?
+Actually you could think of having the you can have a key which could tell if you go to the video but you still can in the case
+when you use it the function should be able to take up the vcr option and you could play it or you can also think about having like in the few days you'll be in in few coming years you might even have a system where you have a separate sitting set up box that you have something like you don't you suppose you about
+to watch some program and actually it downloading all the time for you and you can just you know when you come back you can just switch on that thing and want the program in that case you want to browse faster
+you want to have those kind of humanities these are kind of next generation things but it is going to come and come up here
+I don't think it's it's already there I just recorded so it's going to record your things and you you need basically the functionality is what you need before the
+but I don't think we're trying to make a universe we're right here
+we are just looking at giving us an IO I have a T and tomorrow I'm going to have a set up box and put a sitter and
+because we need to decide on on and how far we go to in this
+can go pretty far I think with with with functions and possible future of the time
+yeah so but it's good to keep in mind
+okay so that ends my presentation
+so we can always discuss about it for example represent the video market actually with demand video over demand or what we call it
+it's it's presently booming up actually so it's like people are providing like things like movies you can select actually
+so you want to watch a movie and you're provided here's the list of movies and then you select those list
+and it basically you go out with downloads the movie it kills for you and then when you come you want to watch it on you
+why even you don't need to download this is streamed online
+yeah it can be streamed online for you and you can tell what time I want to ask you
+yeah so I have received some some some some
+well points of thinking over of my account manager and I would like to share them with you
+first thing is teletext is a well-known feature of television but it's getting youth less and less
+especially because of the internet of course so we should think about it
+do we include it and do we give it a prominent place on on the on well
+on the remote multiple for all self and and indicated it's it's not used well very much but it's it is still used
+further yes we must think do we stay to to television only the television has been we all know it with
+it's broadcasting signals and you can't go back or do we go further as Matthew indicated by supporting
+recording devices so it DVDs and basically has indeed indeed and and and the hardest
+record for more we need to really need to interest a younger customer assigned then
+with your customers I mean people below the age of 40 and how current customers are mainly 40 plus
+which 14 40 so this to this it is a market but they will grow all the world older and all all they need to
+have to the future with young people and they are for young people like friendly trendy designs so
+that we should make out how our feet is trendy as possible but it should also be have a reliable image so
+when it looks too too spicy or too fancy people think well does it work at all
+yeah it's a very you can more of the ideas how you want to keep the keys you know like now if you take it you have like
+you want to see like key separately but suppose if you take there's a dozen kind of mobile phones there are like big
+keys you close on the top it takes one number it was on the bottom it takes another number and basically so the space covered so
+you don't see two separate keys there actually so it is like it is like maybe maybe you can draw it on the board
+I think taking the idea of getting inspiration from mobile phones is interesting especially for going after a younger market
+the new and the funky things yeah there's lots of very key mobile phones not too many prettier and
+and they're killed by using it so
+you can have keys like this phone like that
+how much time we look for the meeting by the way
+so you can have a keys like which are like so
+basically don't change the quality of order but then the keys are more spacious they don't look
+so there is a very slight thing so if you press on the top it takes one it takes three or four or four
+so the keys can be it looks you know not very much plotted but it looks nice you don't have too many keys
+but you can have our options
+I think now that the idea is clear yeah we should now try to decide on our target group
+yeah which I think is quite tricky basically we're trying to get people to buy our right control
+wouldn't they already have our right control with their television when they buy one
+or they have already one so our remote control has to be better
+but it's not going to have more functionality it's only a low market as a cheap end or a control
+we can't be at my functionality we might we'll be able to beat them on the look of the design of it
+that's not a big salary they're not going to just go and buy a new remote control just because it looks pretty
+they've actually made it as well so I'm not sure how we can get people to buy the same
+well I think many people said in your research the appearance of the RCS is important when they're buying one
+but why they're buying one in the first place indeed
+so that will be about functionality
+but if people are buying your remote control for functionality they'll buy a universal remote
+I've got friends who have got so many things I need a universal remote otherwise they're using
+probably different multiple their things in that case they wouldn't buy a product because it doesn't give them what they need
+it doesn't have the functionality
+so you think we should go for it more universal
+well we've got with the price range
+we're not building it you know so we're not building a high end product
+I don't think you're low
+yeah we have yeah twelve from five euros
+for us possibly
+and I think with this no you know that chips are very cheap
+and we can include it in our room for some new new features
+but yeah
+if we're getting to university remote territory are we getting to LCD screens and things like that
+which would drive the cost of a lot?
+I don't know whether that's necessary
+I don't think that city is not necessary
+I think this could be a market because
+universal remote control tend to be quite expensive
+and quite complicated it is
+so we can try to go in between and offer a product which is not as expensive and not as
+not as expensive
+but still people have the idea this is more functional than a normal
+universal RC because it has more
+if it's not kind of universal
+but if we're going for that say 15 to 25
+age group then not many of them would actually own TVs
+to either remote control on
+yes we started in I think more on the 20 to 40 group
+so then people will just have
+or already have a job and have the money
+but they may not want to spend that much money on that
+I don't know really what the price range right controls is
+are we going to be at the very bottom of the price range
+or are we kind of middle to bottom?
+I don't know
+well
+I think when we think about it I think
+we are trying to offer the kind of universal control for less money
+yeah
+so do you agree?
+well I'll explain it to me
+like the price as long as it is not too expensive
+yeah because we have to take into account that
+we're going to put a web in our cell for a room for a million
+so when we speak about these numbers
+the price of a chip is
+very cheap
+so I'm okay for
+I'm signing
+less
+a kind of universal
+I think it's possible for the 12-year-old 50
+yeah
+so then
+we decide on going to reach more universal kind of control
+yeah that's what we need
+basically
+okay
+that's needed right now
+basically you can do the standard
+to get the market
+so I guess what I like from a university
+right is maybe choosing between
+three devices
+between them
+and maybe stereo
+basically
+and just be able to use them
+often the same right
+but all at the same time
+we've got to close through all the standards
+you know
+so given we are going for this
+universal type
+maybe it's good when you try to find out
+which components you definitely need in
+yes you will
+try to get more specific
+user interface concept
+and maybe you can look on
+what trends are in this
+in this type of market
+well done
+so
+anyone
+I don't want to bring in
+or failure
+I don't have anything right now
+that's
+you sure we'll come up
+something good
+yeah
+we've been at last now
+so
+yeah
+so we're meeting
+the next meeting
+we'll
+and she left
+we have
+30 minutes of work
+and then we'll have the next meeting
+but you will be in form
+fire
+okay cool
+perfect
+yeah
+right
+so
+mm
+mm
+mm
+mm
+mm
+mm
+Do you have anything else like that?
+Yes it's not.
+Because this is outrageous.
+You have to save them in an infidel.
+I'm going to be ready.
+Oh, yeah.
+This is compact here.
+Perfect.
+So I'll just open it.
+I'll just open it.
+I'll just open it.
+I'll just open it.
+Yes.
+You're off.
+I'm going to make the sound.
+So where are we from?
+Should I start off?
+I'm going to keep stopping.
+OK.
+Oh, I will.
+Let's do that wrong.
+That was it on rolling?
+So as you know everybody's here, okay
+What's the agenda for this meeting? I will
+We can't hear agenda with with which slides
+to
+as you see here
+so
+first
+Just to mention I will
+Great notes
+of this meeting and I will try to work them out and get them to use also make notes of the previous meeting and
+I was about to send them you but then I
+Had to go to see this meeting so you will get into
+You are the secretary. Yes, okay indeed
+Then I help you all have
+worked out
+So some presentations about
+About well, you did the task given to in your previous meeting
+We will
+in a minute we will
+start with them
+We will see which border
+We will handle them off
+then I will
+bring in some some some new requirements. I
+got from the campaign here. I tried to work them out they work quite abstract and you can have maybe have come from discussion about it's
+About a function and well in this meeting we should really
+Try to reach a decision about the target group and
+And the functionality
+You mean the social target group? Yes, I mean well, yes, who are we going to do that?
+Okay, yes
+Think that's important
+So and then we will close this meeting and
+After this meeting we will
+Good
+um
+Maybe
+Why and I can you do you have a birthday? Yeah, you're gonna have
+We're not able to I can talk about it
+Maybe you can just talk about it or maybe you can use the whiteboard if necessary
+Well, I just been
+presented with some research we've done at a small focus group so a hundred people
+disaster them about their remote control usage habits and what they want in their remote control
+It's
+Probably can't email this to you. I've just got a webpage for some time right up
+basically it's saying that
+Users generally dislike the look and feel of their remote controls
+75 you 75 percent of users find most remote controls ugly
+um
+80 percent of users would spend more money when our remote control would look fancy
+Current remote controls do not match well the operating behavior of the user
+75 percent of users said there's Apple a lot so they use their remote control quite frequently while they're watching television
+50 percent of users say that they only use 10 percent of the buttons
+So they've got a remote control with a lot of functionality, but really most of the time that only use a small part of that
+um
+Do you do you have this information on the web page web pages?
+Yeah, it's maybe maybe you can set an email to me later
+Yeah
+So basically there's a breakdown of how much the different functions that are remote control
+power and volume selection
+are only used a few times within this
+that per hour
+channel selection is used
+160-8 times
+And then there's things like channel settings, audio settings, which are only used very frequently
+teletext is used
+14 times in the hour
+so it is used but not nearly as much as the channel selection is used
+um
+An interesting thing that this report has brought up is that
+um 50 50 percent of users report that the remote control gets lost a lot of the time in the room
+Yes, I have that too
+Some I have located in the remote control would be very useful to a lot of users
+34 percent so that it takes too long
+To learn to use the remote control that one thing is easier to use straight away more intuitive perhaps
+It's easy to learn
+34 percent said it took too much time to learn
+And 36 percent said remote controls are bad by RSI
+I don't know how we just go about commenting that what we will RSI or is it best to strain injury?
+I think that our do a doctor doctor says
+But it's the opinion of the
+Report says here
+And then it's got a demographic breakdown
+Maybe you kind of put this web page online on the
+I should be able to actually if I'm out to you now
+You can maybe just
+Okay, it's a web page on the scene. Yeah, it's a fight. Okay. Oh, otherwise. You yeah, you're gonna connect this one
+Okay
+So these are important numbers that Matthew and I need to take into account for
+It's probably easier if you put on yours now. I just didn't out to you. It is a web link
+Okay, yeah, these numbers are to me. I have to be decaying to account for the both
+Using the face. Yeah
+One thing it goes on to talk about which is interesting is the
+Because if there are many numbers and we need to select to to constraint
+I would design based on what is more important. Yeah
+One thing is interesting is talking about
+Speech recognition in a right control speech recognition and who would pay more for that and whether people would find it useful
+Do you have another song on that? Yes, I'll just
+So that we don't do we don't need any button
+Other words to be in our based on speech. I think even for interesting idea. Yeah, I think that would not work
+So are you and have both options? Okay?
+Well, it would be a solution for
+when you're
+Remote control is lost. I mean, but it's a determination
+Doesn't matter where it is. Well, it should be in rank
+Maybe it can respond to produce sounds so say where it is
+But these are all quite fancy future time. Not sure whether
+We will we can make this for for 12 euro of 15 cents
+No, you can we don't know where the state of the other speech recognition is maybe you know
+well
+It depends. You know like
+That is it's a very small vocabulary
+Like you want to say on
+But it's quite nosy you there is the TV
+Not going to be so easy, but
+I
+Usually it's going to be more of a nice
+Do you have some words?
+But I don't know
+To summarize maybe then this is now talking about who would pay this speech recognition in a right control who would pay more for it
+90% of the 15 to 25 year old market said that they would pay more it goes down from their 70's 6% for 25 to 35
+35% for 35 to 45
+22% for 45 to 55 and then
+Yeah, it really depends where we're going to be targeting this product
+This will be talking about better. I think yes
+Did you get the email?
+Yeah
+I
+So that's the thing that I was just talking about there a little different
+Another thing it's talking about there is the LCD screen, but there's no big as apparently on that
+Maybe
+Take your chair
+You can you can take my chair
+So I think as everybody knows I'm the
+Industrial designer
+And in this presentation this quick presentation
+Is going to focus on the working design of the remote control and I'd like first to give
+A simple introduction how does it work so that
+Everybody knows even if you don't have a very technical background
+Or is it I think in the product is important so basically
+The basic function of a company is to send
+messages to another system that is fixed
+And so energy source feeds an integrated secret the chip
+That can compose messages usually through infrared bits
+And the user interface controls the chip and accordingly the messages
+so my method for
+Designing the work design
+Yeah, first the main point is that I would wish to make a really functional product
+I would prefer to have very functional
+Capabilities whether then fancy stuff that in fact is not used and doesn't work
+so for that yeah as
+It's important to take into of the user requirements from the marketing
+expert
+and
+To we should agree on what I think the functions
+For this remote control and I'll show you the the working design so
+Basically
+Here is a really large view of
+what we want is
+On of button it can be
+It's simple, but it's it's important
+and also
+Any willing to boost channels
+As well as other buttons that come after right
+so
+The components I quickly draw here is that
+In this part you have the remote control
+the sender and
+Another part to receiver
+so that's
+my method is
+Will be to
+when I am able to
+Design the and choose the chips and the infrared
+components
+To build the remote control line
+so
+Of course, we need energy sources
+and other receiver
+a receiver
+This is a really quick
+Design I used up me or interrupt me
+You don't really come in that
+and
+So what I found and after a lot of work actually
+I draw this
+I draw for you this
+schema
+Can be maybe too technical for you, but it's really important for me
+You do it a long time
+Overwalk
+and
+It's so I won't go into details about that
+These are my preferences to use
+Kind of components
+And why do you want this kind of company?
+I mean are they cheap or are they
+reliable what
+or are you so
+The the main components you see here
+the cheapest I found and
+You have always a compromise with a readability and
+if it's expensive but
+You know, it's not this one also really reliable
+so
+Yeah, that's it for the working design
+I hope you'll get clear of you on
+What what a room would control is in terms of
+The game build components, but maybe yeah
+More clarity
+But is it
+Can you just buy it or market and
+Like it in or you want to know? No, no, no, we will
+This is a preference, but we can always change
+What are what we're thinking about the this schema about
+The chandelion receiver
+Yeah, then back to
+Yeah, the receiver is of course already in the television and
+We are not able to change it for those. You must adapt to
+The receiver. I suppose there is a standard way of communicating in communications
+Yeah, we will use
+infrared for the core
+using yeah infrared and
+Of course we need to add up to that protocol that already exists and but we what we can do is
+Adapting the chips inside
+Just the best chips and
+Infrared both
+Okay
+Okay, thank you
+The frequencies
+The frequencies yeah, of course you're in the chip
+But you should be careful people are something becoming
+forward like a guy has recently decided remote
+We could switch off any other TV. Yeah
+So basically through all the things so maybe you should think of
+We should
+Just the TV in the next time it's really. Yeah, so you can just go on the seat and then switch up everyone's TV and then get this one okay
+You don't have to be near the TV at all
+I think my will will consider this so that it makes me
+Maybe we can go to your presentation. Yes. Well, I should work for next year. Yes
+My
+Is
+So, I am going to talk a little bit about the technical functions or what actually it's
+about what is the user going to do from my latest product I want to come inside.
+So, what is the user is going to see from the outside and how it is going to be using.
+So, other thoughts with that basically the idea is to set the message to the TV set
+that might have considered it will be the current delivery and you see it is easier to have
+the keys or buttons with which people can press and changing a button will basically
+change the message which is being sent to the TV and basically it is also something
+that I have said that is if people are interested in things which are you do not need
+to press the keys people can have this piece of position that is the same question which
+will have to see it later but in the presence scenario is that you have certain keys
+and you can see it later or form and it sends message to the TV and so generally I do not have
+something else sorry but so there are two kinds of remote people hopefully in the household
+actually so you have a standard TV remote where you have faster on off but I meant that volume
+change and keys for number and more than one digit option and if you see for example
+right now even the one more than one digit option is for 2 digit can which is like
+99 but tomorrow you might have 150 channels you know to browse or prove a new channels
+to browse almost but when there is a this is a standard one without any fancy thing you
+know like you can tell about the type of thing you can without any it is a very simple
+thing which you can browse and then you have what the video remote bar which is like
+usually it has almost all the keys over there and but then it has other options like
+stuff and then you play the movie or for fast forward the movie or something like that so
+it has those so these are the standard common leaf found remote samples and market and
+then which is generally used by the people and then for personal preferences I would
+basically think of having a kind of aim for the next generation thing where we could
+have both the TV and the remote video remote control because some of the keys in the videos
+and control and the TV it could be integrated together so that we could aim for the
+like in this coming future type of application how would that work so I have got say
+maybe a VCR into separate see on my one home I have got a VCR in my which then changes
+the channel on the VCR and then drain the TV so it is going to be like a switch on the remote
+says the user TV or user VCR or does it know which one he or he is actually you could
+you could you could think of having to you can have a key which could can it could go
+to the video thing but you still can in the case when you do that the function should be
+able to take up the VCR option and you could play it or you can also think about having
+like in a few days you would be in few coming years you might even have a system where
+you have a separate sitting set up box and you have something like you don't you don't
+you suppose you have not over to watch some program and actually it downloading all the
+time for you and you can just you know when you come back you could just switch on that
+thing and watch the program in that case you want to browse faster you want to have those
+kind of personalities. This is a kind of next generation thing but it is going to come
+in probably as well. I think it is it is already there. I just record it so it is going
+to record your things and if you need basically the functionality is what you need is
+you as well as the standard TV. But I don't think we are trying to make a university
+right here. Not really. We are just looking at giving us an area I have a TV and tomorrow
+I am going to have a set up box and go to sit there and look at some for me. We need to do
+side on and how far we go to in this. We can go pretty far I think with functions and
+possible future. But it is good to keep in mind.
+Okay so that is my presentation. We can always discuss about it for example the
+reference video market. Actually this demand, video over demand and what we call it is
+it is presently booming up actually. So it is like people are providing things like movies,
+you can select actually. So you want to watch a movie and provide a list of movies and
+then you select those lists. And it basically you go out, you download the movie, it
+keeps for you. And then when you come you want to watch it on your TV.
+Even you don't need to download the string online. Yeah it can be streamed online for you.
+So I have received some points of thinking over of my account manager. I would like to share
+them with you. The first thing is a teletext. It is a well-known feature of delivery
+functions but it is getting used less and less. Especially because of the internet of course.
+So we should think about it. Do we include it? And do we give it a prominent place on the
+screen? Well, how do we remove multiple forms of all self? And it is not used. Well,
+very much but it is still used.
+So we must think, do we stay to the television now? The television has to be, we all know it with broadcasting
+signals and you can't go back or do we go further as Matthew indicated by supporting recording devices?
+So DVDs and VCRs? Indeed. Indeed. And the hardest we could. For more.
+We need to really need to interest your customers and then with your customers. I mean people below the age of 40.
+And our current customers are mainly 40 plus. Which to 40. So this is a market but they will grow all the
+order and all I need to have to the future with the older people. They are four.
+people like friendly, trendy designs. So we should make our city as friendly as possible but it should also be have a reliable image.
+So when it looks too spacey or too fancy people will think, well, does it work at all?
+Yeah, it is a very, you can borrow the ideas, how you want to keep the keys.
+You know, if you take it you have like, do you want to be like key separately?
+But suppose if you take there is a certain kind of mobile phones.
+There are like big, thick keys you close on the top. It takes one number. It is the bottom.
+It takes another number. And basically, so there is space covered so that you don't see two separate keys there actually.
+So it is like, it is like, maybe you can draw it on the board.
+I think taking the idea of getting inspiration from mobile phones is interesting. Especially for going after a younger market.
+The new and the banking thing. There is a lot of theory keeping my mobile phones not too many.
+And they are skilled by using them.
+So for example, you have a machine like one, two and a base, actually and you can have keys like in this form like.
+How much time will we look for the mating level?
+Because you have to let them gap them on to very important issue.
+So you can have a key like, which are like, so basically don't change the origin of them.
+But then the keys are more spacious. They don't look.
+So then there is a very nice thing.
+So if you press on the top, you make the one. It takes a three or four, sorry, four here or five or six.
+So the keys can be, it looks not very much cluttered. But it looks like, you don't have too many keys, but you can have our options.
+Okay, I think now that the idea is clear, we should now decide to decide on our target group.
+Which I think is quite tricky. Basically we are trying to get people to buy and write control.
+Wouldn't they already have very much control with the television when they buy one?
+Or they have already one. So how are we most of the ones to be better?
+It's not going to have more functionality than any low market as a cheap end or a control.
+We can't be among functionality. We might, we'll be able to beat them on the look of the design of it.
+But that's not a big salary. They're not going to just go and buy a new remote control.
+It just clearly looks pretty. They actually need it as well.
+So I'm not sure how we can get through the divide of the thing.
+Well, I think many people said in your research, the appearance of the RC is important when they're buying one.
+But why are they buying one the first place? Indeed.
+So that will be about functionality.
+But if people are buying a new remote control for functionality, they'll buy a universal remote.
+I've got friends who have got so many things. I need a universal remote.
+Otherwise they're using five different modes for their older things.
+In that case, they wouldn't buy a product because it doesn't give them what they need.
+It doesn't have a functionality.
+So you think we should go for it more universal?
+Well, we can't with the price range.
+We're not building a universal remote. We're not building a high end product.
+Yeah, we have.
+Yeah, 12.5 year olds for us at RC.
+And I think with this, you know, the chips are very cheap.
+And we can include it in our room for some new features.
+But yeah.
+If we're getting to the university remote territory,
+we're getting to LCD screens and things like that,
+which would drive the cost off a lot.
+I don't know whether that's necessary.
+I don't think the city is necessary.
+I think this could be a market because universal remote control tend to be quite expensive.
+And quite complicated.
+So we can try to go in between and offer a product,
+which is not as expensive and not as close as possible.
+Yeah, this is for maybe.
+Yeah.
+But still, but still, people have the idea that this is more functional than a normal universal RC,
+because it has for, if it's not kind of universal.
+Mm-hmm.
+But if we're going for, let's say, 15 to 25 age group,
+then not many of them would actually buy in TVs to either make a trial on.
+Yes, we're targeting, I think, more on the 20 to 40 group.
+Okay.
+So that people, you know, would just have,
+or already have to jump and have the money,
+but may not want to spend that much money on that.
+I don't know really what the price range of our controls is.
+Are we going to be at the very bottom of the price range,
+or are we kind of middle to bottom?
+I don't know.
+Well, I think, when we think over our thing,
+we are trying to offer the kind of universal control for less money.
+Yeah.
+So, do you agree?
+Well, it's fine with me.
+Like the place as long as it is not too expensive.
+Yeah, because we have to take into account
+that we are going to put a webinar cell for around 4 million.
+So, when we speak about these numbers,
+the price of a chip is,
+or the price of a chip is very cheap.
+So, I'm okay for designing less,
+a kind of universal answer.
+You think it's possible for the 12-year-old 50?
+Yeah.
+So, then we decide on going to reach more universal kind of control.
+Yeah, that's what we need, basically.
+Okay.
+That's needed right now.
+Yeah, that's needed.
+You can move to the standard.
+And therefore, to get the market.
+Yeah.
+So, I guess what I like from the Universal Remark is
+maybe choosing between three devices,
+which between them, and maybe stereo,
+basically, R and T, they.
+Exactly.
+And just use them often the same way,
+but all at the same time,
+you've got to go through all the standards, you know.
+Yeah, that limited standards for all of them,
+and you can just go through them.
+So, given we are going for this universal type,
+maybe it's good when you try to find out which components
+you definitely need.
+Yes.
+You will try to get more specific user interface
+content.
+And maybe you can look on what trends are in this type of market.
+Well, I know.
+So, anyone want to bring in or fill in?
+Well, I don't have anything left now.
+Well, that's really cool.
+And we're sure we'll come out something good.
+Yes.
+Yeah.
+We can have less now.
+So, yeah.
+So, we'll meet with the next meeting.
+We'll off-key on the left.
+We have 30 minutes of work,
+and then we'll have the next meeting.
+But you will be informed by the computer.
+Okay.
+Okay.
+Cool.
+Perfect.
+Okay.
+Yes, this one, the flag, here are my slides, yeah, the participant, three, check them out,
+yeah, in fact, good, can you hear them?
+Yes.
+Okay, I didn't get enough to do that, okay, I didn't get enough to do that, okay, I didn't get enough to do that.
+Yeah, I didn't get enough to do that.
+Yeah, I didn't get enough to do that.
+Because it's from the radius.
+That's good.
+And we're leaving clean between these.
+You have to save my A-95.
+It's probably a 72.
+Oh, yeah.
+This is compact.
+Yeah.
+Perfect.
+I'll just open it.
+Or just open it.
+Can you ask a question?
+Yes, yes, yes.
+Yes.
+You're off.
+And we made this time.
+So we are comfortable.
+Should I start off?
+Okay, I'll do all I'll do.
+All I will do is set on the edge.
+Right here.
+Good.
+Good.
+Good.
+Good.
+Good.
+Good.
+Good.
+Good.
+Good.
+Good.
+Okay.
+I'm going to go to the next item.
+I can't see what's going on.
+I can't see what's going on.
+I'm going to go to the next item.
+I'm going to go to the next item.
+Yes.
+Yes.
+It's good.
+So I think you'll find the body's here, okay?
+Yes.
+You can close me.
+Okay.
+What's the agenda for this meeting?
+The I will present the agenda with slides.
+Okay.
+Two.
+As you can see here.
+Perfect.
+So first, just to mention, I will pick notes of this meeting.
+And I'll try to work them out and get them to use.
+I've also made notes of the previous meeting.
+And I was about to send a meal.
+Then I had to go to this meeting.
+So you will get a tour.
+You are the secretary.
+Yes.
+Okay.
+Indeed.
+Then I helped you all have worked out.
+So some presentations about, well, the task given to you in the previous meeting.
+We will, in a minute, we will start with them.
+We will see which border will handle them off.
+We will bring in some new requirements.
+I got from the account manager.
+I tried to work them out.
+They work quite abstract.
+And we can have maybe have come from discussion about it.
+About the functions.
+Well, in this meeting, we should really try to reach a decision about the target group
+and the functionality of that.
+You mean the social target group?
+Yes.
+I mean the target.
+Yes.
+Who are we going to do that?
+Well, the customers.
+Okay, customers.
+Indeed.
+Yes.
+I think that's important.
+That's interesting here.
+So, and then we will close this meeting.
+And after this meeting, we will have a look.
+Good.
+Why?
+Anna, can you do you have a presentation?
+No, I don't.
+You're going to have a presentation.
+How is it?
+Mm-hmm.
+You want to table to do?
+I can talk about it by having the target.
+Yes, yes, maybe.
+Maybe you can just talk about it.
+Or maybe you can use the whiteboard if necessary.
+Well, I've just been presented with some research we've done at a small focus group.
+So, 100 people just ask them about their remote control usage habits
+and what they want in their remote control.
+It's probably can't email us to you.
+I've just got a web page for some time right up.
+Basically, it's saying that users generally dislike the look and feel
+of their remote controls.
+75% of users find most remote controls ugly.
+Mm-hmm.
+80% of users would spend more money when a remote control would look fancy.
+Mm-hmm.
+Current remote controls do not match well.
+The operating behavior of the user.
+Mm-hmm.
+75% of users said there's Appleock.
+So they use their remote control quite frequently while they're watching television.
+50% of users say that they only use 10% of the buttons.
+So they've got a remote control with a lot of functionality,
+but really most of the time they only use a small part of that.
+Mm-hmm.
+Do we have this information on the web page?
+I have a web page, yes.
+Maybe you can send an email to me later.
+Yep, sure.
+About this.
+Mm-hmm.
+So basically, there's a breakdown of how much the different functions
+that are remote control, power and volume selection are only used a few times within this
+that of power.
+Um, channel selection is used hundreds of days times.
+Um, and then there's things like channel settings, audio settings are only used very frequently.
+Um, teletext is used 14 times in the hour.
+So it is used but not nearly as much as the channel selection is used.
+Um, an interesting thing that this report has brought up is that, um,
+50% of users report that the remote control gets lost a lot of the time in the room.
+Yes, yes.
+So, um, I have that too.
+Some I have located in the remote control would be very useful to a lot of users.
+Um, 34% set of text too long to learn to use the remote control.
+They're what's not as easy to use straight away, more intuitive perhaps.
+Um, it's easy to run out when you say it.
+34% said it took too much time to learn.
+Okay.
+It's the worst time to learn.
+Okay.
+Um, and 36% said remote controls are bad for RSI.
+I don't know how we just go that.
+Don't comment on that.
+Will RSI or is it prepared to strain injury?
+Okay.
+Yeah.
+I think that or do a doctor, doctor says, but it's the opinion of the, yeah.
+Yeah.
+That's what report says here.
+Yeah.
+Um, and then it's got a demographic breakdown.
+Maybe you cannot put this webpage online on the, uh, I should be able to actually
+invite you out to you now.
+You can just connect with them.
+You can maybe just.
+All right.
+Yeah.
+Okay.
+It's a webpage and see.
+Yeah.
+It's a fire.
+Okay.
+Otherwise you, yeah.
+You can connect this one.
+Yeah.
+All right.
+All right.
+So these are our important numbers that Matthew and I need to take into account for.
+Yeah.
+It's probably easier if you put on yours and now I just came out to you.
+Mm hmm.
+This is a web link.
+Okay.
+Yeah.
+These numbers have to be, have to be taken into account for the, uh, both user interface.
+Yeah.
+For sure.
+I'm designed.
+One thing it goes on to talk about, which is interesting is the, because there are many
+numbers and we need to select to, to constraint, uh, our design based on what is more
+important.
+Yeah.
+One thing is interesting is talking about, um, speech recognition in a right control.
+Speech recognition.
+And who would pay more for that and whether people would make it useful.
+Did you have a number of thought on that?
+Yes.
+I'll just get this back.
+So that we don't, that we don't need any button.
+Oh, yeah.
+To be in forward based on speech.
+Okay.
+I think even for.
+Yeah.
+Yeah.
+I think that would not work so well.
+You wouldn't have both options.
+Okay.
+Okay.
+Well, it would, it would be a solution for, for your, for a month control is lost.
+I mean, you might have touched feature information then.
+Uh, it doesn't matter where it is.
+Well, it should be in range.
+Hmm.
+Maybe it can respond to produce sounds.
+So say where it is.
+Yeah.
+But these are all quite fancy future time.
+Not sure whether.
+Go ahead.
+We will, we can make this for, for, of Europe.
+Yeah.
+50 cents.
+No.
+And we don't know where the state of the other speech recognition is.
+Maybe you know.
+Oh.
+Well, it depends.
+You know, like, there is a, it's a very small vocabulary.
+And you want to do that.
+You want to say on or off.
+One.
+But it's quite noisy.
+There is the TV.
+Yeah.
+Yeah.
+And it's not going to be, it's so easy.
+But usually it's going to be more of an isolated.
+But I don't know.
+But I don't know.
+So I'm going to get to summarize me.
+Yeah.
+This is now talking about, um, who would pay the speech recognition in our right control.
+Who would pay more for it?
+Um, 90% of the 15 to 25 year old market said that they would pay more.
+It goes down from the 70, 60, for 25 to 35, 35, 35 to 45, 22% for 45 to 55.
+Yeah.
+Yeah.
+Yeah.
+It really depends where we're going to be targeting this product.
+Um, which we will be talking about.
+I don't think.
+Yes.
+We will talk about it.
+How do you?
+Did you get the email?
+Yeah.
+No.
+Just follow that.
+Okay.
+Yeah.
+Yeah.
+No.
+Just follow that.
+Okay.
+That's good.
+Good.
+Yeah.
+Yeah.
+That's good.
+Yeah.
+Oh.
+Yeah.
+Okay.
+Perfect.
+Um, so that's the thing that I was just talking about there.
+A little different.
+Yeah.
+Perfect.
+And the other thing that's talking about there is the LCD screen.
+That doesn't know if they didn't have any on that.
+Okay.
+Okay.
+Okay.
+Um, maybe mild.
+Can you give, uh, yeah, your presentation.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Yes.
+So we can, uh, maybe take your chair.
+Yes.
+You can, you can take my chair.
+Okay.
+Thank you.
+Okay.
+Thank you.
+Thank you.
+Okay.
+So I think as everybody knows, uh, I'm the, uh, industrial designer.
+In this presentation, this quick presentation is going to focus on the working design of the remote control.
+And I'd like first to give a simple introduction on how does it work so that everybody knows, even if you don't have a very technical background,
+which is it, I think, in the product is important.
+So, basically, the basic function of remote control is to send messages to another system that is fixed.
+So, on an edge source, it's an integrated circuit, the chip that can compose messages, usually through infrared bits.
+And the user interface controls the chip and according the messages.
+So, my method for designing the remote design, yeah.
+First, the main point is that I would wish to make a really functional product.
+I would prefer to have very functional capabilities, whether then fancy stuff that in fact is not used and doesn't work.
+So, for that, yeah, it's important to take into account the user requirements from the marketing expert, Anna.
+And we should do what are the things the functions for this remote control.
+And I'll show you the working design.
+So, basically, here is a large view of what we want.
+On the bottom, it can be simple, but it's important.
+And also, any willing to browse channels as well as other buttons that come after.
+So, the components I quickly draw here is that in this part, you have the remote control center.
+And another part to receiver.
+So, that's, my method is, will be to, when I am, will be to design the and choose the chips and the infrared components to build the remote control right.
+So, of course, we need energy sources and other receiver or receiver.
+This is a really quick design.
+I used up Mio into with Mio, you know, really fun.
+And so, what I found after a lot of work, actually, I draw this.
+I draw for you this schema that can be maybe too technical for you, but it's really important for me, you know.
+You go a long time now.
+Oh, well.
+And I won't go into details about that, but these are my preferences to use the kind of components.
+And why do you want this kind of component?
+I mean, are they cheap or are they reliable?
+What were your?
+So, the main components you see here are the cheapest I found.
+And you have always a compromise with readability and if you're expensive.
+But, you know, this one also really, really, really.
+So, yeah, that's it for the working design.
+I hope you'll get a clear view on what the remote control is in terms of technical components.
+But maybe, yeah.
+Smaller now I think.
+But is it cutting just by it or the market or like it in or you want to know?
+I don't know.
+This is a preference, but we can always change.
+What I was thinking about is the schema about the standard receiver.
+Can you get back to it?
+Yes.
+The receiver is, of course, already in the television and we are not able to change it.
+So, we must adapt to the receiver.
+I suppose there is a standard way of communicating control efficiency.
+Yeah, we will use infrared protocol using infrared.
+And, of course, we need to add up to that protocol that already exists.
+But what we can do is adapting the chips inside to the best chips on infrared bolts.
+Okay.
+Thank you.
+It's just going to have to change the frequencies.
+The frequencies?
+Yeah.
+Of course, you're in the chip.
+But you should be careful if there is something that can be followed.
+Like a guy has recently defined a remote, which shoots off any other TVs.
+Yeah.
+So, basically, it goes through all the things.
+So, maybe you should think of...
+Of course, yeah, we should think of each other.
+Just the TV in the next time it's really loud.
+So, you can just turn on the seat and then switch off everyone's TV and you can just
+You don't have to be near the TV at all.
+I feel...
+I think my will will consider this thing to me.
+Maybe we can go to your presentation.
+Yes.
+Well, I think we will refer next to it.
+Yes.
+Okay.
+Okay.
+So, I think that it was my...
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+So, yeah.
+Okay.
+Okay.
+So...
+Hmm.
+Okay.
+Hmm.
+Okay.
+Yeah.
+Oh, yeah.
+Okay.
+Yeah.
+Okay.
+Thank you.
+Do you remember it?
+Okay.
+Yes.
+Okay.
+Yeah.
+I know where it is.
+Anytime that I stop, it's...
+Okay.
+It's been a long time...
+Okay.
+Okay.
+Okay, okay.
+So, I am going to talk a little bit about the technical function. So, what actually it is
+about what is the user going to do? I have found my last product I have bought it on
+the inside. So, what is the user is going to see from the outside and how it is going
+to be really. So, as I have thought, it is that basically the idea is to set the message
+message to the TV set as a matter of fact, then it will be the product of TV. And
+the usage it is easier to have keys or buttons with which people can press and then changing
+a button will basically change the message which will be sent to the TV. And basically
+it is something that I think that I am looking for. So, as Anna has said that this
+people are interested in things which are you do not need to press the keys. People
+can have a specific reason, but it is a question which we have to say later. But in the
+presence scenario is that you have certain keys and it will say later or form. And it
+sends message to the TV. And so, generally I do not have something here. So, there are
+two kinds of remotes which is popularly in the household. Actually, so, you have a standard
+TV remote where you have just a on-off, but I meant that volume change and key is full
+number and more than one digit option. And if you see for example right now, even
+the one, more than one digit option is for two digits, which is like 99. But tomorrow
+you might have 150 channels, you know, two rows or two from the 10 or two rows. But then
+there is a standard one without any fancy thing. You know, like, it does not have a
+thing without any. It is a very simple thing which you can browse. And then you have a
+what the video remote file which is like, usually it has almost all the keys over there
+and but it then it has a reference like store and then you play the movie or for first
+or the movie or something like that. So, it has this. So, these are the standard common
+me found remote controls and market. And then it is generally used by the people. And then
+personal preferences I would basically think of having a kind of a information thing where
+we could have both the TV and remote video remote control. Because some of the keys in the
+videos remote control and the TV it could be integrated together so that we could aim
+for the like in the coming future type of application.
+How would that work? So, you have maybe a VCR into separate. See, on my one home, I have
+got a VCR in my which then changes the channel on the VCR and then drain the TV. So,
+is there going to be like a switch on the remote that says the user TV or user VCR or
+does it know which one you want to use?
+Actually, you could think of having, you can have a key which could go to the video
+but you still in the case when you use it the function should be able to take up the VCR
+option and you could play it or you can also think about having like in the few days
+you would be in the few coming years you might even have a system where you have a separate
+sitting set up box and you have something like you suppose you are not able to watch
+some program and actually it downloading all the time for you and you can just you know
+when you come back you can just switch on that thing and watch the program in that case
+you want to browse faster, browse slow, you want to have those kind of personalities.
+These are kind of next generation of things but it is going to come in a couple of years
+I think it is already there and I just record it so it is going to record your things
+and you need basically the functionalities what you need about the visual as well as the standard TV
+but I don't think we are trying to make a universal room right here.
+We are just looking at giving a scenario I have a TV and tomorrow I am going to have set
+up box with the sitter and look at some for me.
+We need to do side on how far we go to in this.
+You can go pretty far I think with functions and possible future.
+So it is good to keep in mind.
+So that is my presentation.
+So we can always discuss about it.
+For example, the video market actually this demand video or demand of what we call it is
+is presently booming up actually.
+So it is like people are providing like these things like movies, you can select actually.
+So you want to watch a movie and provide a list of movies and then you select those lists.
+And it basically you go out, you download the movie, it gives you and then when you come you want to watch it on your TV.
+Or even you don't need to download this stream online.
+So I have received some points of thinking over of my account manager and I would like to share them with you.
+The first thing is teletext is a well-known feature of television but it is getting youth less and less.
+That is especially because of the internet of course.
+So we should think about it.
+Do we include it and do we give it a prominent place on the road?
+On the remote mode before itself.
+As an indicator it is not used.
+Well, very much but it is still used.
+Earlier we must think do we stay to television now?
+And only the television as we all know it with broadcasting signals and you can't go back.
+Or do we go further as Matthew indicated by supporting recording devices?
+Indeed, indeed.
+And the hardest record is for the more.
+We need to really need to interest the younger customers and then with your customers I mean people below the age of 40.
+And our current customers are mainly 40 plus.
+Which is 40.
+So it is a market but they will grow all the water older and all I need to have the future with the younger people.
+They are four.
+The younger people like friendly designs.
+So we should make our students possible but it should also have a reliable image.
+So when it looks too spicy or too fancy people think well does it work at all?
+Well, you can borrow the ideas how you want to keep the keys.
+If you take it you have like G.
+You want to like key separately.
+But suppose if you take the present trend of mobile phones there are like big thick keys.
+You press on the top it takes one number.
+You press on the bottom you take another number.
+So there is space covered.
+So you don't see close-up with keys there actually.
+So it is like maybe you can draw it on the board.
+I think taking the idea of getting inspiration from mobile phones is interesting.
+Especially for going after a younger market.
+The new and the funky things.
+Yeah.
+There are lots of very key mobile phones not too many pretty rare controls.
+And they are skilled by using it.
+So five times those.
+Okay.
+Okay.
+Okay.
+Thanks.
+Thank you.
+So for example you have a keys like one.
+You can have keys like this phone right.
+Okay.
+You can have keys like this phone right.
+Okay.
+You can like that.
+How much time will you do that for the amazing amount?
+Because it does like you can look at it on.
+So you can have a keys like which are like.
+So basically don't change the quality of order.
+But then the keys are more spacious.
+They don't look.
+So there is a very nice thing.
+So if you press on the top you can take the one.
+You take the three.
+Or four.
+Four.
+Four here.
+Five and six.
+So the keys can be.
+It looks you know not very much cluttered.
+But it looks like you don't have too many keys.
+But you can have our options.
+Okay.
+I think now that the idea is clear.
+Yeah.
+We should now try to decide on our target group.
+Yeah.
+Which I think is quite true.
+Basically we're trying to get people to buy our remote control.
+Wouldn't they already have our remote control with the television
+when they're buying?
+Well, they have already one.
+So how are we most of the lives to be better?
+It's not going to have more functionality.
+It's only low market as a cheap end or a control.
+We can't be at more functionality.
+We might, we'll be able to beat them on the look of it to the
+designer.
+But that's not a big salary.
+They're not going to just go and buy a new remote control.
+Just cool.
+It looks pretty.
+That's actually made it as well.
+So I'm not sure how we can get them to buy the same.
+Well, I think many people set in your research.
+The appearance of the RC is important when they're buying one.
+Yeah.
+But why they're buying one the best place?
+Indeed.
+So that will be about some snealousy.
+But if people are buying a new remote control for functionality,
+they'll buy a universal remote.
+I've got friends who've got so many things.
+I need a universal remote otherwise they're using five different
+remote level of things.
+In that case, they wouldn't buy a product because it doesn't give
+them what they need to have the functionality.
+So you think we should go for a more universal...
+Well, we can't do the price range.
+We're not building a US remote.
+We're not building a high end product.
+I do think.
+I love it.
+Yeah.
+We have, yeah, 12.5 euros for us, RC.
+And I think with this...
+Now, you know that chips are very cheap.
+And we can include it.
+I know we're going through some new features.
+Yeah.
+But yeah.
+So we're getting to university remote territory.
+Are we getting to LCD screens and things like that,
+which would drive the cost off a lot?
+I don't know.
+I don't know whether that's necessary.
+I don't think the city is not necessary.
+Yeah.
+I think this could be a market because universal remote
+controls tend to be quite expensive.
+And quite complicated to use.
+So we can try to go in between and offer a product,
+which is not as expensive and not as...
+Not as expensive or maybe.
+Yeah.
+But still, but still, people have the idea.
+This is more functional than a normal universal RC,
+because it has four...
+It is not quite universal.
+Mm-hmm.
+Obviously.
+But if we're going through that, say, 15 to 25,
+I integrate them, not many of them.
+We're actually on TVs, too.
+Either you're making sure I'm on.
+Yes.
+But we're targeting, I think, more on the 20 to 40 group.
+Okay.
+So that...
+People in...
+Yes.
+We just have...
+Or already have a job and have the money,
+but...
+Mm-hmm.
+But...
+May not want to spend that much money on that money.
+Yeah.
+Yeah.
+I don't know really what the price-train term I controls is.
+Are we going to be at the very bottom of the price range,
+or are we kind of middle to bottom?
+I don't know.
+I don't know.
+Well...
+I think...
+When we think over our thing, I think we are trying to offer the kind of universal control for less money.
+Yeah.
+So...
+Do you agree?
+Well, I find it really like the place as long as it is not cool at spending.
+Yeah, because we have to take into account that we're going to...
+We're going to...
+We're going to sell four...
+Around four million.
+So when we speak about these numbers,
+the price of a chip is...
+A price of a chip is very cheap.
+So...
+I'm okay for...
+I'm signing...
+Less...
+Yeah.
+A kind of universal answer.
+Do you think it's possible for a 12-year-old 50?
+Yeah.
+Okay.
+So...
+Then...
+We decide on going to this more universal kind of control.
+Yeah.
+That's what we need, basically.
+Okay.
+Yeah, that's needed right now.
+Yeah, that's needed.
+You can look through the standard.
+I think we're going to get the market.
+Yeah.
+Yeah.
+So I guess what I like from a universal remote is maybe choosing between three devices.
+Yeah.
+Between them.
+I know it'd be stereo.
+VCR and TV.
+Exactly.
+And just use them often the same.
+But at the same time.
+Yeah.
+You're not allowed to allow the standards, you know.
+Yeah, they're limited standards for a lot of them.
+And you can just go through them.
+Yeah.
+So given we are going for this universal type, maybe it's good when you try to find out
+which components you definitely need.
+Yes.
+You will try to get more specific user interface content.
+And maybe you can look on what trends are in this.
+Yeah.
+Can you start from the market?
+Well, so anyone has a point to bring in or fill it?
+Well, I don't have anything right now.
+Oh, that's true.
+I'm sure we'll come up something good.
+Yeah.
+Yeah.
+We're going to have a list now.
+Yeah.
+Yeah.
+Yeah.
+With the next meeting, we'll often see what we have pretty
+minutes of work.
+And then we'll have the next meeting.
+But you will be informed by your computer.
+Okay.
+Okay.
+Cool.
+Okay.
+Perfect.
