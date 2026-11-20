@@ -1,0 +1,3 @@
+The purpose of this meeting was to discuss the functional design of the product, i.e.  user requirements, technical functions and the working design.
+My role, again, was to make sure that we adhered to the meeting's agenda and time frame.
+I also had to bring new requirements to the attention of the team and ensure that by the end of the meeting, we had decided on our target group and the functions of the remote control.

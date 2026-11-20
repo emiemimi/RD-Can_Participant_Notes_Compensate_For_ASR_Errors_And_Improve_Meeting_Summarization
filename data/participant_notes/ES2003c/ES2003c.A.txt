@@ -1,0 +1,1 @@
+This meeting laid out the look, feel, layout and function of the remote, going from the general principles from the previous meeting to being ready to now start on a prototype.

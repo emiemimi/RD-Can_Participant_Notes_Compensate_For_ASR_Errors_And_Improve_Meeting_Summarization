@@ -1,0 +1,6 @@
+Functional design meeting.
+We discussed user requierements, technical requierements and user interface design issues.
+And the we took descision on remote control functions.
+The users find current remote control ugly, very complex and use only few of all the buttons.
+Also they want a remote control that is easy to find and fit well in hand.
+The decisions taken address those issues (see bellow).

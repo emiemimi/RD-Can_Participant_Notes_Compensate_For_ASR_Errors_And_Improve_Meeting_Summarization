@@ -20,7 +20,7 @@ def fetch_transcript_lines(dir, name):
 
 if __name__ == "__main__":
 
-    path = "../whisper_transcriptions/noisy/"
+    path = "../data/whisper_transcriptions/noisy/"
     meeting_ids = os.listdir(path)
 
     transcriptions_dir = os.path.join(path, "full_transcriptions")

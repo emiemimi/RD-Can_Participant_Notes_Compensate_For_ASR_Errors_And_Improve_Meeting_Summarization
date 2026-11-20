@@ -1,0 +1,2 @@
+Discussed the overall design and look and feel of the remote control.
+Gather core principles to base implementation choices on.

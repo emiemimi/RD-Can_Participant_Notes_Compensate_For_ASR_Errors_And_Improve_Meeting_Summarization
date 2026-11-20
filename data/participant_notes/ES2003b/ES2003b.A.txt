@@ -1,0 +1,2 @@
+This meeting fleshed out our exact design goals for this project, stating precisely what controls and functions are to be incorporated into the final design.
+We also considered the market for the device.

@@ -1,0 +1,3 @@
+Functions to be included were decided to be +/- channel and volume, power (standby) and the usual numerical keypad to skip between channels.
+It was decided to include an extra drawer, not directly accessible, to hold any extra funcitons we decide to unclude that wouldn't be part of the basics.
+Command groupings were decided: Audio (eg mute, surround sound), Video (eg colour, contrast) and Device (eg Standby, channel +/-)

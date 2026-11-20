@@ -7,7 +7,7 @@ for each transcription: removes speaker tags, segments into sentences and writes
 from datasets import load_dataset, concatenate_datasets
 import os
 import re
-import nltk
+from nltk import sent_tokenize
 
 
 def get_data_as_df():
@@ -23,7 +23,7 @@ def remove_speaker_tags(text):
     return re.sub(r"<[A-Z]{2}>\s", "", text)
 
 def segment_into_sentences(text):
-    return nltk.sent_tokenize(text)
+    return sent_tokenize(text)
 
 def print_to_file(id, lines, path):
     file = os.path.join(path, id + ".txt")
@@ -34,7 +34,7 @@ def print_to_file(id, lines, path):
 
 if __name__ == "__main__":
 
-    output_dir = "../downloads/clean_transcriptions"
+    output_dir = "../data/clean_transcriptions"
     if not os.path.exists(output_dir):
         os.mkdir(output_dir)
 

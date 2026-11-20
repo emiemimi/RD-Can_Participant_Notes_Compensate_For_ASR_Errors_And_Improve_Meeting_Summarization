@@ -1,5 +1,6 @@
 .idea
 .DS_Store
+.venv
 
 docs/notes/*
 !docs/notes/clean_notes.md
@@ -17,7 +18,7 @@ downloads/ami_public_manual_1.6.2
 literature/
 out/
 
-whisper_transcriptions/noisy/*
-!whisper_transcriptions/noisy/full_transcriptions
-!whisper_transcriptions/noisy/full_transcriptions/**
-whisper_transcriptions/test
+data/whisper_transcriptions/noisy/*
+!data/whisper_transcriptions/noisy/full_transcriptions
+!data/whisper_transcriptions/noisy/full_transcriptions/**
+data/whisper_transcriptions/test

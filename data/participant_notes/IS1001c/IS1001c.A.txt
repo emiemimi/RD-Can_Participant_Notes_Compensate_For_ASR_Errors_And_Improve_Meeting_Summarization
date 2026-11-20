@@ -1,0 +1,6 @@
+This was a conceptual design meeting in the framework of the remote control project.
+Industrial Designer presented conceptual specification of components, properties and materials
+  and User Interface Designer presented conceptual specification of user interface.
+Marketing expert.
+Gave an overview of the current trends.
+Decisions were taken jointly according to the presentations (see bellow).
