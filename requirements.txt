@@ -2,3 +2,4 @@ wget
 openai-whisper
 nltk
 datasets
+werpy

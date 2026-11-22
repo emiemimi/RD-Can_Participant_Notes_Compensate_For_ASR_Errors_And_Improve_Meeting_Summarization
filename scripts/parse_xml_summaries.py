@@ -20,7 +20,7 @@ def print_to_file(id, lines, path):
 if __name__ == "__main__":
 
     input_dir = "../downloads/ami_public_manual_1.6.2/abstractive"
-    output_dir = "../data/clean_transcriptions"
+    output_dir = "../data/gold_summaries"
     if not os.path.exists(output_dir):
         os.mkdir(output_dir)
 
