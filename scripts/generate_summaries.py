@@ -56,23 +56,25 @@ def make_summary(file_name, path, transcript_path, notes_path=None):
     transcript = get_text(transcript_path)
     if notes_path is not None:
         note = get_text(notes_path)
-        summary = call_llm(transcript, note)
+        if len(note) >= 1:
+            summary = call_llm(transcript, note)
+            write_file(path, summary)
     else:
         summary = call_llm(transcript)
-    write_file(path, summary)
+        write_file(path, summary)
 
 
 if __name__ == "__main__":
     if not os.path.exists(OUTPUT_DIR):
         os.mkdir(OUTPUT_DIR)
 
-    test = 1
+    """test = 1"""
     for id in ID_LIST:
-
+        """
         if test <= 0:
             break
         test -= 1
-
+        """
         notes_sub_dir = os.path.join(NOTES_DIR, id)
         has_notes = os.path.exists(notes_sub_dir)
 
