@@ -3,3 +3,4 @@ openai-whisper
 nltk
 datasets
 werpy
+ollama
